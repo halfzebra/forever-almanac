@@ -1,0 +1,72 @@
+{
+  "kind": "plain",
+  "sources": [
+    "classicwowforever-priest-weapons"
+  ],
+  "columns": [
+    {
+      "label": "Level",
+      "field": "lvl",
+      "class": "num"
+    },
+    {
+      "label": "Item",
+      "field": "item",
+      "class": "item"
+    },
+    {
+      "label": "What it gives",
+      "field": "gives",
+      "class": "mats"
+    },
+    {
+      "label": "Where",
+      "field": "where",
+      "class": "mats"
+    }
+  ],
+  "rows": [
+    {
+      "lvl": "22",
+      "item": "Staff of Westfall",
+      "gives": "+16 spell power, +48 healing",
+      "where": "<b>The Defias Brotherhood</b>, The Deadmines"
+    },
+    {
+      "lvl": "22&ndash;30",
+      "item": "Odo's Ley Staff",
+      "gives": "+17 spell power, +52 healing, +12 Spirit, +5 Stamina",
+      "where": "Odo the Blindwatcher, Shadowfang Keep"
+    },
+    {
+      "lvl": "24&ndash;32",
+      "item": "Rod of the Sleepwalker",
+      "gives": "+32 spell power",
+      "where": "Twilight Lord Kelris, Blackfathom Deeps &mdash; same dungeon as your wand"
+    },
+    {
+      "lvl": "31",
+      "item": "Healer's Staff",
+      "gives": "+22 spell power, +67 healing, +12 Stamina, +5 MP5",
+      "where": "<b>Prehistoric Prism</b>, Excavation Site: Wetlands"
+    },
+    {
+      "lvl": "34",
+      "item": "Fallen Dragon's Scepter",
+      "gives": "+36 spell power",
+      "where": "<b>Stopping the Cycle</b> (elite), Wetlands &mdash; bring the warrior"
+    },
+    {
+      "lvl": "36&ndash;55",
+      "item": "Mordresh's Lifeless Skull",
+      "gives": "+16 Shadow spell power, +5 Spirit",
+      "where": "Mordresh Fire Eye, Razorfen Downs. Timesaver says this off-hand lasts you from 40 all the way to 55."
+    },
+    {
+      "lvl": "45",
+      "item": "Galgann's Firehammer",
+      "gives": "+70 spell power",
+      "where": "Galgann Firehammer, Uldaman"
+    }
+  ]
+}

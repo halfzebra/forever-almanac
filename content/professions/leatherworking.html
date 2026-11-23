@@ -1,0 +1,95 @@
+<script type="application/json" id="meta">
+{
+  "title": "Leatherworking, 1 to 300",
+  "short": "Leatherworking",
+  "token": "leatherworking",
+  "lede": "Paired with Skinning it costs almost nothing but travel. It also makes the Camp Tent at skill 20, which is the most useful thing anyone in a levelling group can hand out.",
+  "sources": ["wowhead-leatherworking", "zockify-leatherworking", "wow-professions-leatherworking"],
+  "confidence": {
+    "solid": ["The 1&ndash;225 route, and that Leatherworking keeps its specializations where Tailoring has none confirmed."],
+    "check": ["Which specialization trainer is reachable at 225, and what the quest actually asks for."],
+    "provisional": [
+      "Everything above 225.",
+      "The camp object tier skill levels of 140 and 300, from a beta build dated 9 October.",
+      "Zockify says of the specialization steps that they are untested."
+    ]
+  }
+}
+</script>
+
+<section>
+    <div class="section-head">
+      <h2>Why this pair costs almost nothing</h2>
+      <p>One guide prices the full 1&ndash;300 leatherworking route at about 233 gold if you buy every hide off the auction house, or about 19 gold if you skin it yourself. You're the skinner, so you're on the cheap side of a 200-gold gap.</p>
+    </div>
+    <div class="loop">
+      <div class="loop-step" data-token="skinning"><strong>Skin what you kill</strong><span>A rogue kills constantly while leveling. Carry the knife and skin everything skinnable on the way past.</span></div>
+      <div class="loop-step" data-token="skinning"><strong>Skinning levels itself</strong><span>No crafting step, no vendor mats. The only thing that holds it back is your skill being too low for the creature.</span></div>
+      <div class="loop-step" data-token="leatherworking"><strong>Turn leather into armor kits</strong><span>Armor Kits are the cheapest skill-ups in the profession and a genuine item: they add armor to your gear.</span></div>
+      <div class="loop-step" data-token="leatherworking"><strong>Wear the rest</strong><span>Unlike the priest's tailoring, most of what you craft is leather you can actually equip.</span></div>
+    </div>
+  </section>
+
+<section>
+    <div class="section-head">
+      <h2>What to do with the junk you craft</h2>
+      <p>Armor Kits aside, a lot of the route makes gear nobody wants. Forever gives it two sinks, and leatherworking is unusually well served by both.</p>
+    </div>
+    <dl class="picks">
+      <div><dt>crates</dt><dd><b>Cured hides beat raw leather.</b> <span>A Journeyman Fabrics crate takes 2 Cured Medium Hide and pays 20 Merchant's Favor; a Journeyman Textiles crate takes 20 Medium Leather and pays 10. Curing hides is a cheap trainer recipe, so cure them before you crate them. Apprentice wants 2 Cured Light Hide, Expert 2 Cured Heavy Hide, Artisan 2 Cured Thick Hide. Turn in to Marcy Baker at Three Corners, western Redridge Mountains, around <span class="mono">9.7, 70.9</span>.</span></dd></div>
+      <div><dt>writs</dt><dd><b>Leatherworking has 29 writs, the second most of any profession.</b> <span>Each drops as a sealed envelope from mobs or chests and asks for one named crafted item, which you bring to a customer marked on your map. 75 reputation at Journeyman, 125 at Expert, 200 at Artisan, plus a coin pouch. Each distinct writ once a day, and the item can't be sitting in your bank when you hand it in.</span></dd></div>
+      <div><dt>the rest</dt><dd><b>Vendor it.</b> <span>You have no enchanter on this character, so there is no disenchant option here. Send genuinely useful greens to the priest instead: she can disenchant them and the dust feeds her enchanting.</span></dd></div>
+    </dl>
+  </section>
+
+<section>
+  <div class="section-head">
+    <h2>Trainers, and how little you have to travel</h2>
+  </div>
+  <x-trainers src="trainers/leatherworking"></x-trainers>
+</section>
+
+<section>
+    <div class="section-head">
+      <h2>Leatherworking, 1 to 300</h2>
+      <p>Materials are per craft. Patterns are from your trainer unless noted; the later ones are auction-house pickups, so watch for them early.</p>
+    </div>
+    <x-table src="routes/leatherworking" id="lwroute"></x-table>
+    <div class="note">
+      <strong>A second guide disagrees with this whole route.</strong> It runs Dark Leather and Hillman's gear through the middle, then Wicked Leather Gauntlets and Runic Leather Headband from 235 to 300 instead of the Blue Suede and Frostsaber line. Both are one site's opinion and neither has been verified on live. The parts you can rely on are the Armor Kit steps, which are trainer-taught, cheap, and useful items in their own right. The Runecloth in Runic Leather Bracers is your priest's department &mdash; have her save you some.
+    </div>
+  </section>
+
+<section>
+    <div class="section-head">
+      <h2>Specializations at 225</h2>
+      <p>Leatherworking keeps the three branches. Dragonscale makes mail, so it's for the hunter or shaman you don't have; the other two make leather.</p>
+    </div>
+    <div class="cols">
+      <div class="card" data-token="leatherworking">
+        <h3>Tribal &mdash; the rogue-shaped one</h3>
+        <div class="npc"><span class="where">Long chain: start with Pratt McGrubben in Feralas, complete the five <b>Wild Leather</b> quests, turn in <b>Master of the Wild Leather</b> to Telonis in Darnassus, then finish with Caryssia Moonhunter in Feralas. Budget roughly 192 Thick Leather, 112 Turtle Scale, 7 Wildvine and 4 Cured Thick Hide.</span></div>
+      </div>
+      <div class="card" data-token="leatherworking">
+        <h3>Elemental</h3>
+        <div class="npc"><span class="where">Much shorter: bring 2 each of Heart of Fire, Globe of Water, Core of Earth and Breath of Wind to Sarah Tanner in Searing Gorge. Leather armor made with elemental materials.</span></div>
+      </div>
+    </div>
+    <div class="note">
+      <strong>This is the shakiest section on the page.</strong> The specialization steps come from one site that states plainly they are the Classic versions and have not been verified in Forever. The requirement is given as 225 skill and level 40; one guide listed level 400, which is obviously a typo but shows how thin the sourcing is. Check with Telonis before you farm 192 Thick Leather for a chain that may have changed.
+    </div>
+  </section>
+
+<section>
+  <div class="section-head">
+    <h2>Where you sit on the rank ladder</h2>
+  </div>
+  <x-table src="gates" id="gates"></x-table>
+</section>
+
+<section>
+  <div class="section-head">
+    <h2>How much of this to trust</h2>
+  </div>
+  <x-confidence></x-confidence>
+</section>

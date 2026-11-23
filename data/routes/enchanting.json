@@ -1,0 +1,191 @@
+{
+  "kind": "route",
+  "drive": {
+    "by": "skill",
+    "key": "enchanting",
+    "bound": "exclusive"
+  },
+  "sources": [
+    "wowhead-enchanting",
+    "zockify-enchanting",
+    "wow-professions-enchanting"
+  ],
+  "columns": [
+    {
+      "label": "Skill",
+      "field": "range",
+      "class": "num"
+    },
+    {
+      "label": "Make",
+      "field": "craft",
+      "class": "item"
+    },
+    {
+      "label": "Each one takes",
+      "field": "each",
+      "class": "mats"
+    },
+    {
+      "label": "Notes",
+      "field": "pattern",
+      "class": "mats"
+    }
+  ],
+  "note": "Materials are per craft. Rods are blacksmithing items - buy them before you need them. Two crafts marked <em>or</em> cover the same band: the sources offer them as alternatives, so take whichever your materials favour.",
+  "rows": [
+    {
+      "min": 1,
+      "max": 2,
+      "craft": "Runed Copper Rod",
+      "each": "1 Copper Rod, 1 Mote of Magic",
+      "pattern": "Both from the enchanting supply vendor",
+      "badge": "rod"
+    },
+    {
+      "min": 2,
+      "max": 20,
+      "craft": "Enchant Bracer &ndash; Inferior Stamina",
+      "each": "1 Mote of Magic",
+      "pattern": "Vendor reagent, no dust needed"
+    },
+    {
+      "min": 20,
+      "max": 85,
+      "craft": "Enchant Chest &ndash; Inferior Stamina",
+      "each": "1 Strange Dust",
+      "pattern": "One dust a point &mdash; the cheapest stretch in the profession"
+    },
+    {
+      "min": 85,
+      "max": 100,
+      "craft": "Enchant Bracer &ndash; Minor Stamina",
+      "each": "2 Strange Dust",
+      "pattern": "&mdash;"
+    },
+    {
+      "min": 100,
+      "max": 109,
+      "craft": "Enchant Cloak &ndash; Minor Protection",
+      "each": "2 Strange Dust",
+      "pattern": "&mdash;"
+    },
+    {
+      "min": 109,
+      "max": 110,
+      "craft": "Runed Silver Rod",
+      "each": "1 Silver Rod, 3 Strange Dust, 4 Lesser Magic Essence, 1 Shadowgem",
+      "pattern": "Silver Rod is blacksmith-made &mdash; buy it in advance",
+      "badge": "rod"
+    },
+    {
+      "min": 110,
+      "max": 130,
+      "craft": "Enchant Cloak &ndash; Minor Protection",
+      "each": "2 Strange Dust",
+      "pattern": "Carries you through the 125 Expert gate"
+    },
+    {
+      "min": 130,
+      "max": 150,
+      "craft": "Enchant Boots &ndash; Minor Stamina",
+      "each": "4 Strange Dust",
+      "pattern": "Cheap while Strange Dust is all you have"
+    },
+    {
+      "min": 130,
+      "max": 150,
+      "craft": "Enchant Bracer &ndash; Lesser Stamina",
+      "each": "1 Soul Dust",
+      "pattern": "Switch to this the second Soul Dust appears",
+      "alt": true
+    },
+    {
+      "min": 150,
+      "max": 151,
+      "craft": "Runed Golden Rod",
+      "each": "1 Golden Rod, 1 Iridescent Pearl, 1 Greater Astral Essence, 1 Soul Dust",
+      "pattern": "Golden Rod is blacksmith-made &mdash; buy it in advance",
+      "badge": "rod"
+    },
+    {
+      "min": 151,
+      "max": 165,
+      "craft": "Minor Mana Oil",
+      "each": "1 Soul Dust, 2 Maple Seed, 1 Leaded Vial",
+      "pattern": "Formula from Vaean, Darnassus"
+    },
+    {
+      "min": 165,
+      "max": 200,
+      "craft": "Enchant Boots &ndash; Lesser Agility",
+      "each": "1 Soul Dust",
+      "pattern": "Goes yellow at 180 but stays the cheapest option"
+    },
+    {
+      "min": 200,
+      "max": 201,
+      "craft": "Runed Truesilver Rod",
+      "each": "1 Truesilver Rod, 1 Black Pearl, 1 Greater Mystic Essence, 1 Vision Dust",
+      "pattern": "Buy the Truesilver Rod before you need it",
+      "badge": "rod"
+    },
+    {
+      "min": 201,
+      "max": 220,
+      "craft": "Lesser Wizard Oil",
+      "each": "1 Vision Dust, 2 Stranglethorn Seed, 1 Leaded Vial",
+      "pattern": "&mdash;"
+    },
+    {
+      "min": 220,
+      "max": 225,
+      "craft": "Enchant Cloak &ndash; Greater Defense",
+      "each": "1 Vision Dust",
+      "pattern": "Last five points before the Artisan wall"
+    },
+    {
+      "min": 225,
+      "max": 250,
+      "craft": "Enchant Gloves &ndash; Agility",
+      "each": "1 Vision Dust",
+      "pattern": "About 50 Vision Dust clears this stretch"
+    },
+    {
+      "min": 250,
+      "max": 270,
+      "craft": "Lesser Mana Oil",
+      "each": "1 Dream Dust, 1 Purple Lotus, 1 Crystal Vial",
+      "pattern": "Formula from Kania, Silithus &middot; level 40"
+    },
+    {
+      "min": 270,
+      "max": 275,
+      "craft": "Enchant Shield &ndash; Greater Stamina",
+      "each": "6 Dream Dust",
+      "pattern": "Formula from Mythrin'dir, Darnassus &middot; bind on pickup"
+    },
+    {
+      "min": 275,
+      "max": 295,
+      "craft": "Wizard Oil",
+      "each": "3 Illusion Dust, 2 Firebloom, 1 Crystal Vial",
+      "pattern": "Or keep shielding at 6 Dream Dust a point"
+    },
+    {
+      "min": 295,
+      "max": 299,
+      "craft": "Enchant Shield &ndash; Greater Stamina",
+      "each": "6 Dream Dust",
+      "pattern": "&mdash;"
+    },
+    {
+      "min": 299,
+      "max": 300,
+      "craft": "Runed Arcanite Rod",
+      "each": "1 Arcanite Rod, 1 Golden Pearl, 10 Illusion Dust, 4 Greater Eternal Essence, 4 Small Brilliant Shard, 2 Large Brilliant Shard",
+      "pattern": "Formula from Lorelae Wintersong, Nighthaven",
+      "badge": "rod"
+    }
+  ]
+}

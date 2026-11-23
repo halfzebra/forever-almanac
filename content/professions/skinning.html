@@ -1,0 +1,60 @@
+<script type="application/json" id="meta">
+{
+  "title": "Skinning, 1 to 300",
+  "short": "Skinning",
+  "token": "skinning",
+  "lede": "One rule governs the whole profession: the skill you need is the creature's level times five. Everything else is a question of where the right-level animals stand.",
+  "sources": ["zockify-skinning", "wow-professions-skinning"],
+  "confidence": {
+    "solid": ["Skill needed = creature level x 5. Every source agrees, and it is unchanged from Classic."],
+    "check": ["Whether Forever moved any of the level bands for the leather types."],
+    "provisional": [
+      "Wowhead publishes no skinning leveling guide at all, so this page rests on two sources rather than four.",
+      "The camp object tier skill levels of 140 and 300, from a beta build dated 9 October."
+    ]
+  }
+}
+</script>
+
+<section>
+    <div class="section-head">
+      <h2>The one rule that governs skinning</h2>
+      <p>Your skinning skill sets the highest creature level you can skin. Below skill 100 it's generous; above 100 it's exactly five times the creature's level, which means skill 300 is required for level 60 creatures.</p>
+    </div>
+    <x-table src="skinning/creature-levels"></x-table>
+    <div class="note">
+      <strong>So skin low, early.</strong> The failure mode is reaching a new zone and finding nothing there is skinnable. Clear the easy creatures in the zone you're leaving before you move on, because they give skill-ups you'll need to touch the next zone's animals at all. The formula here is published as a rule of thumb, not an exact table, and one source's own examples don't quite fit it &mdash; treat the numbers as close, not precise.
+    </div>
+  </section>
+
+<section>
+  <div class="section-head">
+    <h2>Trainers</h2>
+  </div>
+  <x-trainers src="trainers/skinning"></x-trainers>
+</section>
+
+<section>
+    <div class="section-head">
+      <h2>Where to skin, 1 to 300</h2>
+      <p>Alliance and Night Elf friendly, following the zones you'd quest through anyway. Skill-ups don't depend on the zone being hard, only on the creature being skinnable at your skill.</p>
+    </div>
+    <x-table src="routes/skinning" id="skroute"></x-table>
+    <div class="note">
+      <strong>Skinning gear stacks up.</strong> Keen Skinning Knife +3, Cartilage Shapers +4, Enchant Gloves &ndash; Skinning +5, or Advanced Skinning +10, which is new in Forever. That's up to 17 extra skill, which is the difference between skinning a zone and walking past it. Nobody publishes which enchanting skill Advanced Skinning needs &mdash; two sources guessed 250 and 270 and neither confirmed it, so have your priest check her trainer.
+    </div>
+  </section>
+
+<section>
+  <div class="section-head">
+    <h2>Where you sit on the rank ladder</h2>
+  </div>
+  <x-table src="gates" id="gates"></x-table>
+</section>
+
+<section>
+  <div class="section-head">
+    <h2>How much of this to trust</h2>
+  </div>
+  <x-confidence></x-confidence>
+</section>

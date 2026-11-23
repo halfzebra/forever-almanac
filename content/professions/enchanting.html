@@ -1,0 +1,65 @@
+<script type="application/json" id="meta">
+{
+  "title": "Enchanting, 1 to 300",
+  "short": "Enchanting",
+  "token": "enchanting",
+  "lede": "The cheapest profession to level if something else feeds it green items, and the one with a hard wall at the top: the Artisan trainer is inside a dungeon and the 230-250 formulas exist nowhere else.",
+  "sources": ["zockify-enchanting", "wowhead-enchanting", "wow-professions-enchanting"],
+  "confidence": {
+    "solid": [
+      "The 1&ndash;225 route, and the rod materials.",
+      "Annora being the only Artisan enchanter, and the clear-the-room spawn."
+    ],
+    "check": [
+      "Whether white items can be disenchanted. No Forever source states the restriction outright."
+    ],
+    "provisional": [
+      "The caster enchant skill levels (Shield&ndash;Spirit 200, Bracer&ndash;Spirit 185, Bracer&ndash;Intellect 230) - from a summarised section, unverified.",
+      "No DPS published for any Enchanting-crafted wand.",
+      "Exact Merchant's Favor vendors for the enchant recipes."
+    ]
+  }
+}
+</script>
+
+<section>
+  <div class="section-head">
+    <h2>Buy the rods before you need them</h2>
+    <p>Silver at 109, Golden at 150, Truesilver at 200. They are blacksmithing items, so if nobody in the group is a blacksmith they come off the auction house - and they are the one thing that will stop the route dead.</p>
+  </div>
+  <div class="note">
+    <strong>Annora is inside Uldaman.</strong> She is the only Artisan enchanter for either faction, she only spawns once her area is cleared, and the 230&ndash;250 formulas exist nowhere else. Buy everything in one visit.
+  </div>
+</section>
+
+<section>
+  <div class="section-head">
+    <h2>Trainers worth walking to</h2>
+  </div>
+  <x-trainers src="trainers/enchanting"></x-trainers>
+</section>
+
+<section>
+    <div class="section-head">
+      <h2>Enchanting, 1 to 300</h2>
+      <p>Dust-only lines are the cheap ones: one or two mats a point and nothing from a vendor. Oils level faster but need vials and herbs. Forever added new low-level recipes, so the first 70 points are cheaper here than in Classic.</p>
+    </div>
+    <x-table src="routes/enchanting" id="eroute"></x-table>
+    <div class="note">
+      <strong>The rods catch people out.</strong> The plain Silver, Golden, Truesilver and Arcanite rods are blacksmithing items, and neither of you is a blacksmith. Buy each one off the auction house before you need it &mdash; at 81 your next one is the <b>Silver Rod at 109</b>, which is close, and being stuck waiting on a rod wastes days. Right-clicking a Greater Magic Essence splits it into three Lesser, which is worth remembering when a route calls for Lesser.
+    </div>
+  </section>
+
+<section>
+  <div class="section-head">
+    <h2>Where you sit on the rank ladder</h2>
+  </div>
+  <x-table src="gates" id="gates"></x-table>
+</section>
+
+<section>
+  <div class="section-head">
+    <h2>How much of this to trust</h2>
+  </div>
+  <x-confidence></x-confidence>
+</section>

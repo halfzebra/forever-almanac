@@ -1,0 +1,133 @@
+{
+  "kind": "plain",
+  "specName": "Holy",
+  "sources": [
+    "classicwowforever-priest"
+  ],
+  "columns": [
+    {
+      "label": "Talent",
+      "field": "talent",
+      "class": "item"
+    },
+    {
+      "label": "Row",
+      "field": "row",
+      "class": "num"
+    },
+    {
+      "label": "Max",
+      "field": "max_",
+      "class": "num"
+    },
+    {
+      "label": "Effect",
+      "field": "effect",
+      "class": "mats"
+    }
+  ],
+  "rows": [
+    {
+      "talent": "Twilight Focus",
+      "row": "1",
+      "max_": "3",
+      "effect": "70% chance not to lose casting time when you take damage. Was called Healing Focus."
+    },
+    {
+      "talent": "Improved Renew",
+      "row": "1",
+      "max_": "3",
+      "effect": "+15% Renew healing."
+    },
+    {
+      "talent": "Holy Specialization",
+      "row": "1",
+      "max_": "5",
+      "effect": "+5% crit on Holy spells."
+    },
+    {
+      "talent": "Spell Warding",
+      "row": "2",
+      "max_": "5",
+      "effect": "&minus;10% all spell damage taken."
+    },
+    {
+      "talent": "Divine Fury",
+      "row": "2",
+      "max_": "5",
+      "effect": "&minus;0.5 sec cast on Smite, Holy Fire, Heal and Greater Heal."
+    },
+    {
+      "talent": "Holy Nova",
+      "row": "3",
+      "max_": "1",
+      "effect": "185 mana, instant. 26&ndash;30 Holy damage to enemies and 49&ndash;57 healing to party within 10 yd. Generates no threat."
+    },
+    {
+      "talent": "Blessed Recovery",
+      "row": "3",
+      "max_": "3",
+      "effect": "After a crit, or any hit over 30% of your health, heals 25% of it back over 6 sec."
+    },
+    {
+      "talent": "Inspiration",
+      "row": "3",
+      "max_": "3",
+      "effect": "Non-periodic crit heals give the target +25% armour for 15 sec."
+    },
+    {
+      "talent": "Holy Reach",
+      "row": "4",
+      "max_": "2",
+      "effect": "+20% range on Smite and Holy Fire, +20% radius on Prayer of Healing and Holy Nova."
+    },
+    {
+      "talent": "Improved Healing",
+      "row": "4",
+      "max_": "3",
+      "effect": "&minus;15% mana on Lesser Heal, Heal, Greater Heal, Penance and Prayer of Mending."
+    },
+    {
+      "talent": "Searing Light",
+      "row": "4",
+      "max_": "2",
+      "effect": "+5% Holy damage. Each Holy Fire tick has a 10% chance to make the next Holy Nova free. Needs Divine Fury."
+    },
+    {
+      "talent": "Holy Binding",
+      "row": "4",
+      "max_": "1",
+      "effect": "Flash Heal on someone else also heals you for 50% of it, with no threat. Replaces Binding Heal."
+    },
+    {
+      "talent": "Litany of Light",
+      "row": "5",
+      "max_": "2",
+      "effect": "Gain mana equal to 10% of a heal's base cost if your previous heal was a different spell."
+    },
+    {
+      "talent": "Spirit of Redemption",
+      "row": "5",
+      "max_": "1",
+      "effect": "On death, 15 sec of free healing, then you die anyway."
+    },
+    {
+      "talent": "Spiritual Guidance",
+      "row": "5",
+      "max_": "5",
+      "effect": "Up to +25% of your Spirit as healing power and +8% as spell damage. <b>The Tailoring-Spirit payoff neither build on this page reaches.</b>"
+    },
+    {
+      "talent": "Spiritual Healing",
+      "row": "6",
+      "max_": "3",
+      "effect": "+10% healing done."
+    },
+    {
+      "talent": "Prayer of Mending",
+      "row": "7",
+      "max_": "1",
+      "effect": "210 mana, 40 yd, instant, 10 sec cooldown. Heals 172 on the next damage taken, jumping up to 5 times within 20 yd. Needs Spirit of Redemption."
+    }
+  ]
+}

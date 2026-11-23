@@ -126,10 +126,26 @@ function checkContiguity(file, html) {
     ran();
     const id = t.attrs.id || by;
     const inclusive = t.attrs["data-drive-bound"] !== "exclusive";
-    const rows = t.rows.filter((r) => r.attrs["data-min"] != null);
+    const all = t.rows.filter((r) => r.attrs["data-min"] != null);
+    const rows = all.filter((r) => r.attrs["data-alt"] !== "true");
     if (!rows.length) {
       fail(file, `table #${id} drives on ${by} but has no rows with data-min`);
       continue;
+    }
+    /* an alternative must sit inside the band of the step it is an alternative to */
+    for (let i = 0; i < all.length; i++) {
+      if (all[i].attrs["data-alt"] !== "true") continue;
+      const prev = all.slice(0, i).reverse().find((r) => r.attrs["data-alt"] !== "true");
+      if (!prev) {
+        fail(file, `table #${id}: an alternative row has no step above it to be an alternative to`);
+        continue;
+      }
+      if (
+        Number(all[i].attrs["data-min"]) < Number(prev.attrs["data-min"]) ||
+        Number(all[i].attrs["data-max"]) > Number(prev.attrs["data-max"])
+      ) {
+        fail(file, `table #${id}: an alternative row runs outside the band of the step above it`);
+      }
     }
     for (let i = 1; i < rows.length; i++) {
       const prevMax = Number(rows[i - 1].attrs["data-max"]);
@@ -319,7 +335,7 @@ function checkData() {
   if (has("data/camp/objects.json")) {
     ran();
     const buffs = has("data/camp/class-buffs.json") ? read("data/camp/class-buffs.json").buffs || {} : {};
-    for (const o of read("data/camp/objects.json").objects || []) {
+    for (const o of read("data/camp/objects.json").rows || []) {
       if (!has(`data/professions/${o.profession}.json`)) {
         fail("data/camp/objects.json", `"${o.name}" names profession "${o.profession}", which has no record`);
       }

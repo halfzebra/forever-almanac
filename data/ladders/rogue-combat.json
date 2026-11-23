@@ -1,0 +1,298 @@
+{
+  "kind": "ladder",
+  "drive": {
+    "by": "level",
+    "bound": "inclusive"
+  },
+  "derived": true,
+  "startLevel": 10,
+  "specName": "Combat",
+  "publishedSpread": {
+    "Combat": 35,
+    "Assass": 16
+  },
+  "sources": [
+    "classicwowforever-rogue",
+    "wowhandbook-rogue",
+    "talentsforever-rogue"
+  ],
+  "note": "The sources publish ten-level bands. The split into one point a level is derived, and checked: every tree row opens on the level its point is spent, the running total never exceeds level minus 9, and the finished build lands on the spread above.",
+  "columns": [
+    {
+      "label": "Level",
+      "field": "range",
+      "class": "num"
+    },
+    {
+      "label": "Talent",
+      "field": "talent",
+      "class": "item"
+    },
+    {
+      "label": "Rank",
+      "field": "rank",
+      "class": "rk"
+    },
+    {
+      "label": "Tree",
+      "field": "treeLabel"
+    },
+    {
+      "label": "Why",
+      "field": "why",
+      "class": "mats"
+    }
+  ],
+  "rows": [
+    {
+      "min": 10,
+      "max": 11,
+      "talent": "Efficient Strikes",
+      "rank": "2/2",
+      "treeLabel": "<span class=\"tree\" data-token=\"combat\">Combat</span>",
+      "tree": "Combat",
+      "row": 1,
+      "why": "Cheaper Sinister Strike. Energy is your whole problem at this level."
+    },
+    {
+      "min": 12,
+      "max": 13,
+      "talent": "Remorseless Attacks",
+      "rank": "2/2",
+      "treeLabel": "<span class=\"tree\" data-token=\"assassination\">Assass</span>",
+      "tree": "Assass",
+      "row": 1,
+      "why": "Two points out of tree, but every source takes them here."
+    },
+    {
+      "min": 14,
+      "max": 16,
+      "talent": "Coup de Grace",
+      "rank": "3/3",
+      "treeLabel": "<span class=\"tree\" data-token=\"combat\">Combat</span>",
+      "tree": "Combat",
+      "row": 1,
+      "why": "Finisher damage. talentsforever puts this at 12&ndash;14 instead."
+    },
+    {
+      "min": 17,
+      "max": 18,
+      "talent": "Precision",
+      "rank": "2/3",
+      "treeLabel": "<span class=\"tree\" data-token=\"combat\">Combat</span>",
+      "tree": "Combat",
+      "row": 2,
+      "why": "Hit chance. Missing is worse than hitting softly."
+    },
+    {
+      "min": 19,
+      "max": 21,
+      "talent": "Deflection",
+      "rank": "3/3",
+      "treeLabel": "<span class=\"tree\" data-token=\"combat\">Combat</span>",
+      "tree": "Combat",
+      "row": 2,
+      "why": "Parry, and the prerequisite for Riposte."
+    },
+    {
+      "min": 22,
+      "max": 22,
+      "talent": "Riposte",
+      "rank": "1/1",
+      "treeLabel": "<span class=\"tree\" data-token=\"combat\">Combat</span>",
+      "tree": "Combat",
+      "row": 3,
+      "why": "First real milestone. Mobalytics calls it a top priority. talentsforever says 21."
+    },
+    {
+      "min": 23,
+      "max": 24,
+      "talent": "Composure",
+      "rank": "2/2",
+      "treeLabel": "<span class=\"tree\" data-token=\"combat\">Combat</span>",
+      "tree": "Combat",
+      "row": 3,
+      "why": "&mdash;"
+    },
+    {
+      "min": 25,
+      "max": 25,
+      "talent": "Precision",
+      "rank": "3/3",
+      "treeLabel": "<span class=\"tree\" data-token=\"combat\">Combat</span>",
+      "tree": "Combat",
+      "row": 2,
+      "why": "&mdash;"
+    },
+    {
+      "min": 26,
+      "max": 26,
+      "talent": "Endurance",
+      "rank": "1/2",
+      "treeLabel": "<span class=\"tree\" data-token=\"combat\">Combat</span>",
+      "tree": "Combat",
+      "row": 3,
+      "why": "&mdash;"
+    },
+    {
+      "min": 27,
+      "max": 28,
+      "talent": "Weapon Expertise",
+      "rank": "2/2",
+      "treeLabel": "<span class=\"tree\" data-token=\"combat\">Combat</span>",
+      "tree": "Combat",
+      "row": 4,
+      "why": "&mdash;"
+    },
+    {
+      "min": 29,
+      "max": 31,
+      "talent": "Aggression",
+      "rank": "3/3",
+      "treeLabel": "<span class=\"tree\" data-token=\"combat\">Combat</span>",
+      "tree": "Combat",
+      "row": 4,
+      "why": "wowhandbook contradicts itself here; talentsforever says 27&ndash;29."
+    },
+    {
+      "min": 32,
+      "max": 32,
+      "talent": "Blade Flurry",
+      "rank": "1/1",
+      "treeLabel": "<span class=\"tree\" data-token=\"combat\">Combat</span>",
+      "tree": "Combat",
+      "row": 5,
+      "why": "The one that changes how you quest. talentsforever and classicwowforever both say 30."
+    },
+    {
+      "min": 33,
+      "max": 34,
+      "talent": "Dual Wield Specialization",
+      "rank": "2/2",
+      "treeLabel": "<span class=\"tree\" data-token=\"combat\">Combat</span>",
+      "tree": "Combat",
+      "row": 5,
+      "why": "&mdash;"
+    },
+    {
+      "min": 35,
+      "max": 35,
+      "talent": "Flawless Execution",
+      "rank": "1/1",
+      "treeLabel": "<span class=\"tree\" data-token=\"combat\">Combat</span>",
+      "tree": "Combat",
+      "row": 4,
+      "why": "&mdash;"
+    },
+    {
+      "min": 36,
+      "max": 36,
+      "talent": "Hack and Slash",
+      "rank": "1/5",
+      "treeLabel": "<span class=\"tree\" data-token=\"combat\">Combat</span>",
+      "tree": "Combat",
+      "row": 5,
+      "why": "Read the weapon note below before you put points here."
+    },
+    {
+      "min": 37,
+      "max": 41,
+      "talent": "Flash of Steel",
+      "rank": "5/5",
+      "treeLabel": "<span class=\"tree\" data-token=\"combat\">Combat</span>",
+      "tree": "Combat",
+      "row": 6,
+      "why": "Five points that exist purely to feed <b>Shank</b>: +15 Energy and up to &minus;2 sec cooldown. See the Shank section below. Sources scatter on timing: 35&ndash;39, 37&ndash;40, or 40&ndash;49."
+    },
+    {
+      "min": 42,
+      "max": 42,
+      "talent": "Adrenaline Rush",
+      "rank": "1/1",
+      "treeLabel": "<span class=\"tree\" data-token=\"combat\">Combat</span>",
+      "tree": "Combat",
+      "row": 7,
+      "why": "The Combat cooldown. 96% of talentsforever's Combat builds take it in the forties."
+    },
+    {
+      "min": 43,
+      "max": 46,
+      "talent": "Hack and Slash",
+      "rank": "5/5",
+      "treeLabel": "<span class=\"tree\" data-token=\"combat\">Combat</span>",
+      "tree": "Combat",
+      "row": 5,
+      "why": "Combat tree full at 35 points here."
+    },
+    {
+      "min": 47,
+      "max": 49,
+      "talent": "Malice",
+      "rank": "3/5",
+      "treeLabel": "<span class=\"tree\" data-token=\"assassination\">Assass</span>",
+      "tree": "Assass",
+      "row": 1,
+      "why": "The last 16 points all go to Assassination. See the dispute below."
+    },
+    {
+      "min": 50,
+      "max": 52,
+      "talent": "Improved Slice and Dice",
+      "rank": "3/3",
+      "treeLabel": "<span class=\"tree\" data-token=\"assassination\">Assass</span>",
+      "tree": "Assass",
+      "row": 2,
+      "why": "wowhandbook's own text disagrees with itself at 50: 1/3 or 3/3."
+    },
+    {
+      "min": 53,
+      "max": 54,
+      "talent": "Malice",
+      "rank": "5/5",
+      "treeLabel": "<span class=\"tree\" data-token=\"assassination\">Assass</span>",
+      "tree": "Assass",
+      "row": 1,
+      "why": "&mdash;"
+    },
+    {
+      "min": 55,
+      "max": 56,
+      "talent": "Vigor",
+      "rank": "2/2",
+      "treeLabel": "<span class=\"tree\" data-token=\"assassination\">Assass</span>",
+      "tree": "Assass",
+      "row": 3,
+      "why": "&mdash;"
+    },
+    {
+      "min": 57,
+      "max": 58,
+      "talent": "Lethality",
+      "rank": "2/2",
+      "treeLabel": "<span class=\"tree\" data-token=\"assassination\">Assass</span>",
+      "tree": "Assass",
+      "row": 3,
+      "why": "&mdash;"
+    },
+    {
+      "min": 59,
+      "max": 59,
+      "talent": "Ruthlessness",
+      "rank": "1/3",
+      "treeLabel": "<span class=\"tree\" data-token=\"assassination\">Assass</span>",
+      "tree": "Assass",
+      "row": 2,
+      "why": "&mdash;"
+    },
+    {
+      "min": 60,
+      "max": 60,
+      "talent": "Cold Blood",
+      "rank": "1/1",
+      "treeLabel": "<span class=\"tree\" data-token=\"assassination\">Assass</span>",
+      "tree": "Assass",
+      "row": 4,
+      "why": "Ends the build at <b>16 / 35 / 0</b>."
+    }
+  ]
+}

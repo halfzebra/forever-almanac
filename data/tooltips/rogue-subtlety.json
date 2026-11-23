@@ -1,0 +1,115 @@
+{
+  "kind": "plain",
+  "specName": "Subtlety",
+  "sources": [
+    "classicwowforever-rogue"
+  ],
+  "columns": [
+    {
+      "label": "Talent",
+      "field": "talent",
+      "class": "item"
+    },
+    {
+      "label": "Row",
+      "field": "row",
+      "class": "num"
+    },
+    {
+      "label": "Max",
+      "field": "max_",
+      "class": "num"
+    },
+    {
+      "label": "Effect",
+      "field": "effect",
+      "class": "mats"
+    }
+  ],
+  "rows": [
+    {
+      "talent": "Opportunity",
+      "row": "1",
+      "max_": "5",
+      "effect": "+20% Backstab, Garrote, Ambush and Mutilate damage."
+    },
+    {
+      "talent": "Camouflage",
+      "row": "2",
+      "max_": "3",
+      "effect": "&minus;15% Stealth speed penalty, &minus;6 sec Stealth cooldown."
+    },
+    {
+      "talent": "Dirty Deeds",
+      "row": "2",
+      "max_": "2",
+      "effect": "&minus;20 Energy on Cheap Shot and Garrote, and Garrote no longer needs you behind the target."
+    },
+    {
+      "talent": "Improved Ambush",
+      "row": "2",
+      "max_": "3",
+      "effect": "+45% Ambush crit."
+    },
+    {
+      "talent": "Initiative",
+      "row": "3",
+      "max_": "3",
+      "effect": "Ambush, Garrote or Cheap Shot add an extra combo point."
+    },
+    {
+      "talent": "Premeditation",
+      "row": "3",
+      "max_": "1",
+      "effect": "2 min cooldown. Adds 2 combo points, usable within 20 sec."
+    },
+    {
+      "talent": "Serrated Blades",
+      "row": "3",
+      "max_": "3",
+      "effect": "Ignore 9% of target armour, +30% Rupture damage."
+    },
+    {
+      "talent": "Ghostly Strike",
+      "row": "4",
+      "max_": "1",
+      "effect": "40 Energy, 20 sec cooldown. 125% weapon damage, <b>180% with a dagger</b>, +15% dodge for 7 sec."
+    },
+    {
+      "talent": "Elusiveness",
+      "row": "4",
+      "max_": "2",
+      "effect": "&minus;90 sec Vanish and Blind cooldowns."
+    },
+    {
+      "talent": "Hemorrhage",
+      "row": "5",
+      "max_": "1",
+      "effect": "35 Energy. 100% weapon damage, <b>145% with a dagger</b>. Target takes +15% Rupture and Garrote damage from you."
+    },
+    {
+      "talent": "Preparation",
+      "row": "5",
+      "max_": "1",
+      "effect": "10 min cooldown. Resets your other cooldowns."
+    },
+    {
+      "talent": "Heightened Senses",
+      "row": "5",
+      "max_": "2",
+      "effect": "Stealth detection as if 3 levels higher, &minus;4% chance to be hit by spells and ranged."
+    },
+    {
+      "talent": "Boot Knife",
+      "row": "6",
+      "max_": "5",
+      "effect": "Shank gains a 20/40/60/80/100% chance to add 2 combo points. Took Cutthroat's slot on 2 Nov."
+    },
+    {
+      "talent": "Death Mark",
+      "row": "7",
+      "max_": "1",
+      "effect": "25 Energy, 10 sec cooldown. Stores a share of your damage per combo point (Garrote and Rupture at double rate), released after 6 sec: 12% to 60% by combo points, capped 165 to 573, scaling with Attack Power and crit. Needs Preparation."
+    }
+  ]
+}

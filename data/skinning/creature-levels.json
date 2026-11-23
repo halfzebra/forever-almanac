@@ -1,0 +1,67 @@
+{
+  "kind": "plain",
+  "sources": [
+    "zockify-skinning",
+    "wow-professions-skinning"
+  ],
+  "columns": [
+    {
+      "label": "Creature level",
+      "field": "creature",
+      "class": "num"
+    },
+    {
+      "label": "Skinning skill you need",
+      "field": "need",
+      "class": "num"
+    },
+    {
+      "label": "Where that bites",
+      "field": "where",
+      "class": "mats"
+    }
+  ],
+  "note": "The one rule that governs skinning: skill needed = creature level x 5, up to 100 at level 20 and beyond.",
+  "rows": [
+    {
+      "creature": "10",
+      "need": "1",
+      "where": "Teldrassil wildlife, from the moment you learn it"
+    },
+    {
+      "creature": "14",
+      "need": "40",
+      "where": "Darkshore coast"
+    },
+    {
+      "creature": "20",
+      "need": "100",
+      "where": "Ashenvale &mdash; the first place skill lags behind your quests"
+    },
+    {
+      "creature": "25",
+      "need": "125",
+      "where": "Ashenvale, Hillsbrad"
+    },
+    {
+      "creature": "30",
+      "need": "150",
+      "where": "Thousand Needles, Desolace"
+    },
+    {
+      "creature": "40",
+      "need": "200",
+      "where": "Tanaris, Feralas"
+    },
+    {
+      "creature": "50",
+      "need": "250",
+      "where": "The Hinterlands, Azshara"
+    },
+    {
+      "creature": "60",
+      "need": "300",
+      "where": "Winterspring, Silithus, Un'Goro elites"
+    }
+  ]
+}

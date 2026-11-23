@@ -1,0 +1,139 @@
+{
+  "kind": "plain",
+  "specName": "Discipline",
+  "sources": [
+    "classicwowforever-priest"
+  ],
+  "columns": [
+    {
+      "label": "Talent",
+      "field": "talent",
+      "class": "item"
+    },
+    {
+      "label": "Row",
+      "field": "row",
+      "class": "num"
+    },
+    {
+      "label": "Max",
+      "field": "max_",
+      "class": "num"
+    },
+    {
+      "label": "Effect",
+      "field": "effect",
+      "class": "mats"
+    }
+  ],
+  "rows": [
+    {
+      "talent": "Power in Light",
+      "row": "1",
+      "max_": "5",
+      "effect": "Smite and Penance deal more damage to targets with your Holy Fire or Shadow Word: Pain. Rank 1 is 2%, the reference text says 10%, and the rank-5 value is never stated outright. Since 16 Oct it covers SW: Pain as well as Holy Fire."
+    },
+    {
+      "talent": "Wand Specialization",
+      "row": "1",
+      "max_": "2",
+      "effect": "+13% wand damage at rank 1, +25% at rank 2. Since 15 Oct you stand still for half a second before it fires."
+    },
+    {
+      "talent": "Twin Disciplines",
+      "row": "1",
+      "max_": "5",
+      "effect": "\"Increases the damage and healing of your instant cast spells by 5%.\" The page does not say whether 5% is rank 1 or rank 5."
+    },
+    {
+      "talent": "Silent Resolve",
+      "row": "2",
+      "max_": "3",
+      "effect": "&minus;30% threat from your spells, and &minus;15% duration on Stun, Fear and Silence against you."
+    },
+    {
+      "talent": "Holy Precision",
+      "row": "2",
+      "max_": "3",
+      "effect": "+18% chance to hit with Holy spells."
+    },
+    {
+      "talent": "Mental Strength",
+      "row": "2",
+      "max_": "5",
+      "effect": "+10% total Intellect."
+    },
+    {
+      "talent": "Martyrdom",
+      "row": "2",
+      "max_": "2",
+      "effect": "Focused Casting for 6 sec after a melee or ranged crit lands on you, plus +20% interrupt resistance."
+    },
+    {
+      "talent": "Mental Agility",
+      "row": "3",
+      "max_": "3",
+      "effect": "&minus;10% mana on Smite, Holy Fire and instant casts."
+    },
+    {
+      "talent": "Inner Focus",
+      "row": "3",
+      "max_": "1",
+      "effect": "Instant, 3 min cooldown. Next spell is free; if it can crit, +25% crit chance on it."
+    },
+    {
+      "talent": "Improved Power Word: Shield",
+      "row": "3",
+      "max_": "3",
+      "effect": "+20% absorbed."
+    },
+    {
+      "talent": "Meditation",
+      "row": "3",
+      "max_": "3",
+      "effect": "50% of mana regeneration continues while casting."
+    },
+    {
+      "talent": "Improved Inner Fire",
+      "row": "4",
+      "max_": "3",
+      "effect": "+45% Inner Fire armour and +12 charges."
+    },
+    {
+      "talent": "Improved Mana Burn",
+      "row": "4",
+      "max_": "2",
+      "effect": "&minus;1 sec cast time."
+    },
+    {
+      "talent": "Soul Warding",
+      "row": "4",
+      "max_": "1",
+      "effect": "Power Word: Shield cooldown &minus;4 sec, mana &minus;15%. Needs Improved PW: Shield at full rank."
+    },
+    {
+      "talent": "Penance",
+      "row": "5",
+      "max_": "1",
+      "effect": "150 mana, channelled, 12 sec cooldown. 42 Holy damage to an enemy or 126 healing to an ally, instantly then once a second for 2 sec. Nerfed 8 Oct, and Blizzard's notes claim ranks 2 and 4 heal <em>more</em> while the client shows lower on every rank."
+    },
+    {
+      "talent": "Renewed Hope",
+      "row": "5",
+      "max_": "5",
+      "effect": "+10% crit on Flash Heal, Lesser Heal, Heal, Greater Heal and Penance against Weakened Soul targets, and 5 sec off Weakened Soul. Needs Soul Warding at full rank."
+    },
+    {
+      "talent": "Divine Aegis",
+      "row": "6",
+      "max_": "3",
+      "effect": "Non-periodic crit heals shield for 15% of the amount, cap 1,200, 12 sec. <b>Shields do not stack</b> (Blizzard, 30 Sep)."
+    },
+    {
+      "talent": "Power Infusion",
+      "row": "7",
+      "max_": "1",
+      "effect": "20% of base mana, 30 yd, instant, 3 min cooldown. +20% spell damage and healing for 15 sec. Needs Penance at full rank."
+    }
+  ]
+}

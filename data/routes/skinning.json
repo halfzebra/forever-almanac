@@ -1,0 +1,73 @@
+{
+  "kind": "route",
+  "drive": {
+    "by": "skill",
+    "key": "skinning",
+    "bound": "exclusive"
+  },
+  "sources": [
+    "zockify-skinning",
+    "wow-professions-skinning"
+  ],
+  "columns": [
+    {
+      "label": "Skill",
+      "field": "range",
+      "class": "num"
+    },
+    {
+      "label": "Where",
+      "field": "craft",
+      "class": "item"
+    },
+    {
+      "label": "What you get",
+      "field": "each",
+      "class": "mats"
+    }
+  ],
+  "rows": [
+    {
+      "min": 1,
+      "max": 75,
+      "craft": "Teldrassil, then Darkshore",
+      "each": "Ruined Leather Scraps, Light Leather, Light Hide"
+    },
+    {
+      "min": 75,
+      "max": 105,
+      "craft": "Darkshore, Ashenvale, Loch Modan",
+      "each": "Light Leather, first Medium Leather"
+    },
+    {
+      "min": 105,
+      "max": 150,
+      "craft": "Ashenvale, Hillsbrad Foothills, Wetlands",
+      "each": "Medium Leather, Heavy Leather, Heavy Hide"
+    },
+    {
+      "min": 150,
+      "max": 200,
+      "craft": "Thousand Needles, Desolace, Dustwallow, Alterac",
+      "each": "Heavy Leather, first Thick Leather, Turtle Scale"
+    },
+    {
+      "min": 200,
+      "max": 250,
+      "craft": "Tanaris, Feralas, The Hinterlands",
+      "each": "Thick Leather, Rugged Leather"
+    },
+    {
+      "min": 250,
+      "max": 275,
+      "craft": "Un'Goro Crater &mdash; Pterrordax",
+      "each": "Rugged Leather, Rugged Hide"
+    },
+    {
+      "min": 275,
+      "max": 300,
+      "craft": "Un'Goro, Winterspring, Silithus, Azshara",
+      "each": "Rugged Leather, Heavy Scorpid Scale, scarce Pristine materials"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "kind": "plain",
+  "sources": [
+    "classicwowforever-rogue-weapons",
+    "conquestcapped-class-quests"
+  ],
+  "columns": [
+    {
+      "label": "Level",
+      "field": "lvl",
+      "class": "num"
+    },
+    {
+      "label": "What",
+      "field": "item",
+      "class": "item"
+    },
+    {
+      "label": "Quest",
+      "field": "quest",
+      "class": "mats"
+    },
+    {
+      "label": "Notes",
+      "field": "notes",
+      "class": "mats"
+    }
+  ],
+  "rows": [
+    {
+      "lvl": "20",
+      "item": "Poisons + Recipe: Thistle Tea",
+      "quest": "Mathias and the Defias (2360) &rarr; Klaven's Tower (2359), Stormwind then Westfall",
+      "notes": "<b>Mandatory.</b> Poisons are gated behind it."
+    },
+    {
+      "lvl": "20",
+      "item": "Cruel Barb",
+      "quest": "Alliance quest reward",
+      "notes": "15.54 DPS &mdash; the Combat main hand for the twenties."
+    },
+    {
+      "lvl": "23",
+      "item": "Ruby-Adorned Blade",
+      "quest": "The Horn of Xelthos (78307), a spy chain ending in Scarlet Monastery",
+      "notes": "Rogue-only sword. Timesaver instead lists it at 23.91 DPS as a <b>level 35</b> reward from \"The Eye of Bhossca\" &mdash; possibly a different item."
+    },
+    {
+      "lvl": "24",
+      "item": "Gold and Ravenholdt reputation",
+      "quest": "Syndicate Sabotage (96779) &mdash; new in Forever",
+      "notes": "No weapon, but it opens Ravenholdt."
+    },
+    {
+      "lvl": "35",
+      "item": "Dreadfrost Saber",
+      "quest": "Captain Dreadrise, The Drowned City &mdash; a new dungeon",
+      "notes": "27.50 DPS."
+    },
+    {
+      "lvl": "40",
+      "item": "Sword of Omen",
+      "quest": "Scarlet Monastery quest",
+      "notes": "29.74 DPS. Timesaver lists it in its Horde column; check whether Alliance can take it."
+    },
+    {
+      "lvl": "40",
+      "item": "Nordic Longshank",
+      "quest": "Baelog, Uldaman &mdash; 50% drop",
+      "notes": "29.32 DPS off hand, and the best drop rate on this page."
+    },
+    {
+      "lvl": "45",
+      "item": "Satyr's Lash",
+      "quest": "Lord Vyletongue, Maraudon",
+      "notes": "33.24 DPS."
+    },
+    {
+      "lvl": "50",
+      "item": "Viking Warhammer",
+      "quest": "Bind on equip",
+      "notes": "35.83 DPS. Timesaver says it is cheap to buy &mdash; but it is a mace, which is the wrong Hack and Slash effect for this build."
+    },
+    {
+      "lvl": "55",
+      "item": "Dustwallow Dirk",
+      "quest": "Shaw Needs To Know, Stormwind",
+      "notes": "36.47 DPS."
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+<script type="application/json" id="meta">
+{
+  "title": "Rogue",
+  "short": "Rogue",
+  "token": "rogue",
+  "lede": "One Combat ladder a point at a time, the Shank ability three talents are built around, and every tooltip as the sources print them. Three sites publish three different routes, so where they disagree this says so.",
+  "sources": ["classicwowforever-rogue", "wowhandbook-rogue", "talentsforever-rogue", "maxroll-rogue", "classicwowforever-rogue-weapons", "timesaver-rogue-weapons", "conquestcapped-class-quests"],
+  "confidence": {
+    "solid": [
+      "The Combat tree's rows and point gates, from classicwowforever against the live build.",
+      "Dual Wield Specialization being 2 ranks for the full +50%.",
+      "Shank at level 24: 5 Energy, returns 15, cannot miss, 10 second cooldown.",
+      "The ladder's arithmetic: every row gate met on the level it is spent, landing on the 16/35/0 spread."
+    ],
+    "check": [
+      "Efficient Strikes' energy reduction - two sites say 5, talentsforever's change log says a 2 November hotfix moved it to 3.",
+      "Whether the last 16 points belong in Assassination at all - the final spread is published as 16/35/0 or 13/38/0 depending on the source.",
+      "wowhandbook disagrees with its own table at level 50: Improved Slice and Dice 1/3 or 3/3.",
+      "Lightning Reflexes and Precision per-rank splits are not published anywhere."
+    ],
+    "provisional": [
+      "The per-level split of the ladder - the ten-level bands and row gates are sourced, the single levels are a division of them.",
+      "Which spec each Maxroll rotation block belongs to - published unlabelled, grouped here by ability name.",
+      "The class quest list, from a page that now refuses automated reads and was last read by hand."
+    ]
+  }
+}
+</script>
+
+<section>
+    <div class="section-head">
+      <h2>Talents: Combat, and you are on route already</h2>
+      <p>You are 10 with one point spent, which is the cleanest possible start. Method recommends Combat for solo players and Subtlety only if you are grouped; wowhandbook recommends Combat and publishes a route that <b>never needs a respec</b> all the way to 60. You level alone, you skin everything you kill, and Blade Flurry turns multi-mob pulls into faster skinning &mdash; Combat it is.</p>
+    </div>
+
+    <div class="note good">
+      <strong>Your first point should be Efficient Strikes.</strong> Check that it is. wowhandbook, talentsforever and classicwowforever all start Combat with Efficient Strikes 1/2 at level 10, so this is the one talent in the game that three sites agree on without qualification.
+    </div>
+
+    <h3>One point a level, 10 to 60</h3>
+    <x-table src="ladders/rogue-combat" id="tal"></x-table>
+
+    <div class="note">
+      <strong>Your weapon choice is a talent decision in Forever, not a preference.</strong> <b>Hack and Slash</b> does something different depending on what you are holding: a <b>sword or axe</b> gives a chance at an extra attack, a <b>dagger or fist weapon</b> gives 5% crit, and a <b>mace</b> ignores 15% of the target's armour. That is a five-point investment, so pick swords or axes and stay there &mdash; the extra-attack proc is what the rest of this build is shaped around. It also means you should not buy the dagger upgrades the quest tables keep offering you.
+    </div>
+    <div class="note">
+      <strong>Method contradicts itself about daggers, and doesn't resolve it.</strong> Its Combat section says to "avoid using Daggers" because Sinister Strike does more damage without them &mdash; then offers a dagger swap anyway: move 1/5 Lightning Reflexes and 2/2 Endurance into 3/3 Puncturing Wounds and use Backstab. It also says that if you loot a strong dagger by level 30 you should switch to Subtlety outright, "provided you have the currency to do so". Both statements are on the same page. Take the swap only if a dagger genuinely lands in your lap.
+    </div>
+    <div class="note">
+      <strong>Where the sources fall out, so you know what is actually shaky.</strong> The spec itself: Method says Combat solo, wowhandbook says Combat, classicwowforever leads with Assassination, and <b>talentsforever reports Subtlety is what players actually pick &mdash; 43% of 53,905 builds</b>, against 33.9% Combat and 23.1% Assassination. That is a popularity count, not a recommendation, and it is worth knowing it exists. On timings: Blade Flurry 32 or 30, Riposte 22 or 21, Coup de Grace 14&ndash;16 or 12&ndash;14, Hack and Slash 5/5 at 43&ndash;46 or 2/5 at 33&ndash;34, Improved Slice and Dice at 50&ndash;52 or 18&ndash;20, and Malice last or first. Final spread is 16/35/0 or 13/38/0. Efficient Strikes cuts energy cost by 5 on two sites, but talentsforever's change log says a 2 November hotfix moved it to 3. And <b>talentsforever reports no agreed order at all for levels 40 to 49</b>, in any rogue spec.
+    </div>
+  </section>
+
+<section>
+    <div class="section-head">
+      <h2>Shank, and the five points that serve it</h2>
+      <p>Shank is new, it is not a talent, and it quietly shapes a third of your build. You learn it at <b>level 24</b>, alongside Mind-numbing Poison.</p>
+    </div>
+    <div class="cols">
+      <div class="card k">
+        <h3>What it does</h3>
+        <div class="npc"><span class="where">An off-hand strike for <b>50% weapon damage</b> that <b>cannot miss</b>, on a 10 sec cooldown. It costs 5 Energy and returns 15. A second rank at level 44 returns 25.</span></div>
+        <div class="npc"><span class="rank">caveat</span><span class="where">classicwowforever's phrasing does not make clear whether that return is net of the cost, and wowhandbook never describes Shank's effect at all. Watch your Energy bar the first time you press it.</span></div>
+      </div>
+      <div class="card k">
+        <h3>Three talents key off it</h3>
+        <div class="npc"><span class="where"><b>Flash of Steel</b> (Combat, 5 ranks) &mdash; +15 Energy and up to &minus;2 sec cooldown on Shank. That is levels 37&ndash;41 of your ladder.</span></div>
+        <div class="npc"><span class="where"><b>Venom</b> (Assassination) &mdash; Shank raises poison damage 30% and application chance 20% for 6 sec.</span></div>
+        <div class="npc"><span class="where"><b>Boot Knife</b> (Subtlety, 5 ranks) &mdash; Shank gains up to a 100% chance to add 2 combo points.</span></div>
+      </div>
+    </div>
+    <div class="note">
+      <strong>So press Shank on cooldown from 24, and know what you are buying at 37.</strong> Five of your 51 points go into an ability most guides mention only in passing. If Shank turns out to feel bad in practice, Flash of Steel is the clean place to cut &mdash; which is worth knowing before you commit, because nothing else in the Combat tree depends on it.
+    </div>
+  </section>
+
+<section>
+    <div class="section-head">
+      <h2>What to actually press</h2>
+      <p>wowhandbook and Method agree on this, which given how much else they disagree about is reassuring.</p>
+    </div>
+    <div class="cols">
+      <div class="rotcard">
+        <span class="lvlrange">the opener</span>
+        <h4>Stealth, then pick one</h4>
+        <ol class="rot">
+          <li>Enter Stealth before the pull</li>
+          <li><b>Garrote</b> if the target will survive its full duration</li>
+          <li><b>Ambush</b> if it won't</li>
+        </ol>
+        <span class="aside">Sap no longer breaks Stealth in Forever, per Blizzard's 7 Oct deep dive.</span>
+      </div>
+      <div class="rotcard">
+        <span class="lvlrange">the loop</span>
+        <h4>Sinister Strike, Shank, Riposte</h4>
+        <ul class="loopl">
+          <li><b>Sinister Strike</b> as your builder &mdash; Combat "prefers using Sinister Strike over Backstab"</li>
+          <li><b>Shank</b> on cooldown, from 24</li>
+          <li><b>Riposte</b> the moment it lights up &mdash; 150% weapon damage <em>and</em> a 6 sec disarm</li>
+          <li><b>Expose Armor</b> only if the target lives its full duration and Slice and Dice is already running</li>
+        </ul>
+      </div>
+      <div class="rotcard">
+        <span class="lvlrange">combo points</span>
+        <h4>Slice and Dice before Eviscerate</h4>
+        <ul class="loopl">
+          <li>Spend on <b>Slice and Dice</b> first &mdash; learned at 10, and it "should be maintained as the better of the two options while levelling"</li>
+          <li>Once Slice and Dice is up, spend on <b>Eviscerate</b></li>
+          <li>If the next pull is imminent, spend on Slice and Dice anyway so it <b>carries over</b></li>
+        </ul>
+      </div>
+      <div class="rotcard">
+        <span class="lvlrange">cooldowns &amp; poisons</span>
+        <h4>Save them for packs</h4>
+        <ul class="loopl">
+          <li><b>Save Blade Flurry and Adrenaline Rush for packs and dungeon bosses</b> &mdash; not single mobs</li>
+          <li><b>Poisons from 20:</b> Deadly and Instant on your weapons before combat</li>
+        </ul>
+        <span class="aside">Method's line on using both together is cut off mid-sentence in its own page, at "when they both become available at Level 30-".</span>
+      </div>
+    </div>
+    <div class="note">
+      <strong>wowhandbook contradicts itself twice, in ways that matter a little.</strong> Its intro says "Sinister Strike on every cooldown" while its own rotation says "whenever you have the Energy" &mdash; Sinister Strike has no cooldown, so read it as the second. And its intro claims "every point into Combat until 46" while its own table puts 2 points into Assassination at levels 12&ndash;13, which is the Remorseless Attacks pick your ladder uses.
+    </div>
+  </section>
+
+<section>
+    <div class="section-head">
+      <h2>Quest rewards worth a detour</h2>
+      <p>Two of these are not optional. The rest are weapons, filtered to what a sword-and-axe Combat rogue actually wants &mdash; the dagger picks the guides push are deliberately left out.</p>
+    </div>
+
+    <div class="note good">
+      <strong>Level 20: the Poisons chain. This is a hard gate.</strong> Alliance runs <b>Mathias and the Defias</b> (quest 2360) from Mathias Shaw in Stormwind, which sends you to Westfall, then <b>Klaven's Tower</b> (quest 2359). It rewards the Poisons skill itself plus <b>Recipe: Thistle Tea</b>. You cannot make poisons at all until this is done, so put it at the top of your level 20 list.
+    </div>
+
+    <div class="note">
+      <strong>Level 10, right now, and the sources disagree about whether it exists.</strong> Timesaver lists a <b>Blade of Cunning</b> (6.75 DPS) as a rogue class quest reward at 10 for both factions. ConquestCapped's class-quest table lists no level 10 rogue quest at all. You are exactly the right level to settle it &mdash; ask your trainer.
+    </div>
+
+    <x-table src="quest-rewards/rogue"></x-table>
+    <div class="note">
+      <strong>One thing not to chase.</strong> Timesaver's words on <b>Dragon's Call</b> (41.40 DPS at 55): it is a <b>1.48%</b> drop, so treat it as "a bonus, not a goal". Same logic applies to anything on these tables under a few percent.
+    </div>
+  </section>
+
+<section>
+    <div class="section-head">
+      <h2>What every talent actually does</h2>
+      <p>From classicwowforever, read against live build 1.60.1.70862. Values are max rank unless noted. Collapsed by default.</p>
+    </div>
+
+    <details class="ref">
+      <summary>Combat <span>&mdash; your tree</span></summary>
+      <x-table src="tooltips/rogue-combat"></x-table>
+    </details>
+
+    <details class="ref">
+      <summary>Assassination <span>&mdash; where your last 16 points go</span></summary>
+      <x-table src="tooltips/rogue-assassination"></x-table>
+    </details>
+
+    <details class="ref">
+      <summary>Subtlety <span>&mdash; for comparison, since 43% of players run it</span></summary>
+      <x-table src="tooltips/rogue-subtlety"></x-table>
+    </details>
+    <div class="note">
+      <strong>One warning about the source itself.</strong> classicwowforever's own leveling table puts Opportunity, Lethality, Coup de Grace, Efficient Strikes and Ruthlessness each under <em>more than one tree</em>, which cannot all be right. The tree assignments above come from its reference section instead, which is self-consistent. If a talent is not where this table says, that is the likeliest reason.
+    </div>
+  </section>
+
+<section>
+  <div class="section-head">
+    <h2>How much of this to trust</h2>
+  </div>
+  <x-confidence></x-confidence>
+</section>

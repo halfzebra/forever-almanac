@@ -1,0 +1,115 @@
+{
+  "kind": "plain",
+  "specName": "Assassination",
+  "sources": [
+    "classicwowforever-rogue"
+  ],
+  "columns": [
+    {
+      "label": "Talent",
+      "field": "talent",
+      "class": "item"
+    },
+    {
+      "label": "Row",
+      "field": "row",
+      "class": "num"
+    },
+    {
+      "label": "Max",
+      "field": "max_",
+      "class": "num"
+    },
+    {
+      "label": "Effect",
+      "field": "effect",
+      "class": "mats"
+    }
+  ],
+  "rows": [
+    {
+      "talent": "Malice",
+      "row": "1",
+      "max_": "5",
+      "effect": "+5% crit on all attacks and poisons. Rank 1 is 1%."
+    },
+    {
+      "talent": "Remorseless Attacks",
+      "row": "1",
+      "max_": "2",
+      "effect": "After killing a non-trivial enemy, your next Sinister Strike, Backstab, Ambush, Mutilate or Ghostly Strike gets <b>+40% crit</b>, for 20 sec. This is why 2 points go out of tree at 12&ndash;13 &mdash; while questing you are always mid-killstreak."
+    },
+    {
+      "talent": "Improved Slice and Dice",
+      "row": "2",
+      "max_": "3",
+      "effect": "+45% Slice and Dice duration."
+    },
+    {
+      "talent": "Ruthlessness",
+      "row": "2",
+      "max_": "3",
+      "effect": "Finishing moves have a 60% chance to add a combo point."
+    },
+    {
+      "talent": "Lethality",
+      "row": "3",
+      "max_": "2",
+      "effect": "+20% crit damage bonus on Sinister Strike, Gouge, Backstab, Mutilate, Ghostly Strike and Hemorrhage (10/20%). Needs Malice at full rank."
+    },
+    {
+      "talent": "Vigor",
+      "row": "3",
+      "max_": "2",
+      "effect": "+10 maximum Energy."
+    },
+    {
+      "talent": "Blood Splatter",
+      "row": "3",
+      "max_": "1",
+      "effect": "+6 sec Rupture, +9 sec Garrote."
+    },
+    {
+      "talent": "Cold Blood",
+      "row": "4",
+      "max_": "1",
+      "effect": "Instant, 3 min cooldown. <b>+100% crit</b> on your next Sinister Strike, Backstab, Ambush, Eviscerate or Mutilate."
+    },
+    {
+      "talent": "Vile Poisons",
+      "row": "4",
+      "max_": "5",
+      "effect": "+20% poison damage, and +40% chance to resist dispels."
+    },
+    {
+      "talent": "Improved Poisons",
+      "row": "4",
+      "max_": "5",
+      "effect": "+10% application chance, and a 50% chance not to consume a charge."
+    },
+    {
+      "talent": "Relentless Strikes",
+      "row": "5",
+      "max_": "5",
+      "effect": "Finishers have a 20% chance per combo point to restore 25 Energy."
+    },
+    {
+      "talent": "Venom",
+      "row": "5",
+      "max_": "1",
+      "effect": "Shank raises poison damage 30% and application chance 20% for 6 sec. Works only through Shank."
+    },
+    {
+      "talent": "Seal Fate",
+      "row": "6",
+      "max_": "3",
+      "effect": "Crits from combo-point abilities add an extra combo point (33/66/100%)."
+    },
+    {
+      "talent": "Mutilate",
+      "row": "7",
+      "max_": "1",
+      "effect": "60 Energy, instant, <b>requires daggers</b>. Both weapons strike for 90% weapon damage plus 40 each, +20% against poisoned targets, 2 combo points. Raised from 75% on 2 Nov."
+    }
+  ]
+}

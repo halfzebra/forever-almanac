@@ -143,6 +143,14 @@
     return String(s == null ? "" : s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
   }
 
+  /* Values the build inlined come out of data/ and are authored HTML, the same
+     as the table cells: they carry entities and the odd <em>. Escaping them
+     would print "&ndash;" at the reader. Anything NOT from the payload - a
+     slug, a stored key - still goes through esc(). */
+  function raw(v) {
+    return v == null ? "" : String(v);
+  }
+
   function line(k, v) {
     return '<li><span class="k">' + esc(k) + '</span><span class="v">' + v + "</span></li>";
   }
@@ -166,11 +174,11 @@
       var soon = rowAfter(lad.rows, lvl);
       var spent = pointsSpent(lad, lvl);
       var txt = now
-        ? "<b>" + esc(now.talent) + "</b> <span>" + esc(now.rank) + "</span>"
+        ? "<b>" + raw(now.talent) + "</b> <span>" + raw(now.rank) + "</span>"
         : soon
           ? "<span>nothing until level " + soon.min + "</span>"
           : "<span>finished</span>";
-      if (soon && now) txt += '<br><span>then ' + esc(soon.talent) + " at " + soon.min + "</span>";
+      if (soon && now) txt += '<br><span>then ' + raw(soon.talent) + " at " + soon.min + "</span>";
       if (available > 0 && spent !== Math.min(available, pointsSpent(lad, 60))) {
         txt += '<br><em>' + spent + " of " + available + " points placed</em>";
       }
@@ -194,7 +202,7 @@
         line(
           route.name,
           craft
-            ? "<b>" + esc(craft.craft) + "</b>" + (craft.each ? ' <span>&middot; ' + esc(craft.each) + "</span>" : "") +
+            ? "<b>" + raw(craft.craft) + "</b>" + (craft.each ? ' <span>&middot; ' + raw(craft.each) + "</span>" : "") +
                 ' <span>to ' + craft.max + "</span>"
             : "<span>route finished</span>"
         )
@@ -204,7 +212,7 @@
     if (noRoute.length) {
       out.push(
         '<li class="gap"><span class="k">No route yet</span><span class="v">' +
-          esc(noRoute.join(", ")) +
+          raw(noRoute.join(", ")) +
           "</span></li>"
       );
     }
@@ -215,15 +223,15 @@
       if (!gate) continue;
       var txt;
       if (gate.needLvl) {
-        txt = "<em>" + esc(gp.name) + " is capped</em><span> until level " + gate.needLvl +
-          ", when you can buy " + esc(gate.rank) + "</span>";
+        txt = "<em>" + raw(gp.name) + " is capped</em><span> until level " + gate.needLvl +
+          ", when you can buy " + raw(gate.rank) + "</span>";
       } else if (gate.needSkill) {
-        txt = "<span>" + esc(gate.rank) + " needs " + gate.needSkill + " skill</span>";
+        txt = "<span>" + raw(gate.rank) + " needs " + gate.needSkill + " skill</span>";
       } else if (gate.blocked) {
-        txt = "<b>" + esc(gate.rank) + " " + esc(gp.name) + "</b> <span>is open, go buy it. You are stuck at " +
+        txt = "<b>" + raw(gate.rank) + " " + raw(gp.name) + "</b> <span>is open, go buy it. You are stuck at " +
           gate.stuckAt + " until you do, and it lifts you to " + gate.unlocks + ".</span>";
       } else {
-        txt = "<span>" + gate.room + " from the cap. " + esc(gate.rank) + " is ready when you get there.</span>";
+        txt = "<span>" + gate.room + " from the cap. " + raw(gate.rank) + " is ready when you get there.</span>";
       }
       out.push(line("Next rank", txt));
     }
@@ -249,18 +257,18 @@
     });
     if (usable.length) {
       var place = usable[0];
-      var txt = "<b>" + esc(place.name) + "</b> <span>&middot; " + esc(place.buff || "") + "</span>";
+      var txt = "<b>" + raw(place.name) + "</b> <span>&middot; " + raw(place.buff || "") + "</span>";
       if (killed.length) {
-        txt += "<br><em>not " + esc(killed[0].obj.name) + "</em><span>, your own " +
-          esc(killed[0].by.name) + " cancels it</span>";
+        txt += "<br><em>not " + raw(killed[0].obj.name) + "</em><span>, your own " +
+          raw(killed[0].by.name) + " cancels it</span>";
       }
       out.push(line("Camp", txt));
     } else if (killed.length) {
       out.push(
         line(
           "Camp",
-          "<span>nothing worth placing. " + esc(killed[0].obj.name) + " clashes with your own " +
-            esc(killed[0].by.name) + ".</span>"
+          "<span>nothing worth placing. " + raw(killed[0].obj.name) + " clashes with your own " +
+            raw(killed[0].by.name) + ".</span>"
         )
       );
     }

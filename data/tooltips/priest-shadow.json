@@ -1,0 +1,133 @@
+{
+  "kind": "plain",
+  "specName": "Shadow Magic",
+  "sources": [
+    "classicwowforever-priest"
+  ],
+  "columns": [
+    {
+      "label": "Talent",
+      "field": "talent",
+      "class": "item"
+    },
+    {
+      "label": "Row",
+      "field": "row",
+      "class": "num"
+    },
+    {
+      "label": "Max",
+      "field": "max_",
+      "class": "num"
+    },
+    {
+      "label": "Effect",
+      "field": "effect",
+      "class": "mats"
+    }
+  ],
+  "rows": [
+    {
+      "talent": "Shadow Focus",
+      "row": "1",
+      "max_": "5",
+      "effect": "+5% chance to hit with Shadow spells."
+    },
+    {
+      "talent": "Blackout",
+      "row": "1",
+      "max_": "5",
+      "effect": "10% chance for your Shadow damage to stun for 3 sec. <b>No leveling route on any site takes this.</b>"
+    },
+    {
+      "talent": "Spirit Tap",
+      "row": "1",
+      "max_": "5",
+      "effect": "On killing a non-trivial target, or when a Vampiric Embrace target dies, +100% Spirit for 15 sec, and 50% of regen continues while casting."
+    },
+    {
+      "talent": "Improved Mind Blast",
+      "row": "2",
+      "max_": "5",
+      "effect": "&minus;2.5 sec Mind Blast cooldown."
+    },
+    {
+      "talent": "Improved Shadow Word: Pain",
+      "row": "2",
+      "max_": "2",
+      "effect": "+6 sec duration."
+    },
+    {
+      "talent": "Shadow Reach",
+      "row": "2",
+      "max_": "2",
+      "effect": "+20% range on offensive Shadow spells."
+    },
+    {
+      "talent": "Improved Psychic Scream",
+      "row": "3",
+      "max_": "2",
+      "effect": "&minus;4 sec cooldown. Needs Blackout at full rank, which is why no route reaches it."
+    },
+    {
+      "talent": "Mind Flay",
+      "row": "3",
+      "max_": "1",
+      "effect": "45 mana, 20 yd, channelled. 63 Shadow damage over 3 sec and a 50% slow."
+    },
+    {
+      "talent": "Improved Mind Flay",
+      "row": "3",
+      "max_": "2",
+      "effect": "Each tick deals 20% more than the one before, so let the channel finish. Needs Mind Flay."
+    },
+    {
+      "talent": "Dark Inspiration",
+      "row": "4",
+      "max_": "5",
+      "effect": "Mind Blast or a fully channelled Mind Flay gives you and your party +Spirit for 10 sec: 3% at rank 1, 15% at rank 5. Moved into Improved Fade's old slot on 15 Oct."
+    },
+    {
+      "talent": "Vampiric Embrace",
+      "row": "4",
+      "max_": "1",
+      "effect": "40 mana, 30 yd, instant, 30 sec cooldown. Party healed for 20% of your Shadow damage for 30 sec. Its healing can no longer crit (2 Nov)."
+    },
+    {
+      "talent": "Shadow Weaving",
+      "row": "4",
+      "max_": "3",
+      "effect": "Every Shadow spell adds +2% Shadow damage taken from you for 15 sec, stacking 5 times."
+    },
+    {
+      "talent": "Silence",
+      "row": "5",
+      "max_": "1",
+      "effect": "225 mana, 20 yd, instant, 45 sec cooldown. No spellcasting for 5 sec, interrupts for 3."
+    },
+    {
+      "talent": "Devouring Contagion",
+      "row": "5",
+      "max_": "2",
+      "effect": "&minus;50% Devouring Plague mana. Enemies dying under it spread it to 2 within 10 yd &mdash; no longer from a critter (2 Nov)."
+    },
+    {
+      "talent": "Early Demise",
+      "row": "6",
+      "max_": "2",
+      "effect": "+30% Shadow Word: Death crit on targets at or below 20% health."
+    },
+    {
+      "talent": "Darkness",
+      "row": "6",
+      "max_": "5",
+      "effect": "+10% Shadow damage done."
+    },
+    {
+      "talent": "Shadowform",
+      "row": "7",
+      "max_": "1",
+      "effect": "40% of base mana, instant, 1.5 sec cooldown. +10% Shadow damage, &minus;50% Shadow mana cost, +100% Shadow crit damage bonus, &minus;15% physical damage taken. <b>You may not cast healing spells while in this form.</b> Needs Vampiric Embrace at full rank."
+    }
+  ]
+}

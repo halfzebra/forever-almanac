@@ -1,0 +1,204 @@
+<script type="application/json" id="meta">
+{
+  "title": "Priest",
+  "short": "Priest",
+  "token": "priest",
+  "lede": "Two ladders a point at a time - Discipline for the duo, Shadow for solo - what to press in each band, and every tooltip as the sources print them. Forever's trees are reworked, so none of this is written from memory.",
+  "sources": ["classicwowforever-priest", "wowhandbook-priest", "talentsforever-priest", "maxroll-priest"],
+  "confidence": {
+    "solid": [
+      "The Discipline tree's rows and point gates, from classicwowforever against live build 1.60.1.70862.",
+      "Wand Specialization being 2 ranks, and Shadowform needing 31 points in tree.",
+      "Both ladders' arithmetic: every row gate met on the level it is spent, and both land on the 38/13 and 13/38 spreads classicwowforever publishes.",
+      "Shadowform forbids healing spells, which is what makes it the solo spec.",
+      "Priests get no class weapon quest before 60 - three sources agree."
+    ],
+    "check": [
+      "Whether Twin Disciplines' +5% is rank 1 or rank 5 - the tooltip doesn't say.",
+      "Power in Light's rank-5 value - rank 1 is 2%, the reference says 10%, the page never states rank 5.",
+      "Penance's healing per rank - classicwowforever says Blizzard's notes and the client disagree on ranks 2 and 4.",
+      "Whether wands still scale with spell damage - timesaver quotes Blizzard, nothing corroborates.",
+      "Gravestone Scepter's real usable level: 18, 25&ndash;26 or 27 depending who you ask.",
+      "Greater Magic Wand's skill requirement - 70 or 101."
+    ],
+    "provisional": [
+      "The per-level split of both ladders - the ten-level bands and row gates are sourced, the single levels are a division of them.",
+      "Which spec each Maxroll rotation block belongs to - the page publishes them unlabelled and the grouping here is inferred from the ability names.",
+      "No DPS published for any Enchanting-crafted wand."
+    ]
+  }
+}
+</script>
+
+<section>
+<h3>The ladders, one point a level</h3>
+    <div class="spectoggle" data-group="priest-spec" role="group" aria-label="Which spec to show">
+      <button type="button" data-pane="paneD" class="on" aria-pressed="true">Discipline &middot; the duo build</button>
+      <button type="button" data-pane="paneS" aria-pressed="false">Shadow Magic &middot; the solo build</button>
+    </div>
+
+    <div id="paneD">
+      <x-table src="ladders/priest-discipline" id="talD"></x-table>
+      <div class="note">
+        <strong>Two prerequisite chains decide this build's shape.</strong> Improved Power Word: Shield 3/3 unlocks <b>Soul Warding</b>, which unlocks <b>Renewed Hope</b>; and <b>Penance</b> unlocks <b>Power Infusion</b>. That second one matters because classicwowforever offers Renewed Hope instead of Penance at 30, calling it "a fair swap if you heal mostly with shields and Heal" &mdash; but taking that swap closes off the row 7 capstone for good. The page does not mention that consequence.
+      </div>
+      <div class="note">
+        <strong>A synergy that looks obvious and is not there.</strong> <b>Spiritual Guidance</b> converts up to 25% of your Spirit into healing power, which would pair beautifully with the Spirit-heavy cloth your own Tailoring makes. It is Holy row 5, needing 20 points in Holy. <b>This build has 13</b>, which only opens Holy rows 1 and 2. Don't gear for a talent you won't have.
+      </div>
+    </div>
+
+    <div id="paneS">
+      <x-table src="ladders/priest-shadow" id="talS"></x-table>
+      <div class="note">
+        <strong>Shadowform is why this cannot be your duo spec.</strong> You may not cast healing spells while in it, and it is a 1.5 sec cooldown to drop and re-enter. Vampiric Embrace and Devouring Plague keep <em>you</em> alive, which is self-sustain, not healing a warrior through a bad pull.
+      </div>
+    </div>
+
+    <div class="note">
+      <strong>Where these ladders come from, precisely.</strong> classicwowforever publishes <b>ten-level bands</b>, not single levels &mdash; the bands, the tree rows and the point gates are theirs, read against live build 1.60.1.70862 on 8 November. <b>Splitting them into one point per level is mine.</b> I checked every row of both ladders: each gate is met at the level the point is spent, the running total never exceeds what that level grants, and both end on the exact 38/13 and 13/38 spreads the page publishes. So the shape is sourced and the arithmetic holds, but if a band was meant to be spent in a different order inside itself, that is where it would differ.
+    </div>
+    <div class="note">
+      <strong>On Spirit Tap, since the two ladders disagree about it.</strong> Icy Veins calls it the most important leveling talent a priest has, and the Shadow ladder takes it first, 5/5 by level 14. The Discipline ladder never takes it at all, because it is five points in Shadow row 1 and spending them pushes Penance past 30. Maxroll gives that counter-argument in its own words: delay or skip it "to reach Penance earlier if you're primarily leveling with a party or in dungeons." It also triggers on <em>your</em> killing blow, which in a warrior duo is often not yours.
+    </div>
+  
+</section>
+
+<section>
+    <div class="section-head">
+      <h2>What to actually press</h2>
+      <p>Maxroll is the only source found that publishes rotations for Forever priests. It gives these as openers and loops without labelling which spec each belongs to &mdash; the spec labels below are inferred from the ability names, so treat the grouping as a reading rather than a quote.</p>
+    </div>
+    <div class="cols">
+      <div class="rotcard">
+        <span class="lvlrange">levels 1&ndash;19</span>
+        <h4>Shield, blast, wand</h4>
+        <ol class="rot">
+          <li>Power Word: Shield <b>on yourself</b>, before you pull</li>
+          <li>Mind Blast</li>
+          <li>Shadow Word: Pain</li>
+          <li>Wand until it dies</li>
+        </ol>
+        <span style="font-size:0.84rem;color:var(--muted)">Maxroll: wands "will do more damage than spells early on while not costing Mana."</span>
+      </div>
+      <div class="rotcard">
+        <span class="lvlrange">levels 20&ndash;39</span>
+        <h4>The full opener arrives</h4>
+        <ol class="rot">
+          <li>Power Word: Shield</li>
+          <li>Holy Fire</li>
+          <li>Shadow Word: Pain</li>
+          <li>Mind Blast</li>
+          <li>Penance, if talented</li>
+          <li>Loop on wand; Shadow Word: Death to finish</li>
+        </ol>
+      </div>
+      <div class="rotcard" data-token="discipline">
+        <span class="lvlrange">discipline &middot; damage</span>
+        <h4>Penance carries it</h4>
+        <ul class="loopl">
+          <li>Penance on cooldown &mdash; "the strongest damage ability"</li>
+          <li>Smite if you have the mana</li>
+          <li>Wand to save mana</li>
+          <li>Shadow Word: Death to finish</li>
+        </ul>
+        <span style="font-size:0.84rem;color:var(--muted)">Keep SW: Pain up: Power in Light boosts Smite and Penance against anything carrying it.</span>
+      </div>
+      <div class="rotcard" data-token="discipline">
+        <span class="lvlrange">discipline &middot; healing</span>
+        <h4>Shields first, downranks always</h4>
+        <ul class="loopl">
+          <li>Power Word: Shield pre-pull, or as the emergency button</li>
+          <li>Renew on the warrior</li>
+          <li>Penance on cooldown</li>
+          <li>Flash Heal only in emergencies</li>
+          <li>Heal or Greater Heal otherwise &mdash; <b>downranked Heal to save mana</b></li>
+          <li>Prayer of Healing at four or more injured</li>
+        </ul>
+      </div>
+      <div class="rotcard" data-token="shadow">
+        <span class="lvlrange">shadow &middot; single target</span>
+        <h4>Dots, then channel</h4>
+        <ol class="rot">
+          <li>Power Word: Shield</li>
+          <li>Mind Blast</li>
+          <li>Shadow Word: Pain</li>
+          <li>Devouring Plague</li>
+          <li>Mind Flay</li>
+          <li>Vampiric Embrace if you need the healing</li>
+          <li>Loop Mind Flay; wand when low; SW: Death to finish</li>
+        </ol>
+      </div>
+      <div class="rotcard" data-token="shadow">
+        <span class="lvlrange">shadow &middot; multi target</span>
+        <h4>The AoE Discipline hasn't got</h4>
+        <ol class="rot">
+          <li>Shadow Word: Pain on <b>every</b> target</li>
+          <li>Devouring Plague on the main one</li>
+          <li>Mind Flay</li>
+          <li>Wand in the loop, SW: Death to finish</li>
+        </ol>
+        <span style="font-size:0.84rem;color:var(--muted)">With Devouring Contagion, a kill under Devouring Plague spreads it to two more.</span>
+      </div>
+    </div>
+    <div class="note good">
+      <strong>The one mechanic worth changing a habit for.</strong> Shield <b>yourself</b> before pulling, not just when you are hurt: Maxroll says the shield "prevents spell-pushback and the loss of Inner Fire charges while active." Pushback is what ruins your cast times when something is chewing on you. On the warrior, apply it "as long before the pull as you need to regenerate the Mana spent on it."
+    </div>
+    <div class="note">
+      <strong>Levels where the rotation actually changes.</strong> <b>10</b> &mdash; Smite stops being your filler once you have a wand, and the racial quest lands. <b>16</b> &mdash; Lesser Heal stops being the default heal. <b>20</b> &mdash; Holy Fire, Mind Blast and Penance enter the opener; second racial quest. <b>30</b> &mdash; Penance, and Divine Spirit arrives (which is what kills your Tailoring camp banner). <b>40</b> &mdash; Shadowform, and dual spec.
+    </div>
+  </section>
+
+<section>
+    <div class="section-head">
+      <h2>Quest rewards worth a detour</h2>
+      <p>Priests get <b>no class weapon quest before 60</b> &mdash; three sources agree on that, so every weapon below is an ordinary quest reward or a drop. Wand DPS matters more to you than to most priests, because Wand Specialization is 2 points for +25%.</p>
+    </div>
+
+    <div class="note">
+      <strong>First, check your racial chain is actually finished.</strong> Night elf priests get <b>Stars of Elune</b> (quest 5627) at level 10, which grants Starshards, and <b>Elune's Grace</b> (quest 5674) at 20. You are 23, so both should be behind you &mdash; but ConquestCapped warns these must not be skipped, because the spell stays locked until the chain is complete. If Starshards isn't in your spellbook, that is the single highest-value thing on this page.
+    </div>
+
+    <h3>Wands</h3>
+    <x-table src="quest-rewards/priest-wands"></x-table>
+    <div class="note">
+      <strong>You can also just make them.</strong> Enchanting crafts wands, which is the profession hook nobody writes about: at skill 81 you can already make a <b>Greater Magic Wand</b> &mdash; Zockify puts its requirement at 70, Wowhead lists it as a 101&ndash;110 route step, so the two disagree and yours is the skill that settles it. After that come <b>Lesser Mystic Wand</b> (skill 175, item level 26) and <b>Greater Mystic Wand</b> (195, ilvl 30), both trainer-taught, and <b>Torch of Light</b> at 300. The problem: <b>no source publishes DPS for any crafted wand</b>, so you cannot compare one against the Gravestone Scepter without reading both tooltips in game.
+    </div>
+    <div class="note">
+      <strong>One unresolved thing that would change how much Wand Specialization is worth.</strong> Timesaver quotes Blizzard saying wands no longer gain damage from spell damage. Neither Wowhead's nor Zockify's enchanting pages mention it, and nothing else corroborates it. If it's true, wands stop scaling with your gear and Wand Specialization becomes a leveling-only talent that falls off at 60. At 2 points it is worth taking either way, so this changes nothing today &mdash; but it decides whether you keep it in the level 60 build.
+    </div>
+
+    <h3>Staves and off-hands, for the healing half of your job</h3>
+    <x-table src="quest-rewards/priest-staves"></x-table>
+    <div class="note">
+      <strong>Two warnings worth repeating, both timesaver's own.</strong> Skip the <b>Staff of Jordan</b> at 35 &mdash; it says most shadow priests should, since beyond spell damage it only adds +20 Intellect, +10 Spirit and 1.5% hit for around 86 gold. And do not farm the <b>Blade of Eternal Darkness</b> at level 50: it is a <b>0.20%</b> drop from Princess Theradras. Hold Galgann's Firehammer until the Energetic Rod at 55 instead.
+    </div>
+  </section>
+
+<section>
+    <div class="section-head">
+      <h2>What every talent actually does</h2>
+      <p>Tooltips as classicwowforever recorded them on 8 November, against live build 1.60.1.70862. Values are max rank unless noted. Collapsed by default &mdash; open the tree you need.</p>
+    </div>
+
+    <details class="ref">
+      <summary>Discipline <span>&mdash; 18 talents, 51 ranks</span></summary>
+      <x-table src="tooltips/priest-discipline"></x-table>
+    </details>
+
+    <details class="ref">
+      <summary>Shadow Magic <span>&mdash; 17 talents, 49 ranks</span></summary>
+      <x-table src="tooltips/priest-shadow"></x-table>
+    </details>
+
+    <details class="ref">
+      <summary>Holy <span>&mdash; 17 talents, 48 ranks. Neither build goes past row 2.</span></summary>
+      <x-table src="tooltips/priest-holy"></x-table>
+    </details>
+  </section>
+
+<section>
+  <div class="section-head">
+    <h2>How much of this to trust</h2>
+  </div>
+  <x-confidence></x-confidence>
+</section>

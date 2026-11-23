@@ -49,5 +49,137 @@
     "watch": "never",
     "watchWhy": "Ziff Davis states in robots.txt that automated retrieval is prohibited without written permission, naming RAG and AI databases. Read by hand only.",
     "checked": "2026-11-21"
+  },
+  "wowhead-enchanting": {
+    "site": "Wowhead, Enchanting 1-300",
+    "url": "https://www.wowhead.com/forever/profession-leveling-guides/enchanting",
+    "watch": "hash",
+    "checked": "2026-11-23",
+    "watchWhy": "wowhead.com names about forty AI crawlers in robots.txt and disallows each one, so we keep a hash and never a copy of the text"
+  },
+  "wowhead-leatherworking": {
+    "site": "Wowhead, Leatherworking 1-300",
+    "url": "https://www.wowhead.com/forever/profession-leveling-guides/leatherworking",
+    "watch": "hash",
+    "checked": "2026-11-23",
+    "watchWhy": "wowhead.com names about forty AI crawlers in robots.txt and disallows each one, so we keep a hash and never a copy of the text"
+  },
+  "zockify-enchanting": {
+    "site": "Zockify, Enchanting",
+    "url": "https://www.zockify.com/forever/professions/enchanting/",
+    "watch": "text",
+    "checked": "2026-11-23"
+  },
+  "zockify-leatherworking": {
+    "site": "Zockify, Leatherworking",
+    "url": "https://www.zockify.com/forever/professions/leatherworking/",
+    "watch": "text",
+    "checked": "2026-11-23"
+  },
+  "zockify-skinning": {
+    "site": "Zockify, Skinning 1-300",
+    "url": "https://www.zockify.com/forever/professions/skinning/",
+    "watch": "text",
+    "checked": "2026-11-23"
+  },
+  "wow-professions-enchanting": {
+    "site": "WoW-Professions, Enchanting 1-300",
+    "url": "https://www.wow-professions.com/forever/enchanting-leveling-guide",
+    "watch": "text",
+    "checked": "2026-11-23"
+  },
+  "wow-professions-leatherworking": {
+    "site": "WoW-Professions, Leatherworking 1-300",
+    "url": "https://www.wow-professions.com/forever/leatherworking-leveling-guide",
+    "watch": "text",
+    "checked": "2026-11-23"
+  },
+  "wow-professions-skinning": {
+    "site": "WoW-Professions, Skinning 1-300",
+    "url": "https://www.wow-professions.com/forever/skinning-leveling-guide",
+    "watch": "text",
+    "checked": "2026-11-23"
+  },
+  "classicwowforever-priest": {
+    "site": "classicwowforever, Priest talents",
+    "url": "https://classicwowforever.com/talents/priest",
+    "watch": "hash",
+    "checked": "2026-11-23",
+    "watchWhy": "classicwowforever.com sends Content-Signal: ai-train=no, use=reference, so we keep a hash and never a copy of the text"
+  },
+  "classicwowforever-rogue": {
+    "site": "classicwowforever, Rogue talents",
+    "url": "https://classicwowforever.com/talents/rogue",
+    "watch": "hash",
+    "checked": "2026-11-23",
+    "watchWhy": "classicwowforever.com sends Content-Signal: ai-train=no, use=reference, so we keep a hash and never a copy of the text"
+  },
+  "classicwowforever-priest-weapons": {
+    "site": "classicwowforever, Priest weapons 1-60",
+    "url": "https://classicwowforever.com/weapons/priest",
+    "watch": "hash",
+    "checked": "2026-11-23",
+    "watchWhy": "classicwowforever.com sends Content-Signal: ai-train=no, use=reference, so we keep a hash and never a copy of the text"
+  },
+  "classicwowforever-rogue-weapons": {
+    "site": "classicwowforever, Rogue weapons 1-60",
+    "url": "https://classicwowforever.com/weapons/rogue",
+    "watch": "hash",
+    "checked": "2026-11-23",
+    "watchWhy": "classicwowforever.com sends Content-Signal: ai-train=no, use=reference, so we keep a hash and never a copy of the text"
+  },
+  "wowhandbook-priest": {
+    "site": "wowhandbook, Priest leveling",
+    "url": "https://wowhandbook.com/classes/priest/leveling/",
+    "watch": "text",
+    "checked": "2026-11-23",
+    "untested": "contradicts itself in places; the page says so by disagreeing with its own table"
+  },
+  "wowhandbook-rogue": {
+    "site": "wowhandbook, Rogue leveling",
+    "url": "https://wowhandbook.com/classes/rogue/leveling/",
+    "watch": "text",
+    "checked": "2026-11-23",
+    "untested": "its prose disagrees with its own talent table at level 50"
+  },
+  "talentsforever-priest": {
+    "site": "talentsforever, Priest builds",
+    "url": "https://talentsforever.com/priest/leveling",
+    "watch": "text",
+    "checked": "2026-11-23",
+    "untested": "counts what players pick, which is popularity and not a recommendation"
+  },
+  "talentsforever-rogue": {
+    "site": "talentsforever, Rogue builds",
+    "url": "https://talentsforever.com/rogue/leveling",
+    "watch": "text",
+    "checked": "2026-11-23",
+    "untested": "counts what players pick, which is popularity and not a recommendation"
+  },
+  "timesaver-priest-weapons": {
+    "site": "Timesaver, Priest weapons 1-60",
+    "url": "https://timesaver.gg/blog/wow-forever-priest-leveling-weapons",
+    "watch": "text",
+    "checked": "2026-11-23"
+  },
+  "timesaver-rogue-weapons": {
+    "site": "Timesaver, Rogue weapons 1-60",
+    "url": "https://timesaver.gg/blog/wow-forever-rogue-leveling-weapons",
+    "watch": "text",
+    "checked": "2026-11-23"
+  },
+  "conquestcapped-class-quests": {
+    "site": "conquestcapped, class quests",
+    "url": "https://conquestcapped.com/guides/wow-forever/wow-forever-class-quests/",
+    "watch": "never",
+    "checked": "2026-11-23",
+    "watchWhy": "returns a Cloudflare challenge to any automated client as of 2026-11-23, so it cannot be fetched at all. Read by hand."
+  },
+  "maxroll-rogue": {
+    "site": "Maxroll, Rogue leveling",
+    "url": "https://maxroll.gg/wow-forever/class-guides/rogue-leveling-guide",
+    "watch": "never",
+    "checked": "2026-11-23",
+    "watchWhy": "Ziff Davis states in robots.txt that automated retrieval is prohibited without written permission, naming RAG and AI databases. Read by hand."
   }
 }

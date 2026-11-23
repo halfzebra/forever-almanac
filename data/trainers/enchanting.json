@@ -1,0 +1,42 @@
+{
+  "token": "enchanting",
+  "sources": [
+    "zockify-enchanting",
+    "wow-professions-enchanting"
+  ],
+  "confidence": {
+    "check": [
+      "Which Darnassus enchanter teaches which rank."
+    ],
+    "solid": [
+      "Annora being the only Artisan enchanter for either faction, and that she only spawns once her area in Uldaman is cleared."
+    ]
+  },
+  "groups": [
+    {
+      "label": "Enchanting",
+      "trainers": [
+        {
+          "rank": "Teldrassil &middot; Darnassus",
+          "who": "Alanna Raveneye &middot; Lalina Summermoon",
+          "where": "Oracle Glade <span class=\"co\">36.8, 34.2</span> &middot; Craftsmen's Terrace <span class=\"co\">59.6, 12.4</span> &mdash; Apprentice"
+        },
+        {
+          "rank": "Darnassus",
+          "who": "Taladan",
+          "where": "Craftsmen's Terrace &middot; <span class=\"co\">58.6, 13.6</span> &mdash; Journeyman"
+        },
+        {
+          "rank": "Expert &middot; level 20 &middot; ~50s",
+          "who": "Kitta Firewind",
+          "where": "Top floor of the Tower of Azora, Elwynn Forest &middot; <span class=\"co\">64.9, 70.7</span>. Vanessa Sellers in Dalaran and Melanie Sable in Riverglades also teach it, but both are worse trips at your level."
+        },
+        {
+          "rank": "Artisan &middot; level 35",
+          "who": "Annora",
+          "where": "Inside Uldaman, south of Temple Hall. The only Artisan enchanter for either faction, and the only source of the 230&ndash;250 formulas."
+        }
+      ]
+    }
+  ]
+}

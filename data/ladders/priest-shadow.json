@@ -1,0 +1,257 @@
+{
+  "kind": "ladder",
+  "drive": {
+    "by": "level",
+    "bound": "inclusive"
+  },
+  "derived": true,
+  "startLevel": 10,
+  "specName": "Shadow",
+  "publishedSpread": {
+    "Shadow": 38,
+    "Disc": 13
+  },
+  "sources": [
+    "classicwowforever-priest",
+    "wowhandbook-priest"
+  ],
+  "note": "The sources publish ten-level bands. The split into one point a level is derived, and checked: every tree row opens on the level its point is spent, the running total never exceeds level minus 9, and the finished build lands on the spread above.",
+  "columns": [
+    {
+      "label": "Level",
+      "field": "range",
+      "class": "num"
+    },
+    {
+      "label": "Talent",
+      "field": "talent",
+      "class": "item"
+    },
+    {
+      "label": "Rank",
+      "field": "rank",
+      "class": "rk"
+    },
+    {
+      "label": "Tree",
+      "field": "treeLabel"
+    },
+    {
+      "label": "Why",
+      "field": "why",
+      "class": "mats"
+    }
+  ],
+  "rows": [
+    {
+      "min": 10,
+      "max": 14,
+      "talent": "Spirit Tap",
+      "rank": "5/5",
+      "treeLabel": "<span class=\"tree\" data-token=\"shadow\">Shadow</span>",
+      "tree": "Shadow",
+      "row": 1,
+      "why": "Double Spirit for 15 sec on every kill, and half of it keeps working while casting. The reason solo Shadow never stops to drink."
+    },
+    {
+      "min": 15,
+      "max": 16,
+      "talent": "Improved Shadow Word: Pain",
+      "rank": "2/2",
+      "treeLabel": "<span class=\"tree\" data-token=\"shadow\">Shadow</span>",
+      "tree": "Shadow",
+      "row": 2,
+      "why": "+6 sec duration, so one cast covers a whole kill."
+    },
+    {
+      "min": 17,
+      "max": 18,
+      "talent": "Shadow Reach",
+      "rank": "2/2",
+      "treeLabel": "<span class=\"tree\" data-token=\"shadow\">Shadow</span>",
+      "tree": "Shadow",
+      "row": 2,
+      "why": "+20% range. More wanding before it reaches you."
+    },
+    {
+      "min": 19,
+      "max": 19,
+      "talent": "Improved Mind Blast",
+      "rank": "1/5",
+      "treeLabel": "<span class=\"tree\" data-token=\"shadow\">Shadow</span>",
+      "tree": "Shadow",
+      "row": 2,
+      "why": "Shaves the Mind Blast cooldown."
+    },
+    {
+      "min": 20,
+      "max": 20,
+      "talent": "Mind Flay",
+      "rank": "1/1",
+      "treeLabel": "<span class=\"tree\" data-token=\"shadow\">Shadow</span>",
+      "tree": "Shadow",
+      "row": 3,
+      "why": "Row 3 at 10 points. Your filler channel, and a 50% slow."
+    },
+    {
+      "min": 21,
+      "max": 22,
+      "talent": "Improved Mind Flay",
+      "rank": "2/2",
+      "treeLabel": "<span class=\"tree\" data-token=\"shadow\">Shadow</span>",
+      "tree": "Shadow",
+      "row": 3,
+      "why": "Each tick hits 20% harder than the last, so finish the channel."
+    },
+    {
+      "min": 23,
+      "max": 24,
+      "talent": "Shadow Focus",
+      "rank": "2/5",
+      "treeLabel": "<span class=\"tree\" data-token=\"shadow\">Shadow</span>",
+      "tree": "Shadow",
+      "row": 1,
+      "why": "Shadow hit chance."
+    },
+    {
+      "min": 25,
+      "max": 25,
+      "talent": "Vampiric Embrace",
+      "rank": "1/1",
+      "treeLabel": "<span class=\"tree\" data-token=\"shadow\">Shadow</span>",
+      "tree": "Shadow",
+      "row": 4,
+      "why": "20% of your Shadow damage heals the party. Row 4 at 15, and the gate to Shadowform."
+    },
+    {
+      "min": 26,
+      "max": 28,
+      "talent": "Shadow Weaving",
+      "rank": "3/3",
+      "treeLabel": "<span class=\"tree\" data-token=\"shadow\">Shadow</span>",
+      "tree": "Shadow",
+      "row": 4,
+      "why": "Stacks +2% Shadow damage taken, up to 5 times."
+    },
+    {
+      "min": 29,
+      "max": 29,
+      "talent": "Dark Inspiration",
+      "rank": "1/5",
+      "treeLabel": "<span class=\"tree\" data-token=\"shadow\">Shadow</span>",
+      "tree": "Shadow",
+      "row": 4,
+      "why": "One point only in this build, so it is +3% Spirit, not the 15% it can reach."
+    },
+    {
+      "min": 30,
+      "max": 30,
+      "talent": "Silence",
+      "rank": "1/1",
+      "treeLabel": "<span class=\"tree\" data-token=\"shadow\">Shadow</span>",
+      "tree": "Shadow",
+      "row": 5,
+      "why": "Row 5 at 20 points. The caster answer you otherwise don't have."
+    },
+    {
+      "min": 31,
+      "max": 32,
+      "talent": "Devouring Contagion",
+      "rank": "2/2",
+      "treeLabel": "<span class=\"tree\" data-token=\"shadow\">Shadow</span>",
+      "tree": "Shadow",
+      "row": 5,
+      "why": "Devouring Plague at half mana, and it spreads to 2 enemies on a kill. This is your AoE."
+    },
+    {
+      "min": 33,
+      "max": 34,
+      "talent": "Improved Mind Blast",
+      "rank": "3/5",
+      "treeLabel": "<span class=\"tree\" data-token=\"shadow\">Shadow</span>",
+      "tree": "Shadow",
+      "row": 2,
+      "why": "&mdash;"
+    },
+    {
+      "min": 35,
+      "max": 39,
+      "talent": "Darkness",
+      "rank": "5/5",
+      "treeLabel": "<span class=\"tree\" data-token=\"shadow\">Shadow</span>",
+      "tree": "Shadow",
+      "row": 6,
+      "why": "+10% Shadow damage flat. Row 6 at 25 points."
+    },
+    {
+      "min": 40,
+      "max": 40,
+      "talent": "Shadowform",
+      "rank": "1/1",
+      "treeLabel": "<span class=\"tree\" data-token=\"shadow\">Shadow</span>",
+      "tree": "Shadow",
+      "row": 7,
+      "why": "+10% Shadow damage, half mana on Shadow spells, double crit bonus, &minus;15% physical taken. <b>No healing spells while in it.</b> Row 7 needs 30 and Vampiric Embrace."
+    },
+    {
+      "min": 41,
+      "max": 42,
+      "talent": "Improved Mind Blast",
+      "rank": "5/5",
+      "treeLabel": "<span class=\"tree\" data-token=\"shadow\">Shadow</span>",
+      "tree": "Shadow",
+      "row": 2,
+      "why": "&minus;2.5 sec cooldown at full rank."
+    },
+    {
+      "min": 43,
+      "max": 45,
+      "talent": "Shadow Focus",
+      "rank": "5/5",
+      "treeLabel": "<span class=\"tree\" data-token=\"shadow\">Shadow</span>",
+      "tree": "Shadow",
+      "row": 1,
+      "why": "&mdash;"
+    },
+    {
+      "min": 46,
+      "max": 47,
+      "talent": "Early Demise",
+      "rank": "2/2",
+      "treeLabel": "<span class=\"tree\" data-token=\"shadow\">Shadow</span>",
+      "tree": "Shadow",
+      "row": 6,
+      "why": "+30% Shadow Word: Death crit under 20% health. Finishes Shadow at 38 points."
+    },
+    {
+      "min": 48,
+      "max": 52,
+      "talent": "Twin Disciplines",
+      "rank": "5/5",
+      "treeLabel": "<span class=\"tree\" data-token=\"discipline\">Disc</span>",
+      "tree": "Disc",
+      "row": 1,
+      "why": "The last 13 points go to Discipline."
+    },
+    {
+      "min": 53,
+      "max": 57,
+      "talent": "Mental Strength",
+      "rank": "5/5",
+      "treeLabel": "<span class=\"tree\" data-token=\"discipline\">Disc</span>",
+      "tree": "Disc",
+      "row": 2,
+      "why": "+10% Intellect. Row 2 at 5 Discipline points."
+    },
+    {
+      "min": 58,
+      "max": 60,
+      "talent": "Meditation",
+      "rank": "3/3",
+      "treeLabel": "<span class=\"tree\" data-token=\"discipline\">Disc</span>",
+      "tree": "Disc",
+      "row": 3,
+      "why": "Row 3 at 10. Ends the build at <b>13 Discipline / 38 Shadow</b>."
+    }
+  ]
+}

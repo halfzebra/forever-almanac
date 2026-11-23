@@ -159,6 +159,9 @@ function renderTable(key, opts = {}) {
       /* A talent row's tree and tree-row travel into the HTML as attributes so
          the validator can re-derive the arithmetic without depending on which
          column happens to hold them. */
+      /* An alternative to the row above it, covering the same band. It is not
+         a step in the chain, so the contiguity check must skip it. */
+      if (row.alt) a.push(`data-alt="true"`);
       if (row.tree) a.push(`data-tree="${attr(row.tree)}"`);
       if (row.row) a.push(`data-row="${attr(row.row)}"`);
 
@@ -200,7 +203,7 @@ function renderTable(key, opts = {}) {
   if (d.startLevel) tAttrs.push(`data-start-level="${attr(d.startLevel)}"`);
   if (d.derived) tAttrs.push(`data-derived="true"`);
 
-  const note = d.note ? `\n  <p>${d.note}</p>` : "";
+  const note = d.note ? `\n<p class="tnote">${d.note}</p>` : "";
   return `<div class="tscroll">
   <table${tAttrs.length ? " " + tAttrs.join(" ") : ""}>
     <thead><tr>${head}</tr></thead>
@@ -407,7 +410,7 @@ function characterPayload(rec) {
   const camp = data("camp/objects");
   const buffs = (data("camp/class-buffs") || {}).buffs || {};
   if (camp) {
-    const mine = (camp.objects || []).filter((o) => (rec.professions || []).includes(o.profession));
+    const mine = (camp.rows || []).filter((o) => (rec.professions || []).includes(o.profession));
     out.camp = mine.map((o) => ({
       name: o.name,
       profession: o.profession,

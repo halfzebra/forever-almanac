@@ -1,10 +1,74 @@
 {
+  "classicwowforever-priest": [
+    "content/characters/priest.html",
+    "content/classes/priest.html",
+    "data/ladders/priest-discipline.json",
+    "data/ladders/priest-shadow.json",
+    "data/tooltips/priest-discipline.json",
+    "data/tooltips/priest-holy.json",
+    "data/tooltips/priest-shadow.json"
+  ],
+  "classicwowforever-priest-weapons": [
+    "data/quest-rewards/priest-staves.json",
+    "data/quest-rewards/priest-wands.json"
+  ],
+  "classicwowforever-rogue": [
+    "content/characters/rogue.html",
+    "content/classes/rogue.html",
+    "data/ladders/rogue-combat.json",
+    "data/tooltips/rogue-assassination.json",
+    "data/tooltips/rogue-combat.json",
+    "data/tooltips/rogue-subtlety.json"
+  ],
+  "classicwowforever-rogue-weapons": [
+    "content/classes/rogue.html",
+    "data/quest-rewards/rogue.json"
+  ],
+  "conquestcapped-class-quests": [
+    "content/classes/rogue.html",
+    "data/quest-rewards/rogue.json"
+  ],
+  "maxroll-priest": [
+    "content/classes/priest.html"
+  ],
+  "maxroll-rogue": [
+    "content/classes/rogue.html"
+  ],
   "method-tailoring": [
     "content/professions/tailoring.html",
     "data/routes/tailoring.json"
   ],
+  "talentsforever-priest": [
+    "content/classes/priest.html"
+  ],
+  "talentsforever-rogue": [
+    "content/classes/rogue.html",
+    "data/ladders/rogue-combat.json"
+  ],
+  "timesaver-priest-weapons": [
+    "data/quest-rewards/priest-wands.json"
+  ],
+  "timesaver-rogue-weapons": [
+    "content/classes/rogue.html"
+  ],
   "timesaver-tailoring": [
     "data/routes/tailoring.json"
+  ],
+  "wow-professions-enchanting": [
+    "content/professions/enchanting.html",
+    "data/routes/enchanting.json",
+    "data/trainers/enchanting.json"
+  ],
+  "wow-professions-leatherworking": [
+    "content/professions/leatherworking.html",
+    "data/routes/leatherworking.json",
+    "data/trainers/leatherworking.json"
+  ],
+  "wow-professions-skinning": [
+    "content/professions/skinning.html",
+    "data/routes/skinning.json",
+    "data/skinning/creature-levels.json",
+    "data/trainers/skinning.json"
   ],
   "wow-professions-tailoring": [
     "data/gates.json",
@@ -13,10 +77,46 @@
   "wow-professions-tailoring-trainers": [
     "data/trainers/tailoring.json"
   ],
+  "wowhandbook-priest": [
+    "content/classes/priest.html",
+    "data/ladders/priest-discipline.json",
+    "data/ladders/priest-shadow.json"
+  ],
+  "wowhandbook-rogue": [
+    "content/classes/rogue.html",
+    "data/ladders/rogue-combat.json"
+  ],
+  "wowhead-enchanting": [
+    "content/professions/enchanting.html",
+    "data/routes/enchanting.json"
+  ],
+  "wowhead-leatherworking": [
+    "content/professions/leatherworking.html",
+    "data/routes/leatherworking.json"
+  ],
   "wowhead-tailoring": [
     "data/routes/tailoring.json"
   ],
+  "zockify-enchanting": [
+    "content/professions/enchanting.html",
+    "data/routes/enchanting.json",
+    "data/trainers/enchanting.json"
+  ],
+  "zockify-leatherworking": [
+    "content/professions/leatherworking.html",
+    "data/routes/leatherworking.json",
+    "data/trainers/leatherworking.json"
+  ],
+  "zockify-skinning": [
+    "content/professions/skinning.html",
+    "data/routes/skinning.json",
+    "data/skinning/creature-levels.json",
+    "data/trainers/skinning.json"
+  ],
   "zockify-tailoring": [
+    "content/mechanics/camping.html",
+    "content/mechanics/whats-new.html",
+    "data/camp/objects.json",
     "data/gates.json",
     "data/routes/tailoring.json"
   ],

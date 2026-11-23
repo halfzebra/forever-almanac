@@ -1,0 +1,139 @@
+{
+  "kind": "plain",
+  "specName": "Combat",
+  "sources": [
+    "classicwowforever-rogue"
+  ],
+  "columns": [
+    {
+      "label": "Talent",
+      "field": "talent",
+      "class": "item"
+    },
+    {
+      "label": "Row",
+      "field": "row",
+      "class": "num"
+    },
+    {
+      "label": "Max",
+      "field": "max_",
+      "class": "num"
+    },
+    {
+      "label": "Effect",
+      "field": "effect",
+      "class": "mats"
+    }
+  ],
+  "rows": [
+    {
+      "talent": "Efficient Strikes",
+      "row": "1",
+      "max_": "2",
+      "effect": "Sinister Strike and Hemorrhage cost 5 less Energy &mdash; though talentsforever's change log says a 2 Nov hotfix moved it to 3."
+    },
+    {
+      "talent": "Coup de Grace",
+      "row": "1",
+      "max_": "3",
+      "effect": "+20% Eviscerate damage, and +20% Death Mark damage and storage rate. Listed as 7/13/20% per rank."
+    },
+    {
+      "talent": "Lightning Reflexes",
+      "row": "1",
+      "max_": "5",
+      "effect": "+5% dodge. Per-rank split not published."
+    },
+    {
+      "talent": "Precision",
+      "row": "2",
+      "max_": "3",
+      "effect": "+3% chance to hit. Per-rank split not published."
+    },
+    {
+      "talent": "Deflection",
+      "row": "2",
+      "max_": "3",
+      "effect": "+6% parry. The prerequisite for Riposte."
+    },
+    {
+      "talent": "Improved Sprint",
+      "row": "2",
+      "max_": "2",
+      "effect": "Sprint removes all movement-impairing effects."
+    },
+    {
+      "talent": "Puncturing Wounds",
+      "row": "2",
+      "max_": "3",
+      "effect": "+30% Backstab crit, +15% Mutilate crit, and a 45% chance for Backstab to add a combo point. Dagger talent &mdash; not for this build."
+    },
+    {
+      "talent": "Riposte",
+      "row": "3",
+      "max_": "1",
+      "effect": "10 Energy, instant, 6 sec cooldown. After you parry: 150% weapon damage and <b>disarms the target for 6 sec</b>. Needs Deflection at full rank."
+    },
+    {
+      "talent": "Composure",
+      "row": "3",
+      "max_": "2",
+      "effect": "Poised's Energy cost reduction +10 (listed 5/10)."
+    },
+    {
+      "talent": "Endurance",
+      "row": "3",
+      "max_": "2",
+      "effect": "&minus;60% Sprint and Evasion cooldowns."
+    },
+    {
+      "talent": "Weapon Expertise",
+      "row": "4",
+      "max_": "2",
+      "effect": "&minus;2% chance for your attacks to be dodged or parried. Needs Precision at full rank."
+    },
+    {
+      "talent": "Aggression",
+      "row": "4",
+      "max_": "3",
+      "effect": "+15% Sinister Strike and Eviscerate damage (5/10/15%). <b>As of 2 Nov it no longer covers Backstab</b> &mdash; another reason this build avoids daggers."
+    },
+    {
+      "talent": "Flawless Execution",
+      "row": "4",
+      "max_": "1",
+      "effect": "Eviscerate costs 15 less Energy, raised from 10 on 2 Nov."
+    },
+    {
+      "talent": "Blade Flurry",
+      "row": "5",
+      "max_": "1",
+      "effect": "25 Energy, instant, 2 min cooldown. +20% melee attack speed, and your melee attacks also strike a nearby second target. 15 sec."
+    },
+    {
+      "talent": "Dual Wield Specialization",
+      "row": "5",
+      "max_": "2",
+      "effect": "+50% off-hand damage. Reworked from 5 ranks to 25% into 2 ranks for 25/50%."
+    },
+    {
+      "talent": "Hack and Slash",
+      "row": "5",
+      "max_": "5",
+      "effect": "<b>Depends on your weapon:</b> axe or sword gives a 5% chance at an extra attack; dagger or fist gives +5% crit; mace ignores 15% of the target's armour. Replaced the old weapon specializations when axes were added (Blizzard, 7 Oct)."
+    },
+    {
+      "talent": "Flash of Steel",
+      "row": "6",
+      "max_": "5",
+      "effect": "Shank generates 15 more Energy and its cooldown drops up to 2 sec (+3/6/9/12/15 Energy)."
+    },
+    {
+      "talent": "Adrenaline Rush",
+      "row": "7",
+      "max_": "1",
+      "effect": "Instant, 5 min cooldown. <b>+100% Energy regeneration for 15 sec.</b> Needs Blade Flurry."
+    }
+  ]
+}

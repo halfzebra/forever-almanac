@@ -1,0 +1,247 @@
+{
+  "kind": "ladder",
+  "drive": {
+    "by": "level",
+    "bound": "inclusive"
+  },
+  "derived": true,
+  "startLevel": 10,
+  "specName": "Discipline",
+  "publishedSpread": {
+    "Disc": 38,
+    "Holy": 13
+  },
+  "sources": [
+    "classicwowforever-priest",
+    "wowhandbook-priest"
+  ],
+  "note": "The sources publish ten-level bands. The split into one point a level is derived, and checked: every tree row opens on the level its point is spent, the running total never exceeds level minus 9, and the finished build lands on the spread above.",
+  "columns": [
+    {
+      "label": "Level",
+      "field": "range",
+      "class": "num"
+    },
+    {
+      "label": "Talent",
+      "field": "talent",
+      "class": "item"
+    },
+    {
+      "label": "Rank",
+      "field": "rank",
+      "class": "rk"
+    },
+    {
+      "label": "Tree",
+      "field": "treeLabel"
+    },
+    {
+      "label": "Why",
+      "field": "why",
+      "class": "mats"
+    }
+  ],
+  "rows": [
+    {
+      "min": 10,
+      "max": 11,
+      "talent": "Wand Specialization",
+      "rank": "2/2",
+      "treeLabel": "<span class=\"tree\" data-token=\"discipline\">Disc</span>",
+      "tree": "Disc",
+      "row": 1,
+      "why": "Two ranks for the whole +25%. Cheapest damage in the tree."
+    },
+    {
+      "min": 12,
+      "max": 14,
+      "talent": "Power in Light",
+      "rank": "3/5",
+      "treeLabel": "<span class=\"tree\" data-token=\"discipline\">Disc</span>",
+      "tree": "Disc",
+      "row": 1,
+      "why": "Smite and Penance hit harder into your Holy Fire or SW: Pain."
+    },
+    {
+      "min": 15,
+      "max": 18,
+      "talent": "Mental Strength",
+      "rank": "4/5",
+      "treeLabel": "<span class=\"tree\" data-token=\"discipline\">Disc</span>",
+      "tree": "Disc",
+      "row": 2,
+      "why": "+10% Intellect at full rank. Row 2 opened at 5 points."
+    },
+    {
+      "min": 19,
+      "max": 19,
+      "talent": "Holy Precision",
+      "rank": "1/3",
+      "treeLabel": "<span class=\"tree\" data-token=\"discipline\">Disc</span>",
+      "tree": "Disc",
+      "row": 2,
+      "why": "Holy hit chance. Sits in Discipline despite the name."
+    },
+    {
+      "min": 20,
+      "max": 22,
+      "talent": "Improved Power Word: Shield",
+      "rank": "3/3",
+      "treeLabel": "<span class=\"tree\" data-token=\"discipline\">Disc</span>",
+      "tree": "Disc",
+      "row": 3,
+      "why": "Row 3 at 10 points. Also the gate to Soul Warding."
+    },
+    {
+      "min": 23,
+      "max": 25,
+      "talent": "Meditation",
+      "rank": "3/3",
+      "treeLabel": "<span class=\"tree\" data-token=\"discipline\">Disc</span>",
+      "tree": "Disc",
+      "row": 3,
+      "why": "Half your mana regen keeps running while you cast."
+    },
+    {
+      "min": 26,
+      "max": 26,
+      "talent": "Soul Warding",
+      "rank": "1/1",
+      "treeLabel": "<span class=\"tree\" data-token=\"discipline\">Disc</span>",
+      "tree": "Disc",
+      "row": 4,
+      "why": "Shield cooldown &minus;4 sec and &minus;15% mana. Needs Improved PW: S full."
+    },
+    {
+      "min": 27,
+      "max": 27,
+      "talent": "Inner Focus",
+      "rank": "1/1",
+      "treeLabel": "<span class=\"tree\" data-token=\"discipline\">Disc</span>",
+      "tree": "Disc",
+      "row": 3,
+      "why": "One free cast, +25% crit on it. Save for an emergency Greater Heal."
+    },
+    {
+      "min": 28,
+      "max": 28,
+      "talent": "Mental Strength",
+      "rank": "5/5",
+      "treeLabel": "<span class=\"tree\" data-token=\"discipline\">Disc</span>",
+      "tree": "Disc",
+      "row": 2,
+      "why": "&mdash;"
+    },
+    {
+      "min": 29,
+      "max": 29,
+      "talent": "Silent Resolve",
+      "rank": "1/3",
+      "treeLabel": "<span class=\"tree\" data-token=\"discipline\">Disc</span>",
+      "tree": "Disc",
+      "row": 2,
+      "why": "Filler. Its only job is reaching 20 points in tree."
+    },
+    {
+      "min": 30,
+      "max": 30,
+      "talent": "Penance",
+      "rank": "1/1",
+      "treeLabel": "<span class=\"tree\" data-token=\"discipline\">Disc</span>",
+      "tree": "Disc",
+      "row": 5,
+      "why": "The payoff, and Maxroll's \"strongest damage ability\". Row 5 needs 20; you land on exactly 20."
+    },
+    {
+      "min": 31,
+      "max": 35,
+      "talent": "Renewed Hope",
+      "rank": "5/5",
+      "treeLabel": "<span class=\"tree\" data-token=\"discipline\">Disc</span>",
+      "tree": "Disc",
+      "row": 5,
+      "why": "+10% crit on direct heals into Weakened Soul, and 5 sec off it. Needs Soul Warding."
+    },
+    {
+      "min": 36,
+      "max": 38,
+      "talent": "Divine Aegis",
+      "rank": "3/3",
+      "treeLabel": "<span class=\"tree\" data-token=\"discipline\">Disc</span>",
+      "tree": "Disc",
+      "row": 6,
+      "why": "Crit heals leave a shield, 15% up to 1,200. Row 6 at 25 points."
+    },
+    {
+      "min": 39,
+      "max": 39,
+      "talent": "Mental Agility",
+      "rank": "1/3",
+      "treeLabel": "<span class=\"tree\" data-token=\"discipline\">Disc</span>",
+      "tree": "Disc",
+      "row": 3,
+      "why": "Filler again, to reach 30 in tree."
+    },
+    {
+      "min": 40,
+      "max": 40,
+      "talent": "Power Infusion",
+      "rank": "1/1",
+      "treeLabel": "<span class=\"tree\" data-token=\"discipline\">Disc</span>",
+      "tree": "Disc",
+      "row": 7,
+      "why": "+20% spell damage and healing for 15 sec. Row 7 needs 30 <b>and Penance</b>. Dual spec opens this level too."
+    },
+    {
+      "min": 41,
+      "max": 42,
+      "talent": "Mental Agility",
+      "rank": "3/3",
+      "treeLabel": "<span class=\"tree\" data-token=\"discipline\">Disc</span>",
+      "tree": "Disc",
+      "row": 3,
+      "why": "&minus;10% mana on Smite, Holy Fire and instants."
+    },
+    {
+      "min": 43,
+      "max": 47,
+      "talent": "Twin Disciplines",
+      "rank": "5/5",
+      "treeLabel": "<span class=\"tree\" data-token=\"discipline\">Disc</span>",
+      "tree": "Disc",
+      "row": 1,
+      "why": "More damage and healing on instant casts. Finishes Discipline at 38 points."
+    },
+    {
+      "min": 48,
+      "max": 52,
+      "talent": "Holy Specialization",
+      "rank": "5/5",
+      "treeLabel": "<span class=\"tree\" data-token=\"holy\">Holy</span>",
+      "tree": "Holy",
+      "row": 1,
+      "why": "+5% crit on Holy spells. The last 13 points go to Holy."
+    },
+    {
+      "min": 53,
+      "max": 57,
+      "talent": "Divine Fury",
+      "rank": "5/5",
+      "treeLabel": "<span class=\"tree\" data-token=\"holy\">Holy</span>",
+      "tree": "Holy",
+      "row": 2,
+      "why": "&minus;0.5 sec cast on Smite, Holy Fire, Heal and Greater Heal. Row 2 at 5 Holy points."
+    },
+    {
+      "min": 58,
+      "max": 60,
+      "talent": "Improved Renew",
+      "rank": "3/3",
+      "treeLabel": "<span class=\"tree\" data-token=\"holy\">Holy</span>",
+      "tree": "Holy",
+      "row": 1,
+      "why": "+15% Renew. Ends the build at <b>38 Discipline / 13 Holy</b>."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "token": "leatherworking",
+  "sources": [
+    "zockify-leatherworking",
+    "wow-professions-leatherworking"
+  ],
+  "groups": [
+    {
+      "label": "Leatherworking",
+      "trainers": [
+        {
+          "rank": "Apprentice",
+          "who": "Darianna",
+          "where": "Darnassus, Craftsmen's Terrace. Also <b>Nadyia Maneweaver</b> in Teldrassil, west of Dolanaar on the road to Darnassus."
+        },
+        {
+          "rank": "Journeyman &middot; level 10",
+          "who": "Faldron",
+          "where": "Darnassus, Craftsmen's Terrace. Aayndia Floralwind in Astranaar, Ashenvale, also teaches it."
+        },
+        {
+          "rank": "Expert &middot; level 20",
+          "who": "Telonis",
+          "where": "Darnassus, Craftsmen's Terrace &middot; <span class=\"co\">64.6, 21.6</span>. One source mislabels him Artisan; he teaches Expert."
+        },
+        {
+          "rank": "Artisan &middot; level 35",
+          "who": "Drakk Stonehand",
+          "where": "Aerie Peak, The Hinterlands &middot; <span class=\"co\">13.4, 43.3</span>. The only Alliance Artisan leatherworker."
+        },
+        {
+          "rank": "Pattern vendor",
+          "who": "Saenorion",
+          "where": "Darnassus. Mystic Heavy Armor Kit (20s), Light Leather Reagent Bag, Forceful kits."
+        }
+      ]
+    }
+  ]
+}

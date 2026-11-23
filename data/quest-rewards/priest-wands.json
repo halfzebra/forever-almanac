@@ -1,0 +1,79 @@
+{
+  "kind": "plain",
+  "sources": [
+    "classicwowforever-priest-weapons",
+    "timesaver-priest-weapons"
+  ],
+  "columns": [
+    {
+      "label": "Level",
+      "field": "lvl",
+      "class": "num"
+    },
+    {
+      "label": "Wand",
+      "field": "item",
+      "class": "item"
+    },
+    {
+      "label": "DPS",
+      "field": "dps",
+      "class": "num"
+    },
+    {
+      "label": "Where",
+      "field": "where",
+      "class": "mats"
+    }
+  ],
+  "rows": [
+    {
+      "lvl": "25&ndash;27",
+      "item": "Gravestone Scepter",
+      "dps": "29.0",
+      "where": "<b>Blackfathom Villainy</b>, Blackfathom Deeps. Your next real upgrade. Sources disagree on when you can use it: timesaver says from 18, classicwowforever says 25&ndash;26, and the quest itself is listed at 27."
+    },
+    {
+      "lvl": "27&ndash;28",
+      "item": "Wand of Mana Concentration",
+      "dps": "31.2",
+      "where": "<b>Arcanic Enigma</b>. classicwowforever puts it in the City of Dalaran, timesaver in Alterac Mountains &mdash; Dalaran sits inside Alterac, so both can be right."
+    },
+    {
+      "lvl": "34",
+      "item": "Captain Rackmore's Tiller",
+      "dps": "29.7",
+      "where": "<b>Claim Rackmore's Treasure!</b>, Desolace, quest level 36."
+    },
+    {
+      "lvl": "37&ndash;38",
+      "item": "Plaguerot Sprig",
+      "dps": "39.4",
+      "where": "Plaguemaw the Rotting, Razorfen Downs. +6 spell power on top. The mage-only restriction was removed."
+    },
+    {
+      "lvl": "38",
+      "item": "Neophyte's Wand",
+      "dps": "32.8",
+      "where": "<b>Saving Sunnyglade</b>, Riverglades &mdash; one of Forever's new zones."
+    },
+    {
+      "lvl": "40",
+      "item": "White Obsidian Wand",
+      "dps": "41.5",
+      "where": "Obsidian Sentinel, Uldaman. You are going to Uldaman for Annora anyway."
+    },
+    {
+      "lvl": "43",
+      "item": "Peacekeeper Wand",
+      "dps": "45.5",
+      "where": "Ruuzlu, Zul'Farrak."
+    },
+    {
+      "lvl": "53",
+      "item": "Lethtendris's Wand",
+      "dps": "56.8",
+      "where": "Lethtendris, Dire Maul."
+    }
+  ]
+}
