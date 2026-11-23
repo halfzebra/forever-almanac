@@ -9,10 +9,6 @@ on:
 permissions:
   contents: read
 
-concurrency:
-  group: pages
-  cancel-in-progress: false
-
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -62,6 +58,12 @@ jobs:
     needs: build
     if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
+    # Only the deploy contends for Pages. At workflow level this serialised
+    # every pull request build behind it, which is what made PR #1's build sit
+    # in the queue for twenty minutes and then die.
+    concurrency:
+      group: pages
+      cancel-in-progress: false
     permissions:
       pages: write
       id-token: write
