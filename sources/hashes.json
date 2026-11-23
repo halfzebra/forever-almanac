@@ -36,9 +36,9 @@
     "firstSeen": "2026-11-23"
   },
   "method-tailoring": {
-    "hash": "0c986cd3d25b303d6740d560de51bd7d311a257ca7ad5d5ff25d8e24c41bfc88",
+    "hash": "65b4c2cdf9d0cc4d34b50900bdf11422d205f1971e26dccf51c02b1518300cf9",
     "rows": 51,
-    "words": 1151,
+    "words": 1153,
     "numbers": 282,
     "numbersDigest": "0966a8c5767a1b16",
     "seen": "2026-11-23",
@@ -63,29 +63,29 @@
     "firstSeen": "2026-11-23"
   },
   "timesaver-priest-weapons": {
-    "hash": "aae07c67aaa9e6433e320458e0c192a518dc771d48df0eb4912b91e1dd216fb9",
+    "hash": "6306db89ef291034b03598960950b56042f5f93deeba51ea22419a619929aeb8",
     "rows": 32,
-    "words": 3284,
-    "numbers": 486,
-    "numbersDigest": "08be79222193faa5",
+    "words": 3295,
+    "numbers": 484,
+    "numbersDigest": "366bb2e8c8e21c13",
     "seen": "2026-11-23",
     "firstSeen": "2026-11-23"
   },
   "timesaver-rogue-weapons": {
-    "hash": "9b113b40e58a404efe0e02b7b530ab0c71a37a3b42acf2059c4c15db956c4832",
+    "hash": "005706cd61069b7c66e37e144d1eebab3e4f1243631a5d0251cef3b57f5c7ed6",
     "rows": 24,
-    "words": 3229,
-    "numbers": 523,
-    "numbersDigest": "cc7e07fd42a7bbc1",
+    "words": 3240,
+    "numbers": 521,
+    "numbersDigest": "b2270c80e8f4110d",
     "seen": "2026-11-23",
     "firstSeen": "2026-11-23"
   },
   "timesaver-tailoring": {
-    "hash": "35dfd2fe2aedcf3c367c525040657cc1f735d1a9f57ab7ef08e573a2193624ea",
-    "rows": 78,
-    "words": 18975,
-    "numbers": 5811,
-    "numbersDigest": "74b4caedf7b6ff2b",
+    "hash": "09dde77a5d3087691e478479d5fe3dfdbabcea2cf23957fff0fe58999242d3d8",
+    "rows": 76,
+    "words": 18968,
+    "numbers": 5810,
+    "numbersDigest": "733daf6e49ef460e",
     "seen": "2026-11-23",
     "firstSeen": "2026-11-23"
   },
@@ -99,11 +99,11 @@
     "firstSeen": "2026-11-23"
   },
   "wow-professions-leatherworking": {
-    "hash": "17540d27be9a507fdcd552cc2fa926ae4112c616b5b56cfa8d8ed348028607ed",
+    "hash": "dbf41e68bd3121e32a48d97c056b1e9041ed975ced791cc0f18c351e325cb4ef",
     "rows": 60,
-    "words": 2211,
-    "numbers": 318,
-    "numbersDigest": "ad52bea055eb279f",
+    "words": 2318,
+    "numbers": 324,
+    "numbersDigest": "b97ca1c1c0147e2e",
     "seen": "2026-11-23",
     "firstSeen": "2026-11-23"
   },
@@ -117,7 +117,7 @@
     "firstSeen": "2026-11-23"
   },
   "wow-professions-tailoring": {
-    "hash": "0000000000000000000000000000000000000000000000000000000000000000",
+    "hash": "795b2d87111fa2c382d4a2ab7ad4b8a41c3bf095d04d2c87ee44e64adfa4aaf9",
     "rows": 43,
     "words": 2016,
     "numbers": 253,
@@ -135,18 +135,18 @@
     "firstSeen": "2026-11-23"
   },
   "wowhandbook-priest": {
-    "hash": "babf173cf9343ee91010b57d39acd753d232a64db64a73c08cd8463c95bab1c0",
+    "hash": "98a1e9e043d28cc75ac5400615261c11de7fe6d1d6bcd11754a5fe64b0b343f7",
     "rows": 28,
-    "words": 2529,
+    "words": 2521,
     "numbers": 617,
     "numbersDigest": "a2556d2ed910139f",
     "seen": "2026-11-23",
     "firstSeen": "2026-11-23"
   },
   "wowhandbook-rogue": {
-    "hash": "102da54556f8bc867f80804b0608085cd24cbf0623577a5ed4ece7585926dffd",
+    "hash": "956d5dc78ec8b3f6d709b84f307dab9ccc255658ae11c82778106c08e78b67d3",
     "rows": 31,
-    "words": 2432,
+    "words": 2431,
     "numbers": 650,
     "numbersDigest": "a136d53159da2c54",
     "seen": "2026-11-23",

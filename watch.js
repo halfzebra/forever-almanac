@@ -48,12 +48,21 @@ const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 /* Reduce a page to the text that would change if its advice changed. Scripts,
  * styles, nav and footers move for reasons that have nothing to do with the
  * guide, and would otherwise cry wolf every day. */
-function normalize(html) {
+function normalize(html, region) {
   let s = html;
   s = s.replace(/<!--[\s\S]*?-->/g, " ");
   s = s.replace(/<(script|style|svg|noscript)\b[\s\S]*?<\/\1>/gi, " ");
-  const main = s.match(/<main\b[^>]*>([\s\S]*?)<\/main>/i);
-  if (main) s = main[1];
+  /* A source may name the part of the page that is actually its guide. Some
+     sites wrap the article in a grid of "latest posts" cards that rotate every
+     few minutes, and without this every morning brings a false alarm. Added
+     only for a site that demonstrably needed it - see fetchWhy in the source. */
+  if (region) {
+    const m = s.match(new RegExp(region, "i"));
+    if (m) s = m[1] || m[0];
+  } else {
+    const main = s.match(/<main\b[^>]*>([\s\S]*?)<\/main>/i);
+    if (main) s = main[1];
+  }
   s = s.replace(/<(nav|footer|header|aside)\b[\s\S]*?<\/\1>/gi, " ");
   const rows = (s.match(/<tr\b/gi) || []).length;
   const text = s
@@ -119,7 +128,7 @@ async function grab(url) {
     checked++;
     if (PROBE) continue;
 
-    const norm = normalize(got.body);
+    const norm = normalize(got.body, s.region);
     const digest = numberDigest(norm.text);
     const hash = crypto.createHash("sha256").update(norm.text).digest("hex");
     const before = hashes[id];

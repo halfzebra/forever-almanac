@@ -45,7 +45,9 @@
     "site": "Timesaver, Tailoring",
     "url": "https://timesaver.gg/tools/wow-forever/professions/tailoring",
     "watch": "text",
-    "checked": "2026-11-22"
+    "checked": "2026-11-22",
+    "region": "<article>([\\\\s\\\\S]*?)</article>",
+    "regionWhy": "the page wraps its guide in a bare <article>; the rest of <main> is a grid of latest-post cards that changes whenever the site publishes, which is often enough to raise a false alarm"
   },
   "maxroll-priest": {
     "site": "Maxroll, Priest leveling",
@@ -170,13 +172,17 @@
     "site": "Timesaver, Priest weapons 1-60",
     "url": "https://timesaver.gg/blog/wow-forever-priest-leveling-weapons",
     "watch": "text",
-    "checked": "2026-11-23"
+    "checked": "2026-11-23",
+    "region": "<article>([\\\\s\\\\S]*?)</article>",
+    "regionWhy": "the page wraps its guide in a bare <article>; the rest of <main> is a grid of latest-post cards that changes whenever the site publishes, which is often enough to raise a false alarm"
   },
   "timesaver-rogue-weapons": {
     "site": "Timesaver, Rogue weapons 1-60",
     "url": "https://timesaver.gg/blog/wow-forever-rogue-leveling-weapons",
     "watch": "text",
-    "checked": "2026-11-23"
+    "checked": "2026-11-23",
+    "region": "<article>([\\\\s\\\\S]*?)</article>",
+    "regionWhy": "the page wraps its guide in a bare <article>; the rest of <main> is a grid of latest-post cards that changes whenever the site publishes, which is often enough to raise a false alarm"
   },
   "conquestcapped-class-quests": {
     "site": "conquestcapped, class quests",

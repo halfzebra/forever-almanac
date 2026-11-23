@@ -1,218 +1,218 @@
-Your skill Target Gold in your bags Region US EU Faction Alliance Horde Optimize for Cheapest Most profitable
-Include vendor, drop and quest recipes Off: trainer recipes only, the same for both factions. On: also
-patterns from Alliance vendors and quests, and drop patterns listed on the auction house. Route 1–300
-Crafts 455 Reagents ≥ 261 261 gold Training 13 25 13 gold 25 silver Total ≥ 274 274 gold Selling the
-crafts 6,599 6,599 gold Net after selling + 6,325 +6,325 gold Type the gold in your bags to see if it
-covers the route. Median prices on the US Alliance auction house , all WoW Forever realms, scanned Nov
-23, 2026, 2:25 PM UTC . Training = recipe training, patterns and profession ranks (Apprentice, Journeyman,
-Expert, Artisan) . Selling = the auction house median of each crafted item minus the 5% auction house
-cut; crafts with fewer than 10 listed sell for nothing. Cheapest picks the recipe with the lowest cost
-per skill point. 1 reagent is not on the auction house yet, so the total is a lower bound. Tailoring
-leveling route 1 – 300 Tailoring route on the US Alliance auction house : skill range, recipe, crafts,
-reagents and cost Skill Craft Reagents Cost Apprentice · train at 1 , up to 75 · 10 10 copper 1 – 32
-× 33 Bolt of Linen Cloth Trainer × 66 Linen Cloth ≈ 19 80 19 silver 80 copper sells for 18 81 18 silver
-81 copper 32 – 39 × 8 Brown Linen Shirt Trainer × 8 Bolt of Linen Cloth × 8 Coarse Thread Vendor ≈ 5
-60 5 silver 60 copper sells for 7 20 7 silver 20 copper 39 – 43 × 5 Simple Linen Pants Trainer × 5 Bolt
-of Linen Cloth × 5 Coarse Thread Vendor ≈ 3 50 3 silver 50 copper sells for 3 30 3 silver 30 copper 43
-– 79 × 67 Linen Belt Trainer · 50 50 copper × 67 Bolt of Linen Cloth × 67 Coarse Thread Vendor ≈ 47 40
-47 silver 40 copper sells for 13 40 13 silver 40 copper Journeyman · train at 50 , up to 150 · 5 5 silver
-79 – 86 × 20 Reinforced Linen Cape Trainer · 2 2 silver × 40 Bolt of Linen Cloth × 60 Coarse Thread Vendor
-≈ 32 32 silver sells for 38 38 silver 86 – 100 × 30 Simple Kilt Trainer · 3 3 silver × 120 Bolt of Linen
-Cloth × 30 Fine Thread ≈ 1 4 1 gold 4 silver sells for 47 70 47 silver 70 copper 100 – 116 × 19 Bolt
-of Silk Cloth Trainer · 5 5 silver × 76 Silk Cloth ≈ 1 63 1 gold 63 silver sells for 1 68 1 gold 68 silver
-116 – 124 × 9 Bright Yellow Shirt Vendor · Danielle Zipstitch, Duskwood · 8 8 silver × 9 Bolt of Silk
-Cloth × 9 Yellow Dye × 9 Fine Thread ≈ 1 45 1 gold 45 silver sells for 51 30 51 silver 30 copper 124
-– 135 × 13 Azure Silk Hood Trainer · 6 6 silver × 26 Bolt of Silk Cloth × 26 Blue Dye Vendor × 13 Fine
-Thread ≈ 2 74 2 gold 74 silver sells for 1 48 1 gold 48 silver 135 – 147 × 13 Formal White Shirt Trainer
-· 4 50 4 silver 50 copper × 39 Bolt of Silk Cloth × 26 Bleach Vendor × 13 Fine Thread ≈ 3 87 3 gold 87
-silver sells for 80 21 80 silver 21 copper 147 – 174 × 32 Azure Silk Cloak Vendor · Brienna Starglow,
-Feralas · 15 15 silver × 96 Bolt of Silk Cloth × 64 Blue Dye Vendor × 64 Fine Thread ≈ 10 5 10 gold 5
-silver sells for 7 56 7 gold 56 silver Expert · train at 125 , up to 225 · 50 50 silver 174 – 184 × 11
-Crimson Silk Pantaloons Trainer · 30 30 silver × 44 Bolt of Silk Cloth × 22 Red Dye Vendor × 22 Silken
-Thread Vendor ≈ 5 61 5 gold 61 silver sells for 2 55 2 gold 55 silver 184 – 191 × 10 White Bandit Mask
-Pattern on the AH · 59 99 59 silver 99 copper × 10 Bolt of Mageweave × 10 Bleach Vendor × 10 Heavy Silken
-Thread ≈ 5 19 5 gold 19 silver sells for 9 2 9 gold 2 silver 191 – 197 × 9 Black Mageweave Vest Trainer
-· 36 36 silver × 18 Bolt of Mageweave × 27 Silken Thread Vendor ≈ 6 66 6 gold 66 silver sells for 5 50
-5 gold 50 silver 197 – 205 × 10 Black Mageweave Gloves Trainer · 50 50 silver × 20 Bolt of Mageweave
-× 20 Heavy Silken Thread ≈ 9 64 9 gold 64 silver sells for 4 8 4 gold 8 silver 205 – 215 × 17 Bolt of
-Runecloth Trainer · 1 1 gold × 85 Runecloth ≈ 5 61 5 gold 61 silver sells for 4 84 4 gold 84 silver 215
-– 230 × 16 Runecloth Belt Trainer · 1 1 gold × 48 Bolt of Runecloth × 16 Rune Thread ≈ 23 8 23 gold 8
-silver sells for 14 13 14 gold 13 silver Artisan · train at 200 , up to 300 · 5 5 gold 230 – 299 × 130
-Mooncloth Vendor · Qia, Winterspring · 2 2 gold × 260 Felcloth ≈ 166 166 gold sells for 6,534 6,534 gold
-299 – 300 × 3 Felcloth Shoulders Pattern on the AH · 1 49 1 gold 49 silver × 21 Bolt of Runecloth × 18
-Felcloth × 12 Demonic Rune Not on the AH yet × 12 Rugged Leather × 6 Rune Thread ≥ 24 35 24 gold 35 silver
-sells for 11 40 11 gold 40 silver Shopping list 1 – 300 Every reagent for the Tailoring route, with quantity
-and price Reagent Qty Each Subtotal Where Felcloth 62 98 62 silver 98 copper each · Auction house 278
-62 98 62 silver 98 copper 176 176 gold Auction house Bolt of Runecloth 30 30 silver each · Auction house
-69 30 30 silver 20 70 20 gold 70 silver Auction house Bolt of Silk Cloth 9 32 9 silver 32 copper each
-· Auction house 214 9 32 9 silver 32 copper 19 94 19 gold 94 silver Auction house Bolt of Mageweave 27
-50 27 silver 50 copper each · Auction house 48 27 50 27 silver 50 copper 13 20 13 gold 20 silver Auction
-house Rune Thread 48 48 silver each · Auction house 22 48 48 silver 10 56 10 gold 56 silver Auction house
-Heavy Silken Thread 18 21 18 silver 21 copper each · Auction house 30 18 21 18 silver 21 copper 5 46
-5 gold 46 silver Auction house Runecloth 5 43 5 silver 43 copper each · Auction house 85 5 43 5 silver
-43 copper 4 61 4 gold 61 silver Auction house Silken Thread 5 5 silver each · Vendor 49 5 5 silver 2
-45 2 gold 45 silver Vendor Rugged Leather 19 45 19 silver 45 copper each · Auction house 12 19 45 19
-silver 45 copper 2 33 2 gold 33 silver Auction house Silk Cloth 2 9 2 silver 9 copper each · Auction
-house 76 2 9 2 silver 9 copper 1 58 1 gold 58 silver Auction house Bolt of Linen Cloth 60 60 copper each
-· Auction house 240 60 60 copper 1 44 1 gold 44 silver Auction house Fine Thread 99 99 copper each ·
-Auction house 129 99 99 copper 1 27 1 gold 27 silver Auction house Blue Dye 50 50 copper each · Vendor
-90 50 50 copper 45 45 silver Vendor Yellow Dye 4 95 4 silver 95 copper each · Auction house 9 4 95 4
-silver 95 copper 44 55 44 silver 55 copper Auction house Linen Cloth 30 30 copper each · Auction house
-66 30 30 copper 19 80 19 silver 80 copper Auction house Coarse Thread 10 10 copper each · Vendor 140
-10 10 copper 14 14 silver Vendor Red Dye 50 50 copper each · Vendor 22 50 50 copper 11 11 silver Vendor
-Bleach 25 25 copper each · Vendor 36 25 25 copper 9 9 silver Vendor Demonic Rune Not on the AH yet 12
-— — Not on the AH yet Reagents (priced) 261 261 gold Recipe training and patterns 7 69 7 gold 69 silver
-Profession ranks (Apprentice, Journeyman, Expert, Artisan) 5 55 5 gold 55 silver Total (lower bound)
-274 274 gold Make gold with Tailoring Live on the US Alliance auction house ; switch region and faction
-in the calculator above. Tailoring cooldowns Crafts you can only make once per cooldown. Profit is the
-auction median of what you make, minus the 5% cut, minus the reagents; per week assumes you cast the
-moment it is ready. Characters Profession cooldowns: reagent cost, sale value and profit per cast and
-per week Cooldown Reagents Sells for Profit / cast Per week Mooncloth from 2× Felcloth · Tailoring ·
-every 4 days Reagents 1 25 1 gold 25 silver Sells for 50 25 50 gold 25 silver Profit / cast + 48 99 +48
-gold 99 silver Per week + 86 65 +86 gold 65 silver Craft and sell to a vendor Crafts that a vendor buys
-for more than the reagents cost on the auction house right now. No listing fee, no waiting; the signal
-flips to sell the mats as soon as the reagents get dearer than the vendor price. Nothing pays at the
-vendor right now: sell the mats. The closest crafts and the price they need: Craft and sell to a vendor:
-reagent cost at auction prices, vendor price and profit Craft Reagents Vendor pays Profit Signal Linen
-Bag skill 5 Reagents 2 10 2 silver 10 copper Vendor pays 2 2 silver Profit − 10 minus 10 copper Sell
-the mats pays while Bolt of Linen Cloth ≤ 56 56 copper Blue Linen Vest skill 35 Reagents 2 40 2 silver
-40 copper Vendor pays 1 61 1 silver 61 copper Profit − 79 minus 79 copper Sell the mats pays while Bolt
-of Linen Cloth ≤ 33 33 copper Red Linen Vest skill 35 Reagents 2 40 2 silver 40 copper Vendor pays 1
-60 1 silver 60 copper Profit − 80 minus 80 copper Sell the mats pays while Bolt of Linen Cloth ≤ 33 33
-copper Blue Linen Robe skill 45 Reagents 3 60 3 silver 60 copper Vendor pays 2 43 2 silver 43 copper
-Profit − 1 17 minus 1 silver 17 copper Sell the mats pays while Bolt of Linen Cloth ≤ 30 30 copper Red
-Linen Bag skill 50 Reagents 3 89 3 silver 89 copper Vendor pays 2 50 2 silver 50 copper Profit − 1 39
-minus 1 silver 39 copper Sell the mats pays while Bolt of Linen Cloth ≤ 25 25 copper Azure Stormsewn
-Leggings skill 60 Reagents 3 20 3 silver 20 copper Vendor pays 1 60 1 silver 60 copper Profit − 1 60
-minus 1 silver 60 copper Sell the mats pays while Bolt of Linen Cloth ≤ 28 28 copper Ways to Tailoring
-300 Cheapest Farm it yourself 13 25 13 gold 25 silver in training if you gather the mats; 274 274 gold
-if you buy them from the list above. Buy the gold 275 275 gold · $119.53 Enter your gold above for your
-gap ; delivered by Auction House or manual farm. WoW Forever gold Skip the AH Mats kit 1– 300 · $465.33
-Every reagent for 1– 300 , handed over in game. WoW Forever profession kits Done for you 1 – 300 · $227.82
-A Timesaver player levels Tailoring on your character. WoW Forever profession leveling Most profitable
-Tailoring crafts right now Live auction house profit for every Tailoring recipe you know, a shopping
-list for each, and the patterns worth hunting. All crafting professions side by side are on the WoW Forever
-craft profit finder . Region US EU Faction Alliance Horde My skill Import character ( US ) Load known
-recipes From the WoW Forever armory: characters level 10+, updated after you log out. Without it, trainer
-recipes up to your skill count as known and you tick the rest. Auction house medians from the US Alliance
-scan of 2026-11-23 14:25 UTC , refreshed hourly . Sale value is the median minus the 5% auction house
-cut; the deposit is not included. Profitable crafts you know Buy the reagents on the auction house (or
-craft the cheaper ones yourself), craft, sell. Ranked by profit weighted by how many are listed: with
-fewer than 10 on sale the price is a guess, so those rank lower and are marked thin. Crafts you know,
-ranked by profit after the auction house cut Craft Reagents Sells for Profit Margin Listed Shadoweave
-Shoulders Tailoring · skill 195 Reagents 2 15 2 gold 15 silver Sells for 3 61 3 gold 61 silver Profit
-+ 1 45 +1 gold 45 silver Margin 68% Listed 65 Shopping list Shadoweave Pants Tailoring · skill 175 Reagents
-1 21 1 gold 21 silver Sells for 2 56 2 gold 56 silver Profit + 1 34 +1 gold 34 silver Margin 111% Listed
-51 Shopping list Shadoweave Gloves Tailoring · skill 190 Reagents 2 26 2 gold 26 silver Sells for 3 31
-3 gold 31 silver Profit + 1 5 +1 gold 5 silver Margin 46% Listed 63 Shopping list Black Mageweave Boots
-Tailoring · skill 190 Reagents 1 33 1 gold 33 silver Sells for 2 23 2 gold 23 silver Profit + 89 83 +89
-silver 83 copper Margin 67% Listed 138 Shopping list Simple Black Dress Tailoring · skill 195 Reagents
-1 10 1 gold 10 silver Sells for 1 90 1 gold 90 silver Profit + 80 3 +80 silver 3 copper Margin 72% Listed
-18 Shopping list Shadoweave Robe Tailoring · skill 180 Reagents 1 21 1 gold 21 silver Sells for 1 75
-1 gold 75 silver Profit + 54 6 +54 silver 6 copper Margin 44% Listed 47 Shopping list Black Mageweave
-Headband Tailoring · skill 190 Reagents 1 18 1 gold 18 silver Sells for 1 29 1 gold 29 silver Profit
-+ 10 22 +10 silver 22 copper Margin 9% Listed 89 Shopping list Red Mageweave Bag Tailoring · skill 195
-Reagents 1 74 1 gold 74 silver Sells for 1 80 1 gold 80 silver Profit + 5 57 +5 silver 57 copper Margin
-3% Listed 717 Shopping list Woolen Boots Tailoring · skill 70 Reagents 20 76 20 silver 76 copper Sells
-for 24 22 24 silver 22 copper Profit + 3 46 +3 silver 46 copper Margin 17% Listed 103 Shopping list Heavy
-Linen Gloves Tailoring · skill 25 Reagents 1 30 1 silver 30 copper Sells for 3 4 3 silver 4 copper Profit
-+ 1 74 +1 silver 74 copper Margin 134% Listed 240 Shopping list Bolt of Runecloth Tailoring · skill 205
-Reagents 27 15 27 silver 15 copper Sells for 28 50 28 silver 50 copper Profit + 1 35 +1 silver 35 copper
-Margin 5% Listed 3218 Shopping list White Linen Robe Tailoring · skill 25 Reagents 2 15 2 silver 15 copper
-Sells for 3 42 3 silver 42 copper Profit + 1 27 +1 silver 27 copper Margin 59% Listed 79 Shopping list
-Green Linen Bracers Tailoring · skill 35 Reagents 3 3 silver Sells for 4 18 4 silver 18 copper Profit
-+ 1 18 +1 silver 18 copper Margin 39% Listed 153 Shopping list Brown Linen Robe Tailoring · skill 25
-Reagents 1 90 1 silver 90 copper Sells for 2 83 2 silver 83 copper Profit + 93 +93 copper Margin 49%
-Listed 116 Shopping list Brown Linen Pants Tailoring · skill 25 Reagents 1 30 1 silver 30 copper Sells
-for 1 90 1 silver 90 copper Profit + 60 +60 copper Margin 46% Listed 160 Shopping list Bolt of Silk Cloth
-Tailoring · skill 100 Reagents 8 36 8 silver 36 copper Sells for 8 85 8 silver 85 copper Profit + 49
-+49 copper Margin 6% Listed 4258 Shopping list White Linen Shirt Tailoring · skill 1 Reagents 95 95 copper
-Sells for 1 41 1 silver 41 copper Profit + 46 +46 copper Margin 48% Listed 127 Shopping list Reinforced
-Linen Cape Tailoring · skill 35 Reagents 1 50 1 silver 50 copper Sells for 1 90 1 silver 90 copper Profit
-+ 40 +40 copper Margin 27% Listed 342 Shopping list Blue Linen Shirt Tailoring · skill 25 Reagents 1
-80 1 silver 80 copper Sells for 2 19 2 silver 19 copper Profit + 39 +39 copper Margin 22% Listed 61 Shopping
-list Faction Banner Tailoring · skill 20 Reagents 70 70 copper Sells for 93 93 copper Profit + 23 +23
-copper Margin 33% Listed 844 Shopping list Show all 82 Recipes to hunt Profitable recipes you don&#x27;t
-know yet, within your skill. Difficulty is the easiest way to get it: 1 trainer, vendor or auction house,
-2 limited vendor or quest, 3 reputation, a container or a common drop, 4 a raid or a rare drop, 5 a world
-drop. Pays back counts the crafts that cover the cheapest price for the pattern. Recipes from My faction
-Both factions Mooncloth Tailoring · skill 230 Easy · 1 /5 Pattern: Mooncloth · Vendor: Qia (Winterspring)
-2 2 gold Pattern: Mooncloth on Wowhead Profit / craft + 48 99 +48 gold 99 silver Pattern 2 2 gold Pays
-back 1 craft I have this recipe Mooncloth Shoulders Tailoring · skill 275 Easy · 1 /5 On the auction
-house now: 24 24 gold Pattern: Mooncloth Shoulders · Drop: Huntsman Radley (Western Plaguelands) 0.06%;
-Necromancer (Eastern Plaguelands) 0.06% +1 more Pattern: Mooncloth Shoulders on Wowhead Profit / craft
-+ 66 67 +66 gold 67 silver 2 listed Pattern 24 24 gold Pays back 1 craft I have this recipe Mooncloth
-Reagent Bag Tailoring · skill 255 Easy · 1 /5 Pattern: Mooncloth Reagent Bag · Vendor: Dala Fairmaw (Mount
-Hyjal) Pattern: Mooncloth Reagent Bag on Wowhead Profit / craft + 12 14 +12 gold 14 silver Pattern —
-Pays back — I have this recipe Mooncloth Leggings Tailoring · skill 245 Easy · 1 /5 On the auction house
-now: 3 55 3 gold 55 silver Pattern: Mooncloth Leggings · Drop: Black Wyrmkin (Burning Steppes) 0.02%;
-Blackrock Slayer (Burning Steppes) 0.02% +1 more Pattern: Mooncloth Leggings on Wowhead Profit / craft
-+ 119 +119 gold 1 listed Pattern 3 55 3 gold 55 silver Pays back 1 craft I have this recipe Belt of the
-Archmage Tailoring · skill 295 Easy · 1 /5 On the auction house now: 199 199 gold Pattern: Belt of the
-Archmage · Drop: Gordok Reaver (Dire Maul) 0.02%; Gordok Warlock (Dire Maul) 0.02% Pattern: Belt of the
-Archmage on Wowhead Profit / craft + 94 43 +94 gold 43 silver 1 listed Pattern 199 199 gold Pays back
-3 crafts I have this recipe Wisdom of the Timbermaw Tailoring · skill 255 Easy · 1 /5 Pattern: Wisdom
-of the Timbermaw · Vendor: Meilosh (Felwood) 2 20 2 gold 20 silver Pattern: Wisdom of the Timbermaw on
-Wowhead Profit / craft + 5 77 +5 gold 77 silver Pattern 2 20 2 gold 20 silver Pays back 1 craft I have
-this recipe Mantle of the Timbermaw Tailoring · skill 290 Easy · 1 /5 Pattern: Mantle of the Timbermaw
-· Vendor: Meilosh (Felwood) 4 4 gold Pattern: Mantle of the Timbermaw on Wowhead Profit / craft + 44
-89 +44 gold 89 silver 1 listed Pattern 4 4 gold Pays back 1 craft I have this recipe Mooncloth Bag Tailoring
-· skill 255 Easy · 1 /5 On the auction house now: 9 98 9 gold 98 silver Pattern: Mooncloth Bag · Drop:
-Hive&#x27;Regal Burrower (Silithus) 0.7%; General Colbatann (Winterspring) 0.22% +1 more Pattern: Mooncloth
-Bag on Wowhead Profit / craft + 4 33 +4 gold 33 silver Pattern 9 98 9 gold 98 silver Pays back 3 crafts
-I have this recipe Gilded Handwraps Tailoring · skill 165 Easy · 1 /5 On the auction house now: 6 77
-6 gold 77 silver Pattern: Gilded Handwraps · Drop: Saltscale Oracle (Stranglethorn Vale) Pattern: Gilded
-Handwraps on Wowhead Profit / craft + 3 43 +3 gold 43 silver Pattern 6 77 6 gold 77 silver Pays back
-2 crafts I have this recipe Inferno Gloves Tailoring · skill 280 Very hard · 5 /5 Pattern: Inferno Gloves
-· Drop: Gordok Reaver (Dire Maul) 0.02%; Gordok Warlock (Dire Maul) 0.02% Pattern: Inferno Gloves on
-Wowhead Profit / craft + 23 74 +23 gold 74 silver 7 listed Pattern — Pays back — I have this recipe Robe
-of Winter Night Tailoring · skill 245 Hard · 4 /5 Pattern: Robe of Winter Night · Drop: Cobalt Mageweaver
-(Winterspring) 3% Pattern: Robe of Winter Night on Wowhead Profit / craft + 11 94 +11 gold 94 silver
-Pattern — Pays back — I have this recipe Azure Stormsewn Cowl Tailoring · skill 175 Easy · 1 /5 Pattern:
-Azure Stormsewn Cowl · Vendor: Archmage Alvareaux (Alterac Mountains, Alliance) 10 10 gold Pattern: Azure
-Stormsewn Cowl on Wowhead Profit / craft + 2 62 +2 gold 62 silver Pattern 10 10 gold Pays back 4 crafts
-I have this recipe Admiral&#x27;s Hat Tailoring · skill 200 Easy · 1 /5 On the auction house now: 24
-24 silver Pattern: Admiral&#x27;s Hat · Vendor: Cowardly Crosby (Stranglethorn Vale) 70 70 silver , limited
-Pattern: Admiral&#x27;s Hat on Wowhead Profit / craft + 2 42 +2 gold 42 silver Pattern 24 24 silver Pays
-back 1 craft I have this recipe Gloves of Spell Mastery Tailoring · skill 295 Easy · 1 /5 On the auction
-house now: 50 50 50 gold 50 silver Pattern: Gloves of Spell Mastery · Drop: Tomb Horror (Naxxramas) 0.25%;
+WoW Forever Tailoring Leveling Guide 1-300: from 262g | Timesaver Your skill Target Gold in your bags
+Region US EU Faction Alliance Horde Optimize for Cheapest Most profitable Include vendor, drop and quest
+recipes Off: trainer recipes only, the same for both factions. On: also patterns from Alliance vendors
+and quests, and drop patterns listed on the auction house. Route 1–300 Crafts 452 Reagents ≥ 249 249
+gold Training 13 31 13 gold 31 silver Total ≥ 262 262 gold Selling the crafts 6,365 6,365 gold Net after
+selling + 6,103 +6,103 gold Type the gold in your bags to see if it covers the route. Median prices on
+the US Alliance auction house , all WoW Forever realms, scanned Nov 23, 2026, 6:25 PM UTC . Training
+= recipe training, patterns and profession ranks (Apprentice, Journeyman, Expert, Artisan) . Selling
+= the auction house median of each crafted item minus the 5% auction house cut; crafts with fewer than
+10 listed sell for nothing. Cheapest picks the recipe with the lowest cost per skill point. 1 reagent
+is not on the auction house yet, so the total is a lower bound. Tailoring leveling route 1 – 300 Tailoring
+route on the US Alliance auction house : skill range, recipe, crafts, reagents and cost Skill Craft Reagents
+Cost Apprentice · train at 1 , up to 75 · 10 10 copper 1 – 39 × 39 Brown Linen Shirt Trainer × 39 Bolt
+of Linen Cloth × 39 Coarse Thread Vendor ≈ 27 30 27 silver 30 copper sells for 37 5 37 silver 5 copper
+39 – 43 × 5 Simple Linen Pants Trainer × 5 Bolt of Linen Cloth × 5 Coarse Thread Vendor ≈ 3 50 3 silver
+50 copper sells for 3 30 3 silver 30 copper 43 – 79 × 67 Linen Belt Trainer · 50 50 copper × 67 Bolt
+of Linen Cloth × 67 Coarse Thread Vendor ≈ 47 40 47 silver 40 copper sells for 13 40 13 silver 40 copper
+Journeyman · train at 50 , up to 150 · 5 5 silver 79 – 86 × 20 Reinforced Linen Cape Trainer · 2 2 silver
+× 40 Bolt of Linen Cloth × 60 Coarse Thread Vendor ≈ 32 32 silver sells for 53 53 silver 86 – 100 × 30
+Simple Kilt Trainer · 3 3 silver × 120 Bolt of Linen Cloth × 30 Fine Thread ≈ 1 4 1 gold 4 silver sells
+for 51 90 51 silver 90 copper 100 – 116 × 19 Bolt of Silk Cloth Trainer · 5 5 silver × 76 Silk Cloth
+≈ 1 63 1 gold 63 silver sells for 1 62 1 gold 62 silver 116 – 124 × 9 Bright Yellow Shirt Vendor · Danielle
+Zipstitch, Duskwood · 8 8 silver × 9 Bolt of Silk Cloth × 9 Yellow Dye × 9 Fine Thread ≈ 1 42 1 gold
+42 silver sells for 67 50 67 silver 50 copper 124 – 135 × 13 Azure Silk Hood Trainer · 6 6 silver × 26
+Bolt of Silk Cloth × 26 Blue Dye Vendor × 13 Fine Thread ≈ 2 65 2 gold 65 silver sells for 1 59 1 gold
+59 silver 135 – 147 × 13 Formal White Shirt Trainer · 4 50 4 silver 50 copper × 39 Bolt of Silk Cloth
+× 26 Bleach Vendor × 13 Fine Thread ≈ 3 74 3 gold 74 silver sells for 67 86 67 silver 86 copper 147 –
+174 × 32 Azure Silk Cloak Vendor · Brienna Starglow, Feralas · 15 15 silver × 96 Bolt of Silk Cloth ×
+64 Blue Dye Vendor × 64 Fine Thread ≈ 9 73 9 gold 73 silver sells for 7 29 7 gold 29 silver Expert ·
+train at 125 , up to 225 · 50 50 silver 174 – 185 × 12 Crimson Silk Pantaloons Trainer · 30 30 silver
+× 48 Bolt of Silk Cloth × 24 Red Dye Vendor × 24 Silken Thread Vendor ≈ 5 93 5 gold 93 silver sells for
+2 78 2 gold 78 silver 185 – 191 × 9 White Bandit Mask Pattern on the AH · 65 98 65 silver 98 copper ×
+9 Bolt of Mageweave × 9 Bleach Vendor × 9 Heavy Silken Thread ≈ 4 93 4 gold 93 silver sells for 7 43
+7 gold 43 silver 191 – 196 × 7 Black Mageweave Vest Trainer · 36 36 silver × 14 Bolt of Mageweave × 21
+Silken Thread Vendor ≈ 5 47 5 gold 47 silver sells for 3 89 3 gold 89 silver 196 – 205 × 11 Black Mageweave
+Gloves Trainer · 50 50 silver × 22 Bolt of Mageweave × 22 Heavy Silken Thread ≈ 10 88 10 gold 88 silver
+sells for 4 38 4 gold 38 silver 205 – 215 × 17 Bolt of Runecloth Trainer · 1 1 gold × 85 Runecloth ≈
+6 48 6 gold 48 silver sells for 5 16 5 gold 16 silver 215 – 230 × 16 Runecloth Belt Trainer · 1 1 gold
+× 48 Bolt of Runecloth × 16 Rune Thread ≈ 24 3 24 gold 3 silver sells for 14 24 14 gold 24 silver Artisan
+· train at 200 , up to 300 · 5 5 gold 230 – 299 × 130 Mooncloth Vendor · Qia, Winterspring · 2 2 gold
+× 260 Felcloth ≈ 153 153 gold sells for 6,299 6,299 gold 299 – 300 × 3 Felcloth Shoulders Pattern on
+the AH · 1 49 1 gold 49 silver × 21 Bolt of Runecloth × 18 Felcloth × 12 Demonic Rune Not on the AH yet
+× 12 Rugged Leather × 6 Rune Thread ≥ 24 17 24 gold 17 silver sells for 14 25 14 gold 25 silver Shopping
+list 1 – 300 Every reagent for the Tailoring route, with quantity and price Reagent Qty Each Subtotal
+Where Felcloth 57 99 57 silver 99 copper each · Auction house 278 57 99 57 silver 99 copper 162 162 gold
+Auction house Bolt of Runecloth 32 32 silver each · Auction house 69 32 32 silver 22 8 22 gold 8 silver
+Auction house Bolt of Silk Cloth 8 99 8 silver 99 copper each · Auction house 218 8 99 8 silver 99 copper
+19 59 19 gold 59 silver Auction house Bolt of Mageweave 29 29 silver each · Auction house 45 29 29 silver
+13 5 13 gold 5 silver Auction house Rune Thread 47 98 47 silver 98 copper each · Auction house 22 47
+98 47 silver 98 copper 10 55 10 gold 55 silver Auction house Heavy Silken Thread 18 21 18 silver 21 copper
+each · Auction house 31 18 21 18 silver 21 copper 5 64 5 gold 64 silver Auction house Runecloth 6 45
+6 silver 45 copper each · Auction house 85 6 45 6 silver 45 copper 5 48 5 gold 48 silver Auction house
+Rugged Leather 21 98 21 silver 98 copper each · Auction house 12 21 98 21 silver 98 copper 2 63 2 gold
+63 silver Auction house Silken Thread 5 5 silver each · Vendor 45 5 5 silver 2 25 2 gold 25 silver Vendor
+Bolt of Linen Cloth 60 60 copper each · Auction house 271 60 60 copper 1 62 1 gold 62 silver Auction
+house Silk Cloth 2 9 2 silver 9 copper each · Auction house 76 2 9 2 silver 9 copper 1 58 1 gold 58 silver
+Auction house Fine Thread 99 99 copper each · Auction house 129 99 99 copper 1 27 1 gold 27 silver Auction
+house Blue Dye 50 50 copper each · Vendor 90 50 50 copper 45 45 silver Vendor Yellow Dye 4 94 4 silver
+94 copper each · Auction house 9 4 94 4 silver 94 copper 44 46 44 silver 46 copper Auction house Coarse
+Thread 10 10 copper each · Vendor 171 10 10 copper 17 10 17 silver 10 copper Vendor Red Dye 50 50 copper
+each · Vendor 24 50 50 copper 12 12 silver Vendor Bleach 25 25 copper each · Vendor 35 25 25 copper 8
+75 8 silver 75 copper Vendor Demonic Rune Not on the AH yet 12 — — Not on the AH yet Reagents (priced)
+249 249 gold Recipe training and patterns 7 75 7 gold 75 silver Profession ranks (Apprentice, Journeyman,
+Expert, Artisan) 5 55 5 gold 55 silver Total (lower bound) 262 262 gold Make gold with Tailoring Live
+on the US Alliance auction house ; switch region and faction in the calculator above. Tailoring cooldowns
+Crafts you can only make once per cooldown. Profit is the auction median of what you make, minus the
+5% cut, minus the reagents; per week assumes you cast the moment it is ready. Characters Profession cooldowns:
+reagent cost, sale value and profit per cast and per week Cooldown Reagents Sells for Profit / cast Per
+week Mooncloth from 2× Felcloth · Tailoring · every 4 days Reagents 1 15 1 gold 15 silver Sells for 48
+45 48 gold 45 silver Profit / cast + 47 29 +47 gold 29 silver Per week + 83 63 +83 gold 63 silver Craft
+and sell to a vendor Crafts that a vendor buys for more than the reagents cost on the auction house right
+now. No listing fee, no waiting; the signal flips to sell the mats as soon as the reagents get dearer
+than the vendor price. Nothing pays at the vendor right now: sell the mats. The closest crafts and the
+price they need: Craft and sell to a vendor: reagent cost at auction prices, vendor price and profit
+Craft Reagents Vendor pays Profit Signal Linen Bag skill 5 Reagents 2 10 2 silver 10 copper Vendor pays
+2 2 silver Profit − 10 minus 10 copper Sell the mats pays while Bolt of Linen Cloth ≤ 56 56 copper Blue
+Linen Vest skill 35 Reagents 2 40 2 silver 40 copper Vendor pays 1 61 1 silver 61 copper Profit − 79
+minus 79 copper Sell the mats pays while Bolt of Linen Cloth ≤ 33 33 copper Red Linen Vest skill 35 Reagents
+2 40 2 silver 40 copper Vendor pays 1 60 1 silver 60 copper Profit − 80 minus 80 copper Sell the mats
+pays while Bolt of Linen Cloth ≤ 33 33 copper Blue Linen Robe skill 45 Reagents 3 60 3 silver 60 copper
+Vendor pays 2 43 2 silver 43 copper Profit − 1 17 minus 1 silver 17 copper Sell the mats pays while Bolt
+of Linen Cloth ≤ 30 30 copper Red Linen Bag skill 50 Reagents 3 89 3 silver 89 copper Vendor pays 2 50
+2 silver 50 copper Profit − 1 39 minus 1 silver 39 copper Sell the mats pays while Bolt of Linen Cloth
+≤ 25 25 copper Azure Stormsewn Leggings skill 60 Reagents 3 20 3 silver 20 copper Vendor pays 1 60 1
+silver 60 copper Profit − 1 60 minus 1 silver 60 copper Sell the mats pays while Bolt of Linen Cloth
+≤ 28 28 copper Ways to Tailoring 300 Cheapest Farm it yourself 13 31 13 gold 31 silver in training if
+you gather the mats; 262 262 gold if you buy them from the list above. Buy the gold 265 265 gold · $115.63
+Enter your gold above for your gap ; delivered by Auction House or manual farm. WoW Forever gold Skip
+the AH Mats kit 1– 300 · $465.33 Every reagent for 1– 300 , handed over in game. WoW Forever profession
+kits Done for you 1 – 300 · $227.82 A Timesaver player levels Tailoring on your character. WoW Forever
+profession leveling Most profitable Tailoring crafts right now Live auction house profit for every Tailoring
+recipe you know, a shopping list for each, and the patterns worth hunting. All crafting professions side
+by side are on the WoW Forever craft profit finder . Region US EU Faction Alliance Horde My skill Import
+character ( US ) Load known recipes From the WoW Forever armory: characters level 10+, updated after
+you log out. Without it, trainer recipes up to your skill count as known and you tick the rest. Auction
+house medians from the US Alliance scan of 2026-11-23 18:25 UTC , refreshed hourly . Sale value is the
+median minus the 5% auction house cut; the deposit is not included. Profitable crafts you know Buy the
+reagents on the auction house (or craft the cheaper ones yourself), craft, sell. Ranked by profit weighted
+by how many are listed: with fewer than 10 on sale the price is a guess, so those rank lower and are
+marked thin. Crafts you know, ranked by profit after the auction house cut Craft Reagents Sells for Profit
+Margin Listed Shadoweave Pants Tailoring · skill 175 Reagents 1 29 1 gold 29 silver Sells for 2 55 2
+gold 55 silver Profit + 1 26 +1 gold 26 silver Margin 97% Listed 65 Shopping list Shadoweave Shoulders
+Tailoring · skill 195 Reagents 2 30 2 gold 30 silver Sells for 3 41 3 gold 41 silver Profit + 1 10 +1
+gold 10 silver Margin 48% Listed 82 Shopping list Dreamweave Circlet Tailoring · skill 205 Reagents 3
+26 3 gold 26 silver Sells for 4 17 4 gold 17 silver Profit + 90 48 +90 silver 48 copper Margin 28% Listed
+112 Shopping list Shadoweave Gloves Tailoring · skill 190 Reagents 2 42 2 gold 42 silver Sells for 3
+31 3 gold 31 silver Profit + 88 83 +88 silver 83 copper Margin 37% Listed 69 Shopping list Black Mageweave
+Boots Tailoring · skill 190 Reagents 1 40 1 gold 40 silver Sells for 1 89 1 gold 89 silver Profit + 48
+99 +48 silver 99 copper Margin 35% Listed 144 Shopping list Shadoweave Robe Tailoring · skill 180 Reagents
+1 29 1 gold 29 silver Sells for 1 75 1 gold 75 silver Profit + 46 10 +46 silver 10 copper Margin 36%
+Listed 80 Shopping list Simple Black Dress Tailoring · skill 195 Reagents 1 15 1 gold 15 silver Sells
+for 1 60 1 gold 60 silver Profit + 45 8 +45 silver 8 copper Margin 39% Listed 34 Shopping list Dreamweave
+Gloves Tailoring · skill 190 Reagents 1 68 1 gold 68 silver Sells for 1 85 1 gold 85 silver Profit +
+16 47 +16 silver 47 copper Margin 10% Listed 110 Shopping list Pearl-clasped Cloak Tailoring · skill
+70 Reagents 22 17 22 silver 17 copper Sells for 36 28 36 silver 28 copper Profit + 14 11 +14 silver 11
+copper Margin 64% Listed 289 Shopping list White Linen Robe Tailoring · skill 25 Reagents 2 15 2 silver
+15 copper Sells for 9 54 9 silver 54 copper Profit + 7 39 +7 silver 39 copper Margin 344% Listed 87 Shopping
+list Red Mageweave Bag Tailoring · skill 195 Reagents 1 82 1 gold 82 silver Sells for 1 87 1 gold 87
+silver Profit + 5 43 +5 silver 43 copper Margin 3% Listed 373 Shopping list Black Mageweave Headband
+Tailoring · skill 190 Reagents 1 23 1 gold 23 silver Sells for 1 26 1 gold 26 silver Profit + 2 92 +2
+silver 92 copper Margin 2% Listed 124 Shopping list Heavy Linen Gloves Tailoring · skill 25 Reagents
+1 30 1 silver 30 copper Sells for 2 93 2 silver 93 copper Profit + 1 63 +1 silver 63 copper Margin 125%
+Listed 397 Shopping list Reinforced Linen Cape Tailoring · skill 35 Reagents 1 50 1 silver 50 copper
+Sells for 2 65 2 silver 65 copper Profit + 1 15 +1 silver 15 copper Margin 77% Listed 458 Shopping list
+Blue Linen Shirt Tailoring · skill 25 Reagents 1 80 1 silver 80 copper Sells for 2 84 2 silver 84 copper
+Profit + 1 4 +1 silver 4 copper Margin 58% Listed 66 Shopping list Brown Linen Robe Tailoring · skill
+25 Reagents 1 90 1 silver 90 copper Sells for 2 93 2 silver 93 copper Profit + 1 3 +1 silver 3 copper
+Margin 54% Listed 136 Shopping list Simple Linen Boots Tailoring · skill 20 Reagents 2 30 2 silver 30
+copper Sells for 3 31 3 silver 31 copper Profit + 1 1 +1 silver 1 copper Margin 44% Listed 34 Shopping
+list Green Linen Bracers Tailoring · skill 35 Reagents 3 3 silver Sells for 4 1 4 silver 1 copper Profit
++ 1 1 +1 silver 1 copper Margin 34% Listed 201 Shopping list White Swashbuckler&#x27;s Shirt Tailoring
+· skill 125 Reagents 32 47 32 silver 47 copper Sells for 33 25 33 silver 25 copper Profit + 78 +78 copper
+Margin 2% Listed 216 Shopping list White Linen Shirt Tailoring · skill 1 Reagents 95 95 copper Sells
+for 1 41 1 silver 41 copper Profit + 46 +46 copper Margin 48% Listed 78 Shopping list Show all 82 Recipes
+to hunt Profitable recipes you don&#x27;t know yet, within your skill. Difficulty is the easiest way
+to get it: 1 trainer, vendor or auction house, 2 limited vendor or quest, 3 reputation, a container or
+a common drop, 4 a raid or a rare drop, 5 a world drop. Pays back counts the crafts that cover the cheapest
+price for the pattern. Recipes from My faction Both factions Mooncloth Tailoring · skill 230 Easy · 1
+/5 Pattern: Mooncloth · Vendor: Qia (Winterspring) 2 2 gold Pattern: Mooncloth on Wowhead Profit / craft
++ 47 29 +47 gold 29 silver Pattern 2 2 gold Pays back 1 craft I have this recipe Mooncloth Shoulders
+Tailoring · skill 275 Easy · 1 /5 On the auction house now: 23 98 23 gold 98 silver Pattern: Mooncloth
+Shoulders · Drop: Huntsman Radley (Western Plaguelands) 0.06%; Necromancer (Eastern Plaguelands) 0.06%
++1 more Pattern: Mooncloth Shoulders on Wowhead Profit / craft + 76 7 +76 gold 7 silver 2 listed Pattern
+23 98 23 gold 98 silver Pays back 1 craft I have this recipe Mooncloth Leggings Tailoring · skill 245
+Easy · 1 /5 On the auction house now: 2 75 2 gold 75 silver Pattern: Mooncloth Leggings · Drop: Black
+Wyrmkin (Burning Steppes) 0.02%; Blackrock Slayer (Burning Steppes) 0.02% +1 more Pattern: Mooncloth
+Leggings on Wowhead Profit / craft + 127 +127 gold 1 listed Pattern 2 75 2 gold 75 silver Pays back 1
+craft I have this recipe Belt of the Archmage Tailoring · skill 295 Easy · 1 /5 On the auction house
+now: 251 251 gold Pattern: Belt of the Archmage · Drop: Gordok Reaver (Dire Maul) 0.02%; Gordok Warlock
+(Dire Maul) 0.02% Pattern: Belt of the Archmage on Wowhead Profit / craft + 112 +112 gold 1 listed Pattern
+251 251 gold Pays back 3 crafts I have this recipe Mantle of the Timbermaw Tailoring · skill 290 Easy
+· 1 /5 Pattern: Mantle of the Timbermaw · Vendor: Meilosh (Felwood) 4 4 gold Pattern: Mantle of the Timbermaw
+on Wowhead Profit / craft + 55 22 +55 gold 22 silver 2 listed Pattern 4 4 gold Pays back 1 craft I have
+this recipe Mooncloth Reagent Bag Tailoring · skill 255 Easy · 1 /5 Pattern: Mooncloth Reagent Bag ·
+Vendor: Dala Fairmaw (Mount Hyjal) Pattern: Mooncloth Reagent Bag on Wowhead Profit / craft + 10 19 +10
+gold 19 silver Pattern — Pays back — I have this recipe Wisdom of the Timbermaw Tailoring · skill 255
+Easy · 1 /5 Pattern: Wisdom of the Timbermaw · Vendor: Meilosh (Felwood) 2 20 2 gold 20 silver Pattern:
+Wisdom of the Timbermaw on Wowhead Profit / craft + 6 14 +6 gold 14 silver Pattern 2 20 2 gold 20 silver
+Pays back 1 craft I have this recipe Gloves of Spell Mastery Tailoring · skill 295 Easy · 1 /5 On the
+auction house now: 50 50 gold Pattern: Gloves of Spell Mastery · Drop: Tomb Horror (Naxxramas) 0.25%;
 Blackhand Assassin (Blackrock Spire) 0.02% +5 more Pattern: Gloves of Spell Mastery on Wowhead Profit
-/ craft + 11 94 +11 gold 94 silver 2 listed Pattern 50 50 50 gold 50 silver Pays back 5 crafts I have
-this recipe Earthen Leggings Tailoring · skill 140 Easy · 1 /5 On the auction house now: 1 49 1 gold
-49 silver Pattern: Earthen Leggings · Drop: Gravelsnout Surveyor (Thousand Needles) Pattern: Earthen
-Leggings on Wowhead Profit / craft + 2 38 +2 gold 38 silver Pattern 1 49 1 gold 49 silver Pays back 1
-craft I have this recipe Cloak of Fire Tailoring · skill 235 Medium · 3 /5 Pattern: Cloak of Fire · Drop:
-Overmaster Pyron (Searing Gorge) 25% Pattern: Cloak of Fire on Wowhead Profit / craft + 12 42 +12 gold
-42 silver 5 listed Pattern — Pays back — I have this recipe Ghostweave Vest Tailoring · skill 225 Easy
-· 1 /5 On the auction house now: 25 99 25 gold 99 silver Pattern: Ghostweave Vest · Drop: Unseen Servant
-(Eastern Plaguelands) 1.96% Pattern: Ghostweave Vest on Wowhead Profit / craft + 2 6 +2 gold 6 silver
-Pattern 25 99 25 gold 99 silver Pays back 13 crafts I have this recipe Stormcloth Pants Tailoring · skill
-185 Easy · 1 /5 On the auction house now: 4 4 gold Pattern: Stormcloth Pants · source not listed yet
-Pattern: Stormcloth Pants on Wowhead Profit / craft + 2 3 +2 gold 3 silver Pattern 4 4 gold Pays back
-2 crafts I have this recipe Azure Stormsewn Epaulets Tailoring · skill 175 Easy · 1 /5 Pattern: Azure
-Stormsewn Epaulets · Vendor: Archmage Alvareaux (Alterac Mountains, Alliance) 10 10 gold Pattern: Azure
-Stormsewn Epaulets on Wowhead Profit / craft + 1 98 +1 gold 98 silver Pattern 10 10 gold Pays back 6
-crafts I have this recipe Loom Tailoring · skill 300 Easy · 1 /5 On the auction house now: 13 71 13 gold
-71 silver Blueprint: Loom · source not listed yet Blueprint: Loom on Wowhead Profit / craft + 1 61 +1
-gold 61 silver Pattern 13 71 13 gold 71 silver Pays back 9 crafts I have this recipe Show all 77 All
-Tailoring recipes (414) Every Tailoring recipe in WoW Forever with its skill colours (orange, yellow,
-green, grey), reagents and where to learn it. Trainer fees are what the trainer charges; vendor prices
-are the pattern price. Apprentice · learn at 1–49 29 recipes Bolt of Linen Cloth 1 25 37 50 2× Linen
-Cloth Trainer Brown Linen Shirt 1 35 47 60 1× Bolt of Linen Cloth, 1× Coarse Thread Trainer Linen Cloak
-1 35 47 60 1× Bolt of Linen Cloth, 1× Coarse Thread Trainer White Linen Shirt 1 35 47 60 1× Bolt of Linen
-Cloth, 1× Coarse Thread, 1× Bleach Trainer · 25 25 copper Simple Linen Pants 1 40 50 60 1× Bolt of Linen
-Cloth, 1× Coarse Thread Trainer Linen Reagent Bag New 5 30 47 65 6× Bolt of Linen Cloth, 6× Coarse Thread
-Pattern: Linen Reagent Bag · Vendor: Dani&#x27;ill (Darnassus, Alliance) 1 50 1 silver 50 copper ; Borya
-(Orgrimmar, Horde) 1 50 1 silver 50 copper +29 more Linen Bag 5 30 47 65 3× Bolt of Linen Cloth, 3× Coarse
-Thread Trainer · 1 1 silver Brown Linen Vest 10 45 57 70 1× Bolt of Linen Cloth, 1× Coarse Thread Trainer
-· 50 50 copper Linen Belt 10 50 67 85 1× Bolt of Linen Cloth, 1× Coarse Thread Trainer · 50 50 copper
-Faction Banner New 20 20 22 25 1× Bolt of Linen Cloth, 1× Coarse Thread Trainer · 1 5 1 silver 5 copper
-Faction Banner New 20 20 22 25 1× Bolt of Linen Cloth, 1× Coarse Thread Trainer · 1 5 1 silver 5 copper
-Simple Linen Boots 20 50 67 85 2× Bolt of Linen Cloth, 1× Light Leather, 1× Coarse Thread Trainer · 50
-50 copper Red Linen Robe 25 50 67 85 3× Bolt of Linen Cloth, 2× Coarse Thread, 2× Red Dye Pattern: Red
-Linen Robe · World drop, mobs level 5–25 Blue Linen Shirt 25 50 67 85 2× Bolt of Linen Cloth, 1× Coarse
-Thread, 1× Blue Dye Trainer · 50 50 copper Brown Linen Pants 25 50 67 85 2× Bolt of Linen Cloth, 1× Coarse
-Thread Trainer · 50 50 copper Brown Linen Robe 25 50 67 85 3× Bolt of Linen Cloth, 1× Coarse Thread Trainer
+/ craft + 29 83 +29 gold 83 silver 2 listed Pattern 50 50 gold Pays back 2 crafts I have this recipe
+Robe of Winter Night Tailoring · skill 245 Hard · 4 /5 Pattern: Robe of Winter Night · Drop: Cobalt Mageweaver
+(Winterspring) 3% Pattern: Robe of Winter Night on Wowhead Profit / craft + 11 8 +11 gold 8 silver Pattern
+— Pays back — I have this recipe Azure Stormsewn Cowl Tailoring · skill 175 Easy · 1 /5 Pattern: Azure
+Stormsewn Cowl · Vendor: Archmage Alvareaux (Alterac Mountains, Alliance) 10 10 gold Pattern: Azure Stormsewn
+Cowl on Wowhead Profit / craft + 2 71 +2 gold 71 silver Pattern 10 10 gold Pays back 4 crafts I have
+this recipe Earthen Leggings Tailoring · skill 140 Easy · 1 /5 On the auction house now: 1 34 1 gold
+34 silver Pattern: Earthen Leggings · Drop: Gravelsnout Surveyor (Thousand Needles) Pattern: Earthen
+Leggings on Wowhead Profit / craft + 2 42 +2 gold 42 silver Pattern 1 34 1 gold 34 silver Pays back 1
+craft I have this recipe Mooncloth Bag Tailoring · skill 255 Easy · 1 /5 On the auction house now: 9
+50 9 gold 50 silver Pattern: Mooncloth Bag · Drop: Hive&#x27;Regal Burrower (Silithus) 0.7%; General
+Colbatann (Winterspring) 0.22% +1 more Pattern: Mooncloth Bag on Wowhead Profit / craft + 2 34 +2 gold
+34 silver Pattern 9 50 9 gold 50 silver Pays back 5 crafts I have this recipe Cloak of Fire Tailoring
+· skill 235 Medium · 3 /5 Pattern: Cloak of Fire · Drop: Overmaster Pyron (Searing Gorge) 25% Pattern:
+Cloak of Fire on Wowhead Profit / craft + 12 29 +12 gold 29 silver 5 listed Pattern — Pays back — I have
+this recipe Azure Stormsewn Epaulets Tailoring · skill 175 Easy · 1 /5 Pattern: Azure Stormsewn Epaulets
+· Vendor: Archmage Alvareaux (Alterac Mountains, Alliance) 10 10 gold Pattern: Azure Stormsewn Epaulets
+on Wowhead Profit / craft + 2 3 +2 gold 3 silver Pattern 10 10 gold Pays back 5 crafts I have this recipe
+Inferno Gloves Tailoring · skill 280 Very hard · 5 /5 Pattern: Inferno Gloves · Drop: Gordok Reaver (Dire
+Maul) 0.02%; Gordok Warlock (Dire Maul) 0.02% Pattern: Inferno Gloves on Wowhead Profit / craft + 10
+14 +10 gold 14 silver Pattern — Pays back — I have this recipe Stormcloth Pants Tailoring · skill 185
+Easy · 1 /5 On the auction house now: 8 21 8 gold 21 silver Pattern: Stormcloth Pants · source not listed
+yet Pattern: Stormcloth Pants on Wowhead Profit / craft + 1 83 +1 gold 83 silver Pattern 8 21 8 gold
+21 silver Pays back 5 crafts I have this recipe Gilded Handwraps Tailoring · skill 165 Easy · 1 /5 On
+the auction house now: 6 77 6 gold 77 silver Pattern: Gilded Handwraps · Drop: Saltscale Oracle (Stranglethorn
+Vale) Pattern: Gilded Handwraps on Wowhead Profit / craft + 1 31 +1 gold 31 silver Pattern 6 77 6 gold
+77 silver Pays back 6 crafts I have this recipe Tuxedo Shirt Tailoring · skill 200 Easy · 1 /5 On the
+auction house now: 66 80 66 silver 80 copper Pattern: Tuxedo Shirt · Vendor: Outfitter Eric (Dun Morogh,
+Alliance) 45 45 silver , limited ; Millie Gregorian (Tirisfal Glades, Horde) 45 45 silver , limited Pattern:
+Tuxedo Shirt on Wowhead Profit / craft + 1 31 +1 gold 31 silver Pattern 45 45 silver Pays back 1 craft
+I have this recipe Loom Tailoring · skill 300 Easy · 1 /5 On the auction house now: 101 101 gold Blueprint:
+Loom · source not listed yet Blueprint: Loom on Wowhead Profit / craft + 1 27 +1 gold 27 silver Pattern
+101 101 gold Pays back 80 crafts I have this recipe Ghostweave Vest Tailoring · skill 225 Easy · 1 /5
+On the auction house now: 19 99 19 gold 99 silver Pattern: Ghostweave Vest · Drop: Unseen Servant (Eastern
+Plaguelands) 1.96% Pattern: Ghostweave Vest on Wowhead Profit / craft + 1 26 +1 gold 26 silver Pattern
+19 99 19 gold 99 silver Pays back 16 crafts I have this recipe Show all 68 All Tailoring recipes (414)
+Every Tailoring recipe in WoW Forever with its skill colours (orange, yellow, green, grey), reagents
+and where to learn it. Trainer fees are what the trainer charges; vendor prices are the pattern price.
+Apprentice · learn at 1–49 29 recipes Bolt of Linen Cloth 1 25 37 50 2× Linen Cloth Trainer Brown Linen
+Shirt 1 35 47 60 1× Bolt of Linen Cloth, 1× Coarse Thread Trainer Linen Cloak 1 35 47 60 1× Bolt of Linen
+Cloth, 1× Coarse Thread Trainer White Linen Shirt 1 35 47 60 1× Bolt of Linen Cloth, 1× Coarse Thread,
+1× Bleach Trainer · 25 25 copper Simple Linen Pants 1 40 50 60 1× Bolt of Linen Cloth, 1× Coarse Thread
+Trainer Linen Reagent Bag New 5 30 47 65 6× Bolt of Linen Cloth, 6× Coarse Thread Pattern: Linen Reagent
+Bag · Vendor: Dani&#x27;ill (Darnassus, Alliance) 1 50 1 silver 50 copper ; Borya (Orgrimmar, Horde)
+1 50 1 silver 50 copper +29 more Linen Bag 5 30 47 65 3× Bolt of Linen Cloth, 3× Coarse Thread Trainer
+· 1 1 silver Brown Linen Vest 10 45 57 70 1× Bolt of Linen Cloth, 1× Coarse Thread Trainer · 50 50 copper
+Linen Belt 10 50 67 85 1× Bolt of Linen Cloth, 1× Coarse Thread Trainer · 50 50 copper Faction Banner
+New 20 20 22 25 1× Bolt of Linen Cloth, 1× Coarse Thread Trainer · 1 5 1 silver 5 copper Faction Banner
+New 20 20 22 25 1× Bolt of Linen Cloth, 1× Coarse Thread Trainer · 1 5 1 silver 5 copper Simple Linen
+Boots 20 50 67 85 2× Bolt of Linen Cloth, 1× Light Leather, 1× Coarse Thread Trainer · 50 50 copper Red
+Linen Robe 25 50 67 85 3× Bolt of Linen Cloth, 2× Coarse Thread, 2× Red Dye Pattern: Red Linen Robe ·
+World drop, mobs level 5–25 Blue Linen Shirt 25 50 67 85 2× Bolt of Linen Cloth, 1× Coarse Thread, 1×
+Blue Dye Trainer · 50 50 copper Brown Linen Pants 25 50 67 85 2× Bolt of Linen Cloth, 1× Coarse Thread
+Trainer · 50 50 copper Brown Linen Robe 25 50 67 85 3× Bolt of Linen Cloth, 1× Coarse Thread Trainer
 · 50 50 copper Heavy Linen Gloves 25 50 67 85 2× Bolt of Linen Cloth, 1× Coarse Thread Trainer · 1 1
 silver Red Linen Shirt 25 50 67 85 2× Bolt of Linen Cloth, 1× Coarse Thread, 1× Red Dye Trainer · 50
 50 copper Simple Dress 25 50 67 85 2× Bolt of Linen Cloth, 1× Coarse Thread, 1× Blue Dye, 1× Bleach Trainer
@@ -1004,19 +1004,19 @@ WoW Forever game data. Training fees and the patterns behind new recipes: Wowhea
 database. Vendor prices: Blizzard Game Data API. Auction prices: Blizzard Game Data API, refreshed hourly;
 today&#x27;s medians are on WoW Forever auction house prices . Which Tailoring items are worth wearing?
 Best Tailoring crafted gear by level , with the specs each piece suits. Questions players ask How much
-gold does it cost to level Tailoring 1–300 in WoW Forever? At least 274g on the US Alliance auction house
-(November 23, 2026), following the cheapest route above: 261g in reagents plus 13g 25s in recipe training,
+gold does it cost to level Tailoring 1–300 in WoW Forever? At least 262g on the US Alliance auction house
+(November 23, 2026), following the cheapest route above: 249g in reagents plus 13g 31s in recipe training,
 patterns and profession ranks; Demonic Rune not on the auction house yet, so that part is not counted.
 Switch region and faction in the calculator for your market, or limit it to trainer recipes only, which
-stops at 255 for about 243g. If you would rather skip it, a Tailoring mats kit for 1–300 costs $465.33
+stops at 255 for about 250g. If you would rather skip it, a Tailoring mats kit for 1–300 costs $465.33
 (US) and done-for-you Tailoring leveling 1–300 costs $227.82 (US). How many crafts does Tailoring 1–300
-take? 455 crafts on the default route, counting the expected misses once a recipe turns yellow or green.
+take? 452 crafts on the default route, counting the expected misses once a recipe turns yellow or green.
 Type your current skill in the calculator to see what is left. What is the fastest way to level Tailoring
 in WoW Forever? Craft the cheapest orange recipe until it turns yellow, then switch: the route above
 does that for every skill point, using trainer recipes plus the patterns your faction can buy or earn.
-It starts with Bolt of Linen Cloth, Brown Linen Shirt and Simple Linen Pants. What is new for Tailoring
-in WoW Forever? Compared with Classic, WoW Forever Tailoring adds 180 recipes that are new in WoW Forever,
-camp objects (Faction Banner at 20, Spinning Wheel at 140 and Loom at 300), 67 patterns bought with Merchant&#x27;s
+It starts with Brown Linen Shirt, Simple Linen Pants and Linen Belt. What is new for Tailoring in WoW
+Forever? Compared with Classic, WoW Forever Tailoring adds 180 recipes that are new in WoW Forever, camp
+objects (Faction Banner at 20, Spinning Wheel at 140 and Loom at 300), 67 patterns bought with Merchant&#x27;s
 Favor from the profession quartermaster and Tailoring Certification at 300, which unlocks the title “the
 Tailor”. Classic Tailoring guides miss these, and some Classic recipes now use different reagents. Where
 are the Tailoring trainers in WoW Forever? Every Tailoring trainer is listed above with zone and /way

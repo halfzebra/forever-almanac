@@ -90,37 +90,37 @@ Hands Waist Legs Feet Ring Ring Full Rogue gear sheet for level 40 → Talents 3
 Blade Flurry Lv 32 2/2 Dual Wield Specialization Lv 33–34 1/1 Flawless Execution Lv 35 1/5 Hack and Slash
 Lv 36 4/5 Flash of Steel Lv 37–40 Open the level 40 build in the calculator → Spells to Train 32 Wound
 Poison 34 Blind Plus 12 higher ranks of spells you already know. Rogue spellbook by level → Best Gear
-Weapon Off Hand Ranged Head Neck Shoulder Back Chest Wrist Hands Waist Legs Feet Ring Ring Trinket Trinket
-Full Rogue gear sheet for level 40 → Talents 5/5 Flash of Steel Lv 41 1/1 Adrenaline Rush Lv 42 5/5 Hack
-and Slash Lv 43–46 3/5 Malice Lv 47–49 1/3 Improved Slice and Dice Lv 50 Open the level 50 build in the
-calculator → Spells to Train No new spells in this range. Plus 15 higher ranks of spells you already
-know. Rogue spellbook by level → Best Gear Weapon Off Hand Ranged Head Neck Shoulder Back Chest Wrist
-Hands Waist Legs Feet Ring Ring Trinket Trinket Full Rogue gear sheet for level 50 → Talents 5/5 Flash
-of Steel Lv 41 1/1 Adrenaline Rush Lv 42 5/5 Hack and Slash Lv 43–46 3/5 Malice Lv 47–49 1/3 Improved
-Slice and Dice Lv 50 Open the level 50 build in the calculator → Spells to Train No new spells in this
-range. Plus 15 higher ranks of spells you already know. Rogue spellbook by level → Best Gear Weapon Off
-Hand Ranged Head Neck Shoulder Back Chest Wrist Hands Waist Legs Feet Ring Ring Trinket Trinket Full
-Rogue gear sheet for level 50 → Talents 3/3 Improved Slice and Dice Lv 51–52 5/5 Malice Lv 53–54 2/2
-Vigor Lv 55–56 2/2 Lethality Lv 57–58 1/3 Ruthlessness Lv 59 1/1 Cold Blood Lv 60 Open the level 60 build
-in the calculator → Spells to Train 60 Occult Poison II Plus 17 higher ranks of spells you already know.
-Rogue spellbook by level → Best Gear Weapon Off Hand Ranged Head Neck Shoulder Back Chest Wrist Hands
-Waist Legs Feet Ring Ring Trinket Trinket Full Rogue gear sheet for level 60 → Talents 3/3 Improved Slice
-and Dice Lv 51–52 5/5 Malice Lv 53–54 2/2 Vigor Lv 55–56 2/2 Lethality Lv 57–58 1/3 Ruthlessness Lv 59
-1/1 Cold Blood Lv 60 Open the level 60 build in the calculator → Spells to Train 60 Occult Poison II
-Plus 17 higher ranks of spells you already know. Rogue spellbook by level → Best Gear Weapon Off Hand
-Ranged Head Neck Shoulder Back Chest Wrist Hands Waist Legs Feet Ring Ring Trinket Trinket Full Rogue
-gear sheet for level 60 → Rogue Leveling Gear and Stats Weapons first Swords, maces, axes, and fist weapons
-all work for Combat; pick the main hand with the highest damage, since Sinister Strike scales with it.
-The off hand can be any type. Stats Agility first, for Attack Power, critical strike, and dodge, then
-Strength, then Stamina. Hit is covered by Precision. Armor Rogues wear leather the whole way. Agility
-leather is your upgrade at every level. Rogue Leveling Questions What is the best Rogue leveling spec
-in WoW Forever? Combat with Sinister Strike. The plan on this page ends at 35 Combat and 16 Assassination,
-takes Riposte at 22 and Adrenaline Rush at 42, and never needs a respec. Should a leveling Rogue use
-daggers or swords? Swords, maces, axes, or fist weapons with Sinister Strike are smoother for leveling.
-Daggers suit Backstab builds, which spend much of their time behind the target. When do Rogues get poisons?
-Instant Poison and Crippling Poison at level 20, Deadly Poison at 30, and Wound Poison at 32. When do
-Rogues get Blade Flurry and Adrenaline Rush? In this plan, Blade Flurry at 32 and Adrenaline Rush at
-42. Save both for packs and dungeon bosses. When do Rogues get Vanish and Kidney Shot? Vanish at level
-22 and Kidney Shot at level 30. How do I stop running out of Energy? Efficient Strikes makes Sinister
-Strike 5 Energy cheaper, Composure makes your first attack of each fight far cheaper, and Flash of Steel
-and Adrenaline Rush add Energy later. Use Riposte whenever it lights up: it costs very little.
+Weapon Off Hand Ranged Head Neck Shoulder Back Chest Wrist Hands Waist Legs Feet Ring Ring Trinket Full
+Rogue gear sheet for level 40 → Talents 5/5 Flash of Steel Lv 41 1/1 Adrenaline Rush Lv 42 5/5 Hack and
+Slash Lv 43–46 3/5 Malice Lv 47–49 1/3 Improved Slice and Dice Lv 50 Open the level 50 build in the calculator
+→ Spells to Train No new spells in this range. Plus 15 higher ranks of spells you already know. Rogue
+spellbook by level → Best Gear Weapon Off Hand Ranged Head Neck Shoulder Back Chest Wrist Hands Waist
+Legs Feet Ring Ring Trinket Trinket Full Rogue gear sheet for level 50 → Talents 5/5 Flash of Steel Lv
+41 1/1 Adrenaline Rush Lv 42 5/5 Hack and Slash Lv 43–46 3/5 Malice Lv 47–49 1/3 Improved Slice and Dice
+Lv 50 Open the level 50 build in the calculator → Spells to Train No new spells in this range. Plus 15
+higher ranks of spells you already know. Rogue spellbook by level → Best Gear Weapon Off Hand Ranged
+Head Neck Shoulder Back Chest Wrist Hands Waist Legs Feet Ring Ring Trinket Trinket Full Rogue gear sheet
+for level 50 → Talents 3/3 Improved Slice and Dice Lv 51–52 5/5 Malice Lv 53–54 2/2 Vigor Lv 55–56 2/2
+Lethality Lv 57–58 1/3 Ruthlessness Lv 59 1/1 Cold Blood Lv 60 Open the level 60 build in the calculator
+→ Spells to Train 60 Occult Poison II Plus 17 higher ranks of spells you already know. Rogue spellbook
+by level → Best Gear Weapon Off Hand Ranged Head Neck Shoulder Back Chest Wrist Hands Waist Legs Feet
+Ring Ring Trinket Trinket Full Rogue gear sheet for level 60 → Talents 3/3 Improved Slice and Dice Lv
+51–52 5/5 Malice Lv 53–54 2/2 Vigor Lv 55–56 2/2 Lethality Lv 57–58 1/3 Ruthlessness Lv 59 1/1 Cold Blood
+Lv 60 Open the level 60 build in the calculator → Spells to Train 60 Occult Poison II Plus 17 higher
+ranks of spells you already know. Rogue spellbook by level → Best Gear Weapon Off Hand Ranged Head Neck
+Shoulder Back Chest Wrist Hands Waist Legs Feet Ring Ring Trinket Trinket Full Rogue gear sheet for level
+60 → Rogue Leveling Gear and Stats Weapons first Swords, maces, axes, and fist weapons all work for Combat;
+pick the main hand with the highest damage, since Sinister Strike scales with it. The off hand can be
+any type. Stats Agility first, for Attack Power, critical strike, and dodge, then Strength, then Stamina.
+Hit is covered by Precision. Armor Rogues wear leather the whole way. Agility leather is your upgrade
+at every level. Rogue Leveling Questions What is the best Rogue leveling spec in WoW Forever? Combat
+with Sinister Strike. The plan on this page ends at 35 Combat and 16 Assassination, takes Riposte at
+22 and Adrenaline Rush at 42, and never needs a respec. Should a leveling Rogue use daggers or swords?
+Swords, maces, axes, or fist weapons with Sinister Strike are smoother for leveling. Daggers suit Backstab
+builds, which spend much of their time behind the target. When do Rogues get poisons? Instant Poison
+and Crippling Poison at level 20, Deadly Poison at 30, and Wound Poison at 32. When do Rogues get Blade
+Flurry and Adrenaline Rush? In this plan, Blade Flurry at 32 and Adrenaline Rush at 42. Save both for
+packs and dungeon bosses. When do Rogues get Vanish and Kidney Shot? Vanish at level 22 and Kidney Shot
+at level 30. How do I stop running out of Energy? Efficient Strikes makes Sinister Strike 5 Energy cheaper,
+Composure makes your first attack of each fight far cheaper, and Flash of Steel and Adrenaline Rush add
+Energy later. Use Riposte whenever it lights up: it costs very little.

@@ -69,60 +69,59 @@ Focus Lv 19–20 Open the level 20 build in the calculator → Spells to Train 1
 14 Psychic Scream 16 Heal 18 Dispel Magic 20 Contingency Plan 20 Elune&#39;s Grace 20 Feedback 20 Shackle
 Undead 20 Chastise 20 Fear Ward 20 Flash Heal 20 Holy Fire 20 Dark Sacrifice 20 Devouring Plague 20 Mind
 Soothe 20 Shadowguard Plus 15 higher ranks of spells you already know. Priest spellbook by level → Best
-Gear Weapon Ranged Head Neck Shoulder Back Chest Wrist Hands Waist Legs Feet Ring Ring Trinket Full Priest
-gear sheet for level 20 → Talents 2/2 Wand Specialization Lv 11 5/5 Spirit Tap Lv 12–16 2/2 Improved
-Shadow Word: Pain Lv 17–18 2/5 Shadow Focus Lv 19–20 Open the level 20 build in the calculator → Spells
-to Train 12 Inner Fire 14 Cure Disease 14 Psychic Scream 16 Heal 18 Dispel Magic 20 Contingency Plan
-20 Elune&#39;s Grace 20 Feedback 20 Shackle Undead 20 Chastise 20 Fear Ward 20 Flash Heal 20 Holy Fire
-20 Dark Sacrifice 20 Devouring Plague 20 Mind Soothe 20 Shadowguard Plus 15 higher ranks of spells you
+Gear Weapon Ranged Head Neck Shoulder Back Chest Wrist Hands Waist Legs Feet Ring Ring Full Priest gear
+sheet for level 20 → Talents 2/2 Wand Specialization Lv 11 5/5 Spirit Tap Lv 12–16 2/2 Improved Shadow
+Word: Pain Lv 17–18 2/5 Shadow Focus Lv 19–20 Open the level 20 build in the calculator → Spells to Train
+12 Inner Fire 14 Cure Disease 14 Psychic Scream 16 Heal 18 Dispel Magic 20 Contingency Plan 20 Elune&#39;s
+Grace 20 Feedback 20 Shackle Undead 20 Chastise 20 Fear Ward 20 Flash Heal 20 Holy Fire 20 Dark Sacrifice
+20 Devouring Plague 20 Mind Soothe 20 Shadowguard Plus 15 higher ranks of spells you already know. Priest
+spellbook by level → Best Gear Weapon Ranged Head Neck Shoulder Back Chest Wrist Hands Waist Legs Feet
+Ring Ring Full Priest gear sheet for level 20 → Talents 3/5 Shadow Focus Lv 21 2/2 Shadow Reach Lv 22–23
+1/1 Mind Flay Lv 24 2/2 Improved Mind Flay Lv 25–26 1/1 Vampiric Embrace Lv 27 3/3 Shadow Weaving Lv
+28–30 Open the level 30 build in the calculator → Spells to Train 22 Mind Vision 24 Mana Burn 30 Divine
+Spirit 30 Prayer of Healing 30 Mind Control 30 Shadow Protection Plus 29 higher ranks of spells you already
+know. Priest spellbook by level → Best Gear Weapon Off Hand Ranged Head Neck Shoulder Back Chest Wrist
+Hands Waist Legs Feet Ring Ring Full Priest gear sheet for level 30 → Talents 3/5 Shadow Focus Lv 21
+2/2 Shadow Reach Lv 22–23 1/1 Mind Flay Lv 24 2/2 Improved Mind Flay Lv 25–26 1/1 Vampiric Embrace Lv
+27 3/3 Shadow Weaving Lv 28–30 Open the level 30 build in the calculator → Spells to Train 22 Mind Vision
+24 Mana Burn 30 Divine Spirit 30 Prayer of Healing 30 Mind Control 30 Shadow Protection Plus 29 higher
+ranks of spells you already know. Priest spellbook by level → Best Gear Weapon Off Hand Ranged Head Neck
+Shoulder Back Chest Wrist Hands Waist Legs Feet Ring Ring Full Priest gear sheet for level 30 → Talents
+4/5 Shadow Focus Lv 31 1/1 Silence Lv 32 2/2 Devouring Contagion Lv 33–34 5/5 Shadow Focus Lv 35 1/5
+Improved Mind Blast Lv 36 4/5 Darkness Lv 37–40 Open the level 40 build in the calculator → Spells to
+Train 32 Abolish Disease 32 Shadow Word: Death 34 Levitate 40 Greater Heal Plus 34 higher ranks of spells
+you already know. Priest spellbook by level → Best Gear Weapon Off Hand Ranged Head Neck Shoulder Back
+Chest Wrist Hands Waist Legs Feet Ring Ring Full Priest gear sheet for level 40 → Talents 4/5 Shadow
+Focus Lv 31 1/1 Silence Lv 32 2/2 Devouring Contagion Lv 33–34 5/5 Shadow Focus Lv 35 1/5 Improved Mind
+Blast Lv 36 4/5 Darkness Lv 37–40 Open the level 40 build in the calculator → Spells to Train 32 Abolish
+Disease 32 Shadow Word: Death 34 Levitate 40 Greater Heal Plus 34 higher ranks of spells you already
+know. Priest spellbook by level → Best Gear Weapon Off Hand Ranged Head Neck Shoulder Back Chest Wrist
+Hands Waist Legs Feet Ring Ring Trinket Trinket Full Priest gear sheet for level 40 → Talents 5/5 Darkness
+Lv 41 1/1 Shadowform Lv 42 5/5 Twin Disciplines Lv 43–47 3/5 Mental Strength Lv 48–50 Open the level
+50 build in the calculator → Spells to Train 48 Prayer of Fortitude Plus 39 higher ranks of spells you
 already know. Priest spellbook by level → Best Gear Weapon Ranged Head Neck Shoulder Back Chest Wrist
-Hands Waist Legs Feet Ring Ring Trinket Full Priest gear sheet for level 20 → Talents 3/5 Shadow Focus
-Lv 21 2/2 Shadow Reach Lv 22–23 1/1 Mind Flay Lv 24 2/2 Improved Mind Flay Lv 25–26 1/1 Vampiric Embrace
-Lv 27 3/3 Shadow Weaving Lv 28–30 Open the level 30 build in the calculator → Spells to Train 22 Mind
-Vision 24 Mana Burn 30 Divine Spirit 30 Prayer of Healing 30 Mind Control 30 Shadow Protection Plus 29
-higher ranks of spells you already know. Priest spellbook by level → Best Gear Weapon Off Hand Ranged
-Head Neck Shoulder Back Chest Wrist Hands Waist Legs Feet Ring Ring Trinket Full Priest gear sheet for
-level 30 → Talents 3/5 Shadow Focus Lv 21 2/2 Shadow Reach Lv 22–23 1/1 Mind Flay Lv 24 2/2 Improved
-Mind Flay Lv 25–26 1/1 Vampiric Embrace Lv 27 3/3 Shadow Weaving Lv 28–30 Open the level 30 build in
-the calculator → Spells to Train 22 Mind Vision 24 Mana Burn 30 Divine Spirit 30 Prayer of Healing 30
-Mind Control 30 Shadow Protection Plus 29 higher ranks of spells you already know. Priest spellbook by
-level → Best Gear Weapon Off Hand Ranged Head Neck Shoulder Back Chest Wrist Hands Waist Legs Feet Ring
-Ring Trinket Full Priest gear sheet for level 30 → Talents 4/5 Shadow Focus Lv 31 1/1 Silence Lv 32 2/2
-Devouring Contagion Lv 33–34 5/5 Shadow Focus Lv 35 1/5 Improved Mind Blast Lv 36 4/5 Darkness Lv 37–40
-Open the level 40 build in the calculator → Spells to Train 32 Abolish Disease 32 Shadow Word: Death
-34 Levitate 40 Greater Heal Plus 34 higher ranks of spells you already know. Priest spellbook by level
-→ Best Gear Weapon Off Hand Ranged Head Neck Shoulder Back Chest Wrist Hands Waist Legs Feet Ring Ring
-Trinket Trinket Full Priest gear sheet for level 40 → Talents 4/5 Shadow Focus Lv 31 1/1 Silence Lv 32
-2/2 Devouring Contagion Lv 33–34 5/5 Shadow Focus Lv 35 1/5 Improved Mind Blast Lv 36 4/5 Darkness Lv
-37–40 Open the level 40 build in the calculator → Spells to Train 32 Abolish Disease 32 Shadow Word:
-Death 34 Levitate 40 Greater Heal Plus 34 higher ranks of spells you already know. Priest spellbook by
-level → Best Gear Weapon Off Hand Ranged Head Neck Shoulder Back Chest Wrist Hands Waist Legs Feet Ring
-Ring Trinket Trinket Full Priest gear sheet for level 40 → Talents 5/5 Darkness Lv 41 1/1 Shadowform
-Lv 42 5/5 Twin Disciplines Lv 43–47 3/5 Mental Strength Lv 48–50 Open the level 50 build in the calculator
-→ Spells to Train 48 Prayer of Fortitude Plus 39 higher ranks of spells you already know. Priest spellbook
-by level → Best Gear Weapon Off Hand Ranged Head Neck Shoulder Back Chest Wrist Hands Waist Legs Feet
-Ring Ring Trinket Trinket Full Priest gear sheet for level 50 → Talents 5/5 Darkness Lv 41 1/1 Shadowform
-Lv 42 5/5 Twin Disciplines Lv 43–47 3/5 Mental Strength Lv 48–50 Open the level 50 build in the calculator
-→ Spells to Train 48 Prayer of Fortitude Plus 39 higher ranks of spells you already know. Priest spellbook
-by level → Best Gear Weapon Off Hand Ranged Head Neck Shoulder Back Chest Wrist Hands Waist Legs Feet
-Ring Ring Trinket Trinket Full Priest gear sheet for level 50 → Talents 3/3 Improved Power Word: Shield
-Lv 51–53 3/3 Meditation Lv 54–56 3/3 Twilight Focus Lv 57–59 1/1 Soul Warding Lv 60 Open the level 60
-build in the calculator → Spells to Train 56 Prayer of Shadow Protection 60 Prayer of Spirit Plus 42
-higher ranks of spells you already know. Priest spellbook by level → Best Gear Weapon Off Hand Ranged
-Head Neck Shoulder Back Chest Wrist Hands Waist Legs Feet Ring Ring Trinket Trinket Full Priest gear
-sheet for level 60 → Talents 3/3 Improved Power Word: Shield Lv 51–53 3/3 Meditation Lv 54–56 3/3 Twilight
-Focus Lv 57–59 1/1 Soul Warding Lv 60 Open the level 60 build in the calculator → Spells to Train 56
-Prayer of Shadow Protection 60 Prayer of Spirit Plus 42 higher ranks of spells you already know. Priest
-spellbook by level → Best Gear Weapon Off Hand Ranged Head Neck Shoulder Back Chest Wrist Hands Waist
-Legs Feet Ring Ring Trinket Trinket Full Priest gear sheet for level 60 → Priest Leveling Gear and Stats
-Wand first Until Shadowform your wand is a large part of your damage, so upgrade it whenever you can.
-After 42, spell damage matters more. Stats Spirit and Intellect while leveling: Spirit Tap doubles your
-Spirit after kills, and Meditation keeps half your regeneration going while casting. Spell damage and
-Stamina next. Armor Priests wear cloth the whole way; Stamina on cloth keeps you alive when a pull goes
-wrong. Priest Leveling Questions What is the best Priest leveling spec in WoW Forever? Shadow with a
-wand. The plan on this page ends at 31 Shadow, 17 Discipline, and 3 Holy, reaches Shadowform at 42, and
-never needs a respec. When does a Priest get Shadowform? Shadowform is the last Shadow talent, so the
-earliest you can take it is level 42. When does a Priest get Mind Flay? Mind Flay is a Shadow talent;
+Hands Waist Legs Feet Ring Ring Trinket Trinket Full Priest gear sheet for level 50 → Talents 5/5 Darkness
+Lv 41 1/1 Shadowform Lv 42 5/5 Twin Disciplines Lv 43–47 3/5 Mental Strength Lv 48–50 Open the level
+50 build in the calculator → Spells to Train 48 Prayer of Fortitude Plus 39 higher ranks of spells you
+already know. Priest spellbook by level → Best Gear Weapon Off Hand Ranged Head Neck Shoulder Back Chest
+Wrist Hands Waist Legs Feet Ring Ring Trinket Trinket Full Priest gear sheet for level 50 → Talents 3/3
+Improved Power Word: Shield Lv 51–53 3/3 Meditation Lv 54–56 3/3 Twilight Focus Lv 57–59 1/1 Soul Warding
+Lv 60 Open the level 60 build in the calculator → Spells to Train 56 Prayer of Shadow Protection 60 Prayer
+of Spirit Plus 42 higher ranks of spells you already know. Priest spellbook by level → Best Gear Weapon
+Off Hand Ranged Head Neck Shoulder Back Chest Wrist Hands Waist Legs Feet Ring Ring Trinket Trinket Full
+Priest gear sheet for level 60 → Talents 3/3 Improved Power Word: Shield Lv 51–53 3/3 Meditation Lv 54–56
+3/3 Twilight Focus Lv 57–59 1/1 Soul Warding Lv 60 Open the level 60 build in the calculator → Spells
+to Train 56 Prayer of Shadow Protection 60 Prayer of Spirit Plus 42 higher ranks of spells you already
+know. Priest spellbook by level → Best Gear Weapon Off Hand Ranged Head Neck Shoulder Back Chest Wrist
+Hands Waist Legs Feet Ring Ring Trinket Trinket Full Priest gear sheet for level 60 → Priest Leveling
+Gear and Stats Wand first Until Shadowform your wand is a large part of your damage, so upgrade it whenever
+you can. After 42, spell damage matters more. Stats Spirit and Intellect while leveling: Spirit Tap doubles
+your Spirit after kills, and Meditation keeps half your regeneration going while casting. Spell damage
+and Stamina next. Armor Priests wear cloth the whole way; Stamina on cloth keeps you alive when a pull
+goes wrong. Priest Leveling Questions What is the best Priest leveling spec in WoW Forever? Shadow with
+a wand. The plan on this page ends at 31 Shadow, 17 Discipline, and 3 Holy, reaches Shadowform at 42,
+and never needs a respec. When does a Priest get Shadowform? Shadowform is the last Shadow talent, so
+the earliest you can take it is level 42. When does a Priest get Mind Flay? Mind Flay is a Shadow talent;
 this plan takes it at level 24. Should a Priest level with a wand? Yes. Wand Specialization makes your
 wand hit 25% harder, it costs no Mana, and it does not interrupt your Mana regeneration. It is your main
 damage until Shadowform. Can a Shadow Priest heal dungeons while leveling? In normal leveling dungeons,

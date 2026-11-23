@@ -1,15 +1,4 @@
-1 source has changed.
-
-### WoW-Professions, Skinning 1-300
-<https://www.wow-professions.com/forever/skinning-leveling-guide>
-
-table rows 99 to 20; words 753 to 1153; the numbers on the page changed (93 to 93 of them)
-
-Cited by:
-- `content/professions/skinning.html`
-- `data/routes/skinning.json`
-- `data/skinning/creature-levels.json`
-- `data/trainers/skinning.json`
+No watched source changed.
 
 ### Not fetched, check by hand
 
@@ -17,11 +6,3 @@ Cited by:
 - [Maxroll, Priest leveling](https://maxroll.gg/wow-forever/class-guides/priest-leveling-guide) - Ziff Davis states in robots.txt that automated retrieval is prohibited without written permission, naming RAG and AI databases. Read by hand only.
 - [Maxroll, Rogue leveling](https://maxroll.gg/wow-forever/class-guides/rogue-leveling-guide) - Ziff Davis states in robots.txt that automated retrieval is prohibited without written permission, naming RAG and AI databases. Read by hand.
 
-### Before merging
-
-- [ ] read each changed page
-- [ ] check the claims the cited files make against it
-- [ ] where the sources now disagree, print both and say which said what
-- [ ] `node build.js --base=/ && node validate.js`
-
-This branch changes only `sources/`. The content edit is a separate, deliberate commit.
