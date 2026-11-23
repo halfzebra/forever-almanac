@@ -1,95 +1,170 @@
-# wow-forever
+# The Forever Almanac
 
-Personal reference notes for **World of Warcraft: Forever**, Blizzard's Classic+ title (launched 2026-11-04, level cap 60).
-
-This is not a codebase. There is no build, no tests, and the directory is intentionally near-empty. The deliverables are **published Claude Artifacts**, not files here.
+Reference notes for **World of Warcraft: Forever**, Blizzard's Classic+ title (launched
+2026-11-04, level cap 60). This is a static site built from data files. [README.md](README.md)
+covers how to run and extend it; this file is about how to work on it well.
 
 ## The characters
 
 | Character | Professions | Page |
 |---|---|---|
-| Night Elf Priest, Alliance, duos with a warrior friend | Tailoring + Enchanting (the focus), plus Cooking, Fishing, First Aid | https://claude.ai/artifact/TSWk4hvFmorBqpAGjTfbqt |
-| Night Elf Rogue | Leatherworking + Skinning | https://claude.ai/artifact/ScKais2PSaovFHEcMgbDv7 |
+| Night Elf Priest, Alliance, duos with a warrior friend | Tailoring + Enchanting (the focus), plus Cooking, Fishing, First Aid | `/me/priest/` |
+| Night Elf Rogue | Leatherworking + Skinning | `/me/rogue/` |
 
-Do not hardcode levels or skill numbers into advice. They go stale within days. Each page keeps live state in its own artifact database at `tracker/progress`, so read it first:
+Levels and skills are typed into the page and live in that browser's `localStorage`. They are
+not in the repo and not in any database, so **never hardcode a level or a skill number into
+the content.** Anything that depends on where a character currently is must be derived at
+runtime from the data, the way `assets/site.js` already derives the next talent, the next
+craft, the next rank and which camp object to place.
 
+The two original Claude Artifacts stay published and keep their URLs, frozen at priest v6 and
+rogue v4. They are history now, not the deliverable. Do not edit them.
+
+## Before you change anything
+
+```sh
+node build.js --base=/ && node validate.js    # must end "no problems"
 ```
-ArtifactData  action: "get"  url: <page url>  collection: "tracker"  doc_id: "progress"
-```
 
-Fields are `lvl`, `done`, and two skill keys: `tl`/`en` on the priest page, `lw`/`sk` on the rogue page.
+`validate.js` runs against the built HTML in `docs/`, not the drafts, which is the point:
+it catches an edit that broke a table after the arithmetic was done. The ten checks are
+listed in the README. CI runs the same two commands, plus a grep that fails the build if
+`build.js`, `validate.js`, `assets/` or `templates/` names a class, a spec or a profession.
+Keep that true: everything specific belongs in `data/`.
 
 ## Forever is not vanilla. Never answer from memory.
 
-Mechanics differ from Classic 1.12 and TBC in ways that change the advice:
+Mechanics differ from Classic 1.12 and TBC in ways that change the advice. The site's
+[What Forever changed](content/mechanics/whats-new.html) page carries the current list.
+The ones that most often catch people out:
 
 - First Aid crafts healing potions now (moved off Alchemy, which gets a worse version).
-- No confirmed Tailoring specializations. Mooncloth and Shadoweave survive only as bag and Craftsman's Writ names. Leatherworking does keep Dragonscale / Elemental / Tribal.
-- A Camping system. Each profession grants three camp objects, the first around 20 skill, upgrades from dungeon blueprints. Buffs last an hour, share a one-hour cooldown, do not stack with equivalent class buffs. Three objects per basic campfire (Cooking 90/200 blueprints raise this to 5/10), one contribution per player. The no-stacking rule is the useful half: work out which of a character's own objects their class already buffs, and say which one to actually place. A priest's First Aid Kit is permanently dead to Power Word: Fortitude; the Tailoring Faction Banner dies at 30 to Divine Spirit.
-- **Talent trees are reworked**, not vanilla or TBC. Names like Efficient Strikes, Coup de Grace, Power in Light, Twilight Focus, Dark Inspiration, Boot Knife and Death Mark are new; some TBC/Wrath talents (Penance, Divine Aegis, Renewed Hope) were imported; Holy Precision sits in Discipline despite the name. Rank counts changed too - Wand Specialization is 2 ranks for the full +25%, Dual Wield Specialization 2 ranks for +50%. Never name a talent from memory.
-- New core abilities exist outside the trees. **Shank** (rogue, level 24: 5 Energy, returns 15, cannot miss, 10 sec cooldown) has three talents keyed to it - Flash of Steel, Venom, Boot Knife - so five points of a Combat build serve an ability the talent guides barely mention. Check for this pattern on other classes before writing a build up.
-- **Talent arithmetic, which settles arguments.** First point at level 10, one per level after, so **points available = level - 9**, and 51 at level 60. A tree's **row N opens at 5x(N-1) points in that tree** (row 1 free, row 5 needs 20, row 7 needs 30). Use this to check a character's reported sheet: the priest's "2 wand, 3 focus, 5 blackout, 2 SW:P" was 12 points at level 23, which grants 14, so two were unaccounted for. Always do that subtraction before advising a respec.
-- **Trace talent prerequisites before repeating a source's suggested swap.** Sources name the prereq but not its consequence. Priest Discipline: Improved Power Word: Shield -> Soul Warding -> Renewed Hope, and Penance -> Power Infusion. classicwowforever offers "Renewed Hope instead of Penance at 30" as a fair swap without mentioning that it closes off the row 7 capstone for good. Shadowform likewise needs Vampiric Embrace at full rank, not just 30 points.
-- **Check whether a build actually reaches the talent you are recommending gear for.** Spiritual Guidance converts up to 25% of Spirit into healing power, which looks like the obvious partner to Spirit-heavy Tailoring cloth - but it is Holy row 5, and the Discipline build's 13 Holy points only open rows 1 and 2. Neither priest build on the page reaches it.
-- Dual spec opens at **level 40**: Blizzard's own words, "Dual Specialization also becomes available at level 40", quoted by Zockify from `news.blizzard.com/en-us/article/24302097`. Caveat that belongs in any write-up: that article is the **Mage and Shaman** deep dive, and nobody has read it directly rather than Zockify's quote. Nobody publishes what a class respec costs; only the Legacy respec tiers are datamined, and Zockify says those need live confirmation too.
-- Merchant's Favor, earned from loot crates, buys many recipes outright rather than training them.
-- New content: Dalaran (in Alterac Mountains), Riverglades, Zephras Isle, the Skyborne race.
-- Profession ranks are unchanged: Apprentice (no requirement, cap 75), Journeyman (50 skill, level 10, cap 150), Expert (125, level 20, cap 225), Artisan (200, level 35, cap 300). The level half of each gate is what sets the schedule.
+- No confirmed Tailoring specializations. Mooncloth and Shadoweave survive only as bag and
+  Craftsman's Writ names. Leatherworking does keep Dragonscale / Elemental / Tribal.
+- A Camping system, which `data/camp/` models. The useful half is the no-stacking rule:
+  an object dies only once the character learns the class buff that clashes with it, which
+  is why the verdict is computed per character and never written into the prose.
+- **Talent trees are reworked**, not vanilla or TBC. Names like Efficient Strikes, Coup de
+  Grace, Power in Light, Twilight Focus, Dark Inspiration, Boot Knife and Death Mark are new;
+  some TBC/Wrath talents (Penance, Divine Aegis, Renewed Hope) were imported; Holy Precision
+  sits in Discipline despite the name. Rank counts changed too - Wand Specialization is 2
+  ranks for the full +25%, Dual Wield Specialization 2 ranks for +50%. Never name a talent
+  from memory.
+- New core abilities exist outside the trees. **Shank** (rogue, level 24) has three talents
+  keyed to it, so five points of a Combat build serve an ability the talent guides barely
+  mention. Check for this pattern on other classes before writing a build up.
+- **Talent arithmetic, which settles arguments.** Points available = level - 9, and 51 at 60.
+  A tree's row N opens at 5x(N-1) points *in that tree*. Do that subtraction against a
+  reported sheet before advising a respec.
+- **Trace talent prerequisites before repeating a source's suggested swap.** Sources name the
+  prereq but not its consequence. classicwowforever offers "Renewed Hope instead of Penance
+  at 30" without mentioning that it closes off the row 7 capstone for good.
+- **Check whether a build actually reaches the talent you are recommending gear for.**
+  Spiritual Guidance is Holy row 5, and the Discipline build's 13 Holy points open rows 1
+  and 2. Neither priest build reaches it.
+- Dual spec opens at **level 40**: Blizzard's own words, quoted by Zockify. The caveat that
+  belongs in any write-up: that article is the **Mage and Shaman** deep dive, and nobody has
+  read it directly rather than Zockify's quote.
+- Profession ranks are unchanged, and live in `data/gates.json`. The level half of each gate
+  is what sets the schedule.
 
-Research every mechanics question against Forever-specific pages before answering.
+## Sources
 
-## Sources: what works
+`data/sources.json` is the registry. Every entry carries a URL, the date it was last checked
+and a `watch` value. **The `watch` value is a terms decision, not a technical one** - read
+the site's robots.txt before adding a source, and record the reason in `watchWhy`:
 
-These load and are dated:
+| Value | Means | Who |
+|---|---|---|
+| `text` | keep a normalized snapshot, so changes show as a diff | zockify, wow-professions, talentsforever, method, timesaver, wowhandbook |
+| `hash` | keep a hash and structural counts only; never store their text | wowhead (disallows ~40 named AI crawlers), classicwowforever and warcraft.wiki.gg (`ai-train=no, use=reference`) |
+| `never` | do not fetch at all | maxroll (Ziff Davis prohibits automated retrieval in prose), conquestcapped (Cloudflare challenge since 2026-11-23) |
 
-- `wowhead.com/forever/profession-leveling-guides/<prof>` - route tables with per-craft materials.
-- `zockify.com/forever/professions/<prof>/`, plus its `/trainers/` and `/leveling/` subpages - trainers and Forever change lists.
-- `warcraft.wiki.gg/wiki/Forever_<topic>` - recipe lists flagged new vs old.
+URL patterns that work, verified 2026-11-23:
+
+- `wowhead.com/forever/profession-leveling-guides/<prof>` - **crafting professions only.**
+  There is no skinning, mining, herbalism or fishing guide; the index lists eight.
+- `zockify.com/forever/professions/<prof>/`, plus `/trainers/` and `/leveling/`.
 - `wow-professions.com/forever/<prof>-leveling-guide` and `-trainers`.
-- `timesaver.gg/tools/wow-forever/professions/<prof>` - routes with auction-house prices. It is a boosting seller; ignore its sales content.
-- `method.gg` - reliable, and states plainly where it is untested.
+- `method.gg/wow-forever/<prof>-in-wow-forever-leveling-guide-and-trainers` - the slug varies
+  ("1-300" appears in some), so take the link from `/wow-forever/professions`. Reliable, and
+  states plainly where it is untested.
+- `timesaver.gg/tools/wow-forever/professions/<prof>` and
+  `timesaver.gg/blog/wow-forever-<class>-leveling-weapons`. A boosting seller; ignore its
+  sales content. Its robots.txt says `ai-input=yes` outright.
+- `classicwowforever.com/talents/<class>` and `/weapons/<class>` - full tree contents and
+  every tooltip, with rows inferred from point gates. Best talent source found. One flaw: its
+  leveling table assigns several talents to more than one tree, so take tree placement from
+  its reference section.
+- `maxroll.gg/wow-forever/class-guides/<class>-leveling-guide` - the only source with leveling
+  rotations, and it does not label which spec each block belongs to. **Read by hand only.**
+- `wowhandbook.com/classes/<class>/leveling/` - the only exact per-level point order anywhere.
+  Contradicts itself in places; check for that.
+- `talentsforever.com/<class>/leveling` - what players actually pick, across tens of thousands
+  of builds. Popularity, not recommendation; label it that way.
 
-For talents and class data, Wowhead is useless (see the traps below). Use instead:
+All three talent sites print the client build they were checked against, which is how you tell
+whether one is stale. `ai-exodus.com` is behind - do not use it for rank counts.
 
-- `classicwowforever.com/talents/<class>` - full tree contents and **every tooltip**, with rows inferred from point gates, plus per-spec level bands and a dated list of Blizzard's talent changes. Best talent source found. One flaw: its leveling table assigns several talents to more than one tree, so take tree placement from its reference section instead.
-- `maxroll.gg/wow-forever/class-guides/<class>-leveling-guide` - the only source found with **leveling rotations** (openers and loops per level band) and with spec pros/cons. It does not label which spec each rotation block belongs to, so say so when using them.
-- `wowhandbook.com/classes/<class>/leveling/` - the only exact per-level point order anywhere. Contradicts itself in places; check for that.
-- `talentsforever.com/<class>/leveling` - what players actually pick, counted across tens of thousands of builds. Popularity, not recommendation; label it that way.
-- `classicwowforever.com/weapons/<class>` and `timesaver.gg/blog/wow-forever-<class>-leveling-weapons` - quest rewards and drops by level.
-- `conquestcapped.com/guides/wow-forever/wow-forever-class-quests/` - class quest IDs and chains. Truncates near 40k of 82k.
-
-All three talent sites print the client build they were checked against, which is how you tell whether one is stale. `ai-exodus.com` is behind - it missed Penance and Dark Inspiration and still listed the removed Shadow Affinity - so do not use it for rank counts.
-
-These refuse automated reads with 403. Do not retry them: mobalytics.gg, overgear.com, icy-veins.com.
-
-Three traps. Wowhead `/guide/...` pages return only boilerplate even at HTTP 200: this hits both `/guide/.../overview` for professions (use `profession-leveling-guides` instead) and **all of `/forever/guide/classes/...`**, for which there is no working Wowhead path - `/forever/guide/classes/rogue/leveling-guide` also 404s. And `warcrafttavern.com/forever/guides/profession-trainers/` is around 80k characters and truncates near 40k, so ask for specific professions rather than the whole page.
+These refuse automated reads with 403: mobalytics.gg, overgear.com, icy-veins.com. Wowhead
+`/guide/...` pages return boilerplate even at HTTP 200, including all of
+`/forever/guide/classes/...`; there is no working Wowhead path for class guides.
+`warcrafttavern.com/forever/guides/profession-trainers/` truncates near 40k of 80k, so ask for
+specific professions.
 
 ## House rule: show the disagreement
 
-The game is weeks old and the guides contradict each other, badly above 225 skill. Every page here ends with a confidence section splitting claims into solid / check in game / still provisional. Keep that, and:
+The game is weeks old and the guides contradict each other, badly above 225 skill. Every page
+ends with a confidence section, generated from the `confidence` blocks the page and its data
+files declare. Keep that, and:
 
 - Never resolve a source conflict silently. Give both numbers and say which source said what.
-- Never fill a gap with vanilla or TBC knowledge. Say the gap exists.
-- Repeat a source's own admission that it is untested, rather than laundering it into confidence. Method says this about tailoring 225+; Zockify says it about the leatherworking specialization steps.
-- A source contradicting *itself* is worth printing too. wowhandbook's prose disagrees with its own talent table twice; classicwowforever's leveling table assigns five rogue talents to more than one tree; Method says Combat should avoid daggers and then offers a dagger swap. Show the contradiction rather than silently picking one side.
-- When you correct something you previously published, say so plainly in the reply. Two from this project: dual spec was described as single-sourced when it is a direct Blizzard quote, and the rogue's Flash of Steel shipped with no idea it was Shank support.
+- Never fill a gap with vanilla or TBC knowledge. Say the gap exists. A missing page renders
+  as a stated gap in the library, which is the correct outcome, not a bug to paper over.
+- Repeat a source's own admission that it is untested rather than laundering it into
+  confidence. Method says exactly this about tailoring 225+, in those words.
+- A source contradicting *itself* is worth printing too. wowhandbook's prose disagrees with
+  its own talent table twice; Method says Combat should avoid daggers and then offers a dagger
+  swap.
+- When you correct something previously published, say so plainly in the reply.
 
-### Deriving a per-level ladder
+## Deriving a per-level ladder
 
-Talent sources publish **ten-level bands as running totals**, not one point per level. Splitting a band into single levels is fine and useful, but:
+Talent sources publish **ten-level bands as running totals**, not one point per level.
+Splitting a band into single levels is fine and useful, but:
 
-- Say on the page that the bands, tree rows and gates are sourced and the per-level split is derived.
-- **Verify it, don't eyeball it.** Three checks, all cheap to script: every row gate is satisfied at the level its point is spent; the running total never exceeds `level - 9`; and the finished build matches the source's own published "points at 60" spread. All three ladders on these pages pass, and the final-spread check is what proves the division is faithful to the band.
-- Re-run the check against the **shipped HTML**, not your draft, by parsing the published tables back out. That catches an edit that broke a row after the maths was done.
+- Say on the page that the bands, tree rows and gates are sourced and the per-level split is
+  derived. The ladder data carries `"derived": true` and a `note` that says so.
+- **Verify it, don't eyeball it.** Every ladder row carries `tree` and `row`, which reach the
+  HTML as `data-tree` and `data-row`, and `validate.js` re-derives all of it from the shipped
+  page: row gates satisfied at the level each point is spent, running total never above
+  `level - 9`, and the finished build matching `publishedSpread`. That last check is what
+  proves the division is faithful to the band.
+- A check that cannot run is worse than no check. `validate.js` fails a ladder row that is
+  missing `data-tree` or `data-row` rather than skipping it - that bug was real once.
 
-## Artifact conventions
+## Conventions worth keeping
 
-- One page per character, private, updated in place. Keep the URL: republish the same `file_path`, or pass `url` from a later session. Never publish a second artifact for a character that already has one.
-- **After every publish, log the new version in `README.md`.** This is the rule, not a nicety: the Page versions table there is the only record of what each version contains, because the artifact history shows numbers and not reasons. Add a row with the version number, the date, and one line on what changed - in the same response as the publish, while you still know. The artifact URL is stable across versions and there is no per-version public link, so link the page URL and record the number beside it. Never invent a versioned URL.
-- The HTML lives in the session scratchpad, which gets cleared. A later session must `Artifact action: "read"` the published page and build from what comes back, rather than expecting the local file to still be there. Reading a page back also requires reading the whole saved file before republishing, so budget for that.
-- Shared look across pages: Spectral for display, Inter for body, IBM Plex Mono for numbers and map coordinates; one colour token per profession and one per spec; a level-ladder timeline, then reference route tables whose rows carry `data-min` / `data-max` and highlight against the typed skill; confidence section last; footer cross-links the other character's page.
-- Talent ladders use the same `data-min` / `data-max` rows, but pass `lvl` to `markRoute` instead of a skill. Reuse that function rather than writing a second one.
-- **State belongs in one of two places, deliberately.** Anything the user should see on both phone and desktop - levels, skills, ticked checkboxes - goes in the `db` capability at `tracker/progress`. Per-viewer UI state that nobody needs to survive a device change, such as which spec tab is open, goes in `localStorage`, wrapped in try/catch, and never in the `db`. Do not change the `db` schema to store a UI preference.
-- Long reference material goes in `<details class="ref">`, collapsed by default, with each table inside its own `.tscroll`. That is what keeps the tooltip tables from burying the ladders. Anything progressively enhanced must render usefully with scripting off - the priest's spec toggle ships both panes visible and lets JS hide one.
-- **Validate before publishing.** Parse the file: tags balanced, `<section>` count matching `</section>`, ladder rows contiguous with no gap or overlap, every new CSS class actually defined (`.note.good` was used on one page before it existed in that page's CSS). Splicing big blocks in with a script reliably leaves one stray closing tag; the check finds it in seconds.
-- Route tables give materials **per craft**. Sources usually publish route totals instead, so divide, and say that the per-craft figure is derived.
+- **Content is prose; data is everything in a table.** `content/**.html` holds HTML fragments
+  with a JSON `meta` block; every table, trainer list and record is a typed envelope in
+  `data/`. Route rows give materials **per craft** - sources publish route totals, so divide,
+  and say the per-craft figure is derived.
+- **Bounds are explicit.** A route row's `max` is the skill it carries you *to* (exclusive);
+  a ladder row's `max` is the last level you spend on (inclusive). `drive.bound` says which,
+  and the contiguity check uses it.
+- **Two crafts covering the same band are alternatives**, marked `"alt": true`, not an error.
+  The enchanting route has a pair.
+- Shared look: Spectral for display, Inter for body, IBM Plex Mono for numbers and
+  coordinates. Colour comes from `data-token="<slug>"` plus `data/tokens.json`; never add a
+  profession-specific CSS class.
+- Long reference material goes in `<details class="ref">`, collapsed, each table in its own
+  `.tscroll`. Anything progressively enhanced must render usefully with scripting off - the
+  spec toggle ships both panes visible and lets JS hide one.
+- **State belongs in one of two places, deliberately.** Anything the reader should see on both
+  phone and desktop goes in `localStorage` under `forever-almanac:<character>` and travels by
+  sync link. Per-viewer UI state, such as which spec tab is open, goes under
+  `forever-almanac:pane:*` and never mixes with a character's record. Wrap every access in
+  try/catch.
+- **No version table.** `git log` is the record, and each page prints the date it last changed
+  plus the dates its sources were checked. Write commit messages that say what changed and
+  why, because that is now the only place the reason lives.

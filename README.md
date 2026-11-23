@@ -13,6 +13,10 @@ Built as a static site. No framework, no dependencies, no build tooling beyond N
 node build.js --base=/      # content/ + data/ -> docs/
 node validate.js            # the checks below, against the built HTML
 python3 -m http.server -d docs 8099
+
+node watch.js --probe      # fetch every watched source, report status, change nothing
+node watch.js --dry-run    # compare against the baseline, report, write nothing
+node watch.js              # refresh sources/hashes.json and the snapshots
 ```
 
 `docs/` is build output and is not committed. `--base=/forever-almanac/` is what CI passes,
@@ -123,29 +127,3 @@ its sources were checked.
 
 The two original artifact pages stay published and keep their URLs, frozen at priest v6 and
 rogue v4.
-
-## Still to move onto the site
-
-Facts that were in this README and do not have a page yet. Phase 2 empties this list; until
-then it is the only copy outside git history.
-
-- **The rogue's level 20 Poisons chain is a hard gate.** Mathias and the Defias into
-  Klaven's Tower. No poisons at all until it is done.
-- **The priest's Night Elf racial chain locks the spell until it is finished.** Stars of
-  Elune at 10, Elune's Grace at 20.
-- **Annora, the Artisan enchanter, is inside Uldaman.** Only trainer for either faction,
-  only spawns once her area is cleared, and the 230-250 formulas exist nowhere else. Buy
-  everything in one visit.
-- **Buy rods before you need them.** Silver at 109, Golden at 150, Truesilver at 200. They
-  are blacksmithing items and nobody in the group is a blacksmith.
-- **Enchanting crafts wands**, which is the real partner to Wand Specialization. Nobody
-  publishes DPS for any of them, so compare tooltips in game.
-- **The rogue's weapon is a talent decision.** Hack and Slash is five points and does
-  something different per weapon type: axe or sword gives an extra attack chance, dagger or
-  fist gives crit, mace ignores armour. Pick swords or axes and stay there. Aggression also
-  stopped covering Backstab on 2 Nov.
-- **Shank, at level 24,** is a new rogue ability that three talents key off - Flash of
-  Steel, Venom and Boot Knife. Five points of the Combat build exist to feed it.
-- **Blackout is taken by no leveling route on any site.**
-- **Shield yourself before pulling, not just when hurt.** It "prevents spell-pushback and
-  the loss of Inner Fire charges while active".
