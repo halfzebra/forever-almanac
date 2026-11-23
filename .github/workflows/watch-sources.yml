@@ -14,6 +14,7 @@ on:
 permissions:
   contents: write
   pull-requests: write
+  issues: write
 
 concurrency:
   group: watch-sources
@@ -66,3 +67,12 @@ jobs:
             sources/REPORT.md
           delete-branch: true
           labels: sources
+
+      # Turns the same report into one draft-PR task per changed source,
+      # assigned to Copilot's coding agent. The content edit itself still
+      # needs a human to merge it - see .github/copilot-instructions.md.
+      - name: file content-update issues for Copilot
+        if: ${{ !inputs.probe_only && steps.watch.outputs.changed == 'yes' }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: node scripts/report-to-issues.js
