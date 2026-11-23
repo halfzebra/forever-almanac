@@ -1,0 +1,183 @@
+Sam Okonkwo Senior Games Writer at Timesaver Published on November 17, 2026 • Updated November 20, 2026
+Quick answer: A WoW Forever Rogue levels dual-wielding two one-handers , and the off hand matters more
+than in Classic because of the new Shank ability. Daggers carry Assassination and Subtlety: Tail Spike
+(13.89 DPS) at 20, Thornspike (20.59) at 30, Satyr&#39;s Lash (33.24) at 45 and the crafted Black Amnesty
+(47.81) at 60. Combat runs swords, maces and fist weapons up to Dragon&#39;s Call (41.40) at 55 and Greenhammer
+(47.39) at 60. Shank (level 24) strikes with your off-hand weapon for 50% weapon damage , generates 15
+Energy (25 at rank 2, level 44) and cannot miss. Rogues can now use one-handed axes , and the new Hack
+and Slash talent rewards every weapon type: 5% extra-attack chance for axes and swords, 5% crit for daggers
+and fists, 15% armor ignored for maces. Blizzard&#39;s November 16 hotfix fixed two Rogue bugs: Poison
+ranks going above the maximum, and Shank wiping combo points on other targets. This is the Rogue entry
+in our class weapon series, after Warrior , Paladin , Feral Druid and Enhancement Shaman . Below: what
+changed for Rogue weapons in Forever, the dagger table for Alliance and Horde, the Combat pairs, the
+two Bind on Equip weapons worth buying, and the pre-raid weapons for December 9. All WoW Forever prices
+· How delivery works in WoW Forever WoW Forever Power Leveling WoW Forever Gold WoW Forever PvP Rank
+&amp; Honor WoW Forever Raids, Dungeons &amp; Pre-Raid Gear WoW Forever Professions WoW Forever Reputation,
+Riding &amp; Class Quests WoW Forever account safety Is WoW Forever boosting safe? Self-play vs piloted
+WoW Forever prices today Gold : from $5.72 (10 gold), within 2 hours; $0.57 per gold, Auction House:
+no account access, US, EU Level 60 Boost Bundle : from $597.55 (Starter: 60 + mount + Onyxia), within
+16 days, Piloted, US, EU Power Leveling : from $473.41 (1–60), within 12 days; from $48.12 per level,
+Piloted / Self-play Remote, US, EU all WoW Forever prices · gold price today (daily tracker) WoW Forever
+- Gold Get Gold 4.9 · 2k+ orders See all options Starting from $5.72 (10 gold) Buy now What changed for
+Rogue weapons in WoW Forever? Four things, from Blizzard&#39;s Rogue and Warlock class deep dive (October
+7, 2026) and the November 3 launch class notes . Your off hand gets its own button. The launch notes
+added Shank , learned at level 24: &quot;Instantly strike with your off-hand weapon, dealing 50% weapon
+damage and generating 15 Energy. Shank cannot Miss.&quot; It costs 5 Energy on a 10 second cooldown,
+and rank 2 at level 44 generates 25 Energy. In Classic, the off hand mostly mattered for white swings
+and the poisons they applied. In Forever, the off hand&#39;s weapon damage also feeds a special attack
+every 10 seconds. Rogues can use one-handed axes. Blizzard explained the change in the deep dive: &quot;Rogues
+as an archetype include brigands and outlaws, who often make use of axes in fantasy and medieval storytelling.&quot;
+(Blizzard) The weapon specialization talents are now one talent. Dagger, Sword, Mace and Fist Weapon
+Specialization were folded into Hack and Slash , row 5 of Combat. At 5 out of 5 points, the tooltip in
+our Combat talent calculator reads: axes and swords get a 5% chance for an extra attack , daggers and
+fist weapons get 5% critical strike chance , and maces ignore 15% of the target&#39;s armor . Maces no
+longer stun. Poisons got stronger and stack with stones. Poison charges increased, and poisons can now
+sit on a weapon together with a Sharpening Stone or Weightstone. The launch notes also doubled the Attack
+Power scaling of Deadly Poison (0.009, was 0.0045) and Instant Poison (0.01, was 0.005). What did the
+November 16 hotfix change for Rogues? The latest post in Blizzard&#39;s WoW: Forever hotfix thread went
+up on November 17 at 02:17 UTC and covers the November 16 fixes. Under Rogue, Blizzard lists: &quot;Rogue
+Poison ranks can no longer go above the maximum rank. Fixed an issue where using Shank on a target that
+didn&#39;t have your combo points active on them would remove your combo points on other targets, even
+if Boot Knife wasn&#39;t talented.&quot; (Kaivax, Blizzard) The same post fixed Mutilate getting an extra
+attempt to proc Windfury Totem . The November 13 post had already clarified that off-hand strikes from
+Mutilate do not activate Windfury Totem, while its main-hand strike still can. Earlier Rogue lines were
+tooltip-only: Shank now shows Rank 1 and Rank 2, and shows the right combo points with Boot Knife (November
+6). None of these changes which weapon is best, but the Shank fix matters if you switch targets often
+while questing. What is the best Rogue dagger at each level? Assassination and Subtlety share the same
+main-hand picks in our Assassination leveling gear planner . Backstab still needs a dagger in the main
+hand, and the talent tooltips in our calculator show both Hemorrhage (145% weapon damage with a dagger,
+100% without) and Ghostly Strike (180% with a main-hand dagger, 125% without) paying more when you hold
+one. The picks are our planner&#39;s selections, ranked on weapon DPS first, then stats and how easy
+the weapon is to get. Item stats and drop rates are from Wowhead&#39;s WoW Forever tooltips, read on
+November 17, 2026; drop rates shift a little as more kills are logged. Level Alliance Horde DPS (Alliance
+/ Horde) 5 Militia Shortblade (Quest: Rare Books, Elwynn Forest) Primitive Hand Blade (Quest: Vile Familiars,
+Durotar) 6.50 / 2.06 10 Blade of Cunning (Rogue class quest) Quickblade&#39;s Dagger (Quest: Return to
+Valanaar, Zephras Isle) 6.75 / 6.76 15 Scrimshaw Dagger (Quest: Red Silk Bandanas, Deadmines) Meathook
+Slicer (The Baron, Ruins of Lordaeron, 31.16%) 9.72 / 13.61 20 Tail Spike (Skum, Wailing Caverns, 28.51%)
+Same 13.89 25 Meteor Shard (Archmage Arugal, Shadowfang Keep, 29.50%) Same 17.78 30 Thornspike (Aggem
+Thorncurse, Razorfen Kraul, 33.04%) Same 20.59 35 Subdued Dragon&#39;s Fang (Quest: Stopping the Cycle,
+Wetlands) Thornspike 20.59 40 Black Menace (Quest: In the Name of the Light, Scarlet Monastery) Coldrage
+Dagger (Amnennar the Coldbringer, Razorfen Downs, 33.65%) 29.67 / 29.00 45 Satyr&#39;s Lash (Lord Vyletongue,
+Maraudon, 23.99%) Same 33.24 50 Katerina&#39;s Shanker (Katerina the Cleaner, Alcaz Prison, 33.33%) Same
+35.59 55 Dustwallow Dirk (Quest: Shaw Needs To Know, Stormwind) Dustwallow Dirk (Quest: Thrall Needs
+to Know, Alcaz Prison) 36.47 60 Black Amnesty (crafted by Blacksmithing; Bind on Equip) Same 47.81 Two
+gaps stand out. There is no dagger upgrade at 35 , so keep Thornspike until a Scarlet Monastery or Razorfen
+Downs dagger at 40. And level 15 favors Horde: Meathook Slicer is a blue drop with 13.61 DPS against
+Alliance&#39;s 9.72 quest dagger. Which daggers should you use from level 1 to 30? Take the quest daggers
+until 15, then run one dungeon per bracket. Levels 5 to 10. Alliance gets Militia Shortblade (6.50 DPS)
+right away. At 10, the Rogue class quest gives Blade of Cunning (6.75 DPS) to both factions. Skyborne
+Rogues can take Quickblade&#39;s Dagger (6.76 DPS) from Return to Valanaar on Zephras Isle. Level 15.
+Horde farms Meathook Slicer from The Baron in Ruins of Lordaeron, a new Forever dungeon, at a 31.16%
+drop rate. Chanting Blade (12.00 DPS) from Jergosh the Invoker in Ragefire Chasm (32.00%) is the Horde
+off hand. Level 20. Tail Spike (13.89 DPS) from Skum in Wailing Caverns, 28.51% , for both factions.
+Level 25. Meteor Shard (17.78 DPS) from Archmage Arugal in Shadowfang Keep, 29.50% . Pair it with Bite
+of Serra&#39;kis (17.69 DPS, 1.30 speed) from Old Serra&#39;kis in Blackfathom Deeps ( 31.85% ), which
+our planner uses as the off hand for both factions. Level 30. Thornspike (20.59 DPS) from Aggem Thorncurse
+in Razorfen Kraul, 33.04% . If you plan to run these dungeons a lot, read WoW Forever dungeons vs questing
+first. Since November 14, a party member more than 12 levels above an enemy means nobody in the party
+gets XP for that kill. Which daggers carry you from 40 to 55? 40: Alliance gets Black Menace (29.67 DPS,
+1.50 speed) as a reward from In the Name of the Light, the end of the Scarlet Monastery chain. Horde
+takes Coldrage Dagger (29.00 DPS) from Amnennar the Coldbringer in Razorfen Downs, 33.65% . 45: Satyr&#39;s
+Lash (33.24 DPS) from Lord Vyletongue in Maraudon, 23.99% . It is roughly a 1 in 4 roll, so plan on a
+few runs. 50: Katerina&#39;s Shanker (35.59 DPS) from Katerina the Cleaner in Alcaz Prison, 33.33% .
+Alcaz Prison is one of Forever&#39;s new dungeons. 55: Dustwallow Dirk (36.47 DPS) is a quest reward,
+so it is a sure thing: Shaw Needs To Know for Alliance, Thrall Needs to Know for Horde. What about Mutilate?
+It moved to row 7 of Assassination in the launch notes and now hits with both weapons for 90% weapon
+damage plus a flat bonus, 20% more against poisoned targets. Blizzard&#39;s October 7 deep dive said
+Mutilate needs daggers in both hands . Wowhead&#39;s current WoW Forever tooltip for Mutilate only lists
+&quot;Requires main hand weapon&quot; and &quot;Requires an off-hand weapon&quot;. Until Blizzard settles
+it, keep a dagger in each hand once you take Mutilate. The off hands our Assassination planner picks
+from 40 onward are swords and maces, so swap them for the second-best dagger you have. What weapons should
+a Combat Rogue use while leveling? Combat swaps the dagger for a sword, mace, fist weapon or axe. Sinister
+Strike adds a flat amount on top of your weapon damage, so at similar DPS a slower, harder-hitting main
+hand gives bigger Sinister Strikes, while the off hand is judged on its own damage for Shank and poisons.
+Combat also adds Dual Wield Specialization , now a 2-point talent worth 25/50% more off-hand damage .
+Add Shank and Flash of Steel (up to 15 more Energy from Shank and a 2 second shorter cooldown), and Combat
+gets the most out of a good off hand. Picks come from our Combat leveling gear planner . Level Main hand
+Off hand 20 (Alliance) Cruel Barb, 15.54 DPS (Edwin VanCleef, Deadmines, 21.36%) Buzz Saw, 15.22 DPS
+(Sneed&#39;s Shredder, Deadmines, 29.39%) 20 (Horde) Wingblade, 15.68 DPS (Quest: Leaders of the Fang,
+Wailing Caverns) Butcher&#39;s Slicer, 15.00 DPS (Razorclaw the Butcher, Shadowfang Keep, 30.40%) 25
+Darkwater Talwar, 17.05 DPS (Lady Sarevess, Blackfathom Deeps, 32.94%) Meteor Shard, 17.78 DPS 30 Bloody
+Brass Knuckles, 21.88 DPS (Interrogator Vishas, Scarlet Monastery, 30.04%) Thornspike (Alliance) or Outlaw
+Sabre, 20.37 DPS (Quest: Baron Aquanis, Ashenvale) for Horde 35 Dreadfrost Saber, 27.50 DPS (Captain
+Dreadrise, The Drowned City, 33.45%) Ruby-Adorned Blade, 23.91 DPS (Quest: The Eye of Bhossca) 40 Vanquisher&#39;s
+Sword, 30.00 DPS (Razorfen Downs quest) Nordic Longshank, 29.32 DPS (Baelog, Uldaman, 50.30%) for Alliance;
+Sword of Omen, 29.74 DPS (Scarlet Monastery quest) for Horde 45 Jang&#39;thraze the Protector, 33.42
+DPS (Chief Ukorz Sandscalp, Zul&#39;Farrak, 11.42%) Satyr&#39;s Lash, 33.24 DPS 50 Viking Warhammer ,
+35.83 DPS (Bind on Equip) Katerina&#39;s Shanker, 35.59 DPS 55 Dragon&#39;s Call, 41.40 DPS (Shade of
+Eranikus, Sunken Temple, 1.48%) Fiendish Machete, 38.75 DPS (Alzzin the Wildshaper, Dire Maul, 19.75%)
+60 Greenhammer, 47.39 DPS (crafted, Bind on Equip) Persuader, 45.71 DPS (crafted, Bind on Equip) Three
+notes on that table. Dreadfrost Saber at 35 is the biggest single jump in the Combat line, 5.6 DPS over
+the level 30 pick, and drops from Captain Dreadrise in The Drowned City, Forever&#39;s new dungeon off
+Stranglethorn Vale. Jang&#39;thraze is only an 11.42% drop, so most players will level through 45 on
+the 40 sword. And Dragon&#39;s Call at 55 drops 1.48% of the time. Treat it as a bonus, not a goal. WoW
+Forever - Level 60 Boost Bundle Get Level 60 Boost Bundle 4.9 · 2k+ orders See all options Starting from
+$597.55 (Starter: 60 + mount + Onyxia) Buy now Which Rogue weapons should you buy instead of farm? Two
+Bind on Equip weapons make sense to buy. Prices below are from our November 17 snapshot of AH Ledger
+data (addon scans, not Blizzard data), using the median of each market&#39;s median price. Viking Warhammer
+(35.83 DPS, requires 49). Our planner&#39;s Combat main hand at 50. It sold for a median of 6 gold on
+5 US markets (14 listed) and 11 gold on 5 EU markets (46 listed), one of the cheapest upgrades in this
+guide. Flurry Axe (35.33 DPS, 1.50 speed, requires 42). It is not in our planner, but now that Rogues
+can use one-handed axes it is a real option for Combat at 42 to 50: an epic whose proc grants an extra
+attack, on top of Hack and Slash&#39;s 5% extra-attack chance for axes. It costs more: a median of 249
+gold on 7 US markets (21 listed) and 127 gold on 6 EU markets (41 listed). If gold is the problem, our
+where to buy WoW Forever gold page covers delivery and safety. Don&#39;t plan to buy the level 60 crafted
+weapons yet. In the same snapshot, AH Ledger showed no listings on any US or EU market for Black Amnesty
+, Greenhammer or Persuader . Ask a Blacksmith on your ruleset to craft one, and check our Blacksmithing
+recipes guide for where the plans come from. What is the best Rogue pre-raid weapon? In our planner,
+for daggers, Black Amnesty : a crafted level 60 dagger with 47.81 DPS at 1.60 speed. It beats the level
+55 pick in our planner, the quest-reward dagger Dustwallow Dirk, by 11.3 DPS . Combat&#39;s best pair
+is Greenhammer (47.39 DPS) and Persuader (45.71 DPS), both crafted by Blacksmithing. Two notes for the
+ranged slot, which Rogues use to pull. Golemsight Long Gun (16.60 DPS) from the Relic Guardian in Excavation
+Site: Wetlands covers levels 30 to 40 in our planner, and Satyr&#39;s Bow (29.79 DPS) from Zevrim Thornhoof
+in Dire Maul is the planner&#39;s pick from 55. The first raids open on December 9 : Barrow Deeps (10-player),
+Hyjal Summit (20) and Onyxia&#39;s Lair (40). Our raid prep checklist covers the rest of the pre-raid
+list, and WoW Forever raids, dungeons and pre-raid gear shows how our team can gear a character before
+the gates open. How do you level a Rogue faster in WoW Forever? Pick the spec, then the weapons. Daggers
+for Assassination and Subtlety; for Combat, the highest-DPS main hand you can get, favoring the slower
+one when DPS is close. Our Subtlety leveling gear planner uses the same daggers as Assassination. Don&#39;t
+neglect the off hand. From level 24, Shank hits with it every 10 seconds, and Combat&#39;s Dual Wield
+Specialization adds up to 50% to its damage. Poison and sharpen both weapons. In Forever a poison and
+a Sharpening Stone or Weightstone can sit on the same weapon. Take the guaranteed quest weapons. Black
+Menace at 40 (Alliance) and Dustwallow Dirk at 55 are sure things, unlike a 1 in 4 dungeon roll. Plan
+the talents too in the WoW Forever talent calculator , and check our talents for every class and November
+10 class changes . If you would rather skip the farming entirely, our WoW Forever power leveling service
+levels any range to 60, played by hand. Still choosing a class? Our best class for solo beginners compares
+Rogue with the rest, and WoW Forever racial changes covers each Rogue race. For how Forever differs from
+Classic Era in general, see our older Classic Plus vs Season of Discovery vs Classic Era explainer. FAQ
+What is the best Rogue weapon for leveling in WoW Forever? For Assassination and Subtlety, the highest
+DPS dagger you can get. Our planner&#39;s line runs Tail Spike (level 20), Meteor Shard (25), Thornspike
+(30), Satyr&#39;s Lash (45), Katerina&#39;s Shanker (50), Dustwallow Dirk (55) and Black Amnesty (60).
+Does the off-hand weapon matter for Rogues in WoW Forever? Yes, more than in Classic. Shank, learned
+at level 24, strikes with your off hand for 50% weapon damage every 10 seconds, and Combat&#39;s Dual
+Wield Specialization raises off-hand damage by up to 50%. Can Rogues use axes in WoW Forever? Yes. Blizzard
+added one-handed axes for Rogues, and the Hack and Slash talent gives axes the same 5% extra-attack chance
+as swords at 5 points. Does Mutilate need two daggers in WoW Forever? Blizzard&#39;s October 7 deep dive
+said yes. Wowhead&#39;s current Forever tooltip only requires a main hand and an off-hand weapon. Until
+Blizzard clarifies, use a dagger in each hand. What did the November 16 hotfix change for Rogues? Poison
+ranks can no longer go above the maximum rank, and Shank no longer removes your combo points from other
+targets. Mutilate also lost an extra chance to proc Windfury Totem. What is the best pre-raid dagger
+for a Rogue? In our planner, Black Amnesty, a crafted Blacksmithing dagger with 47.81 DPS. Dustwallow
+Dirk (36.47 DPS), a quest reward, is the planner&#39;s pick at 55. Where do I find the rest of my Rogue
+gear? Our Rogue leveling gear planner lists every slot for every 5-level bracket, for Assassination,
+Combat and Subtlety, Alliance and Horde. Level your Rogue faster Short on time on the fresh WoW Forever
+servers? timesaver.gg runs WoW Forever services by hand on US and EU realms. WoW Forever Power Leveling
+to 60 — any range from 1 to 60, played by hand on the quest route WoW Forever Dungeon Boost — runs of
+the dungeons that drop these daggers WoW Forever Pre-Raid Gear — get raid-ready before December 9 WoW
+Forever Gold — cover the Flurry Axe or a crafted dagger Sources: Blizzard Rogue and Warlock class deep
+dive (Oct 7, 2026); Blizzard WoW Forever launch class notes, t/2360696 post 9 (Nov 3, 2026); Blizzard
+WoW: Forever hotfix thread (posts 4, 10 and 11, Nov 6 to 17, 2026); Wowhead WoW Forever item and spell
+tooltips (Mutilate, Shank), read Nov 17, 2026; timesaver.gg Rogue leveling gear planner and talent calculator
+data; AH Ledger market scans (latest scan per US and EU market, Nov 17, 2026). Last verified: November
+17, 2026. Skip the grind in WoW Forever 4.9 on Trustpilot · money-back guarantee · 24/7 support Gold
+from $5.72 (10 gold) Get Gold Buy now Level 60 Boost Bundle from $597.55 (Starter: 60 + mount + Onyxia)
+Get Level 60 Boost Bundle Buy now Power Leveling from $473.41 (1–60) Get Power Leveling Buy now WoW Forever
+Gold 4.9 · from $5.72 (10 gold) Buy now You may also like Sam Okonkwo Senior Games Writer WoW Forever
+Economy Hold: Why You Got It, How Long It Lasts and What to Do Quick answer: A Temporary Economy Hold
+is Blizzard&#x27;s anti-gold-buying lock in WoW Forever. Blizzard&#x27;s support article says it lasts
+up to 72 hours and b... November 23, 2026 Sam Okonkwo Senior Games Writer Best Healer in WoW Forever:
+All 4 Healers Ranked (and Why Nobody Heals) Quick answer: For leveling and 5-player dungeons in WoW Forever
+right now, our pick is Restoration Shaman, then Priest, Restoration Druid and Holy Paladin. Sham... November
+22, 2026 Sam Okonkwo Senior Games Writer WoW Forever Instance Limit: 5 Dungeon Resets Per Hour Now (Nov
+20 Hotfix) Quick answer: Since the November 20, 2026 hotfix, WoW Forever lets you reset and enter each
+dungeon at most 5 times per hour. Before that the limit was 10. If y... November 21, 2026

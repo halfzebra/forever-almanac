@@ -1,0 +1,227 @@
+{
+  "classicwowforever-priest": {
+    "hash": "4136c52043bfa0eed5fe6f6dd5c47bfdff9c0f3e516856608607602e606640da",
+    "rows": 7,
+    "words": 4826,
+    "numbers": 989,
+    "numbersDigest": "dd4e161493b773c0",
+    "seen": "2026-11-23",
+    "firstSeen": "2026-11-23"
+  },
+  "classicwowforever-priest-weapons": {
+    "hash": "444c276c3105aeef5a05834219397ac5c67041c8814d6cd5ad05a5f05e4885c8",
+    "rows": 0,
+    "words": 3232,
+    "numbers": 941,
+    "numbersDigest": "2183cb71647e175c",
+    "seen": "2026-11-23",
+    "firstSeen": "2026-11-23"
+  },
+  "classicwowforever-rogue": {
+    "hash": "024c6ea287605ff676f911bc4263688ff3c4386df8b0df73fe161bb38b1dd064",
+    "rows": 7,
+    "words": 4895,
+    "numbers": 1060,
+    "numbersDigest": "6b866e602c4290ef",
+    "seen": "2026-11-23",
+    "firstSeen": "2026-11-23"
+  },
+  "classicwowforever-rogue-weapons": {
+    "hash": "0da08d75ea41bca05dadae103e2b9b864e6ca461844d81a46036db76e4285190",
+    "rows": 0,
+    "words": 4616,
+    "numbers": 1378,
+    "numbersDigest": "6faf9879fd94da85",
+    "seen": "2026-11-23",
+    "firstSeen": "2026-11-23"
+  },
+  "method-tailoring": {
+    "hash": "0c986cd3d25b303d6740d560de51bd7d311a257ca7ad5d5ff25d8e24c41bfc88",
+    "rows": 51,
+    "words": 1151,
+    "numbers": 282,
+    "numbersDigest": "0966a8c5767a1b16",
+    "seen": "2026-11-23",
+    "firstSeen": "2026-11-23"
+  },
+  "talentsforever-priest": {
+    "hash": "389fcc082d2b4d3963ce5d18379b5bce2f23287634d3820d45eb8fefc6a1e370",
+    "rows": 0,
+    "words": 4351,
+    "numbers": 1123,
+    "numbersDigest": "7dfc54115aecd533",
+    "seen": "2026-11-23",
+    "firstSeen": "2026-11-23"
+  },
+  "talentsforever-rogue": {
+    "hash": "b6fa95c5eda88e536ec545c4d9ba509303dd1b28247f27d149c8dad074a2da28",
+    "rows": 0,
+    "words": 3946,
+    "numbers": 890,
+    "numbersDigest": "759e47a0f7ecd6c8",
+    "seen": "2026-11-23",
+    "firstSeen": "2026-11-23"
+  },
+  "timesaver-priest-weapons": {
+    "hash": "aae07c67aaa9e6433e320458e0c192a518dc771d48df0eb4912b91e1dd216fb9",
+    "rows": 32,
+    "words": 3284,
+    "numbers": 486,
+    "numbersDigest": "08be79222193faa5",
+    "seen": "2026-11-23",
+    "firstSeen": "2026-11-23"
+  },
+  "timesaver-rogue-weapons": {
+    "hash": "9b113b40e58a404efe0e02b7b530ab0c71a37a3b42acf2059c4c15db956c4832",
+    "rows": 24,
+    "words": 3229,
+    "numbers": 523,
+    "numbersDigest": "cc7e07fd42a7bbc1",
+    "seen": "2026-11-23",
+    "firstSeen": "2026-11-23"
+  },
+  "timesaver-tailoring": {
+    "hash": "35dfd2fe2aedcf3c367c525040657cc1f735d1a9f57ab7ef08e573a2193624ea",
+    "rows": 78,
+    "words": 18975,
+    "numbers": 5811,
+    "numbersDigest": "74b4caedf7b6ff2b",
+    "seen": "2026-11-23",
+    "firstSeen": "2026-11-23"
+  },
+  "wow-professions-enchanting": {
+    "hash": "d025c5f0d48b902f6a2bcd395c998aaefeace845ead7d72c179801b81f8b942a",
+    "rows": 68,
+    "words": 2315,
+    "numbers": 285,
+    "numbersDigest": "fcd23e44773e45a5",
+    "seen": "2026-11-23",
+    "firstSeen": "2026-11-23"
+  },
+  "wow-professions-leatherworking": {
+    "hash": "17540d27be9a507fdcd552cc2fa926ae4112c616b5b56cfa8d8ed348028607ed",
+    "rows": 60,
+    "words": 2211,
+    "numbers": 318,
+    "numbersDigest": "ad52bea055eb279f",
+    "seen": "2026-11-23",
+    "firstSeen": "2026-11-23"
+  },
+  "wow-professions-skinning": {
+    "hash": "cb0718b855e44ea5ff5b28ba3f029f9262d04f0b6d60463637518183aa289f00",
+    "rows": 20,
+    "words": 1153,
+    "numbers": 93,
+    "numbersDigest": "41c503794c4f84b5",
+    "seen": "2026-11-23",
+    "firstSeen": "2026-11-23"
+  },
+  "wow-professions-tailoring": {
+    "hash": "795b2d87111fa2c382d4a2ab7ad4b8a41c3bf095d04d2c87ee44e64adfa4aaf9",
+    "rows": 43,
+    "words": 2016,
+    "numbers": 253,
+    "numbersDigest": "2a3e2d36f84d8080",
+    "seen": "2026-11-23",
+    "firstSeen": "2026-11-23"
+  },
+  "wow-professions-tailoring-trainers": {
+    "hash": "0386113339be3eebd3dfa21f4d388d7cc76f172004907ed1ee46d4edd8bb2196",
+    "rows": 5,
+    "words": 1625,
+    "numbers": 30,
+    "numbersDigest": "ae5ce64f62b8b8d6",
+    "seen": "2026-11-23",
+    "firstSeen": "2026-11-23"
+  },
+  "wowhandbook-priest": {
+    "hash": "babf173cf9343ee91010b57d39acd753d232a64db64a73c08cd8463c95bab1c0",
+    "rows": 28,
+    "words": 2529,
+    "numbers": 617,
+    "numbersDigest": "a2556d2ed910139f",
+    "seen": "2026-11-23",
+    "firstSeen": "2026-11-23"
+  },
+  "wowhandbook-rogue": {
+    "hash": "102da54556f8bc867f80804b0608085cd24cbf0623577a5ed4ece7585926dffd",
+    "rows": 31,
+    "words": 2432,
+    "numbers": 650,
+    "numbersDigest": "a136d53159da2c54",
+    "seen": "2026-11-23",
+    "firstSeen": "2026-11-23"
+  },
+  "wowhead-enchanting": {
+    "hash": "845234bc79c31f1f72df8d78c6e031bec3a8bdaff0e9ddeec69fc44899cbfbc1",
+    "rows": 23,
+    "words": 581,
+    "numbers": 123,
+    "numbersDigest": "57ffaa38254666b1",
+    "seen": "2026-11-23",
+    "firstSeen": "2026-11-23"
+  },
+  "wowhead-leatherworking": {
+    "hash": "f7512a5dc6e958447e7ab55daa0b6759a66446dac08df96e55aeb8ceae872d13",
+    "rows": 26,
+    "words": 540,
+    "numbers": 156,
+    "numbersDigest": "f992f22e01b683a0",
+    "seen": "2026-11-23",
+    "firstSeen": "2026-11-23"
+  },
+  "wowhead-tailoring": {
+    "hash": "4e2a83b758c5f58191fa20590f5f5c13c6021541879a71dc59e1d201c21851ba",
+    "rows": 27,
+    "words": 568,
+    "numbers": 157,
+    "numbersDigest": "b307226492e04220",
+    "seen": "2026-11-23",
+    "firstSeen": "2026-11-23"
+  },
+  "zockify-enchanting": {
+    "hash": "a8dfb39568bdc7100fe133830ea5744a6a9d884967da66562554df7ba4d30160",
+    "rows": 0,
+    "words": 987,
+    "numbers": 66,
+    "numbersDigest": "2ee1d7a6be55201a",
+    "seen": "2026-11-23",
+    "firstSeen": "2026-11-23"
+  },
+  "zockify-leatherworking": {
+    "hash": "6fbd6bae792d9d6a303d8a373f56674dbea3d67fd139989efa52d86d7aa0723e",
+    "rows": 0,
+    "words": 1101,
+    "numbers": 79,
+    "numbersDigest": "26d197137501f65e",
+    "seen": "2026-11-23",
+    "firstSeen": "2026-11-23"
+  },
+  "zockify-skinning": {
+    "hash": "d40e3c862d869b50578ab003998c6ecc402e7bd94579cdc56896ae4e71b30894",
+    "rows": 3,
+    "words": 1677,
+    "numbers": 198,
+    "numbersDigest": "10408d1c23ea7392",
+    "seen": "2026-11-23",
+    "firstSeen": "2026-11-23"
+  },
+  "zockify-tailoring": {
+    "hash": "801b2a2cd6f4a5c82977e81c632e2dffee3d4d78228b92e2e00c9cf2a1be0481",
+    "rows": 7,
+    "words": 1302,
+    "numbers": 97,
+    "numbersDigest": "6452bdac13c0b762",
+    "seen": "2026-11-23",
+    "firstSeen": "2026-11-23"
+  },
+  "zockify-tailoring-trainers": {
+    "hash": "acc93be7d1d38a7252a4b82d45dcca0ac8c9c1dbda9ad8cce079ae6bc30b5d87",
+    "rows": 0,
+    "words": 904,
+    "numbers": 38,
+    "numbersDigest": "674ff2b0fe081497",
+    "seen": "2026-11-23",
+    "firstSeen": "2026-11-23"
+  }
+}

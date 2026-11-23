@@ -1,0 +1,1036 @@
+Your skill Target Gold in your bags Region US EU Faction Alliance Horde Optimize for Cheapest Most profitable
+Include vendor, drop and quest recipes Off: trainer recipes only, the same for both factions. On: also
+patterns from Alliance vendors and quests, and drop patterns listed on the auction house. Route 1–300
+Crafts 455 Reagents ≥ 261 261 gold Training 13 25 13 gold 25 silver Total ≥ 274 274 gold Selling the
+crafts 6,599 6,599 gold Net after selling + 6,325 +6,325 gold Type the gold in your bags to see if it
+covers the route. Median prices on the US Alliance auction house , all WoW Forever realms, scanned Nov
+23, 2026, 2:25 PM UTC . Training = recipe training, patterns and profession ranks (Apprentice, Journeyman,
+Expert, Artisan) . Selling = the auction house median of each crafted item minus the 5% auction house
+cut; crafts with fewer than 10 listed sell for nothing. Cheapest picks the recipe with the lowest cost
+per skill point. 1 reagent is not on the auction house yet, so the total is a lower bound. Tailoring
+leveling route 1 – 300 Tailoring route on the US Alliance auction house : skill range, recipe, crafts,
+reagents and cost Skill Craft Reagents Cost Apprentice · train at 1 , up to 75 · 10 10 copper 1 – 32
+× 33 Bolt of Linen Cloth Trainer × 66 Linen Cloth ≈ 19 80 19 silver 80 copper sells for 18 81 18 silver
+81 copper 32 – 39 × 8 Brown Linen Shirt Trainer × 8 Bolt of Linen Cloth × 8 Coarse Thread Vendor ≈ 5
+60 5 silver 60 copper sells for 7 20 7 silver 20 copper 39 – 43 × 5 Simple Linen Pants Trainer × 5 Bolt
+of Linen Cloth × 5 Coarse Thread Vendor ≈ 3 50 3 silver 50 copper sells for 3 30 3 silver 30 copper 43
+– 79 × 67 Linen Belt Trainer · 50 50 copper × 67 Bolt of Linen Cloth × 67 Coarse Thread Vendor ≈ 47 40
+47 silver 40 copper sells for 13 40 13 silver 40 copper Journeyman · train at 50 , up to 150 · 5 5 silver
+79 – 86 × 20 Reinforced Linen Cape Trainer · 2 2 silver × 40 Bolt of Linen Cloth × 60 Coarse Thread Vendor
+≈ 32 32 silver sells for 38 38 silver 86 – 100 × 30 Simple Kilt Trainer · 3 3 silver × 120 Bolt of Linen
+Cloth × 30 Fine Thread ≈ 1 4 1 gold 4 silver sells for 47 70 47 silver 70 copper 100 – 116 × 19 Bolt
+of Silk Cloth Trainer · 5 5 silver × 76 Silk Cloth ≈ 1 63 1 gold 63 silver sells for 1 68 1 gold 68 silver
+116 – 124 × 9 Bright Yellow Shirt Vendor · Danielle Zipstitch, Duskwood · 8 8 silver × 9 Bolt of Silk
+Cloth × 9 Yellow Dye × 9 Fine Thread ≈ 1 45 1 gold 45 silver sells for 51 30 51 silver 30 copper 124
+– 135 × 13 Azure Silk Hood Trainer · 6 6 silver × 26 Bolt of Silk Cloth × 26 Blue Dye Vendor × 13 Fine
+Thread ≈ 2 74 2 gold 74 silver sells for 1 48 1 gold 48 silver 135 – 147 × 13 Formal White Shirt Trainer
+· 4 50 4 silver 50 copper × 39 Bolt of Silk Cloth × 26 Bleach Vendor × 13 Fine Thread ≈ 3 87 3 gold 87
+silver sells for 80 21 80 silver 21 copper 147 – 174 × 32 Azure Silk Cloak Vendor · Brienna Starglow,
+Feralas · 15 15 silver × 96 Bolt of Silk Cloth × 64 Blue Dye Vendor × 64 Fine Thread ≈ 10 5 10 gold 5
+silver sells for 7 56 7 gold 56 silver Expert · train at 125 , up to 225 · 50 50 silver 174 – 184 × 11
+Crimson Silk Pantaloons Trainer · 30 30 silver × 44 Bolt of Silk Cloth × 22 Red Dye Vendor × 22 Silken
+Thread Vendor ≈ 5 61 5 gold 61 silver sells for 2 55 2 gold 55 silver 184 – 191 × 10 White Bandit Mask
+Pattern on the AH · 59 99 59 silver 99 copper × 10 Bolt of Mageweave × 10 Bleach Vendor × 10 Heavy Silken
+Thread ≈ 5 19 5 gold 19 silver sells for 9 2 9 gold 2 silver 191 – 197 × 9 Black Mageweave Vest Trainer
+· 36 36 silver × 18 Bolt of Mageweave × 27 Silken Thread Vendor ≈ 6 66 6 gold 66 silver sells for 5 50
+5 gold 50 silver 197 – 205 × 10 Black Mageweave Gloves Trainer · 50 50 silver × 20 Bolt of Mageweave
+× 20 Heavy Silken Thread ≈ 9 64 9 gold 64 silver sells for 4 8 4 gold 8 silver 205 – 215 × 17 Bolt of
+Runecloth Trainer · 1 1 gold × 85 Runecloth ≈ 5 61 5 gold 61 silver sells for 4 84 4 gold 84 silver 215
+– 230 × 16 Runecloth Belt Trainer · 1 1 gold × 48 Bolt of Runecloth × 16 Rune Thread ≈ 23 8 23 gold 8
+silver sells for 14 13 14 gold 13 silver Artisan · train at 200 , up to 300 · 5 5 gold 230 – 299 × 130
+Mooncloth Vendor · Qia, Winterspring · 2 2 gold × 260 Felcloth ≈ 166 166 gold sells for 6,534 6,534 gold
+299 – 300 × 3 Felcloth Shoulders Pattern on the AH · 1 49 1 gold 49 silver × 21 Bolt of Runecloth × 18
+Felcloth × 12 Demonic Rune Not on the AH yet × 12 Rugged Leather × 6 Rune Thread ≥ 24 35 24 gold 35 silver
+sells for 11 40 11 gold 40 silver Shopping list 1 – 300 Every reagent for the Tailoring route, with quantity
+and price Reagent Qty Each Subtotal Where Felcloth 62 98 62 silver 98 copper each · Auction house 278
+62 98 62 silver 98 copper 176 176 gold Auction house Bolt of Runecloth 30 30 silver each · Auction house
+69 30 30 silver 20 70 20 gold 70 silver Auction house Bolt of Silk Cloth 9 32 9 silver 32 copper each
+· Auction house 214 9 32 9 silver 32 copper 19 94 19 gold 94 silver Auction house Bolt of Mageweave 27
+50 27 silver 50 copper each · Auction house 48 27 50 27 silver 50 copper 13 20 13 gold 20 silver Auction
+house Rune Thread 48 48 silver each · Auction house 22 48 48 silver 10 56 10 gold 56 silver Auction house
+Heavy Silken Thread 18 21 18 silver 21 copper each · Auction house 30 18 21 18 silver 21 copper 5 46
+5 gold 46 silver Auction house Runecloth 5 43 5 silver 43 copper each · Auction house 85 5 43 5 silver
+43 copper 4 61 4 gold 61 silver Auction house Silken Thread 5 5 silver each · Vendor 49 5 5 silver 2
+45 2 gold 45 silver Vendor Rugged Leather 19 45 19 silver 45 copper each · Auction house 12 19 45 19
+silver 45 copper 2 33 2 gold 33 silver Auction house Silk Cloth 2 9 2 silver 9 copper each · Auction
+house 76 2 9 2 silver 9 copper 1 58 1 gold 58 silver Auction house Bolt of Linen Cloth 60 60 copper each
+· Auction house 240 60 60 copper 1 44 1 gold 44 silver Auction house Fine Thread 99 99 copper each ·
+Auction house 129 99 99 copper 1 27 1 gold 27 silver Auction house Blue Dye 50 50 copper each · Vendor
+90 50 50 copper 45 45 silver Vendor Yellow Dye 4 95 4 silver 95 copper each · Auction house 9 4 95 4
+silver 95 copper 44 55 44 silver 55 copper Auction house Linen Cloth 30 30 copper each · Auction house
+66 30 30 copper 19 80 19 silver 80 copper Auction house Coarse Thread 10 10 copper each · Vendor 140
+10 10 copper 14 14 silver Vendor Red Dye 50 50 copper each · Vendor 22 50 50 copper 11 11 silver Vendor
+Bleach 25 25 copper each · Vendor 36 25 25 copper 9 9 silver Vendor Demonic Rune Not on the AH yet 12
+— — Not on the AH yet Reagents (priced) 261 261 gold Recipe training and patterns 7 69 7 gold 69 silver
+Profession ranks (Apprentice, Journeyman, Expert, Artisan) 5 55 5 gold 55 silver Total (lower bound)
+274 274 gold Make gold with Tailoring Live on the US Alliance auction house ; switch region and faction
+in the calculator above. Tailoring cooldowns Crafts you can only make once per cooldown. Profit is the
+auction median of what you make, minus the 5% cut, minus the reagents; per week assumes you cast the
+moment it is ready. Characters Profession cooldowns: reagent cost, sale value and profit per cast and
+per week Cooldown Reagents Sells for Profit / cast Per week Mooncloth from 2× Felcloth · Tailoring ·
+every 4 days Reagents 1 25 1 gold 25 silver Sells for 50 25 50 gold 25 silver Profit / cast + 48 99 +48
+gold 99 silver Per week + 86 65 +86 gold 65 silver Craft and sell to a vendor Crafts that a vendor buys
+for more than the reagents cost on the auction house right now. No listing fee, no waiting; the signal
+flips to sell the mats as soon as the reagents get dearer than the vendor price. Nothing pays at the
+vendor right now: sell the mats. The closest crafts and the price they need: Craft and sell to a vendor:
+reagent cost at auction prices, vendor price and profit Craft Reagents Vendor pays Profit Signal Linen
+Bag skill 5 Reagents 2 10 2 silver 10 copper Vendor pays 2 2 silver Profit − 10 minus 10 copper Sell
+the mats pays while Bolt of Linen Cloth ≤ 56 56 copper Blue Linen Vest skill 35 Reagents 2 40 2 silver
+40 copper Vendor pays 1 61 1 silver 61 copper Profit − 79 minus 79 copper Sell the mats pays while Bolt
+of Linen Cloth ≤ 33 33 copper Red Linen Vest skill 35 Reagents 2 40 2 silver 40 copper Vendor pays 1
+60 1 silver 60 copper Profit − 80 minus 80 copper Sell the mats pays while Bolt of Linen Cloth ≤ 33 33
+copper Blue Linen Robe skill 45 Reagents 3 60 3 silver 60 copper Vendor pays 2 43 2 silver 43 copper
+Profit − 1 17 minus 1 silver 17 copper Sell the mats pays while Bolt of Linen Cloth ≤ 30 30 copper Red
+Linen Bag skill 50 Reagents 3 89 3 silver 89 copper Vendor pays 2 50 2 silver 50 copper Profit − 1 39
+minus 1 silver 39 copper Sell the mats pays while Bolt of Linen Cloth ≤ 25 25 copper Azure Stormsewn
+Leggings skill 60 Reagents 3 20 3 silver 20 copper Vendor pays 1 60 1 silver 60 copper Profit − 1 60
+minus 1 silver 60 copper Sell the mats pays while Bolt of Linen Cloth ≤ 28 28 copper Ways to Tailoring
+300 Cheapest Farm it yourself 13 25 13 gold 25 silver in training if you gather the mats; 274 274 gold
+if you buy them from the list above. Buy the gold 275 275 gold · $119.53 Enter your gold above for your
+gap ; delivered by Auction House or manual farm. WoW Forever gold Skip the AH Mats kit 1– 300 · $465.33
+Every reagent for 1– 300 , handed over in game. WoW Forever profession kits Done for you 1 – 300 · $227.82
+A Timesaver player levels Tailoring on your character. WoW Forever profession leveling Most profitable
+Tailoring crafts right now Live auction house profit for every Tailoring recipe you know, a shopping
+list for each, and the patterns worth hunting. All crafting professions side by side are on the WoW Forever
+craft profit finder . Region US EU Faction Alliance Horde My skill Import character ( US ) Load known
+recipes From the WoW Forever armory: characters level 10+, updated after you log out. Without it, trainer
+recipes up to your skill count as known and you tick the rest. Auction house medians from the US Alliance
+scan of 2026-11-23 14:25 UTC , refreshed hourly . Sale value is the median minus the 5% auction house
+cut; the deposit is not included. Profitable crafts you know Buy the reagents on the auction house (or
+craft the cheaper ones yourself), craft, sell. Ranked by profit weighted by how many are listed: with
+fewer than 10 on sale the price is a guess, so those rank lower and are marked thin. Crafts you know,
+ranked by profit after the auction house cut Craft Reagents Sells for Profit Margin Listed Shadoweave
+Shoulders Tailoring · skill 195 Reagents 2 15 2 gold 15 silver Sells for 3 61 3 gold 61 silver Profit
++ 1 45 +1 gold 45 silver Margin 68% Listed 65 Shopping list Shadoweave Pants Tailoring · skill 175 Reagents
+1 21 1 gold 21 silver Sells for 2 56 2 gold 56 silver Profit + 1 34 +1 gold 34 silver Margin 111% Listed
+51 Shopping list Shadoweave Gloves Tailoring · skill 190 Reagents 2 26 2 gold 26 silver Sells for 3 31
+3 gold 31 silver Profit + 1 5 +1 gold 5 silver Margin 46% Listed 63 Shopping list Black Mageweave Boots
+Tailoring · skill 190 Reagents 1 33 1 gold 33 silver Sells for 2 23 2 gold 23 silver Profit + 89 83 +89
+silver 83 copper Margin 67% Listed 138 Shopping list Simple Black Dress Tailoring · skill 195 Reagents
+1 10 1 gold 10 silver Sells for 1 90 1 gold 90 silver Profit + 80 3 +80 silver 3 copper Margin 72% Listed
+18 Shopping list Shadoweave Robe Tailoring · skill 180 Reagents 1 21 1 gold 21 silver Sells for 1 75
+1 gold 75 silver Profit + 54 6 +54 silver 6 copper Margin 44% Listed 47 Shopping list Black Mageweave
+Headband Tailoring · skill 190 Reagents 1 18 1 gold 18 silver Sells for 1 29 1 gold 29 silver Profit
++ 10 22 +10 silver 22 copper Margin 9% Listed 89 Shopping list Red Mageweave Bag Tailoring · skill 195
+Reagents 1 74 1 gold 74 silver Sells for 1 80 1 gold 80 silver Profit + 5 57 +5 silver 57 copper Margin
+3% Listed 717 Shopping list Woolen Boots Tailoring · skill 70 Reagents 20 76 20 silver 76 copper Sells
+for 24 22 24 silver 22 copper Profit + 3 46 +3 silver 46 copper Margin 17% Listed 103 Shopping list Heavy
+Linen Gloves Tailoring · skill 25 Reagents 1 30 1 silver 30 copper Sells for 3 4 3 silver 4 copper Profit
++ 1 74 +1 silver 74 copper Margin 134% Listed 240 Shopping list Bolt of Runecloth Tailoring · skill 205
+Reagents 27 15 27 silver 15 copper Sells for 28 50 28 silver 50 copper Profit + 1 35 +1 silver 35 copper
+Margin 5% Listed 3218 Shopping list White Linen Robe Tailoring · skill 25 Reagents 2 15 2 silver 15 copper
+Sells for 3 42 3 silver 42 copper Profit + 1 27 +1 silver 27 copper Margin 59% Listed 79 Shopping list
+Green Linen Bracers Tailoring · skill 35 Reagents 3 3 silver Sells for 4 18 4 silver 18 copper Profit
++ 1 18 +1 silver 18 copper Margin 39% Listed 153 Shopping list Brown Linen Robe Tailoring · skill 25
+Reagents 1 90 1 silver 90 copper Sells for 2 83 2 silver 83 copper Profit + 93 +93 copper Margin 49%
+Listed 116 Shopping list Brown Linen Pants Tailoring · skill 25 Reagents 1 30 1 silver 30 copper Sells
+for 1 90 1 silver 90 copper Profit + 60 +60 copper Margin 46% Listed 160 Shopping list Bolt of Silk Cloth
+Tailoring · skill 100 Reagents 8 36 8 silver 36 copper Sells for 8 85 8 silver 85 copper Profit + 49
++49 copper Margin 6% Listed 4258 Shopping list White Linen Shirt Tailoring · skill 1 Reagents 95 95 copper
+Sells for 1 41 1 silver 41 copper Profit + 46 +46 copper Margin 48% Listed 127 Shopping list Reinforced
+Linen Cape Tailoring · skill 35 Reagents 1 50 1 silver 50 copper Sells for 1 90 1 silver 90 copper Profit
++ 40 +40 copper Margin 27% Listed 342 Shopping list Blue Linen Shirt Tailoring · skill 25 Reagents 1
+80 1 silver 80 copper Sells for 2 19 2 silver 19 copper Profit + 39 +39 copper Margin 22% Listed 61 Shopping
+list Faction Banner Tailoring · skill 20 Reagents 70 70 copper Sells for 93 93 copper Profit + 23 +23
+copper Margin 33% Listed 844 Shopping list Show all 82 Recipes to hunt Profitable recipes you don&#x27;t
+know yet, within your skill. Difficulty is the easiest way to get it: 1 trainer, vendor or auction house,
+2 limited vendor or quest, 3 reputation, a container or a common drop, 4 a raid or a rare drop, 5 a world
+drop. Pays back counts the crafts that cover the cheapest price for the pattern. Recipes from My faction
+Both factions Mooncloth Tailoring · skill 230 Easy · 1 /5 Pattern: Mooncloth · Vendor: Qia (Winterspring)
+2 2 gold Pattern: Mooncloth on Wowhead Profit / craft + 48 99 +48 gold 99 silver Pattern 2 2 gold Pays
+back 1 craft I have this recipe Mooncloth Shoulders Tailoring · skill 275 Easy · 1 /5 On the auction
+house now: 24 24 gold Pattern: Mooncloth Shoulders · Drop: Huntsman Radley (Western Plaguelands) 0.06%;
+Necromancer (Eastern Plaguelands) 0.06% +1 more Pattern: Mooncloth Shoulders on Wowhead Profit / craft
++ 66 67 +66 gold 67 silver 2 listed Pattern 24 24 gold Pays back 1 craft I have this recipe Mooncloth
+Reagent Bag Tailoring · skill 255 Easy · 1 /5 Pattern: Mooncloth Reagent Bag · Vendor: Dala Fairmaw (Mount
+Hyjal) Pattern: Mooncloth Reagent Bag on Wowhead Profit / craft + 12 14 +12 gold 14 silver Pattern —
+Pays back — I have this recipe Mooncloth Leggings Tailoring · skill 245 Easy · 1 /5 On the auction house
+now: 3 55 3 gold 55 silver Pattern: Mooncloth Leggings · Drop: Black Wyrmkin (Burning Steppes) 0.02%;
+Blackrock Slayer (Burning Steppes) 0.02% +1 more Pattern: Mooncloth Leggings on Wowhead Profit / craft
++ 119 +119 gold 1 listed Pattern 3 55 3 gold 55 silver Pays back 1 craft I have this recipe Belt of the
+Archmage Tailoring · skill 295 Easy · 1 /5 On the auction house now: 199 199 gold Pattern: Belt of the
+Archmage · Drop: Gordok Reaver (Dire Maul) 0.02%; Gordok Warlock (Dire Maul) 0.02% Pattern: Belt of the
+Archmage on Wowhead Profit / craft + 94 43 +94 gold 43 silver 1 listed Pattern 199 199 gold Pays back
+3 crafts I have this recipe Wisdom of the Timbermaw Tailoring · skill 255 Easy · 1 /5 Pattern: Wisdom
+of the Timbermaw · Vendor: Meilosh (Felwood) 2 20 2 gold 20 silver Pattern: Wisdom of the Timbermaw on
+Wowhead Profit / craft + 5 77 +5 gold 77 silver Pattern 2 20 2 gold 20 silver Pays back 1 craft I have
+this recipe Mantle of the Timbermaw Tailoring · skill 290 Easy · 1 /5 Pattern: Mantle of the Timbermaw
+· Vendor: Meilosh (Felwood) 4 4 gold Pattern: Mantle of the Timbermaw on Wowhead Profit / craft + 44
+89 +44 gold 89 silver 1 listed Pattern 4 4 gold Pays back 1 craft I have this recipe Mooncloth Bag Tailoring
+· skill 255 Easy · 1 /5 On the auction house now: 9 98 9 gold 98 silver Pattern: Mooncloth Bag · Drop:
+Hive&#x27;Regal Burrower (Silithus) 0.7%; General Colbatann (Winterspring) 0.22% +1 more Pattern: Mooncloth
+Bag on Wowhead Profit / craft + 4 33 +4 gold 33 silver Pattern 9 98 9 gold 98 silver Pays back 3 crafts
+I have this recipe Gilded Handwraps Tailoring · skill 165 Easy · 1 /5 On the auction house now: 6 77
+6 gold 77 silver Pattern: Gilded Handwraps · Drop: Saltscale Oracle (Stranglethorn Vale) Pattern: Gilded
+Handwraps on Wowhead Profit / craft + 3 43 +3 gold 43 silver Pattern 6 77 6 gold 77 silver Pays back
+2 crafts I have this recipe Inferno Gloves Tailoring · skill 280 Very hard · 5 /5 Pattern: Inferno Gloves
+· Drop: Gordok Reaver (Dire Maul) 0.02%; Gordok Warlock (Dire Maul) 0.02% Pattern: Inferno Gloves on
+Wowhead Profit / craft + 23 74 +23 gold 74 silver 7 listed Pattern — Pays back — I have this recipe Robe
+of Winter Night Tailoring · skill 245 Hard · 4 /5 Pattern: Robe of Winter Night · Drop: Cobalt Mageweaver
+(Winterspring) 3% Pattern: Robe of Winter Night on Wowhead Profit / craft + 11 94 +11 gold 94 silver
+Pattern — Pays back — I have this recipe Azure Stormsewn Cowl Tailoring · skill 175 Easy · 1 /5 Pattern:
+Azure Stormsewn Cowl · Vendor: Archmage Alvareaux (Alterac Mountains, Alliance) 10 10 gold Pattern: Azure
+Stormsewn Cowl on Wowhead Profit / craft + 2 62 +2 gold 62 silver Pattern 10 10 gold Pays back 4 crafts
+I have this recipe Admiral&#x27;s Hat Tailoring · skill 200 Easy · 1 /5 On the auction house now: 24
+24 silver Pattern: Admiral&#x27;s Hat · Vendor: Cowardly Crosby (Stranglethorn Vale) 70 70 silver , limited
+Pattern: Admiral&#x27;s Hat on Wowhead Profit / craft + 2 42 +2 gold 42 silver Pattern 24 24 silver Pays
+back 1 craft I have this recipe Gloves of Spell Mastery Tailoring · skill 295 Easy · 1 /5 On the auction
+house now: 50 50 50 gold 50 silver Pattern: Gloves of Spell Mastery · Drop: Tomb Horror (Naxxramas) 0.25%;
+Blackhand Assassin (Blackrock Spire) 0.02% +5 more Pattern: Gloves of Spell Mastery on Wowhead Profit
+/ craft + 11 94 +11 gold 94 silver 2 listed Pattern 50 50 50 gold 50 silver Pays back 5 crafts I have
+this recipe Earthen Leggings Tailoring · skill 140 Easy · 1 /5 On the auction house now: 1 49 1 gold
+49 silver Pattern: Earthen Leggings · Drop: Gravelsnout Surveyor (Thousand Needles) Pattern: Earthen
+Leggings on Wowhead Profit / craft + 2 38 +2 gold 38 silver Pattern 1 49 1 gold 49 silver Pays back 1
+craft I have this recipe Cloak of Fire Tailoring · skill 235 Medium · 3 /5 Pattern: Cloak of Fire · Drop:
+Overmaster Pyron (Searing Gorge) 25% Pattern: Cloak of Fire on Wowhead Profit / craft + 12 42 +12 gold
+42 silver 5 listed Pattern — Pays back — I have this recipe Ghostweave Vest Tailoring · skill 225 Easy
+· 1 /5 On the auction house now: 25 99 25 gold 99 silver Pattern: Ghostweave Vest · Drop: Unseen Servant
+(Eastern Plaguelands) 1.96% Pattern: Ghostweave Vest on Wowhead Profit / craft + 2 6 +2 gold 6 silver
+Pattern 25 99 25 gold 99 silver Pays back 13 crafts I have this recipe Stormcloth Pants Tailoring · skill
+185 Easy · 1 /5 On the auction house now: 4 4 gold Pattern: Stormcloth Pants · source not listed yet
+Pattern: Stormcloth Pants on Wowhead Profit / craft + 2 3 +2 gold 3 silver Pattern 4 4 gold Pays back
+2 crafts I have this recipe Azure Stormsewn Epaulets Tailoring · skill 175 Easy · 1 /5 Pattern: Azure
+Stormsewn Epaulets · Vendor: Archmage Alvareaux (Alterac Mountains, Alliance) 10 10 gold Pattern: Azure
+Stormsewn Epaulets on Wowhead Profit / craft + 1 98 +1 gold 98 silver Pattern 10 10 gold Pays back 6
+crafts I have this recipe Loom Tailoring · skill 300 Easy · 1 /5 On the auction house now: 13 71 13 gold
+71 silver Blueprint: Loom · source not listed yet Blueprint: Loom on Wowhead Profit / craft + 1 61 +1
+gold 61 silver Pattern 13 71 13 gold 71 silver Pays back 9 crafts I have this recipe Show all 77 All
+Tailoring recipes (414) Every Tailoring recipe in WoW Forever with its skill colours (orange, yellow,
+green, grey), reagents and where to learn it. Trainer fees are what the trainer charges; vendor prices
+are the pattern price. Apprentice · learn at 1–49 29 recipes Bolt of Linen Cloth 1 25 37 50 2× Linen
+Cloth Trainer Brown Linen Shirt 1 35 47 60 1× Bolt of Linen Cloth, 1× Coarse Thread Trainer Linen Cloak
+1 35 47 60 1× Bolt of Linen Cloth, 1× Coarse Thread Trainer White Linen Shirt 1 35 47 60 1× Bolt of Linen
+Cloth, 1× Coarse Thread, 1× Bleach Trainer · 25 25 copper Simple Linen Pants 1 40 50 60 1× Bolt of Linen
+Cloth, 1× Coarse Thread Trainer Linen Reagent Bag New 5 30 47 65 6× Bolt of Linen Cloth, 6× Coarse Thread
+Pattern: Linen Reagent Bag · Vendor: Dani&#x27;ill (Darnassus, Alliance) 1 50 1 silver 50 copper ; Borya
+(Orgrimmar, Horde) 1 50 1 silver 50 copper +29 more Linen Bag 5 30 47 65 3× Bolt of Linen Cloth, 3× Coarse
+Thread Trainer · 1 1 silver Brown Linen Vest 10 45 57 70 1× Bolt of Linen Cloth, 1× Coarse Thread Trainer
+· 50 50 copper Linen Belt 10 50 67 85 1× Bolt of Linen Cloth, 1× Coarse Thread Trainer · 50 50 copper
+Faction Banner New 20 20 22 25 1× Bolt of Linen Cloth, 1× Coarse Thread Trainer · 1 5 1 silver 5 copper
+Faction Banner New 20 20 22 25 1× Bolt of Linen Cloth, 1× Coarse Thread Trainer · 1 5 1 silver 5 copper
+Simple Linen Boots 20 50 67 85 2× Bolt of Linen Cloth, 1× Light Leather, 1× Coarse Thread Trainer · 50
+50 copper Red Linen Robe 25 50 67 85 3× Bolt of Linen Cloth, 2× Coarse Thread, 2× Red Dye Pattern: Red
+Linen Robe · World drop, mobs level 5–25 Blue Linen Shirt 25 50 67 85 2× Bolt of Linen Cloth, 1× Coarse
+Thread, 1× Blue Dye Trainer · 50 50 copper Brown Linen Pants 25 50 67 85 2× Bolt of Linen Cloth, 1× Coarse
+Thread Trainer · 50 50 copper Brown Linen Robe 25 50 67 85 3× Bolt of Linen Cloth, 1× Coarse Thread Trainer
+· 50 50 copper Heavy Linen Gloves 25 50 67 85 2× Bolt of Linen Cloth, 1× Coarse Thread Trainer · 1 1
+silver Red Linen Shirt 25 50 67 85 2× Bolt of Linen Cloth, 1× Coarse Thread, 1× Red Dye Trainer · 50
+50 copper Simple Dress 25 50 67 85 2× Bolt of Linen Cloth, 1× Coarse Thread, 1× Blue Dye, 1× Bleach Trainer
+· 50 50 copper White Linen Robe 25 50 67 85 3× Bolt of Linen Cloth, 1× Coarse Thread, 1× Bleach Trainer
+· 50 50 copper Blue Linen Vest 35 60 77 95 3× Bolt of Linen Cloth, 1× Coarse Thread, 1× Blue Dye Pattern:
+Blue Linen Vest · Vendor: Valdaron (Darkshore, Alliance) 2 2 silver , limited ; Borya (Orgrimmar, Horde)
+2 2 silver , limited +2 more Red Linen Vest 35 60 77 95 3× Bolt of Linen Cloth, 1× Coarse Thread, 1×
+Red Dye Pattern: Red Linen Vest · World drop, mobs level 5–25 Green Linen Bracers 35 60 77 95 3× Bolt
+of Linen Cloth, 2× Coarse Thread, 1× Green Dye Trainer · 2 2 silver Reinforced Linen Cape 35 60 77 95
+2× Bolt of Linen Cloth, 3× Coarse Thread Trainer · 2 2 silver Barbaric Linen Vest 40 65 82 100 4× Bolt
+of Linen Cloth, 1× Light Leather, 1× Fine Thread Trainer · 3 3 silver Green Linen Shirt 40 65 82 100
+3× Bolt of Linen Cloth, 1× Fine Thread, 1× Green Dye Trainer · 2 2 silver Linen Boots 40 65 82 100 3×
+Bolt of Linen Cloth, 1× Coarse Thread, 1× Light Leather Trainer · 2 2 silver Blue Linen Robe 45 70 87
+105 4× Bolt of Linen Cloth, 2× Coarse Thread, 2× Blue Dye Pattern: Blue Linen Robe · Vendor: Elynna (Darnassus,
+Alliance) 3 3 silver , limited ; Andrew Hilbert (Silverpine Forest, Horde) 3 3 silver , limited +3 more
+Handstitched Linen Britches 45 70 87 105 4× Bolt of Linen Cloth, 2× Fine Thread Trainer · 3 3 silver
+Journeyman · learn at 50–124 98 recipes Novice Arcanist&#x27;s Sash New 50 55 55 55 8× Bolt of Linen
+Cloth, 2× Fine Thread, 2× Minor Mana Potion Pattern: Novice Arcanist&#x27;s Sash · source not listed
+yet Novice Ardent&#x27;s Sash New 50 55 55 55 12× Bolt of Linen Cloth, 2× Fine Thread, 2× Minor Healing
+Potion Pattern: Novice Ardent&#x27;s Sash · source not listed yet Azure Stormsewn Cord New 50 55 57 60
+3× Bolt of Linen Cloth, 3× Coarse Thread Pattern: Azure Stormsewn Cord · Vendor: Vayn Moongaze (Zephras
+Isle) 9 50 9 silver 50 copper Azure Stormsewn Cuffs New 50 55 57 60 3× Bolt of Linen Cloth, 3× Coarse
+Thread Pattern: Azure Stormsewn Cuffs · Vendor: Vayn Moongaze (Zephras Isle) 9 50 9 silver 50 copper
+Cloudy Stormsewn Cord New 50 55 57 60 3× Bolt of Linen Cloth, 3× Coarse Thread Pattern: Cloudy Stormsewn
+Cord · Vendor: Vayn Moongaze (Zephras Isle) 9 50 9 silver 50 copper Cloudy Stormsewn Cuffs New 50 55
+57 60 3× Bolt of Linen Cloth, 3× Coarse Thread Pattern: Cloudy Stormsewn Cuffs · Vendor: Vayn Moongaze
+(Zephras Isle) 9 50 9 silver 50 copper Red Linen Bag 50 75 92 110 4× Bolt of Linen Cloth, 1× Fine Thread,
+1× Red Dye Pattern: Red Linen Bag · Vendor: Valdaron (Darkshore, Alliance) 2 2 silver , limited ; Mahu
+(Thunder Bluff, Horde) 2 2 silver , limited +2 more · Drop: Defias Looter (Westfall) 1.94%; Pyrewood
+Tailor (Silverpine Forest) 1.1% Simple Kilt 50 75 92 110 4× Bolt of Linen Cloth, 1× Fine Thread Trainer
+· 3 3 silver Woolen Bag 50 75 92 110 3× Bolt of Woolen Cloth, 1× Fine Thread Trainer · 2 2 silver Azure
+Stormsewn Handwraps New 55 60 62 65 4× Bolt of Linen Cloth, 4× Coarse Thread Pattern: Azure Stormsewn
+Handwraps · Vendor: Vayn Moongaze (Zephras Isle) 11 11 silver Azure Stormsewn Shoes New 55 60 62 65 4×
+Bolt of Linen Cloth, 3× Coarse Thread Pattern: Azure Stormsewn Shoes · Vendor: Vayn Moongaze (Zephras
+Isle) 11 11 silver Cloudy Stormsewn Handwraps New 55 60 62 65 4× Bolt of Linen Cloth, 4× Coarse Thread
+Pattern: Cloudy Stormsewn Handwraps · Vendor: Vayn Moongaze (Zephras Isle) 11 11 silver Cloudy Stormsewn
+Shoes New 55 60 62 65 4× Bolt of Linen Cloth, 3× Coarse Thread Pattern: Cloudy Stormsewn Shoes · Vendor:
+Vayn Moongaze (Zephras Isle) 11 11 silver Bolt of Woolen Cloth 55 70 77 85 3× Wool Cloth Trainer · 1
+1 silver Soft-soled Linen Boots 55 80 97 115 5× Bolt of Linen Cloth, 2× Light Leather, 1× Fine Thread
+Trainer · 3 3 silver Woolen Cape 55 80 97 115 1× Bolt of Woolen Cloth, 1× Fine Thread Trainer · 2 50
+2 silver 50 copper Azure Stormsewn Leggings New 60 65 67 70 5× Bolt of Linen Cloth, 2× Coarse Thread
+Pattern: Azure Stormsewn Leggings · Vendor: Vayn Moongaze (Zephras Isle) 13 15 13 silver 15 copper Azure
+Stormsewn Vest New 60 65 67 70 5× Bolt of Linen Cloth, 2× Coarse Thread Pattern: Azure Stormsewn Vest
+· Vendor: Vayn Moongaze (Zephras Isle) 13 15 13 silver 15 copper Cloudy Stormsewn Leggings New 60 65
+67 70 5× Bolt of Linen Cloth, 2× Coarse Thread Pattern: Cloudy Stormsewn Leggings · Vendor: Vayn Moongaze
+(Zephras Isle) 13 15 13 silver 15 copper Cloudy Stormsewn Vest New 60 65 67 70 5× Bolt of Linen Cloth,
+2× Coarse Thread Pattern: Cloudy Stormsewn Vest · Vendor: Vayn Moongaze (Zephras Isle) 13 15 13 silver
+15 copper Flame Boots New 60 85 102 120 8× Bolt of Woolen Cloth, 2× Fine Thread, 2× Cerulean Dye, 1×
+Fire Oil Pattern: Flame Boots · 30 Merchant&#x27;s Favor · Vendor: Mivin Shadowweave (Redridge Mountains,
+Alliance) ; Jim&#x27;bek (The Barrens, Horde) Pearly Boots New 60 85 102 120 8× Bolt of Woolen Cloth,
+2× Fine Thread, 2× Cerulean Dye, 1× Small Lustrous Pearl Pattern: Pearly Boots · 30 Merchant&#x27;s Favor
+· Vendor: Mivin Shadowweave (Redridge Mountains, Alliance) ; Jim&#x27;bek (The Barrens, Horde) Pristine
+Boots New 60 85 102 120 8× Bolt of Woolen Cloth, 2× Fine Thread, 2× Cerulean Dye, 1× Pristine Leather
+Pattern: Pristine Boots · 30 Merchant&#x27;s Favor · Vendor: Mivin Shadowweave (Redridge Mountains, Alliance)
+; Jim&#x27;bek (The Barrens, Horde) Shadow Boots New 60 85 102 120 8× Bolt of Woolen Cloth, 2× Fine Thread,
+2× Cerulean Dye, 1× Shadowgem Pattern: Shadow Boots · 30 Merchant&#x27;s Favor · Vendor: Mivin Shadowweave
+(Redridge Mountains, Alliance) ; Jim&#x27;bek (The Barrens, Horde) Shining Boots New 60 85 102 120 8×
+Bolt of Woolen Cloth, 2× Fine Thread, 2× Cerulean Dye, 1× Pyrite Pattern: Shining Boots · 30 Merchant&#x27;s
+Favor · Vendor: Mivin Shadowweave (Redridge Mountains, Alliance) ; Jim&#x27;bek (The Barrens, Horde)
+Silky Boots New 60 85 102 120 8× Bolt of Woolen Cloth, 2× Fine Thread, 2× Cerulean Dye, 1× Spider&#x27;s
+Silk Pattern: Silky Boots · 30 Merchant&#x27;s Favor · Vendor: Mivin Shadowweave (Redridge Mountains,
+Alliance) ; Jim&#x27;bek (The Barrens, Horde) Green Woolen Vest 60 85 102 120 2× Bolt of Woolen Cloth,
+2× Fine Thread, 1× Green Dye Trainer · 3 3 silver Heavy Woolen Gloves 60 85 102 120 3× Bolt of Woolen
+Cloth, 1× Fine Thread Trainer · 4 4 silver Woolen Reagent Bag New 70 75 92 110 3× Bolt of Woolen Cloth,
+1× Fine Thread, 1× Cerulean Dye Pattern: Woolen Reagent Bag · Vendor: Dani&#x27;ill (Darnassus, Alliance)
+2 50 2 silver 50 copper ; Borya (Orgrimmar, Horde) 2 50 2 silver 50 copper +29 more Colorful Kilt 70
+95 112 130 5× Bolt of Woolen Cloth, 3× Red Dye, 1× Fine Thread Pattern: Colorful Kilt · Drop: Azzere
+the Skyblade (The Barrens) 0.16%; Klaven Mortwake (Westfall) 0.14% +1 more Pearl-clasped Cloak 70 95
+112 130 3× Bolt of Woolen Cloth, 2× Fine Thread, 1× Small Lustrous Pearl Trainer · 4 4 silver Woolen
+Boots 70 95 112 130 4× Bolt of Woolen Cloth, 2× Fine Thread, 2× Light Leather Trainer · 3 3 silver Filigreed
+Flame Gown New 75 80 80 80 8× Bolt of Woolen Cloth, 4× Fine Thread, 2× Cerulean Dye, 2× Fire Oil Pattern:
+Filigreed Flame Gown · Drop: Fel Steed (Shadowfang Keep) 0.04%; Rhahk&#x27;Zor (The Deadmines) 0.03%
++4 more Filigreed Pearly Gown New 75 80 80 80 8× Bolt of Woolen Cloth, 4× Fine Thread, 2× Cerulean Dye,
+2× Small Lustrous Pearl Pattern: Filigreed Pearly Gown · Drop: Fel Steed (Shadowfang Keep) 0.06%; Bazzalan
+(Ragefire Chasm) 0.02% +1 more Filigreed Pristine Gown New 75 80 80 80 8× Bolt of Woolen Cloth, 4× Fine
+Thread, 2× Cerulean Dye, 2× Pristine Leather Pattern: Filigreed Pristine Gown · Drop: Fel Steed (Shadowfang
+Keep) 0.02%; Sneed (The Deadmines) 0.02% Filigreed Shadow Gown New 75 80 80 80 8× Bolt of Woolen Cloth,
+4× Fine Thread, 2× Cerulean Dye, 2× Shadowgem Pattern: Filigreed Shadow Gown · Drop: Fel Steed (Shadowfang
+Keep) 0.05%; Bazzalan (Ragefire Chasm) 0.04% +2 more Filigreed Shining Gown New 75 80 80 80 8× Bolt of
+Woolen Cloth, 4× Fine Thread, 2× Cerulean Dye, 2× Pyrite Pattern: Filigreed Shining Gown · Drop: Bazzalan
+(Ragefire Chasm) 0.02%; Fel Steed (Shadowfang Keep) 0.01% +2 more Filigreed Silky Gown New 75 80 80 80
+8× Bolt of Woolen Cloth, 4× Fine Thread, 2× Cerulean Dye, 2× Spider&#x27;s Silk Pattern: Filigreed Silky
+Gown · Drop: Fel Steed (Shadowfang Keep) 0.02%; Gilnid (The Deadmines) 0.01% +3 more Red Woolen Boots
+75 80 97 115 4× Bolt of Woolen Cloth, 2× Light Leather, 1× Fine Thread, 2× Red Dye Pattern: Red Woolen
+Boots · Drop: Rocklance (The Barrens) 0.32%; Brawler (Loch Modan) 0.24% +1 more Green Woolen Robe 75
+90 107 125 3× Bolt of Woolen Cloth, 2× Fine Thread, 1× Green Dye Source not listed yet Blue Overalls
+75 100 117 135 4× Bolt of Woolen Cloth, 2× Fine Thread, 2× Blue Dye Pattern: Blue Overalls · Vendor:
+Alexandra Bolero (Stormwind City, Alliance) 4 4 silver , limited ; Borya (Orgrimmar, Horde) 4 4 silver
+, limited +2 more Flame Gloves New 75 100 117 135 6× Bolt of Woolen Cloth, 4× Fine Thread, 3× Cerulean
+Dye, 2× Fire Oil Pattern: Flame Gloves · 30 Merchant&#x27;s Favor · Vendor: Mivin Shadowweave (Redridge
+Mountains, Alliance) ; Jim&#x27;bek (The Barrens, Horde) Green Woolen Bag 75 100 117 135 5× Bolt of Woolen
+Cloth, 1× Green Dye, 1× Fine Thread Pattern: Green Woolen Bag · Drop: Swinegart Spearhide (The Barrens)
+0.54%; Riverpaw Overseer (Westfall) 0.34% +1 more Pearly Gloves New 75 100 117 135 6× Bolt of Woolen
+Cloth, 4× Fine Thread, 3× Cerulean Dye, 2× Small Lustrous Pearl Pattern: Pearly Gloves · 30 Merchant&#x27;s
+Favor · Vendor: Mivin Shadowweave (Redridge Mountains, Alliance) ; Jim&#x27;bek (The Barrens, Horde)
+Pristine Gloves New 75 100 117 135 6× Bolt of Woolen Cloth, 4× Fine Thread, 3× Cerulean Dye, 2× Pristine
+Leather Pattern: Pristine Gloves · 30 Merchant&#x27;s Favor · Vendor: Mivin Shadowweave (Redridge Mountains,
+Alliance) ; Jim&#x27;bek (The Barrens, Horde) Shadow Gloves New 75 100 117 135 6× Bolt of Woolen Cloth,
+4× Fine Thread, 3× Cerulean Dye, 2× Shadowgem Pattern: Shadow Gloves · 30 Merchant&#x27;s Favor · Vendor:
+Mivin Shadowweave (Redridge Mountains, Alliance) ; Jim&#x27;bek (The Barrens, Horde) Shining Gloves New
+75 100 117 135 6× Bolt of Woolen Cloth, 4× Fine Thread, 3× Cerulean Dye, 2× Pyrite Pattern: Shining Gloves
+· 30 Merchant&#x27;s Favor · Vendor: Mivin Shadowweave (Redridge Mountains, Alliance) ; Jim&#x27;bek
+(The Barrens, Horde) Silky Gloves New 75 100 117 135 6× Bolt of Woolen Cloth, 4× Fine Thread, 3× Cerulean
+Dye, 2× Spider&#x27;s Silk Pattern: Silky Gloves · 30 Merchant&#x27;s Favor · Vendor: Mivin Shadowweave
+(Redridge Mountains, Alliance) ; Jim&#x27;bek (The Barrens, Horde) Gray Woolen Shirt 80 90 100 110 2×
+Bolt of Woolen Cloth, 1× Fine Thread, 1× Gray Dye Trainer · 2 2 silver Gray Woolen Robe 80 105 122 140
+4× Bolt of Woolen Cloth, 3× Fine Thread, 1× Gray Dye Pattern: Gray Woolen Robe · Drop: Aean Swiftriver
+(The Barrens) 0.08%; Ardo Dirtpaw (Redridge Mountains) 0.08% +1 more Heavy Woolen Cloak 80 105 122 140
+3× Bolt of Woolen Cloth, 2× Fine Thread, 2× Small Lustrous Pearl Pattern: Heavy Woolen Cloak · Drop:
+Mad Magglish (The Barrens) 0.18%; Old Murk-Eye (Westfall) 0.16% +1 more Flame Sash New 85 110 127 145
+8× Bolt of Silk Cloth, 4× Fine Thread, 3× Cerulean Dye, 3× Fire Oil Pattern: Flame Sash · 30 Merchant&#x27;s
+Favor · Vendor: Mivin Shadowweave (Redridge Mountains, Alliance) ; Jim&#x27;bek (The Barrens, Horde)
+Pearly Sash New 85 110 127 145 8× Bolt of Silk Cloth, 4× Fine Thread, 3× Cerulean Dye, 3× Small Lustrous
+Pearl Pattern: Pearly Sash · 30 Merchant&#x27;s Favor · Vendor: Mivin Shadowweave (Redridge Mountains,
+Alliance) ; Jim&#x27;bek (The Barrens, Horde) Pristine Sash New 85 110 127 145 8× Bolt of Silk Cloth,
+4× Fine Thread, 3× Cerulean Dye, 3× Pristine Leather Pattern: Pristine Sash · 30 Merchant&#x27;s Favor
+· Vendor: Mivin Shadowweave (Redridge Mountains, Alliance) ; Jim&#x27;bek (The Barrens, Horde) Shadow
+Sash New 85 110 127 145 8× Bolt of Silk Cloth, 4× Fine Thread, 3× Cerulean Dye, 3× Shadowgem Pattern:
+Shadow Sash · 30 Merchant&#x27;s Favor · Vendor: Mivin Shadowweave (Redridge Mountains, Alliance) ; Jim&#x27;bek
+(The Barrens, Horde) Shining Sash New 85 110 127 145 8× Bolt of Silk Cloth, 4× Fine Thread, 3× Cerulean
+Dye, 3× Pyrite Pattern: Shining Sash · 30 Merchant&#x27;s Favor · Vendor: Mivin Shadowweave (Redridge
+Mountains, Alliance) ; Jim&#x27;bek (The Barrens, Horde) Silky Sash New 85 110 127 145 8× Bolt of Silk
+Cloth, 4× Fine Thread, 3× Cerulean Dye, 3× Spider&#x27;s Silk Pattern: Silky Sash · 30 Merchant&#x27;s
+Favor · Vendor: Mivin Shadowweave (Redridge Mountains, Alliance) ; Jim&#x27;bek (The Barrens, Horde)
+Double-Stitched Woolen Shoulders 85 110 127 145 3× Bolt of Woolen Cloth, 2× Fine Thread Trainer · 5 5
+silver Heavy Woolen Pants 85 110 127 145 5× Bolt of Woolen Cloth, 4× Fine Thread Trainer · 5 5 silver
+Stylish Red Shirt 85 110 127 145 3× Bolt of Woolen Cloth, 2× Red Dye, 1× Fine Thread Trainer · 2 50 2
+silver 50 copper White Woolen Dress 85 110 127 145 3× Bolt of Woolen Cloth, 4× Bleach, 1× Fine Thread
+Trainer · 2 50 2 silver 50 copper Greater Adept&#x27;s Robe 90 115 132 150 5× Bolt of Woolen Cloth, 3×
+Fine Thread, 3× Red Dye Pattern: Greater Adept&#x27;s Robe · Vendor: Elynna (Darnassus, Alliance) 8 8
+silver , limited ; Millie Gregorian (Tirisfal Glades, Horde) 8 8 silver +3 more Red Woolen Bag 90 115
+132 150 5× Bolt of Woolen Cloth, 1× Red Dye, 1× Fine Thread Pattern: Red Woolen Bag · Vendor: Valdaron
+(Darkshore, Alliance) 5 5 silver , limited ; Borya (Orgrimmar, Horde) 5 5 silver +9 more · Drop: Defias
+Renegade Mage (Westfall) 2.56%; Hillsbrad Tailor (Hillsbrad Foothills) 1.8% Reinforced Woolen Shoulders
+95 120 137 155 6× Bolt of Woolen Cloth, 2× Medium Leather, 2× Fine Thread Pattern: Reinforced Woolen
+Shoulders · Drop: Galak Packhound (Thousand Needles) 0.24%; Gesharahan (The Barrens) 0.22% +1 more Stylish
+Blue Shirt 95 120 137 155 4× Bolt of Woolen Cloth, 2× Blue Dye, 1× Gray Dye, 1× Fine Thread Pattern:
+Stylish Blue Shirt · Drop: Galak Packhound (Thousand Needles) 0.36%; Lake Thresher (Redridge Mountains)
+0.28% +1 more Stylish Green Shirt 95 120 137 155 4× Bolt of Woolen Cloth, 2× Green Dye, 1× Gray Dye,
+1× Fine Thread Pattern: Stylish Green Shirt · Drop: Blackrock Hunter (Redridge Mountains) 0.1%; Thora
+Feathermoon (The Barrens) 0.1% +1 more Filigreed Flame Leggings New 100 105 105 105 8× Bolt of Silk Cloth,
+4× Fine Thread, 2× Cerulean Dye, 4× Fire Oil Pattern: Filigreed Flame Leggings · Drop: Lady Sarevess
+(Blackfathom Deeps) 0.04%; Ghamoo-ra (Blackfathom Deeps) 0.03% +1 more Filigreed Pearly Leggings New
+100 105 105 105 8× Bolt of Silk Cloth, 4× Fine Thread, 2× Cerulean Dye, 4× Small Lustrous Pearl Pattern:
+Filigreed Pearly Leggings · Drop: Shadow Charger (Shadowfang Keep) 0.04%; Ghamoo-ra (Blackfathom Deeps)
+Filigreed Pristine Leggings New 100 105 105 105 8× Bolt of Silk Cloth, 4× Fine Thread, 2× Cerulean Dye,
+4× Pristine Leather Pattern: Filigreed Pristine Leggings · Drop: Ghamoo-ra (Blackfathom Deeps) 0.03%;
+Edwin VanCleef (The Deadmines) 0.02% +2 more Filigreed Shadow Leggings New 100 105 105 105 8× Bolt of
+Silk Cloth, 4× Fine Thread, 2× Cerulean Dye, 4× Shadowgem Pattern: Filigreed Shadow Leggings · Drop:
+Lady Sarevess (Blackfathom Deeps) 0.04%; Ghamoo-ra (Blackfathom Deeps) 0.02% +2 more Filigreed Shining
+Leggings New 100 105 105 105 8× Bolt of Silk Cloth, 4× Fine Thread, 2× Cerulean Dye, 4× Pyrite Pattern:
+Filigreed Shining Leggings · Drop: Shadow Charger (Shadowfang Keep) 0.04%; Lady Sarevess (Blackfathom
+Deeps) 0.02% +1 more Filigreed Silky Leggings New 100 105 105 105 8× Bolt of Silk Cloth, 4× Fine Thread,
+2× Cerulean Dye, 4× Spider&#x27;s Silk Pattern: Filigreed Silky Leggings · Drop: Ghamoo-ra (Blackfathom
+Deeps) 0.03%; Shadow Charger (Shadowfang Keep) 0.02% +1 more Bolt of Silk Cloth 100 110 115 120 4× Silk
+Cloth Trainer · 5 5 silver Flame Circlet New 100 125 142 160 10× Bolt of Silk Cloth, 2× Silken Thread,
+4× Cerulean Dye, 4× Fire Oil, 1× Silver Bar, 2× Greater Astral Essence Pattern: Flame Circlet · 30 Merchant&#x27;s
+Favor · Vendor: Mivin Shadowweave (Redridge Mountains, Alliance) ; Jim&#x27;bek (The Barrens, Horde)
+Pearly Circlet New 100 125 142 160 10× Bolt of Silk Cloth, 2× Silken Thread, 4× Cerulean Dye, 4× Small
+Lustrous Pearl, 1× Silver Bar, 2× Greater Astral Essence Pattern: Pearly Circlet · 30 Merchant&#x27;s
+Favor · Vendor: Mivin Shadowweave (Redridge Mountains, Alliance) ; Jim&#x27;bek (The Barrens, Horde)
+Phoenix Gloves 100 125 142 160 4× Bolt of Woolen Cloth, 1× Iridescent Pearl, 4× Fine Thread, 2× Bleach
+Pattern: Phoenix Gloves · Drop: Thragomm (Loch Modan) 0.16%; Sarilus Foulborne (The Barrens) 0.14% +1
+more Phoenix Pants 100 125 142 160 6× Bolt of Woolen Cloth, 1× Iridescent Pearl, 3× Fine Thread Pattern:
+Phoenix Pants · Drop: Trigore the Lasher (The Barrens) 0.64%; Swinegart Spearhide (The Barrens) 0.54%
++1 more Pristine Circlet New 100 125 142 160 10× Bolt of Silk Cloth, 2× Silken Thread, 4× Cerulean Dye,
+4× Pristine Leather, 1× Silver Bar, 2× Greater Astral Essence Pattern: Pristine Circlet · 30 Merchant&#x27;s
+Favor · Vendor: Mivin Shadowweave (Redridge Mountains, Alliance) ; Jim&#x27;bek (The Barrens, Horde)
+Shadow Circlet New 100 125 142 160 10× Bolt of Silk Cloth, 2× Silken Thread, 4× Cerulean Dye, 4× Shadowgem,
+1× Silver Bar, 2× Greater Astral Essence Pattern: Shadow Circlet · 30 Merchant&#x27;s Favor · Vendor:
+Mivin Shadowweave (Redridge Mountains, Alliance) ; Jim&#x27;bek (The Barrens, Horde) Shining Circlet
+New 100 125 142 160 10× Bolt of Silk Cloth, 2× Silken Thread, 4× Cerulean Dye, 4× Pyrite, 1× Silver Bar,
+2× Greater Astral Essence Pattern: Shining Circlet · 30 Merchant&#x27;s Favor · Vendor: Mivin Shadowweave
+(Redridge Mountains, Alliance) ; Jim&#x27;bek (The Barrens, Horde) Silky Circlet New 100 125 142 160
+10× Bolt of Silk Cloth, 2× Silken Thread, 4× Cerulean Dye, 4× Spider&#x27;s Silk, 1× Silver Bar, 2× Greater
+Astral Essence Pattern: Silky Circlet · 30 Merchant&#x27;s Favor · Vendor: Mivin Shadowweave (Redridge
+Mountains, Alliance) ; Jim&#x27;bek (The Barrens, Horde) Spidersilk Boots 100 125 142 160 2× Bolt of
+Silk Cloth, 4× Medium Leather, 4× Spider&#x27;s Silk, 1× Iridescent Pearl Trainer · 7 50 7 silver 50
+copper Gloves of Meditation 105 125 140 155 4× Bolt of Woolen Cloth, 3× Fine Thread, 1× Elixir of Wisdom
+Trainer · 7 50 7 silver 50 copper Bright Yellow Shirt 110 120 125 130 1× Bolt of Silk Cloth, 1× Yellow
+Dye, 1× Fine Thread Pattern: Bright Yellow Shirt · Vendor: Danielle Zipstitch (Duskwood, Alliance) 8
+8 silver , limited Flame Gown New 110 130 145 160 12× Bolt of Silk Cloth, 2× Silken Thread, 6× Cerulean
+Dye, 6× Fire Oil, 2× Silver Bar, 2× Greater Astral Essence Pattern: Flame Gown · 30 Merchant&#x27;s Favor
+· Vendor: Mivin Shadowweave (Redridge Mountains, Alliance) ; Jim&#x27;bek (The Barrens, Horde) Pearly
+Gown New 110 130 145 160 12× Bolt of Silk Cloth, 2× Silken Thread, 6× Cerulean Dye, 6× Small Lustrous
+Pearl, 2× Silver Bar, 2× Greater Astral Essence Pattern: Pearly Gown · 30 Merchant&#x27;s Favor · Vendor:
+Mivin Shadowweave (Redridge Mountains, Alliance) ; Jim&#x27;bek (The Barrens, Horde) Pristine Gown New
+110 130 145 160 12× Bolt of Silk Cloth, 2× Silken Thread, 6× Cerulean Dye, 6× Pristine Leather, 2× Silver
+Bar, 2× Greater Astral Essence Pattern: Pristine Gown · 30 Merchant&#x27;s Favor · Vendor: Mivin Shadowweave
+(Redridge Mountains, Alliance) ; Jim&#x27;bek (The Barrens, Horde) Shadow Gown New 110 130 145 160 12×
+Bolt of Silk Cloth, 2× Silken Thread, 6× Cerulean Dye, 6× Shadowgem, 2× Silver Bar, 2× Greater Astral
+Essence Pattern: Shadow Gown · 30 Merchant&#x27;s Favor · Vendor: Mivin Shadowweave (Redridge Mountains,
+Alliance) ; Jim&#x27;bek (The Barrens, Horde) Shining Gown New 110 130 145 160 12× Bolt of Silk Cloth,
+2× Silken Thread, 6× Cerulean Dye, 6× Pyrite, 2× Silver Bar, 2× Greater Astral Essence Pattern: Shining
+Gown · 30 Merchant&#x27;s Favor · Vendor: Mivin Shadowweave (Redridge Mountains, Alliance) ; Jim&#x27;bek
+(The Barrens, Horde) Silky Gown New 110 130 145 160 12× Bolt of Silk Cloth, 2× Silken Thread, 6× Cerulean
+Dye, 6× Spider&#x27;s Silk, 2× Silver Bar, 2× Greater Astral Essence Pattern: Silky Gown · 30 Merchant&#x27;s
+Favor · Vendor: Mivin Shadowweave (Redridge Mountains, Alliance) ; Jim&#x27;bek (The Barrens, Horde)
+Lesser Wizard&#x27;s Robe 110 130 145 160 2× Bolt of Silk Cloth, 2× Fine Thread, 2× Spider&#x27;s Silk
+Trainer · 10 10 silver Spider Silk Slippers 115 135 147 160 3× Bolt of Silk Cloth, 1× Spider&#x27;s Silk,
+2× Fine Thread Pattern: Spider Silk Slippers · Drop: Tor&#x27;gan (Arathi Highlands) 37.9%; Zaruk (Arathi
+Highlands) 27.9% +1 more Azure Silk Pants 115 135 150 165 4× Bolt of Silk Cloth, 2× Blue Dye, 3× Fine
+Thread Trainer · 6 6 silver Dark Silk Shirt 120 130 135 140 2× Bolt of Silk Cloth, 2× Gray Dye, 1× Fine
+Thread Pattern: Dark Silk Shirt · Vendor: Sheri Zipstitch (Duskwood, Alliance) 11 11 silver , limited
+; Mallen Swain (Hillsbrad Foothills, Horde) 11 11 silver , limited Azure Silk Hood 120 130 135 140 2×
+Bolt of Silk Cloth, 2× Blue Dye, 1× Fine Thread Trainer · 6 6 silver Boots of Darkness 120 135 150 165
+3× Bolt of Silk Cloth, 2× Medium Leather, 1× Shadow Protection Potion, 2× Fine Thread Source not listed
+yet Azure Silk Gloves 120 140 155 170 3× Bolt of Silk Cloth, 2× Heavy Leather, 2× Blue Dye, 2× Fine Thread
+Pattern: Azure Silk Gloves · Vendor: Wenna Silkbeard (Wetlands, Alliance) 10 10 silver , limited ; Kireena
+(Desolace, Horde) 10 10 silver , limited Hands of Darkness 120 140 155 170 3× Bolt of Silk Cloth, 2×
+Heavy Leather, 2× Shadow Protection Potion, 2× Fine Thread Pattern: Hands of Darkness · Drop: Rot Hide
+Bruiser (Silverpine Forest) 0.5%; Hannah Bladeleaf (The Barrens) 0.22% +1 more Expert · learn at 125–199
+118 recipes Filigreed Flame Circlet New 125 130 130 130 8× Bolt of Silk Cloth, 4× Fine Thread, 2× Cerulean
+Dye, 6× Fire Oil Pattern: Filigreed Flame Circlet · Drop: Lorgus Jett (Blackfathom Deeps) 0.08%; Baron
+Aquanis (Blackfathom Deeps) 0.04% +6 more Filigreed Pearly Circlet New 125 130 130 130 8× Bolt of Silk
+Cloth, 4× Fine Thread, 2× Cerulean Dye, 6× Small Lustrous Pearl Pattern: Filigreed Pearly Circlet · Drop:
+Lorgus Jett (Blackfathom Deeps) 0.08%; Aku&#x27;mai (Blackfathom Deeps) 0.06% +3 more Filigreed Pristine
+Circlet New 125 130 130 130 8× Bolt of Silk Cloth, 4× Fine Thread, 2× Cerulean Dye, 6× Pristine Leather
+Pattern: Filigreed Pristine Circlet · Drop: Blind Hunter (Razorfen Kraul) 0.12%; Charlga Razorflank (Razorfen
+Kraul) 0.02% +3 more Filigreed Shadow Circlet New 125 130 130 130 8× Bolt of Silk Cloth, 4× Fine Thread,
+2× Cerulean Dye, 6× Shadowgem Pattern: Filigreed Shadow Circlet · Drop: Lorgus Jett (Blackfathom Deeps)
+0.08%; Old Serra&#x27;kis (Blackfathom Deeps) 0.03% +5 more Filigreed Shining Circlet New 125 130 130
+130 8× Bolt of Silk Cloth, 4× Fine Thread, 2× Cerulean Dye, 6× Pyrite Pattern: Filigreed Shining Circlet
+· Drop: Death Speaker Jargba (Razorfen Kraul) 0.02%; Overlord Ramtusk (Razorfen Kraul) 0.02% +3 more
+Filigreed Silky Circlet New 125 130 130 130 8× Bolt of Silk Cloth, 4× Fine Thread, 2× Cerulean Dye, 6×
+Spider&#x27;s Silk Pattern: Filigreed Silky Circlet · Drop: Dark Iron Ambassador (Gnomeregan) 0.34%;
+Lorgus Jett (Blackfathom Deeps) 0.16% +5 more Silk Reagent Bag New 125 135 137 140 3× Bolt of Silk Cloth,
+2× Heavy Leather, 3× Fine Thread, 3× Cerulean Dye Pattern: Silk Reagent Bag · Vendor: Gorhak (Desolace)
+10 10 silver Silk Headband 125 135 140 145 3× Bolt of Silk Cloth, 2× Fine Thread Trainer · 7 50 7 silver
+50 copper White Swashbuckler&#x27;s Shirt 125 135 140 145 3× Bolt of Silk Cloth, 2× Bleach, 1× Silken
+Thread Trainer · 4 50 4 silver 50 copper Flame Leggings New 125 145 160 175 14× Bolt of Silk Cloth, 3×
+Fine Thread, 8× Cerulean Dye, 8× Fire Oil, 2× Silver Bar, 3× Greater Astral Essence Pattern: Flame Leggings
+· 30 Merchant&#x27;s Favor · Vendor: Mivin Shadowweave (Redridge Mountains, Alliance) ; Jim&#x27;bek
+(The Barrens, Horde) Pearly Leggings New 125 145 160 175 14× Bolt of Silk Cloth, 3× Fine Thread, 8× Cerulean
+Dye, 8× Small Lustrous Pearl, 2× Silver Bar, 3× Greater Astral Essence Pattern: Pearly Leggings · 30
+Merchant&#x27;s Favor · Vendor: Mivin Shadowweave (Redridge Mountains, Alliance) ; Jim&#x27;bek (The
+Barrens, Horde) Pristine Leggings New 125 145 160 175 14× Bolt of Silk Cloth, 3× Fine Thread, 8× Cerulean
+Dye, 8× Pristine Leather, 2× Silver Bar, 3× Greater Astral Essence Pattern: Pristine Leggings · 30 Merchant&#x27;s
+Favor · Vendor: Mivin Shadowweave (Redridge Mountains, Alliance) ; Jim&#x27;bek (The Barrens, Horde)
+Robes of Arcana 125 145 160 175 4× Bolt of Silk Cloth, 2× Fine Thread, 2× Spider&#x27;s Silk Pattern:
+Robes of Arcana · Drop: Dark Strand Voidcaller (Darkshore) 1.88%; Defias Enchanter (Duskwood) 1.78% +1
+more Shadow Leggings New 125 145 160 175 14× Bolt of Silk Cloth, 3× Fine Thread, 8× Cerulean Dye, 8×
+Shadowgem, 2× Silver Bar, 3× Greater Astral Essence Pattern: Shadow Leggings · 30 Merchant&#x27;s Favor
+· Vendor: Mivin Shadowweave (Redridge Mountains, Alliance) ; Jim&#x27;bek (The Barrens, Horde) Shining
+Leggings New 125 145 160 175 14× Bolt of Silk Cloth, 3× Fine Thread, 8× Cerulean Dye, 8× Pyrite, 2× Silver
+Bar, 3× Greater Astral Essence Pattern: Shining Leggings · 30 Merchant&#x27;s Favor · Vendor: Mivin Shadowweave
+(Redridge Mountains, Alliance) ; Jim&#x27;bek (The Barrens, Horde) Silky Leggings New 125 145 160 175
+14× Bolt of Silk Cloth, 3× Fine Thread, 8× Cerulean Dye, 8× Spider&#x27;s Silk, 2× Silver Bar, 3× Greater
+Astral Essence Pattern: Silky Leggings · 30 Merchant&#x27;s Favor · Vendor: Mivin Shadowweave (Redridge
+Mountains, Alliance) ; Jim&#x27;bek (The Barrens, Horde) Truefaith Gloves 125 145 160 175 3× Bolt of
+Silk Cloth, 2× Heavy Leather, 4× Healing Potion, 1× Fine Thread Pattern: Truefaith Gloves · Drop: Swinegart
+Spearhide (The Barrens) 0.54%; Taskmaster Whipfang (Stonetalon Mountains) 0.28% +1 more Azure Silk Vest
+125 145 160 175 5× Bolt of Silk Cloth, 4× Blue Dye Trainer · 7 50 7 silver 50 copper Small Silk Pack
+125 145 160 175 3× Bolt of Silk Cloth, 2× Heavy Leather, 3× Fine Thread Trainer · 8 8 silver Enchanter&#x27;s
+Cowl 130 150 165 180 3× Bolt of Silk Cloth, 2× Fine Thread, 2× Thick Spider&#x27;s Silk Pattern: Enchanter&#x27;s
+Cowl · Vendor: Xizk Goodstitch (Stranglethorn Vale) 10 10 silver , limited Green Silk Armor 130 150 165
+180 5× Bolt of Silk Cloth, 2× Green Dye, 1× Silken Thread Pattern: Green Silk Armor · Drop: Scorpashi
+Lasher (Desolace) 5%; Murkgill Oracle (Stranglethorn Vale) 0.12% +1 more Formal White Shirt 135 145 150
+155 3× Bolt of Silk Cloth, 2× Bleach, 1× Fine Thread Trainer · 4 50 4 silver 50 copper Shadow Hood 135
+155 170 185 4× Bolt of Silk Cloth, 1× Silken Thread, 1× Shadow Oil Pattern: Shadow Hood · Drop: Otto
+(Arathi Highlands) 0.04%; Bleakheart Hellcaller (Ashenvale) 0.02% +1 more Earthen Vest 135 155 170 185
+3× Bolt of Silk Cloth, 1× Elemental Earth, 2× Fine Thread Trainer · 8 10 8 silver 10 copper Spinning
+Wheel New 140 140 142 145 2× Simple Wood, 5× Bolt of Silk Cloth, 3× Fine Thread Blueprint: Spinning Wheel
+· Vendor: Happy Camper (Dun Morogh) 15 15 silver Bolt of Mageweave 140 145 147 150 5× Mageweave Cloth
+Trainer · 10 10 silver White Wedding Dress 140 145 150 155 5× Bolt of Mageweave, 3× Heavy Silken Thread,
+1× Bleach Pattern: White Wedding Dress · Vendor: Alexandra Bolero (Stormwind City, Alliance) 1 1 gold
+, limited ; Mahu (Thunder Bluff, Horde) 1 1 gold , limited Red Swashbuckler&#x27;s Shirt 140 150 155
+160 3× Bolt of Silk Cloth, 2× Red Dye, 1× Silken Thread Trainer · 7 50 7 silver 50 copper Tuxedo Jacket
+140 155 170 185 5× Bolt of Mageweave, 3× Heavy Silken Thread Pattern: Tuxedo Jacket · Vendor: Outfitter
+Eric (Dun Morogh, Alliance) 50 50 silver , limited ; Millie Gregorian (Tirisfal Glades, Horde) 50 50
+silver , limited Azure Silk Cloak 140 160 175 190 3× Bolt of Silk Cloth, 2× Blue Dye, 2× Fine Thread
+Pattern: Azure Silk Cloak · Vendor: Brienna Starglow (Feralas, Alliance) 15 15 silver , limited ; Jun&#x27;ha
+(Arathi Highlands, Horde) 15 15 silver , limited Boots of the Enchanter 140 160 175 190 4× Bolt of Silk
+Cloth, 1× Silken Thread, 2× Thick Spider&#x27;s Silk Pattern: Boots of the Enchanter · Drop: Terrowulf
+Packlord (Ashenvale) 1.14%; Caverndeep Looter (Dun Morogh) 0.32% +1 more Earthen Leggings New 140 160
+175 190 4× Bolt of Silk Cloth, 1× Elemental Earth, 2× Fine Thread Pattern: Earthen Leggings · Drop: Gravelsnout
+Surveyor (Thousand Needles) Green Silk Pack 140 160 175 190 5× Bolt of Silk Cloth, 3× Heavy Leather,
+3× Fine Thread, 1× Green Dye Pattern: Green Silk Pack · Drop: Saltscale Forager (Stranglethorn Vale)
+0.12%; Captain Ironhill (Hillsbrad Foothills) 0.1% +1 more Azure Silk Belt 140 160 175 190 4× Bolt of
+Silk Cloth, 1× Elemental Water, 2× Blue Dye, 2× Fine Thread, 1× Iron Buckle Trainer · 9 9 silver Crimson
+Silk Belt 140 160 175 190 4× Bolt of Silk Cloth, 1× Iron Buckle, 2× Red Dye, 1× Silken Thread Trainer
+· 9 9 silver Tuxedo Pants 140 205 210 215 4× Bolt of Mageweave, 3× Heavy Silken Thread Pattern: Tuxedo
+Pants · Vendor: Outfitter Eric (Dun Morogh, Alliance) 45 45 silver , limited ; Millie Gregorian (Tirisfal
+Glades, Horde) 45 45 silver , limited Crimson Silk Cloak 145 165 180 195 5× Bolt of Silk Cloth, 2× Red
+Dye, 2× Fire Oil, 1× Silken Thread Pattern: Crimson Silk Cloak · Vendor: Xizk Goodstitch (Stranglethorn
+Vale) 12 12 silver , limited Earthen Silk Slippers New 145 165 180 195 4× Bolt of Silk Cloth, 1× Elemental
+Earth, 2× Fine Thread, 2× Heavy Leather Pattern: Earthen Silk Slippers · source not listed yet Spider
+Belt 145 165 180 195 4× Bolt of Silk Cloth, 2× Thick Spider&#x27;s Silk, 1× Iron Buckle Pattern: Spider
+Belt · Drop: Morbent Fel (Duskwood) 0.14%; Granistad (Hillsbrad Foothills) 0.08% +1 more Green Silken
+Shoulders 145 165 180 195 5× Bolt of Silk Cloth, 2× Silken Thread Trainer · 9 9 silver Black Slippers
+New 150 145 145 145 8× Bolt of Mageweave, 4× Heavy Silken Thread, 2× Magenta Dye, 2× Cerulean Dye, 2×
+Black Pearl Pattern: Black Slippers · Trainer · 14 50 14 silver 50 copper Fiery Slippers New 150 145
+145 145 8× Bolt of Mageweave, 4× Heavy Silken Thread, 2× Magenta Dye, 2× Cerulean Dye, 2× Heart of Fire
+Pattern: Fiery Slippers · Trainer · 14 50 14 silver 50 copper Frothing Slippers New 150 145 145 145 8×
+Bolt of Mageweave, 4× Heavy Silken Thread, 2× Magenta Dye, 2× Cerulean Dye, 2× Globe of Water Pattern:
+Frothing Slippers · Trainer · 14 50 14 silver 50 copper Gilded Slippers New 150 145 145 145 8× Bolt of
+Mageweave, 4× Heavy Silken Thread, 2× Magenta Dye, 2× Cerulean Dye, 2× Gold Bar Pattern: Gilded Slippers
+· Trainer · 14 50 14 silver 50 copper Golden Slippers New 150 145 145 145 8× Bolt of Mageweave, 4× Heavy
+Silken Thread, 2× Magenta Dye, 2× Cerulean Dye, 2× Golden Pearl Pattern: Golden Slippers · Trainer ·
+14 50 14 silver 50 copper Radiant Slippers New 150 145 145 145 8× Bolt of Mageweave, 4× Heavy Silken
+Thread, 2× Magenta Dye, 2× Cerulean Dye, 2× Large Radiant Shard Pattern: Radiant Slippers · Trainer ·
+14 50 14 silver 50 copper Rich Purple Silk Shirt 150 160 165 170 4× Bolt of Silk Cloth, 1× Purple Dye,
+1× Silken Thread Pattern: Rich Purple Silk Shirt · Drop: Daggerspine Raider (Arathi Highlands) 0.02%;
+Elder Crag Coyote (Badlands) 0.02% +1 more Crimson Silk Vest 150 170 180 190 4× Bolt of Silk Cloth, 2×
+Red Dye, 2× Fine Thread Trainer · 22 50 22 silver 50 copper Black Silk Pack 150 170 185 200 6× Bolt of
+Silk Cloth, 1× Black Dye, 4× Fine Thread Pattern: Black Silk Pack · Drop: Syndicate Spy (Alterac Mountains)
+2.16%; Theramore Infiltrator (Dustwallow Marsh) 0.92% Earthen Silk Hood New 150 170 185 200 4× Bolt of
+Silk Cloth, 2× Elemental Earth, 2× Fine Thread Pattern: Earthen Silk Hood · source not listed yet Long
+Silken Cloak 150 170 185 200 4× Bolt of Silk Cloth, 1× Mana Potion, 1× Silken Thread Trainer · 9 9 silver
+Green Holiday Shirt 155 165 170 175 5× Bolt of Silk Cloth, 4× Green Dye, 1× Silken Thread Pattern: Green
+Holiday Shirt · source not listed yet Azure Shoulders 155 175 190 205 6× Bolt of Silk Cloth, 2× Naga
+Scale, 2× Blue Dye, 2× Silken Thread Pattern: Azure Shoulders · Drop: Deepstrider Giant (Desolace) 0.14%;
+Giant Darkfang Spider (Dustwallow Marsh) 0.08% +1 more Crimson Silk Shoulders 155 175 190 205 5× Bolt
+of Silk Cloth, 2× Fire Oil, 2× Red Dye, 2× Silken Thread Pattern: Crimson Silk Shoulders · Drop: Magregan
+Deepshadow (Loch Modan) 0.08%; Rabid Bonepaw (Desolace) 0.08% +1 more Robe of Power 155 175 190 205 2×
+Bolt of Mageweave, 2× Elemental Earth, 2× Elemental Water, 2× Elemental Fire, 2× Elemental Air, 2× Silken
+Thread Trainer · 9 9 silver Crimson Silk Pantaloons 160 180 190 200 4× Bolt of Silk Cloth, 2× Red Dye,
+2× Silken Thread Trainer · 30 30 silver Earthen Silk Belt 160 180 195 210 5× Bolt of Silk Cloth, 4× Elemental
+Earth, 4× Heavy Leather, 1× Iron Buckle, 2× Silken Thread Pattern: Earthen Silk Belt · Drop: Saltscale
+Oracle (Stranglethorn Vale) 0.18%; Lord Falconcrest (Arathi Highlands) 0.08% +1 more Earthen Silk Gloves
+New 160 180 195 210 5× Bolt of Silk Cloth, 2× Elemental Earth, 2× Silken Thread Pattern: Earthen Silk
+Gloves · source not listed yet Black Swashbuckler&#x27;s Shirt 165 175 180 185 5× Bolt of Silk Cloth,
+1× Black Dye, 1× Silken Thread Pattern: Black Swashbuckler&#x27;s Shirt · Vendor: Narkk (Stranglethorn
+Vale) 15 15 silver , limited Black Handwraps New 165 185 200 215 12× Bolt of Mageweave, 4× Heavy Silken
+Thread, 2× Magenta Dye, 1× Cerulean Dye, 4× Black Pearl Pattern: Black Handwraps · 60 Merchant&#x27;s
+Favor · Vendor: Mivin Shadowweave (Redridge Mountains, Alliance) ; Jim&#x27;bek (The Barrens, Horde)
+Earthen Silk Cuffs New 165 185 200 215 4× Bolt of Silk Cloth, 1× Elemental Earth, 1× Silken Thread Pattern:
+Earthen Silk Cuffs · Drop: Mirefin Murloc (Dustwallow Marsh) Fiery Handwraps New 165 185 200 215 12×
+Bolt of Mageweave, 4× Heavy Silken Thread, 2× Magenta Dye, 1× Cerulean Dye, 4× Heart of Fire Pattern:
+Fiery Handwraps · 60 Merchant&#x27;s Favor · Vendor: Mivin Shadowweave (Redridge Mountains, Alliance)
+; Jim&#x27;bek (The Barrens, Horde) Frothing Handwraps New 165 185 200 215 12× Bolt of Mageweave, 4×
+Heavy Silken Thread, 2× Magenta Dye, 1× Cerulean Dye, 4× Globe of Water Pattern: Frothing Handwraps ·
+60 Merchant&#x27;s Favor · Vendor: Mivin Shadowweave (Redridge Mountains, Alliance) ; Jim&#x27;bek (The
+Barrens, Horde) Gilded Handwraps New 165 185 200 215 12× Bolt of Mageweave, 4× Heavy Silken Thread, 2×
+Magenta Dye, 1× Cerulean Dye, 4× Gold Bar Pattern: Gilded Handwraps · Drop: Saltscale Oracle (Stranglethorn
+Vale) Golden Handwraps New 165 185 200 215 12× Bolt of Mageweave, 4× Heavy Silken Thread, 2× Magenta
+Dye, 1× Cerulean Dye, 4× Golden Pearl Pattern: Golden Handwraps · 60 Merchant&#x27;s Favor · Vendor:
+Mivin Shadowweave (Redridge Mountains, Alliance) ; Jim&#x27;bek (The Barrens, Horde) Icy Cloak 165 185
+200 215 3× Bolt of Mageweave, 2× Silken Thread, 1× Frost Oil, 2× Thick Spider&#x27;s Silk Pattern: Icy
+Cloak · Vendor: Micha Yance (Hillsbrad Foothills, Alliance) 15 15 silver , limited ; Ghok&#x27;kah (Dustwallow
+Marsh, Horde) 15 15 silver , limited Radiant Handwraps New 165 185 200 215 12× Bolt of Mageweave, 4×
+Heavy Silken Thread, 2× Magenta Dye, 1× Cerulean Dye, 4× Large Radiant Shard Pattern: Radiant Handwraps
+· 60 Merchant&#x27;s Favor · Vendor: Mivin Shadowweave (Redridge Mountains, Alliance) ; Jim&#x27;bek
+(The Barrens, Horde) Star Belt 165 185 200 215 4× Bolt of Mageweave, 4× Heavy Leather, 1× Citrine, 1×
+Iron Buckle, 1× Silken Thread Pattern: Star Belt · Drop: Lord Sakrasis (Stranglethorn Vale) 0.12%; Mosh&#x27;Ogg
+Spellcrafter (Stranglethorn Vale) 0.02% +1 more Crimson Silk Robe 170 185 200 215 8× Bolt of Silk Cloth,
+4× Elemental Fire, 2× Mana Potion, 4× Red Dye, 1× Silken Thread Pattern: Crimson Silk Robe · Vendor:
+Vizzklick (Tanaris) 50 50 silver , limited Earthen Silk Shoulders New 170 185 200 215 6× Bolt of Silk
+Cloth, 2× Elemental Earth, 3× Silken Thread Pattern: Earthen Silk Shoulders · Drop: Dustbelcher Mystic
+(Badlands) Black Mageweave Leggings 170 185 200 215 2× Bolt of Mageweave, 3× Silken Thread Trainer ·
+40 40 silver Black Mageweave Vest 170 185 200 215 2× Bolt of Mageweave, 3× Silken Thread Trainer · 36
+36 silver Azure Stormsewn Cowl New 175 185 187 190 7× Bolt of Silk Cloth, 2× Lesser Mystic Essence, 1×
+Heavy Silken Thread, 4× Blue Dye Pattern: Azure Stormsewn Cowl · Vendor: Archmage Alvareaux (Alterac
+Mountains, Alliance) 10 10 gold Azure Stormsewn Epaulets New 175 185 187 190 5× Bolt of Silk Cloth, 1×
+Lesser Mystic Essence, 1× Heavy Silken Thread, 3× Blue Dye Pattern: Azure Stormsewn Epaulets · Vendor:
+Archmage Alvareaux (Alterac Mountains, Alliance) 10 10 gold Cloudy Stormsewn Cowl New 175 185 187 190
+7× Bolt of Silk Cloth, 2× Lesser Mystic Essence, 1× Heavy Silken Thread, 8× Bleach Pattern: Cloudy Stormsewn
+Cowl · Vendor: Sutara Plainstalker (Mulgore, Horde) 10 10 gold Cloudy Stormsewn Epaulets New 175 185
+187 190 5× Bolt of Silk Cloth, 1× Lesser Mystic Essence, 1× Heavy Silken Thread, 6× Bleach Pattern: Cloudy
+Stormsewn Epaulets · Vendor: Sutara Plainstalker (Mulgore, Horde) 10 10 gold Black Mageweave Robe 175
+190 205 220 3× Bolt of Mageweave, 1× Heavy Silken Thread Trainer · 36 36 silver Crimson Silk Gloves 175
+190 205 220 6× Bolt of Silk Cloth, 2× Elemental Fire, 2× Fire Oil, 2× Thick Leather, 4× Red Dye, 2× Silken
+Thread Trainer · 45 45 silver Shadoweave Pants 175 190 205 220 3× Bolt of Mageweave, 2× Shadow Silk,
+1× Heavy Silken Thread Trainer · 50 50 silver White Bandit Mask 180 185 190 195 1× Bolt of Mageweave,
+1× Bleach, 1× Heavy Silken Thread Pattern: White Bandit Mask · Drop: Molt Thorn (Swamp of Sorrows) 0.96%;
+Rock Worm (Desolace) 0.14% +1 more Orange Mageweave Shirt 180 185 190 195 1× Bolt of Mageweave, 1× Orange
+Dye, 1× Heavy Silken Thread Trainer · 22 50 22 silver 50 copper Red Mageweave Pants 180 195 210 225 3×
+Bolt of Mageweave, 2× Red Dye, 1× Heavy Silken Thread Pattern: Red Mageweave Pants · Drop: Caretaker
+Nevlin (Arathi Highlands) 0.26%; Snarler (Feralas) 0.24% +1 more Red Mageweave Vest 180 195 210 225 3×
+Bolt of Mageweave, 2× Red Dye, 1× Heavy Silken Thread Pattern: Red Mageweave Vest · Drop: Anathemus (Badlands)
+0.18%; Highland Thrasher (Arathi Highlands) 0.08% +1 more Black Mageweave Gloves 180 195 210 225 2× Bolt
+of Mageweave, 2× Heavy Silken Thread Trainer · 50 50 silver Shadoweave Robe 180 195 210 225 3× Bolt of
+Mageweave, 2× Shadow Silk, 1× Heavy Silken Thread Trainer · 55 55 silver Orange Martial Shirt 185 190
+195 200 2× Bolt of Mageweave, 2× Orange Dye, 1× Heavy Silken Thread Pattern: Orange Martial Shirt · Vendor:
+Elynna (Darnassus, Alliance) 30 30 silver , limited ; Mahu (Thunder Bluff, Horde) 30 30 silver , limited
+Stormcloth Gloves 185 200 215 230 3× Bolt of Mageweave, 2× Globe of Water, 2× Heavy Silken Thread Pattern:
+Stormcloth Gloves · Vendor: Gorhak (Desolace) 68 75 68 silver 75 copper Stormcloth Pants 185 200 215
+230 4× Bolt of Mageweave, 2× Globe of Water, 2× Heavy Silken Thread Pattern: Stormcloth Pants · source
+not listed yet Black Cord New 190 195 195 195 28× Bolt of Mageweave, 4× Heavy Silken Thread, 6× Magenta
+Dye, 4× Cerulean Dye, 12× Black Pearl Pattern: Black Cord · source not listed yet Fiery Cord New 190
+195 195 195 28× Bolt of Mageweave, 4× Heavy Silken Thread, 6× Magenta Dye, 4× Cerulean Dye, 12× Heart
+of Fire Pattern: Fiery Cord · source not listed yet Frothing Cord New 190 195 195 195 28× Bolt of Mageweave,
+4× Heavy Silken Thread, 6× Magenta Dye, 4× Cerulean Dye, 12× Globe of Water Pattern: Frothing Cord ·
+source not listed yet Gilded Cord New 190 195 195 195 28× Bolt of Mageweave, 4× Heavy Silken Thread,
+6× Magenta Dye, 4× Cerulean Dye, 12× Gold Bar Pattern: Gilded Cord · source not listed yet Golden Cord
+New 190 195 195 195 28× Bolt of Mageweave, 4× Heavy Silken Thread, 6× Magenta Dye, 4× Cerulean Dye, 12×
+Golden Pearl Pattern: Golden Cord · Drop: Amnennar the Coldbringer (Razorfen Downs) Radiant Cord New
+190 195 195 195 28× Bolt of Mageweave, 4× Heavy Silken Thread, 6× Magenta Dye, 4× Cerulean Dye, 12× Large
+Radiant Shard Pattern: Radiant Cord · source not listed yet Lavender Mageweave Shirt 190 195 200 205
+2× Bolt of Mageweave, 2× Purple Dye, 2× Heavy Silken Thread Pattern: Lavender Mageweave Shirt · Vendor:
+Outfitter Eric (Dun Morogh, Alliance) 40 40 silver , limited ; Borya (Orgrimmar, Horde) 40 40 silver
+, limited Mageweave Reagent Bag New 190 205 210 215 4× Bolt of Mageweave, 2× Heavy Silken Thread, 1×
+Magenta Dye, 1× Cerulean Dye Pattern: Mageweave Reagent Bag · 60 Merchant&#x27;s Favor · Vendor: Mivin
+Shadowweave (Redridge Mountains, Alliance) ; Jim&#x27;bek (The Barrens, Horde) Enchanted Mageweave Pouch
+190 205 220 235 4× Bolt of Mageweave, 4× Vision Dust, 2× Heavy Silken Thread Pattern: Enchanted Mageweave
+Pouch · Vendor: Vaean (Darnassus, Alliance) 60 60 silver ; Kithas (Orgrimmar, Horde) 60 60 silver +7
+more Red Mageweave Gloves 190 205 220 235 3× Bolt of Mageweave, 2× Red Dye, 2× Heavy Silken Thread Pattern:
+Red Mageweave Gloves · Drop: Warleader Krazzilak (Tanaris) 0.24%; Emerald Ooze (The Hinterlands) 0.11%
++1 more Stormcloth Vest 190 205 220 235 5× Bolt of Mageweave, 3× Globe of Water, 2× Heavy Silken Thread
+Pattern: Stormcloth Vest · source not listed yet Black Mageweave Boots 190 205 220 235 3× Bolt of Mageweave,
+2× Heavy Silken Thread, 2× Thick Leather Trainer · 60 60 silver Black Mageweave Headband 190 205 220
+235 3× Bolt of Mageweave, 2× Heavy Silken Thread Trainer · 60 60 silver Black Mageweave Shoulders 190
+205 220 235 3× Bolt of Mageweave, 2× Heavy Silken Thread Trainer · 60 60 silver Cindercloth Robe 190
+205 220 235 5× Bolt of Mageweave, 2× Heart of Fire, 2× Heavy Silken Thread Trainer · 45 45 silver Dreamweave
+Gloves 190 205 220 235 4× Bolt of Mageweave, 4× Wildvine, 2× Heart of the Wild, 2× Heavy Silken Thread
+Trainer · 45 45 silver Dreamweave Vest 190 205 220 235 6× Bolt of Mageweave, 6× Wildvine, 2× Heart of
+the Wild, 2× Heavy Silken Thread Trainer · 45 45 silver Mageweave Bag 190 205 220 235 4× Bolt of Mageweave,
+2× Silken Thread Trainer · 50 50 silver Shadoweave Gloves 190 205 220 235 5× Bolt of Mageweave, 5× Shadow
+Silk, 2× Heavy Silken Thread Trainer · 60 60 silver Pink Mageweave Shirt 195 200 205 210 3× Bolt of Mageweave,
+1× Pink Dye, 1× Heavy Silken Thread Pattern: Pink Mageweave Shirt · Vendor: Outfitter Eric (Dun Morogh,
+Alliance) 40 40 silver , limited ; Borya (Orgrimmar, Horde) 40 40 silver , limited Simple Black Dress
+195 200 205 210 3× Bolt of Mageweave, 1× Black Dye, 1× Heavy Silken Thread, 1× Bleach Trainer · 50 50
+silver Netherflame Shoulders New 195 210 225 240 16× Bolt of Mageweave, 3× Heavy Silken Thread, 4× Magenta
+Dye, 3× Cerulean Dye, 8× Heart of Fire, 2× Greater Nether Essence Pattern: Netherflame Shoulders · 60
+Merchant&#x27;s Favor · Vendor: Mivin Shadowweave (Redridge Mountains, Alliance) ; Jim&#x27;bek (The
+Barrens, Horde) Netherfroth Shoulders New 195 210 225 240 16× Bolt of Mageweave, 3× Heavy Silken Thread,
+4× Magenta Dye, 3× Cerulean Dye, 8× Globe of Water, 2× Greater Nether Essence Pattern: Netherfroth Shoulders
+· 60 Merchant&#x27;s Favor · Vendor: Mivin Shadowweave (Redridge Mountains, Alliance) ; Jim&#x27;bek
+(The Barrens, Horde) Nethergeld Shoulders New 195 210 225 240 16× Bolt of Mageweave, 3× Heavy Silken
+Thread, 4× Magenta Dye, 3× Cerulean Dye, 8× Gold Bar, 2× Greater Nether Essence Pattern: Nethergeld Shoulders
+· 60 Merchant&#x27;s Favor · Vendor: Mivin Shadowweave (Redridge Mountains, Alliance) ; Jim&#x27;bek
+(The Barrens, Horde) Netherlight Shoulders New 195 210 225 240 16× Bolt of Mageweave, 3× Heavy Silken
+Thread, 4× Magenta Dye, 3× Cerulean Dye, 8× Large Radiant Shard, 2× Greater Nether Essence Pattern: Netherlight
+Shoulders · 60 Merchant&#x27;s Favor · Vendor: Mivin Shadowweave (Redridge Mountains, Alliance) ; Jim&#x27;bek
+(The Barrens, Horde) Netherpearl Shoulders New 195 210 225 240 16× Bolt of Mageweave, 3× Heavy Silken
+Thread, 4× Magenta Dye, 3× Cerulean Dye, 8× Black Pearl, 2× Greater Nether Essence Pattern: Netherpearl
+Shoulders · 60 Merchant&#x27;s Favor · Vendor: Mivin Shadowweave (Redridge Mountains, Alliance) ; Jim&#x27;bek
+(The Barrens, Horde) Nethershine Shoulders New 195 210 225 240 16× Bolt of Mageweave, 3× Heavy Silken
+Thread, 4× Magenta Dye, 3× Cerulean Dye, 8× Golden Pearl, 2× Greater Nether Essence Pattern: Nethershine
+Shoulders · 60 Merchant&#x27;s Favor · Vendor: Mivin Shadowweave (Redridge Mountains, Alliance) ; Jim&#x27;bek
+(The Barrens, Horde) Red Mageweave Shoulders 195 210 225 240 4× Bolt of Mageweave, 2× Red Dye, 3× Heavy
+Silken Thread Pattern: Red Mageweave Shoulders · Drop: Caretaker Weston (Arathi Highlands) 0.58%; Mojo
+the Twisted (Blasted Lands) 0.28% Red Mageweave Bag 195 210 225 240 5× Bolt of Mageweave, 2× Red Dye,
+2× Heavy Silken Thread Trainer · 65 65 silver Shadoweave Shoulders 195 210 225 240 5× Bolt of Mageweave,
+4× Shadow Silk, 2× Heavy Silken Thread Trainer · 65 65 silver Artisan · learn at 200–300 169 recipes
+Tuxedo Shirt 200 205 210 215 4× Bolt of Mageweave, 2× Heavy Silken Thread Pattern: Tuxedo Shirt · Vendor:
+Outfitter Eric (Dun Morogh, Alliance) 45 45 silver , limited ; Millie Gregorian (Tirisfal Glades, Horde)
+45 45 silver , limited Admiral&#x27;s Hat 200 215 230 245 3× Bolt of Mageweave, 6× Long Elegant Feather,
+2× Heavy Silken Thread Pattern: Admiral&#x27;s Hat · Vendor: Cowardly Crosby (Stranglethorn Vale) 70
+70 silver , limited Red Mageweave Headband 200 215 230 245 4× Bolt of Mageweave, 2× Red Dye, 2× Heavy
+Silken Thread Pattern: Red Mageweave Headband · Drop: Grimungous (The Hinterlands) 1%; Deatheye (Blasted
+Lands) 0.19% +1 more Shadoweave Mask 200 215 230 245 2× Bolt of Mageweave, 8× Shadow Silk, 2× Heavy Silken
+Thread Pattern: Shadoweave Mask · Quest: The Undermarket Stormcloth Headband 200 215 230 245 4× Bolt
+of Mageweave, 4× Globe of Water, 2× Heavy Silken Thread Pattern: Stormcloth Headband · source not listed
+yet Stormcloth Shoulders 200 215 230 245 5× Bolt of Mageweave, 6× Globe of Water, 3× Heavy Silken Thread
+Pattern: Stormcloth Shoulders · source not listed yet Cindercloth Boots 200 215 230 245 5× Bolt of Mageweave,
+1× Heart of Fire, 3× Heavy Silken Thread, 2× Thick Leather Trainer · 75 75 silver Shadoweave Boots 200
+215 230 245 6× Bolt of Mageweave, 6× Shadow Silk, 3× Heavy Silken Thread, 2× Thick Leather Trainer ·
+70 70 silver Bolt of Runecloth 205 210 212 215 5× Runecloth Trainer · 1 1 gold Festival Dress 205 220
+235 250 4× Bolt of Runecloth, 2× Firebloom, 2× Red Dye, 1× Rune Thread Pattern: Festival Dress · Quest:
+Festive Recipes Festival Suit 205 220 235 250 4× Bolt of Runecloth, 2× Firebloom, 2× Red Dye, 1× Rune
+Thread Pattern: Festival Suit · Quest: Festive Recipes Netherflame Cuffs New 205 220 235 250 18× Bolt
+of Mageweave, 3× Heavy Silken Thread, 6× Magenta Dye, 4× Cerulean Dye, 10× Heart of Fire, 4× Greater
+Nether Essence Pattern: Netherflame Cuffs · 60 Merchant&#x27;s Favor · Vendor: Mivin Shadowweave (Redridge
+Mountains, Alliance) ; Jim&#x27;bek (The Barrens, Horde) Netherfroth Cuffs New 205 220 235 250 18× Bolt
+of Mageweave, 3× Heavy Silken Thread, 6× Magenta Dye, 4× Cerulean Dye, 10× Globe of Water, 4× Greater
+Nether Essence Pattern: Netherfroth Cuffs · 60 Merchant&#x27;s Favor · Vendor: Mivin Shadowweave (Redridge
+Mountains, Alliance) ; Jim&#x27;bek (The Barrens, Horde) Nethergeld Cuffs New 205 220 235 250 18× Bolt
+of Mageweave, 3× Heavy Silken Thread, 6× Magenta Dye, 4× Cerulean Dye, 10× Gold Bar, 4× Greater Nether
+Essence Pattern: Nethergeld Cuffs · 60 Merchant&#x27;s Favor · Vendor: Mivin Shadowweave (Redridge Mountains,
+Alliance) ; Jim&#x27;bek (The Barrens, Horde) Netherlight Cuffs New 205 220 235 250 18× Bolt of Mageweave,
+3× Heavy Silken Thread, 6× Magenta Dye, 4× Cerulean Dye, 10× Large Radiant Shard, 4× Greater Nether Essence
+Pattern: Netherlight Cuffs · 60 Merchant&#x27;s Favor · Vendor: Mivin Shadowweave (Redridge Mountains,
+Alliance) ; Jim&#x27;bek (The Barrens, Horde) Netherpearl Cuffs New 205 220 235 250 18× Bolt of Mageweave,
+3× Heavy Silken Thread, 6× Magenta Dye, 4× Cerulean Dye, 10× Black Pearl, 4× Greater Nether Essence Pattern:
+Netherpearl Cuffs · 60 Merchant&#x27;s Favor · Vendor: Mivin Shadowweave (Redridge Mountains, Alliance)
+; Jim&#x27;bek (The Barrens, Horde) Nethershine Cuffs New 205 220 235 250 18× Bolt of Mageweave, 3× Heavy
+Silken Thread, 6× Magenta Dye, 4× Cerulean Dye, 10× Golden Pearl, 4× Greater Nether Essence Pattern:
+Nethershine Cuffs · 60 Merchant&#x27;s Favor · Vendor: Mivin Shadowweave (Redridge Mountains, Alliance)
+; Jim&#x27;bek (The Barrens, Horde) Stormcloth Boots 205 220 235 250 6× Bolt of Mageweave, 6× Globe of
+Water, 3× Heavy Silken Thread, 2× Thick Leather Pattern: Stormcloth Boots · source not listed yet Dreamweave
+Circlet 205 220 235 250 8× Bolt of Mageweave, 4× Wildvine, 2× Heart of the Wild, 3× Heavy Silken Thread,
+1× Truesilver Bar, 1× Jade Trainer · 75 75 silver Frostweave Robe 210 225 240 255 5× Bolt of Runecloth,
+2× Globe of Water, 1× Rune Thread Pattern: Frostweave Robe · Drop: Master Feardred (Azshara) 0.59%; Strashaz
+Hydra (Dustwallow Marsh) 0.29% +1 more Frostweave Tunic 210 225 240 255 5× Bolt of Runecloth, 2× Globe
+of Water, 1× Rune Thread Pattern: Frostweave Tunic · Drop: Veyzhak the Cannibal (Swamp of Sorrows) 1.84%;
+High General Abbendis (Eastern Plaguelands) 0.76% +1 more Runecloth Belt 210 225 240 255 3× Bolt of Runecloth,
+1× Rune Thread Trainer · 1 1 gold Black Waistcord New 215 230 245 260 8× Bolt of Runecloth, 4× Heavy
+Silken Thread, 8× Magenta Dye, 5× Cerulean Dye, 12× Black Pearl Pattern: Black Waistcord · 60 Merchant&#x27;s
+Favor · Vendor: Mivin Shadowweave (Redridge Mountains, Alliance) ; Jim&#x27;bek (The Barrens, Horde)
+Cindercloth Vest 215 230 245 260 5× Bolt of Runecloth, 3× Heart of Fire, 1× Rune Thread Pattern: Cindercloth
+Vest · Drop: Twilight Fire Guard (Searing Gorge) 2.04% Earthenweave Cord New 215 230 245 260 4× Bolt
+of Runecloth, 2× Essence of Earth, 1× Rune Thread Pattern: Earthenweave Cord · source not listed yet
+Earthenweave Gloves New 215 230 245 260 6× Bolt of Runecloth, 1× Essence of Earth, 1× Rune Thread Pattern:
+Earthenweave Gloves · source not listed yet Fiery Waistcord New 215 230 245 260 8× Bolt of Runecloth,
+4× Heavy Silken Thread, 8× Magenta Dye, 5× Cerulean Dye, 12× Heart of Fire Pattern: Fiery Waistcord ·
+60 Merchant&#x27;s Favor · Vendor: Mivin Shadowweave (Redridge Mountains, Alliance) ; Jim&#x27;bek (The
+Barrens, Horde) Frostweave Gloves 215 230 245 260 3× Bolt of Runecloth, 1× Essence of Water, 1× Rune
+Thread Pattern: Frostweave Gloves · Drop: High Priestess Hai&#x27;watna (Stranglethorn Vale) 0.45%; Tick
+(Tanaris) 0.16% +1 more Frothing Waistcord New 215 230 245 260 8× Bolt of Runecloth, 4× Heavy Silken
+Thread, 8× Magenta Dye, 5× Cerulean Dye, 12× Globe of Water Pattern: Frothing Waistcord · 60 Merchant&#x27;s
+Favor · Vendor: Mivin Shadowweave (Redridge Mountains, Alliance) ; Jim&#x27;bek (The Barrens, Horde)
+Ghostweave Cord New 215 230 245 260 4× Bolt of Runecloth, 1× Ghost Dye, 1× Ironweb Spider Silk, 1× Rune
+Thread Pattern: Ghostweave Cord · source not listed yet Gilded Waistcord New 215 230 245 260 8× Bolt
+of Runecloth, 4× Heavy Silken Thread, 8× Magenta Dye, 5× Cerulean Dye, 12× Gold Bar Pattern: Gilded Waistcord
+· 60 Merchant&#x27;s Favor · Vendor: Mivin Shadowweave (Redridge Mountains, Alliance) ; Jim&#x27;bek
+(The Barrens, Horde) Golden Waistcord New 215 230 245 260 8× Bolt of Runecloth, 4× Heavy Silken Thread,
+8× Magenta Dye, 5× Cerulean Dye, 12× Golden Pearl Pattern: Golden Waistcord · 60 Merchant&#x27;s Favor
+· Vendor: Mivin Shadowweave (Redridge Mountains, Alliance) ; Jim&#x27;bek (The Barrens, Horde) Radiant
+Waistcord New 215 230 245 260 8× Bolt of Runecloth, 4× Heavy Silken Thread, 8× Magenta Dye, 5× Cerulean
+Dye, 12× Large Radiant Shard Pattern: Radiant Waistcord · 60 Merchant&#x27;s Favor · Vendor: Mivin Shadowweave
+(Redridge Mountains, Alliance) ; Jim&#x27;bek (The Barrens, Horde) Runecloth Bag 215 230 245 260 5× Bolt
+of Runecloth, 2× Rugged Leather, 1× Rune Thread, 4× Magenta Dye, 2× Cerulean Dye Pattern: Runecloth Bag
+· Vendor: Qia (Winterspring) 1 20 1 gold 20 silver , limited Runecloth Reagent Bag New 215 230 245 260
+5× Bolt of Runecloth, 2× Rugged Leather, 1× Rune Thread, 1× Viridian Dye Pattern: Runecloth Reagent Bag
+· 60 Merchant&#x27;s Favor · Vendor: Mivin Shadowweave (Redridge Mountains, Alliance) ; Jim&#x27;bek
+(The Barrens, Horde) Runecloth Robe 215 230 245 260 5× Bolt of Runecloth, 1× Ironweb Spider Silk, 1×
+Rune Thread Pattern: Runecloth Robe · Vendor: Darnall (Moonglade) 1 20 1 gold 20 silver , limited Runecloth
+Tunic 215 230 245 260 5× Bolt of Runecloth, 1× Ironweb Spider Silk, 1× Rune Thread Pattern: Runecloth
+Tunic · Drop: Emerald Ooze (The Hinterlands) 0.12%; Gordok Enforcer (Feralas) 0.1% +1 more Soul Pouch
+215 230 245 260 6× Bolt of Runecloth, 4× Rugged Leather, 2× Ichor of Undeath, 1× Rune Thread Pattern:
+Soul Pouch · Vendor: Vizzklick (Tanaris) 1 20 1 gold 20 silver Ghostweave Belt 220 235 250 265 3× Bolt
+of Runecloth, 2× Ghost Dye, 1× Ironweb Spider Silk, 1× Rune Thread Pattern: Ghostweave Belt · Drop: Lingering
+Highborne (Azshara) 1.88% Runecloth Cloak 220 240 255 270 4× Bolt of Runecloth, 1× Ironweb Spider Silk,
+1× Rune Thread Pattern: Runecloth Cloak · Vendor: Darnall (Moonglade) 1 20 1 gold 20 silver , limited
+Brightcloth Gloves 225 240 255 270 4× Bolt of Runecloth, 2× Gold Bar, 1× Rune Thread Pattern: Brightcloth
+Gloves · Drop: Spellmaw (Winterspring) 0.22%; Gurubashi Warrior (Stranglethorn Vale) 0.1% +1 more Brightcloth
+Robe 225 240 255 270 5× Bolt of Runecloth, 2× Gold Bar, 1× Rune Thread Pattern: Brightcloth Robe · Drop:
+Zul&#x27;Brin Warpbranch (Eastern Plaguelands) 0.66%; Scarshield Grunt (Burning Steppes) 0.14% +1 more
+Cindercloth Gloves 225 240 255 270 4× Bolt of Runecloth, 3× Heart of Fire, 1× Rune Thread Pattern: Cindercloth
+Gloves · Drop: Twilight Fire Guard (Searing Gorge) 2.06% Earthenweave Boots New 225 240 255 270 4× Bolt
+of Runecloth, 2× Essence of Earth, 2× Rugged Leather, 1× Rune Thread Pattern: Earthenweave Boots · source
+not listed yet Ghostweave Gloves 225 240 255 270 4× Bolt of Runecloth, 2× Ghost Dye, 1× Ironweb Spider
+Silk, 1× Rune Thread Pattern: Ghostweave Gloves · Drop: Lingering Highborne (Azshara) 2.4%; Unseen Servant
+(Eastern Plaguelands) 2.1% Ghostweave Vest 225 240 255 270 6× Bolt of Runecloth, 4× Ghost Dye, 1× Ironweb
+Spider Silk, 1× Rune Thread Pattern: Ghostweave Vest · Drop: Unseen Servant (Eastern Plaguelands) 1.96%
+Brightcloth Cloak 230 245 260 275 4× Bolt of Runecloth, 2× Gold Bar, 1× Rune Thread Pattern: Brightcloth
+Cloak · Drop: Uhk&#x27;loc (Un&#x27;Goro Crater) 0.38%; Cyclone Warrior (Silithus) 0.17% +1 more Cenarion
+Herb Bag 230 245 260 275 5× Bolt of Runecloth, 10× Purple Lotus, 8× Morrowgrain, 2× Rune Thread Pattern:
+Cenarion Herb Bag · Vendor: Mishta (Silithus) 2 2 gold Cindercloth Cloak 230 245 260 275 5× Bolt of Runecloth,
+1× Essence of Fire, 1× Rune Thread Pattern: Cindercloth Cloak · Drop: Thaurissan Firewalker (Burning
+Steppes) 1.78% Enchanted Runecloth Bag 230 245 260 275 5× Bolt of Runecloth, 2× Greater Eternal Essence,
+2× Rune Thread Pattern: Enchanted Runecloth Bag · Vendor: Kania (Silithus) 2 2 gold Felcloth Pants 230
+245 260 275 5× Bolt of Runecloth, 4× Felcloth, 1× Rune Thread Pattern: Felcloth Pants · Vendor: Lorelae
+Wintersong (Moonglade) 1 60 1 gold 60 silver , limited Runecloth Gloves 230 245 260 275 4× Bolt of Runecloth,
+4× Rugged Leather, 1× Rune Thread Pattern: Runecloth Gloves · Vendor: Qia (Winterspring) 1 60 1 gold
+60 silver , limited Wizardweave Leggings 230 245 260 275 6× Bolt of Runecloth, 1× Dream Dust, 1× Rune
+Thread Pattern: Wizardweave Leggings · Drop: Dark Summoner (Eastern Plaguelands) 2.1% Mooncloth 230 270
+285 300 2× Felcloth Pattern: Mooncloth · Vendor: Qia (Winterspring) 2 2 gold Black Gloves New 235 240
+240 240 8× Bolt of Runecloth, 4× Heavy Silken Thread, 4× Magenta Dye, 4× Cerulean Dye, 4× Black Pearl
+Pattern: Black Gloves · source not listed yet Fiery Gloves New 235 240 240 240 8× Bolt of Runecloth,
+4× Heavy Silken Thread, 4× Magenta Dye, 4× Cerulean Dye, 4× Heart of Fire Pattern: Fiery Gloves · source
+not listed yet Frothing Gloves New 235 240 240 240 8× Bolt of Runecloth, 4× Heavy Silken Thread, 4× Magenta
+Dye, 4× Cerulean Dye, 4× Globe of Water Pattern: Frothing Gloves · source not listed yet Gilded Gloves
+New 235 240 240 240 8× Bolt of Runecloth, 4× Heavy Silken Thread, 4× Magenta Dye, 4× Cerulean Dye, 4×
+Gold Bar Pattern: Gilded Gloves · source not listed yet Golden Gloves New 235 240 240 240 8× Bolt of
+Runecloth, 4× Heavy Silken Thread, 4× Magenta Dye, 4× Cerulean Dye, 4× Golden Pearl Pattern: Golden Gloves
+· source not listed yet Radiant Gloves New 235 240 240 240 8× Bolt of Runecloth, 4× Heavy Silken Thread,
+4× Magenta Dye, 4× Cerulean Dye, 4× Large Radiant Shard Pattern: Radiant Gloves · source not listed yet
+Black Sandals New 235 250 265 280 10× Bolt of Runecloth, 4× Heavy Silken Thread, 10× Magenta Dye, 6×
+Cerulean Dye, 14× Black Pearl, 4× Pristine Leather Pattern: Black Sandals · 90 Merchant&#x27;s Favor
+· Vendor: Mivin Shadowweave (Redridge Mountains, Alliance) ; Jim&#x27;bek (The Barrens, Horde) Cindercloth
+Pants 235 250 265 280 6× Bolt of Runecloth, 1× Essence of Fire, 1× Rune Thread Pattern: Cindercloth Pants
+· Drop: Thaurissan Firewalker (Burning Steppes) 1.96% Cloak of Fire 235 250 265 280 6× Bolt of Runecloth,
+4× Essence of Fire, 4× Heart of Fire, 4× Elemental Fire, 1× Rune Thread Pattern: Cloak of Fire · Drop:
+Overmaster Pyron (Searing Gorge) 25% Fiery Sandals New 235 250 265 280 10× Bolt of Runecloth, 4× Heavy
+Silken Thread, 10× Magenta Dye, 6× Cerulean Dye, 14× Heart of Fire, 4× Pristine Leather Pattern: Fiery
+Sandals · 90 Merchant&#x27;s Favor · Vendor: Mivin Shadowweave (Redridge Mountains, Alliance) ; Jim&#x27;bek
+(The Barrens, Horde) Frostweave Pants 235 250 265 280 6× Bolt of Runecloth, 1× Essence of Water, 1× Rune
+Thread Pattern: Frostweave Pants · Drop: Malfunctioning Reaver (Burning Steppes) 0.42%; Scarlet Judge
+(Western Plaguelands) 0.4% +1 more Frothing Sandals New 235 250 265 280 10× Bolt of Runecloth, 4× Heavy
+Silken Thread, 10× Magenta Dye, 6× Cerulean Dye, 14× Globe of Water, 4× Pristine Leather Pattern: Frothing
+Sandals · 90 Merchant&#x27;s Favor · Vendor: Mivin Shadowweave (Redridge Mountains, Alliance) ; Jim&#x27;bek
+(The Barrens, Horde) Gilded Sandals New 235 250 265 280 10× Bolt of Runecloth, 4× Heavy Silken Thread,
+10× Magenta Dye, 6× Cerulean Dye, 14× Gold Bar, 4× Pristine Leather Pattern: Gilded Sandals · 90 Merchant&#x27;s
+Favor · Vendor: Mivin Shadowweave (Redridge Mountains, Alliance) ; Jim&#x27;bek (The Barrens, Horde)
+Golden Sandals New 235 250 265 280 10× Bolt of Runecloth, 4× Heavy Silken Thread, 10× Magenta Dye, 6×
+Cerulean Dye, 14× Golden Pearl, 4× Pristine Leather Pattern: Golden Sandals · 90 Merchant&#x27;s Favor
+· Vendor: Mivin Shadowweave (Redridge Mountains, Alliance) ; Jim&#x27;bek (The Barrens, Horde) Radiant
+Sandals New 235 250 265 280 10× Bolt of Runecloth, 4× Heavy Silken Thread, 10× Magenta Dye, 6× Cerulean
+Dye, 14× Large Radiant Shard, 4× Pristine Leather Pattern: Radiant Sandals · 90 Merchant&#x27;s Favor
+· Vendor: Mivin Shadowweave (Redridge Mountains, Alliance) ; Jim&#x27;bek (The Barrens, Horde) Runecloth
+Boots 235 250 265 280 4× Bolt of Runecloth, 2× Ironweb Spider Silk, 4× Rugged Leather, 1× Rune Thread
+Pattern: Runecloth Boots · Vendor: Darnall (Moonglade) 2 2 gold , limited Earthenweave Mantle New 240
+255 270 285 6× Bolt of Runecloth, 1× Essence of Earth, 1× Rune Thread Pattern: Earthenweave Mantle ·
+source not listed yet Felcloth Boots 240 255 270 285 6× Bolt of Runecloth, 4× Felcloth, 4× Rugged Leather,
+1× Rune Thread Pattern: Felcloth Boots · Drop: Demetria (Eastern Plaguelands) 0.54%; Cyclone Warrior
+(Silithus) 0.09% Runecloth Pants 240 255 270 285 6× Bolt of Runecloth, 2× Ironweb Spider Silk, 1× Rune
+Thread Pattern: Runecloth Pants · Drop: Immolatus (Felwood) 0.66%; Strashaz Siren (Dustwallow Marsh)
+0.2% +1 more Brightcloth Pants 245 260 275 290 6× Bolt of Runecloth, 4× Gold Bar, 1× Ironweb Spider Silk,
+1× Rune Thread Pattern: Brightcloth Pants · Drop: Verdantine Tree Warder (The Hinterlands) 0.78%; Rex
+Ashil (Silithus) 0.4% +1 more Earthenweave Leggings New 245 260 275 290 6× Bolt of Runecloth, 2× Essence
+of Earth, 1× Rune Thread Pattern: Earthenweave Leggings · source not listed yet Felcloth Hood 245 260
+275 290 5× Bolt of Runecloth, 4× Felcloth, 1× Rune Thread Pattern: Felcloth Hood · Drop: Zora (Silithus)
+0.19%; Manahound (Blasted Lands) 0.15% +1 more Ghostweave Pants 245 260 275 290 6× Bolt of Runecloth,
+4× Ghost Dye, 1× Rune Thread Pattern: Ghostweave Pants · Drop: Spectral Citizen (Stratholme) 2.13% Robe
+of Winter Night 245 260 275 290 10× Bolt of Runecloth, 12× Felcloth, 4× Essence of Undeath, 4× Essence
+of Water, 1× Rune Thread Pattern: Robe of Winter Night · Drop: Cobalt Mageweaver (Winterspring) 3% Felcloth
+Bag 245 260 275 290 12× Felcloth, 6× Enchanted Leather, 2× Dark Rune, 4× Ironweb Spider Silk Source not
+listed yet Mooncloth Leggings 245 270 285 300 6× Bolt of Runecloth, 4× Mooncloth, 1× Rune Thread Pattern:
+Mooncloth Leggings · Drop: Black Wyrmkin (Burning Steppes) 0.02%; Blackrock Slayer (Burning Steppes)
+0.02% +1 more Green Winter Clothes New 250 250 252 255 4× Bolt of Runecloth, 1× Bolt of Woolen Cloth,
+2× Green Dye, 1× Rune Thread Pattern: Green Winter Clothes · source not listed yet Red Winter Clothes
+New 250 250 252 255 4× Bolt of Runecloth, 1× Bolt of Woolen Cloth, 2× Red Dye, 1× Rune Thread Pattern:
+Red Winter Clothes · source not listed yet Earthenweave Vest New 250 265 280 295 8× Bolt of Runecloth,
+1× Essence of Earth, 1× Rune Thread Pattern: Earthenweave Vest · source not listed yet Ghostweave Mantle
+New 250 265 280 295 5× Bolt of Runecloth, 3× Ghost Dye, 1× Ironweb Spider Silk, 1× Rune Thread Pattern:
+Ghostweave Mantle · source not listed yet Runecloth Cuffs New 250 265 280 295 5× Bolt of Runecloth, 1×
+Ironweb Spider Silk, 1× Rune Thread Pattern: Runecloth Cuffs · Vendor: Pexmit (Mount Hyjal) 10 10 gold
+Runecloth Headband 250 265 280 295 4× Bolt of Runecloth, 2× Ironweb Spider Silk, 1× Rune Thread Pattern:
+Runecloth Headband · Drop: Dreadlord (Blasted Lands) 0.2%; Emeraldon Tree Warder (Ashenvale) 0.14% +1
+more Ghostweave Boots New 255 265 280 295 4× Bolt of Runecloth, 2× Ghost Dye, 1× Ironweb Spider Silk,
+2× Rugged Leather, 1× Rune Thread Pattern: Ghostweave Boots · source not listed yet Argent Boots 255
+270 285 300 6× Bolt of Runecloth, 4× Enchanted Leather, 2× Golden Pearl, 2× Guardian Stone, 2× Ironweb
+Spider Silk Pattern: Argent Boots · Vendor: Quartermaster Miranda Breechlock (Eastern Plaguelands) 2
+20 2 gold 20 silver ; Argent Quartermaster Hasana (Tirisfal Glades) 2 20 2 gold 20 silver +1 more Big
+Bag of Enchantment 255 270 285 300 6× Bolt of Runecloth, 4× Large Brilliant Shard, 4× Enchanted Leather,
+4× Ironweb Spider Silk Pattern: Big Bag of Enchantment · Drop: Magister Kalendris (Dire Maul) 15% Earthenweave
+Cuffs New 255 270 285 300 5× Bolt of Runecloth, 1× Essence of Earth, 1× Rune Thread Pattern: Earthenweave
+Cuffs · source not listed yet Mooncloth Bag 255 270 285 300 4× Bolt of Runecloth, 1× Mooncloth, 1× Rune
+Thread, 10× Viridian Dye, 2× Magenta Dye, 4× Cerulean Dye Pattern: Mooncloth Bag · Drop: Hive&#x27;Regal
+Burrower (Silithus) 0.7%; General Colbatann (Winterspring) 0.22% +1 more Mooncloth Reagent Bag New 255
+270 285 300 4× Bolt of Runecloth, 1× Mooncloth, 1× Rune Thread, 10× Viridian Dye, 1× Magenta Dye, 1×
+Cerulean Dye Pattern: Mooncloth Reagent Bag · Vendor: Dala Fairmaw (Mount Hyjal) Satchel of Cenarius
+255 270 285 300 6× Bolt of Runecloth, 2× Mooncloth, 1× Black Lotus, 4× Ironweb Spider Silk Pattern: Satchel
+of Cenarius · Vendor: Mishta (Silithus) 5 5 gold Wisdom of the Timbermaw 255 270 285 300 8× Bolt of Runecloth,
+3× Essence of Earth, 3× Living Essence, 2× Ironweb Spider Silk Pattern: Wisdom of the Timbermaw · Vendor:
+Meilosh (Felwood) 2 20 2 gold 20 silver Wizardweave Robe 255 270 285 300 8× Bolt of Runecloth, 2× Dream
+Dust, 1× Rune Thread Pattern: Wizardweave Robe · Drop: Dark Caster (Eastern Plaguelands) 2.26% Earthenweave
+Crown New 260 275 290 305 6× Bolt of Runecloth, 3× Essence of Earth, 1× Rune Thread Pattern: Earthenweave
+Crown · source not listed yet Felcloth Robe 260 275 290 305 8× Bolt of Runecloth, 8× Felcloth, 4× Demonic
+Rune, 2× Rune Thread Pattern: Felcloth Robe · Drop: Dreamtracker (The Hinterlands) 1.2%; Felguard Elite
+(Blasted Lands) 0.42% +1 more Ghostweave Hood New 260 275 290 305 6× Bolt of Runecloth, 3× Ghost Dye,
+2× Ironweb Spider Silk, 1× Rune Thread Pattern: Ghostweave Hood · source not listed yet Runecloth Shoulders
+260 275 290 305 7× Bolt of Runecloth, 2× Ironweb Spider Silk, 4× Rugged Leather, 1× Rune Thread Pattern:
+Runecloth Shoulders · Drop: Nathanos Blightcaller (Eastern Plaguelands) 1.7%; Blighthound (Eastern Plaguelands)
+0.72% +1 more Wizardweave Turban 260 275 290 305 6× Bolt of Runecloth, 4× Dream Dust, 1× Star Ruby, 1×
+Rune Thread Pattern: Wizardweave Turban · Drop: Dark Caster (Eastern Plaguelands) 2.12% Felcloth Shoulders
+265 280 295 310 7× Bolt of Runecloth, 6× Felcloth, 4× Demonic Rune, 4× Rugged Leather, 2× Rune Thread
+Pattern: Felcloth Shoulders · Drop: Scarlet Interrogator (Western Plaguelands) 0.42%; Dreamstalker (Ashenvale)
+0.36% +1 more Gordok Ogre Suit 270 285 290 295 2× Bolt of Runecloth, 4× Rugged Leather, 1× Ogre Tannin,
+1× Rune Thread Source not listed yet Mooncloth Vest 270 285 300 315 6× Bolt of Runecloth, 4× Mooncloth,
+1× Rune Thread Pattern: Mooncloth Vest · Drop: Black Dragonspawn (Burning Steppes) 0.02%; Blackrock Warlock
+(Burning Steppes) 0.02% +1 more Mooncloth Boots 270 285 300 315 6× Bolt of Runecloth, 4× Mooncloth, 2×
+Black Pearl, 1× Rune Thread Quest: Sacred Cloth Mooncloth Robe 275 290 305 320 6× Bolt of Runecloth,
+4× Mooncloth, 2× Golden Pearl, 2× Rune Thread Pattern: Mooncloth Robe · Vendor: Shen&#x27;dralar Provisioner
+(Dire Maul) 4 4 gold Mooncloth Shoulders 275 290 305 320 5× Bolt of Runecloth, 5× Mooncloth, 1× Rune
+Thread Pattern: Mooncloth Shoulders · Drop: Huntsman Radley (Western Plaguelands) 0.06%; Necromancer
+(Eastern Plaguelands) 0.06% +1 more Cloak of Warding 280 295 310 325 12× Bolt of Runecloth, 4× Guardian
+Stone, 1× Arcanite Bar, 2× Rune Thread Pattern: Cloak of Warding · Drop: Gordok Reaver (Dire Maul) 0.02%;
+Gordok Warlock (Dire Maul) 0.02% Felcloth Gloves 280 295 310 325 12× Bolt of Runecloth, 20× Felcloth,
+6× Demonic Rune, 8× Essence of Undeath, 2× Rune Thread Pattern: Felcloth Gloves · Drop: Gordok Reaver
+(Dire Maul) 0.02% Inferno Gloves 280 295 310 325 12× Bolt of Runecloth, 10× Essence of Fire, 2× Star
+Ruby, 2× Rune Thread Pattern: Inferno Gloves · Drop: Gordok Reaver (Dire Maul) 0.02%; Gordok Warlock
+(Dire Maul) 0.02% Mooncloth Circlet 280 295 310 325 4× Bolt of Runecloth, 6× Mooncloth, 1× Azerothian
+Diamond, 2× Enchanted Leather, 2× Rune Thread Pattern: Mooncloth Circlet · Drop: Vilebranch Speaker (Zul&#x27;Gurub)
+0.15%; Soulflayer (Zul&#x27;Gurub) 0.04% +6 more Mooncloth Gloves 280 295 310 325 12× Bolt of Runecloth,
+6× Mooncloth, 2× Golden Pearl, 2× Rune Thread Pattern: Mooncloth Gloves · Object: Knot Thimblejack&#x27;s
+Cache (Dire Maul) Swarmtender&#x27;s Gloves New 285 290 292 295 4× Bolt of Runecloth, 1× Small Brilliant
+Shard, 3× Essence of Water, 6× Rune Thread Pattern: Swarmtender&#x27;s Gloves · Vendor: Mishta (Silithus)
+7 50 7 gold 50 silver Venomspew Gloves New 285 290 292 295 4× Bolt of Runecloth, 1× Small Brilliant Shard,
+3× Essence of Air, 6× Rune Thread Pattern: Venomspew Gloves · Vendor: Mishta (Silithus) 7 50 7 gold 50
+silver Runed Stygian Belt 285 300 315 330 2× Bolt of Runecloth, 6× Dark Rune, 2× Felcloth, 2× Enchanted
+Leather, 2× Ironweb Spider Silk Pattern: Runed Stygian Belt · Object: Decoded True Believer Clippings
+Runed Stygian Boots 285 300 315 330 4× Bolt of Runecloth, 6× Dark Rune, 4× Felcloth, 2× Enchanted Leather,
+2× Ironweb Spider Silk Pattern: Runed Stygian Boots · Object: Decoded True Believer Clippings Runed Stygian
+Leggings 285 300 315 330 6× Bolt of Runecloth, 8× Dark Rune, 6× Felcloth, 2× Ironweb Spider Silk Pattern:
+Runed Stygian Leggings · Drop: Twilight Geolord (Silithus) 0.02% Swarmtender&#x27;s Cord New 290 295
+297 300 6× Bolt of Runecloth, 1× Small Brilliant Shard, 3× Essence of Water, 6× Rune Thread Pattern:
+Swarmtender&#x27;s Cord · Vendor: Mishta (Silithus) 7 50 7 gold 50 silver Venomspew Cord New 290 295
+297 300 6× Bolt of Runecloth, 1× Small Brilliant Shard, 3× Essence of Air, 6× Rune Thread Pattern: Venomspew
+Cord · Vendor: Mishta (Silithus) 7 50 7 gold 50 silver Mantle of the Timbermaw 290 305 319 334 5× Mooncloth,
+5× Essence of Earth, 5× Living Essence, 2× Ironweb Spider Silk Pattern: Mantle of the Timbermaw · Vendor:
+Meilosh (Felwood) 4 4 gold Argent Shoulders 290 305 320 335 5× Mooncloth, 2× Guardian Stone, 2× Ironweb
+Spider Silk Pattern: Argent Shoulders · Vendor: Quartermaster Miranda Breechlock (Eastern Plaguelands)
+4 4 gold ; Argent Quartermaster Hasana (Tirisfal Glades) 4 4 gold +1 more Swarmtender&#x27;s Footpads
+New 295 295 297 300 5× Bolt of Runecloth, 1× Small Brilliant Shard, 3× Essence of Water, 6× Rune Thread
+Pattern: Swarmtender&#x27;s Footpads · Vendor: Mishta (Silithus) 7 50 7 gold 50 silver Venomspew Footpads
+New 295 295 297 300 5× Bolt of Runecloth, 1× Small Brilliant Shard, 3× Essence of Air, 6× Rune Thread
+Pattern: Venomspew Footpads · Vendor: Mishta (Silithus) 7 50 7 gold 50 silver Belt of the Archmage 295
+310 325 340 16× Bolt of Runecloth, 8× Ghost Dye, 8× Mooncloth, 10× Essence of Water, 10× Essence of Fire,
+4× Large Brilliant Shard, 6× Rune Thread, 10× Viridian Dye Pattern: Belt of the Archmage · Drop: Gordok
+Reaver (Dire Maul) 0.02%; Gordok Warlock (Dire Maul) 0.02% Gloves of Spell Mastery 295 310 325 340 10×
+Bolt of Runecloth, 8× Mooncloth, 8× Ghost Dye, 4× Golden Pearl, 4× Huge Emerald, 6× Enchanted Leather,
+2× Rune Thread, 10× Viridian Dye Pattern: Gloves of Spell Mastery · Drop: Tomb Horror (Naxxramas) 0.25%;
+Blackhand Assassin (Blackrock Spire) 0.02% +5 more Robe of the Archmage 295 310 325 340 12× Bolt of Runecloth,
+8× Essence of Fire, 8× Essence of Air, 8× Essence of Earth, 8× Essence of Water, 2× Rune Thread, 10×
+Viridian Dye Pattern: Robe of the Archmage · Drop: Firebrand Pyromancer (Blackrock Spire) 17.98% Robe
+of the Void 295 310 325 340 12× Bolt of Runecloth, 20× Demonic Rune, 40× Felcloth, 8× Essence of Fire,
+8× Essence of Undeath, 2× Rune Thread, 10× Viridian Dye Pattern: Robe of the Void · Drop: Darkmaster
+Gandling (Scholomance) Truefaith Vestments 295 310 325 340 12× Bolt of Runecloth, 8× Mooncloth, 2× Righteous
+Orb, 2× Golden Pearl, 8× Ghost Dye, 2× Rune Thread, 10× Viridian Dye Pattern: Truefaith Vestments · Drops
+in Stratholme Loom New 300 300 300 300 1× Bottled Screams, 4× Bolt of Runecloth, 4× Simple Wood Blueprint:
+Loom · source not listed yet Cloak of Earth and Sky New 300 310 317 325 1× Malleable Essence of Nature,
+1× Mooncloth, 5× Bolt of Runecloth Pattern: Cloak of Earth and Sky · source not listed yet Fel Cape New
+300 310 317 325 1× Malleable Essence of Nature, 1× Mooncloth, 5× Bolt of Runecloth Pattern: Fel Cape
+· source not listed yet Felblood Soul Bag New 300 310 317 325 8× Felcloth, 6× Bolt of Runecloth Pattern:
+Felblood Soul Bag · source not listed yet Mana-infused Cord New 300 310 317 325 2× Malleable Essence
+of Nature, 2× Mooncloth, 7× Bolt of Runecloth Pattern: Mana-infused Cord · source not listed yet Rime-encrusted
+Boots New 300 310 317 325 2× Malleable Essence of Nature, 2× Mooncloth, 7× Bolt of Runecloth Pattern:
+Rime-encrusted Boots · source not listed yet Robes of Fiery Devastation New 300 310 317 325 3× Malleable
+Essence of Nature, 3× Mooncloth, 9× Bolt of Runecloth Pattern: Robes of Fiery Devastation · source not
+listed yet Boots of Conviction New 300 320 325 330 3× Malleable Essence of Nature, 2× Mooncloth, 16×
+Bolt of Runecloth, 8× Rune Thread Pattern: Boots of Conviction · Vendor: Aisarra Nightmeadow (Mount Hyjal)
+Demonheart Boots New 300 320 325 330 3× Malleable Essence of Nature, 2× Mooncloth, 16× Bolt of Runecloth,
+8× Rune Thread Pattern: Demonheart Boots · Vendor: Aisarra Nightmeadow (Mount Hyjal) Demonheart Gloves
+New 300 320 325 330 3× Malleable Essence of Nature, 2× Mooncloth, 16× Bolt of Runecloth, 8× Rune Thread
+Pattern: Demonheart Gloves · Vendor: Aisarra Nightmeadow (Mount Hyjal) Demonheart Leggings New 300 320
+325 330 5× Malleable Essence of Nature, 3× Mooncloth, 22× Bolt of Runecloth, 8× Rune Thread Pattern:
+Demonheart Leggings · Vendor: Aisarra Nightmeadow (Mount Hyjal) Demonheart Spaulders New 300 320 325
+330 3× Malleable Essence of Nature, 2× Mooncloth, 16× Bolt of Runecloth, 8× Rune Thread Pattern: Demonheart
+Spaulders · Vendor: Aisarra Nightmeadow (Mount Hyjal) Gloves of Conviction New 300 320 325 330 3× Malleable
+Essence of Nature, 2× Mooncloth, 16× Bolt of Runecloth, 8× Rune Thread Pattern: Gloves of Conviction
+· Vendor: Aisarra Nightmeadow (Mount Hyjal) Handguards of Conviction New 300 320 325 330 3× Malleable
+Essence of Nature, 2× Mooncloth, 16× Bolt of Runecloth, 8× Rune Thread Pattern: Handguards of Conviction
+· Vendor: Aisarra Nightmeadow (Mount Hyjal) Leggings of Conviction New 300 320 325 330 5× Malleable Essence
+of Nature, 3× Mooncloth, 22× Bolt of Runecloth, 8× Rune Thread Pattern: Leggings of Conviction · Vendor:
+Aisarra Nightmeadow (Mount Hyjal) Manaflare Boots New 300 320 325 330 3× Malleable Essence of Nature,
+2× Mooncloth, 16× Bolt of Runecloth, 8× Rune Thread Pattern: Manaflare Boots · Vendor: Aisarra Nightmeadow
+(Mount Hyjal) Manaflare Gloves New 300 320 325 330 3× Malleable Essence of Nature, 2× Mooncloth, 16×
+Bolt of Runecloth, 8× Rune Thread Pattern: Manaflare Gloves · Vendor: Aisarra Nightmeadow (Mount Hyjal)
+Manaflare Mantle New 300 320 325 330 3× Malleable Essence of Nature, 2× Mooncloth, 16× Bolt of Runecloth,
+8× Rune Thread Pattern: Manaflare Mantle · Vendor: Aisarra Nightmeadow (Mount Hyjal) Manaflare Pants
+New 300 320 325 330 5× Malleable Essence of Nature, 3× Mooncloth, 22× Bolt of Runecloth, 8× Rune Thread
+Pattern: Manaflare Pants · Vendor: Aisarra Nightmeadow (Mount Hyjal) Mantle of Conviction New 300 320
+325 330 3× Malleable Essence of Nature, 2× Mooncloth, 16× Bolt of Runecloth, 8× Rune Thread Pattern:
+Mantle of Conviction · Vendor: Aisarra Nightmeadow (Mount Hyjal) Pants of Conviction New 300 320 325
+330 5× Malleable Essence of Nature, 3× Mooncloth, 22× Bolt of Runecloth, 8× Rune Thread Pattern: Pants
+of Conviction · Vendor: Aisarra Nightmeadow (Mount Hyjal) Pauldrons of Conviction New 300 320 325 330
+3× Malleable Essence of Nature, 2× Mooncloth, 16× Bolt of Runecloth, 8× Rune Thread Pattern: Pauldrons
+of Conviction · Vendor: Aisarra Nightmeadow (Mount Hyjal) Treads of Conviction New 300 320 325 330 3×
+Malleable Essence of Nature, 2× Mooncloth, 16× Bolt of Runecloth, 8× Rune Thread Pattern: Treads of Conviction
+· Vendor: Aisarra Nightmeadow (Mount Hyjal) Bloodvine Boots 300 315 330 345 3× Mooncloth, 3× Bloodvine,
+4× Enchanted Leather, 4× Bolt of Runecloth, 4× Ironweb Spider Silk Pattern: Bloodvine Boots · Vendor:
+Rin&#x27;wosho the Trader (Stranglethorn Vale) 5 5 gold Bloodvine Leggings 300 315 330 345 4× Mooncloth,
+4× Bloodvine, 4× Powerful Mojo, 4× Bolt of Runecloth, 2× Ironweb Spider Silk Pattern: Bloodvine Leggings
+· Vendor: Rin&#x27;wosho the Trader (Stranglethorn Vale) 5 5 gold Bloodvine Vest 300 315 330 345 3× Mooncloth,
+5× Bloodvine, 4× Powerful Mojo, 4× Bolt of Runecloth, 2× Ironweb Spider Silk Pattern: Bloodvine Vest
+· Vendor: Rin&#x27;wosho the Trader (Stranglethorn Vale) 5 5 gold Bottomless Bag 300 315 330 345 8× Bolt
+of Runecloth, 12× Mooncloth, 2× Large Brilliant Shard, 5× Pristine Scale, 5× Pristine Hide, 8× Viridian
+Dye, 2× Rune Thread Pattern: Bottomless Bag · Drop: Dreamroarer (Feralas) 0.1%; Hive&#x27;Regal Hive
+Lord (Silithus) 0.02% Bottomless Reagent Bag New 300 315 330 345 8× Bolt of Runecloth, 12× Mooncloth,
+2× Large Brilliant Shard, 5× Pristine Leather, 2× Rune Thread, 5× Pristine Hide, 5× Pristine Scale Pattern:
+Bottomless Reagent Bag · source not listed yet Core Felcloth Bag 300 315 330 345 20× Felcloth, 16× Core
+Leather, 8× Bloodvine, 4× Essence of Fire, 4× Ironweb Spider Silk Pattern: Core Felcloth Bag · Drops
+in Molten Core Flarecore Gloves 300 315 330 345 8× Bolt of Runecloth, 6× Fiery Core, 4× Essence of Fire,
+2× Enchanted Leather, 2× Rune Thread Pattern: Flarecore Gloves · Vendor: Lokhtos Darkbargainer (Blackrock
+Depths) 8 8 gold Flarecore Leggings 300 315 330 345 8× Mooncloth, 5× Fiery Core, 3× Lava Core, 10× Essence
+of Fire, 4× Ironweb Spider Silk Pattern: Flarecore Leggings · Vendor: Lokhtos Darkbargainer (Blackrock
+Depths) 9 9 gold Flarecore Mantle 300 315 330 345 12× Bolt of Runecloth, 4× Fiery Core, 4× Lava Core,
+6× Enchanted Leather, 2× Rune Thread Pattern: Flarecore Mantle · Vendor: Lokhtos Darkbargainer (Blackrock
+Depths) 18 18 gold Flarecore Robe 300 315 330 345 10× Mooncloth, 2× Fiery Core, 3× Lava Core, 6× Essence
+of Fire, 4× Ironweb Spider Silk Pattern: Flarecore Robe · Vendor: Lokhtos Darkbargainer (Blackrock Depths)
+6 6 gold Gaea&#x27;s Embrace 300 315 330 345 1× Bloodvine, 2× Mooncloth, 4× Living Essence, 4× Ironweb
+Spider Silk Pattern: Gaea&#x27;s Embrace · Vendor: Mishta (Silithus) 9 9 gold Sylvan Crown 300 315 330
+345 4× Bolt of Runecloth, 2× Mooncloth, 2× Living Essence, 2× Ironweb Spider Silk Pattern: Sylvan Crown
+· Vendor: Mishta (Silithus) 5 5 gold Sylvan Shoulders 300 315 330 345 2× Bolt of Runecloth, 4× Living
+Essence, 2× Ironweb Spider Silk Pattern: Sylvan Shoulders · Vendor: Mishta (Silithus) 5 5 gold Sylvan
+Vest 300 315 330 345 4× Bolt of Runecloth, 2× Bloodvine, 2× Living Essence, 2× Ironweb Spider Silk Pattern:
+Sylvan Vest · Vendor: Mishta (Silithus) 5 5 gold Glacial Cloak 300 315 330 345 5× Frozen Rune, 4× Bolt
+of Runecloth, 2× Essence of Water, 4× Ironweb Spider Silk Source not listed yet Glacial Gloves 300 315
+330 345 5× Frozen Rune, 4× Bolt of Runecloth, 4× Essence of Water, 4× Ironweb Spider Silk Source not
+listed yet Glacial Vest 300 315 330 345 7× Frozen Rune, 8× Bolt of Runecloth, 6× Essence of Water, 8×
+Ironweb Spider Silk Source not listed yet Glacial Wrists 300 315 330 345 4× Frozen Rune, 2× Bolt of Runecloth,
+2× Essence of Water, 4× Ironweb Spider Silk Source not listed yet Flarecore Wraps 300 320 335 350 6×
+Mooncloth, 8× Fiery Core, 2× Essence of Fire, 6× Enchanted Leather, 4× Rune Thread Pattern: Flarecore
+Wraps · Drops in Molten Core Tailoring trainers Each trainer teaches up to the skill cap shown. Copy
+the /way for a waypoint addon such as TomTom. Up to skill 75 Grondal Moonbreeze · Darkshore · Alliance
+/way 38.2 40.5 Trianna · Darnassus · Alliance /way 63.6 21.3 Uthrar Threx · Ironforge · Alliance /way
+43.7 28.2 Eldrin · Elwynn Forest · Alliance /way 79.3 69.0 Bowen Brisboise · Tirisfal Glades · Horde
+/way 52.6 55.6 Victor Ward · Undercity · Horde /way 70.2 29.7 Vhan · Thunder Bluff · Horde /way 44.0
+44.6 Snang · Orgrimmar · Horde /way 62.9 49.4 Kil&#x27;hala · The Barrens · Both factions /way 52.2 31.7
+Up to skill 150 Jormund Stonebrow · Ironforge · Alliance /way 43.3 28.9 Me&#x27;lynn · Darnassus · Alliance
+/way 63.2 22.3 Sellandus · Stormwind City · Alliance /way 52.3 83.4 Magar · Orgrimmar · Horde /way 63.5
+50.0 Mahani · The Barrens · Horde /way 44.9 59.4 Rhiannon Davis · Undercity · Horde /way 70.1 30.1 Tepa
+· Thunder Bluff · Horde /way 44.4 45.1 Grarnik Goodstitch · Stranglethorn Vale · Both factions /way 28.7
+76.8 Othesia Evengale · Zephras Isle · Both factions /way 64.3 81.1 Taleen Shimmerthread · Zephras Isle
+· Both factions /way 44.9 44.2 Up to skill 225 Georgio Bolero · Stormwind City · Alliance /way 53.3 81.5
+Lawrence Schneider · Stormwind City · Alliance /way 53.5 81.7 Charles Worth · Alterac Mountains · Alliance
+/way 17.7 60.2 Josef Gregorian · Undercity · Horde /way 70.6 30.4 Up to skill 300 Timothy Worthington
+· Dustwallow Marsh · Alliance /way 66.2 51.8 Daryl Stack · Hillsbrad Foothills · Horde /way 63.7 20.8
+What&#x27;s new for Tailoring in WoW Forever Camp Faction Banner · skill 20 32 Spirit to everyone of
+your faction sitting nearby, like Divine Spirit (at level 60, scaling with level) Spinning Wheel · skill
+140 Makes certain Tailoring reagents, and gives the Faction Banner buff Loom · skill 300 Needed for the
+most advanced Tailoring recipes, and gives the Faction Banner buff Tailoring Certification at 300 unlocks
+the title the Tailor . 180 of the 414 Tailoring recipes are new in WoW Forever ; the route marks them
+. Merchant&#x27;s Favor patterns From the quartermaster (Mivin Shadowweave for Alliance, Jim&#x27;bek
+for Horde) . Shining Boots skill 60 · 30 favor Shadow Boots skill 60 · 30 favor Pristine Boots skill
+60 · 30 favor Pearly Boots skill 60 · 30 favor Flame Boots skill 60 · 30 favor Silky Boots skill 60 ·
+30 favor Shining Gown skill 110 · 30 favor Shadow Gown skill 110 · 30 favor Pristine Gown skill 110 ·
+30 favor Pearly Gown skill 110 · 30 favor Flame Gown skill 110 · 30 favor Silky Gown skill 110 · 30 favor
+and 55 more. More WoW Forever tools Other professions: Leatherworking , Blacksmithing , Alchemy , Enchanting
+, Engineering , Mining , Herbalism , Skinning , Cooking , First Aid , Fishing . Crafted gear for your
+class is in the WoW Forever leveling gear and the dungeon loot tables . Today&#x27;s gold rate is on
+the WoW Forever gold price tracker , every service price on WoW Forever prices , and the account risk
+on account safety . Recipe skill levels, recipe sources, trainer locations, camp and Merchant&#x27;s
+Favor data: wow.gg (CC BY 4.0), with every trainer recipe and its reagents checked against Blizzard&#x27;s
+WoW Forever game data. Training fees and the patterns behind new recipes: Wowhead&#x27;s WoW Forever
+database. Vendor prices: Blizzard Game Data API. Auction prices: Blizzard Game Data API, refreshed hourly;
+today&#x27;s medians are on WoW Forever auction house prices . Which Tailoring items are worth wearing?
+Best Tailoring crafted gear by level , with the specs each piece suits. Questions players ask How much
+gold does it cost to level Tailoring 1–300 in WoW Forever? At least 274g on the US Alliance auction house
+(November 23, 2026), following the cheapest route above: 261g in reagents plus 13g 25s in recipe training,
+patterns and profession ranks; Demonic Rune not on the auction house yet, so that part is not counted.
+Switch region and faction in the calculator for your market, or limit it to trainer recipes only, which
+stops at 255 for about 243g. If you would rather skip it, a Tailoring mats kit for 1–300 costs $465.33
+(US) and done-for-you Tailoring leveling 1–300 costs $227.82 (US). How many crafts does Tailoring 1–300
+take? 455 crafts on the default route, counting the expected misses once a recipe turns yellow or green.
+Type your current skill in the calculator to see what is left. What is the fastest way to level Tailoring
+in WoW Forever? Craft the cheapest orange recipe until it turns yellow, then switch: the route above
+does that for every skill point, using trainer recipes plus the patterns your faction can buy or earn.
+It starts with Bolt of Linen Cloth, Brown Linen Shirt and Simple Linen Pants. What is new for Tailoring
+in WoW Forever? Compared with Classic, WoW Forever Tailoring adds 180 recipes that are new in WoW Forever,
+camp objects (Faction Banner at 20, Spinning Wheel at 140 and Loom at 300), 67 patterns bought with Merchant&#x27;s
+Favor from the profession quartermaster and Tailoring Certification at 300, which unlocks the title “the
+Tailor”. Classic Tailoring guides miss these, and some Classic recipes now use different reagents. Where
+are the Tailoring trainers in WoW Forever? Every Tailoring trainer is listed above with zone and /way
+coordinates. For skill above 200 (Artisan) go to Timothy Worthington in Dustwallow Marsh and Daryl Stack
+in Hillsbrad Foothills. Can buying WoW Forever gold or Tailoring leveling get my account banned? Blizzard&#x27;s
+Terms of Use forbid buying gold or paying someone to play your account, and Blizzard can act against
+accounts that do. It can, and no seller can rule that out. Gold comes by Auction House with no account
+access, or by manual farm where a player logs in to your character; done-for-you leveling means a Timesaver
+player logs into your account. Read what the risk is and how we handle it at timesaver.gg/account-safety#wow-forever.
+Where can I buy WoW Forever gold? Timesaver.gg sells WoW Forever gold for US and EU at timesaver.gg/products/wow-forever-gold.
+Pick any amount up to 900 gold, then choose Auction House or manual farm delivery. How is WoW Forever
+gold delivered? You choose at checkout. Auction House: you list any item on the Auction House for the
+gold amount and our player buys it, with no account access, in about 2 hours. Manual farm: a player logs
+in to your character and farms the gold, piloted or over remote desktop, in 1–3 days. How much does WoW
+Forever gold cost? Prices are per 100 gold and change with the market; the current price for your region
+is shown on the WoW Forever gold page before you pay. What Tailoring cooldowns are there in WoW Forever?
+Mooncloth every 4 days. The cooldown table above prices each one at live auction house medians.

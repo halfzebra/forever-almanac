@@ -1,0 +1,99 @@
+Table of Contents Skinning Changes in WoW Forever Skinning Camp Objects in WoW Forever Scarce Materials
+from Skinning in WoW Forever WoW Forever Skinning Leveling 1-300 WoW Forever Skinning Trainers Skinning
+Changes in WoW Forever Skinning receives the following changes in WoW Forever: Scarce Materials: You
+can find new Scarce materials while skinning. Waylaid Crates: Leather and hides obtained through Skinning
+can be used to fill new Waylaid Crates and turn them in for Merchant&#039;s Favor . See our WoW Forever
+Waylaid Crates guide for more information on how Waylaid Crates work and our Merchant&#8217;s Favor guide
+for WoW Forever for a list of all rewards you can purchase with the currency. Bountiful Harvest: The
+new Legacy perk Bountiful Harvest increases the amount of Scarce materials you find with Herbalism, Mining,
+and Skinning. See our guide to the Legacy System in WoW Forever for more details. Skinning Satchel: Trade
+Supplies vendors such as Edna Mullby in Stormwind City and Felika in Orgrimmar sell the new 4-slot Apprentice&#039;s
+Skinning Satchel for leatherworking materials such as leather and hides. Our WoW Forever Bags guide lists
+all profession bags. Pelt Collecting for Beginners: New starter-zone quests can offer Pelt Collecting
+for Beginners as a reward. Using it teaches Skinning if you do not already know two other professions
+and increases your Skinning skill by 2, up to a maximum of 15. Campsite Recipes: Tier 1: Camp Chair Tier
+2: Field Guide Tier 3: Trapper&#039;s Workbench See our guide to the Camping System in WoW Forever for
+more details. Skinning Camp Objects in WoW Forever With Skinning you can craft three profession-specific
+Camp Objects in WoW Forever. Each tier adds a new function while retaining the Critical Strike buff provided
+by the Tier 1 Camp Chair: Tier 1 – Camp Chair : Requires Skinning 20. The Camp Chair increases your Critical
+Strike chance with all spells and attacks by 2% for you and other players sitting nearby. The buff is
+exclusive with Moonkin Aura. Tier 2 – Field Guide : Requires Skinning 140. The Field Guide allows players
+to gain Track Beasts and also provides the benefits of the Camp Chair. Tier 3 – Trapper&#039;s Workbench
+: Requires Skinning 300. The Trapper&#8217;s Workbench contains a trap and also provides the benefits
+of the Camp Chair. The Camp Chair is learned from Skinning trainers, while the Field Guide and Trapper&#8217;s
+Workbench are learned from their respective blueprints. All three objects require a Campfire nearby and
+share the one-hour Camping cooldown. See our guide to the Camping System in WoW Forever for more information
+on Camp Objects and how the system works. Scarce Materials from Skinning in WoW Forever You can find
+new Scarce materials as additional drops while skinning creatures in WoW Forever. Current Beta data includes
+three Skinning-specific Scarce materials: Pristine Leather Pristine Hide Pristine Scale These materials
+are used as reagents in Leatherworking, Blacksmithing, Tailoring, and Engineering recipes. You can find
+all recipes and their sources here: WoW Forever Leatherworking Recipes WoW Forever Blacksmithing Recipes
+WoW Forever Tailoring Recipes WoW Forever Engineering Recipes The Legacy perk Bountiful Harvest helps
+you find additional Scarce resources while gathering with Herbalism, Mining, and Skinning. See our guide
+to the Legacy System in WoW Forever for more details. WoW Forever Skinning Leveling 1-300 To level Skinning
+in WoW Forever, you&#8217;ll need to collect skill points. You&#8217;ll receive skill points by skinning
+dead animals. The frequency with which you receive a skill point depends on your current skill level.
+In general, you can simply level Skinning passively while leveling your character by skinning every possible
+mob. When leveling Skinning, you can find the highest possible level mobs that you can skin with your
+current skill using this rule of thumb: Up to skill level 100: (Skinning Skill/10)+10 &#8211; For example,
+if you are at skill level 40, you can look for mobs up to level 14. From skill level 100: Skinning skill/5
+&#8211; For example, if you are at skill level 150, you can look out for mobs up to level 30. Also, note
+that the time it takes to skin a carcass increases depending on your skill level. While the process only
+takes 2 seconds as an apprentice, it takes 3 seconds as an artisan (even if you are skinning the same
+animal). Are you lagging in skill level or do you want to power level Skinning later? Immediately afterwards
+you will find tips for areas where you can find suitable mobs for your skill level. Note: To be able
+to skin animals, you need a Skinning Knife in your inventory (does not have to be equipped). You can
+purchase Skinning Knife from many Trade Supplies vendors. Leveling Skinning from 1-75 (Apprentice) in
+WoW Forever To level Skinning from 1-75 in WoW Forever, follow these steps: 1-50 : Elwynn Forest , Durotar
+, or Zephras Isle Elwynn Forest : Kill wolves and boars around Goldshire. Durotar : Kill boars, scorpions,
+and raptors found almost throughout the area. For example, you can start in the south at Sen&#8217;jin
+Village, then head towards Orgrimmar and skin everything you can get your hands on. Zephras Isle : Skin
+the many beasts you encounter while progressing through the Skyborne starting zone. 50-75 : Westfall
+&amp; The Barrens Westfall : Kill and skin boars and coyotes around Sentinel Hill. The Barrens : Stay
+in the area around The Crossroads. Here you&#8217;ll find tons of raptors, lions, and plains striders
+to skin. Learn Journeyman Skinning from a Skinning trainer. It costs 5 . This allows you to level Skinning
+up to 150. Leveling Skinning from 75-150 (Journeyman) in WoW Forever To level Skinning from 75-150 in
+WoW Forever, follow these steps: 75-105 : Loch Modan &amp; The Barrens Loch Modan : Skin bears, boars,
+and crocolisks east and west of The Loch. The Barrens : Continue to stay in The Barrens as there is plenty
+of wildlife there for you to skin. Head towards Ratchet to encounter higher-level mobs. 105-150: Hillsbrad
+Foothills 105-125: Skin the lions and bears you find throughout the area. Some of them might still be
+too high for your level. 125-150: Continue to stay in Hillsbrad Foothills and skin. Now you should be
+able to skin almost any wild animal you come across. Learn Expert Skinning from a Skinning trainer. It
+costs 50 . This allows you to level Skinning up to 225. Leveling Skinning from 150-225 (Expert) in WoW
+Forever To level Skinning from 150-225 in WoW Forever, follow these steps: 150-200: Alterac Mountains
+150-175: Skin the yetis until you reach 175. 175-200: Continue to stick to the yetis and also take out
+the mountain lions that come your way. 200-225: Alterac Mountains &amp; The Hinterlands Stay in Alterac
+Mountains until you reach Skinning 210. Then go to The Hinterlands . Start in the west and traverse the
+area towards the east as the wildlife level increases. Learn Artisan Skinning from a Skinning trainer.
+It costs 5 . This allows you to level Skinning up to 300. Leveling Skinning from 225-300 (Artisan) in
+WoW Forever To level Skinning from 225-300 in WoW Forever, follow these steps: 225-250: The Hinterlands
+: Continue to stay in The Hinterlands until you reach 250. 250-300: Un&#039;Goro Crater 250-275: Go to
+Un&#039;Goro Crater . Stick to the eastern and western borders first and kill Pterrordaxes there. 275-300:
+Now you can skin almost anything in Un&#039;Goro Crater . Do this until you reach 300. You have now reached
+the maximum Skinning level in WoW Forever. How to Increase the Skinning Skill Above 300 The maximum base
+Skinning skill in WoW Forever is 300. However, some high-level creatures require more than 300 Skinning
+to skin. You can increase your Skinning skill above 300 with the following glove enchants: Enchant Skill
+Bonus Source Enchant Gloves - Skinning Skinning +5 Formula: Enchant Gloves - Skinning Enchant Gloves
+- Advanced Skinning Skinning +10 Formula: Enchant Gloves - Advanced Skinning Enchant Gloves - Advanced
+Skinning is new in WoW Forever and provides a larger Skinning skill bonus than the original Enchant Gloves
+- Skinning . WoW Forever Skinning Trainers You can learn Skinning from Skinning trainers found in capitals
+and various other locations throughout Azeroth. New Junior Skinning Trainers in the original starting
+areas only teach Apprentice Skinning, while the other trainers listed below can teach Apprentice, Journeyman,
+Expert, and Artisan Skinning once you meet the required skill and character levels. You do not necessarily
+have to visit a Skinning trainer to learn Skinning in WoW Forever. Some starter-zone quests can reward
+Pelt Collecting for Beginners , which teaches Skinning if you do not already know two other professions
+and increases your Skinning skill by 2, up to a maximum skill of 15. Horde Skinning Trainers Apprentice
+only: Kagil in the Valley of Trials in Durotar (41.0 68.0) Nawka Wildsong in Camp Narache in Mulgore
+(44.0 77.0) Margaret Weaver in Death Knell in Tirisfal Glades (33.0 66.0) Apprentice, Journeyman, Expert,
+and Artisan: Thuwd in the Drag in Orgrimmar (63.2 45.2) Killian Hagey in the Rogues&#8217; Quarter in
+Undercity (70.2 59.2) Mooranta in Thunder Bluff (44.4 43.2) Yonn Deepcut in Bloodhoof Village in Mulgore
+(45.0 61.4) Rand Rhobart on the road to Undercity in Tirisfal Glades (65.6 60.0) Dranh in Camp Taurajo
+in The Barrens (45.0 59.0) Malux in Shadowprey Village in Desolace (23.2 69.8) Neutral Skinning Trainers
+Mendalass Tattermend in Shen&#8217;dar Village on Zephras Isle (43.2 43.6) Ishlee Breezewhisper in Valanaar
+on Zephras Isle (59.6 76.0) Alliance Skinning Trainers Apprentice only: Riley Peltskinner in Northshire
+in Elwynn Forest (47.0 40.0) Brighid Stormflayer in Coldridge Valley in Dun Morogh (29.0 68.0) Terunne
+Bearshaper in Shadowglen in Teldrassil (59.0 39.0) Apprentice, Journeyman, Expert, and Artisan: Maris
+Granger in Old Town in Stormwind (67.8 49.0) Balthus Stoneflayer in the Great Forge in Ironforge (39.9
+32.5) Eladriel on the Craftsmen&#8217;s Terrace in Darnassus (64.2 21.8) Helene Peltskinner in Goldshire
+in Elwynn Forest (46.2 62.2) Radnaal Maneweaver on the road to Darnassus in Teldrassil (42.0 50.0) Wilma
+Ranthal in Redridge Mountains (88.8 71.0) Jayla in Silverwind Refuge in Ashenvale (50.0 67.2)

@@ -1,0 +1,68 @@
+name: watch sources
+
+on:
+  schedule:
+    # 06:20 UTC daily. Off the hour on purpose - every cron on the hour queues.
+    - cron: '20 6 * * *'
+  workflow_dispatch:
+    inputs:
+      probe_only:
+        description: 'Only report status codes, change nothing'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: watch-sources
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+
+      # Does a datacenter IP get the same answers a browser does? This is the
+      # only question the probe exists to answer. Run it from the Actions tab
+      # before trusting a red run.
+      - name: probe only
+        if: inputs.probe_only
+        run: node watch.js --probe | tee -a "$GITHUB_STEP_SUMMARY"
+
+      - name: check the watched sources
+        if: ${{ !inputs.probe_only }}
+        id: watch
+        run: |
+          set +e
+          node watch.js | tee /tmp/report.md
+          # $? after a pipeline is tee's status, not node's. The exit code is
+          # the whole signal here, so take it from PIPESTATUS.
+          code=${PIPESTATUS[0]}
+          set -e
+          echo "changed=$([ "$code" = "10" ] && echo yes || echo no)" >> "$GITHUB_OUTPUT"
+          if [ "$code" != "0" ] && [ "$code" != "10" ]; then exit "$code"; fi
+          cat /tmp/report.md >> "$GITHUB_STEP_SUMMARY"
+
+      - name: open a pull request
+        if: ${{ !inputs.probe_only && steps.watch.outputs.changed == 'yes' }}
+        uses: peter-evans/create-pull-request@v7
+        with:
+          branch: sources/changed
+          base: main
+          title: 'sources: something moved'
+          body-path: sources/REPORT.md
+          commit-message: 'sources: refresh hashes and snapshots'
+          # Only the watcher's own bookkeeping. If this PR ever shows a diff
+          # under content/ or data/, something is wrong with the job.
+          add-paths: |
+            sources/hashes.json
+            sources/snapshots/**
+            sources/REPORT.md
+          delete-branch: true
+          labels: sources

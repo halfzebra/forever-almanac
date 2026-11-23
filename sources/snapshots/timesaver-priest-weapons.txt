@@ -1,0 +1,184 @@
+Sam Okonkwo Senior Games Writer at Timesaver Published on November 19, 2026 • Updated November 20, 2026
+Quick answer: A WoW Forever Priest levels with a spell damage main hand and off-hand plus a wand , and
+finishing mobs with the wand is a core part of how a Priest levels. Shadow picks from our planner give
++21 spell damage at 15, +48 at 30, +70 at 45 and +104 at 60 . The best wand at each stage: Gravestone
+Scepter (29.00 DPS) at 25, White Obsidian Wand (41.47) at 40, Woestave (51.32) at 50 and Lethtendris&#39;s
+Wand (56.76) at 55. The cheapest upgrade in the game is a Lesser Magic Wand at level 5. It nearly triples
+the DPS of the first quest wand and was listed for about 2 silver in the latest Auction House scans as
+of November 19. Wands no longer scale with your spell damage. Blizzard&#39;s beta notes say so directly,
+so pick a wand for its DPS alone. Wand Specialization now costs 2 talent points for +25% wand damage.
+The Maxroll Discipline leveling build (levels 10 to 39) in our talent calculator spends its first two
+points there. Two of the planner&#39;s late picks are very rare drops: Blade of Eternal Darkness (0.20%)
+and Book of the Dead (0.75%). Plan around them, not for them. This is the Priest entry in our class weapon
+series, after Mage , Hunter , Rogue , Warrior , Paladin , Feral Druid and Enhancement Shaman . Below:
+what changed for Priest weapons in Forever, the Shadow picks for each level, the best wand at each level,
+what to buy, what Holy and Discipline use instead, and the level 60 picks for the December 9 raids. All
+WoW Forever prices · How delivery works in WoW Forever WoW Forever Power Leveling WoW Forever Gold WoW
+Forever PvP Rank &amp; Honor WoW Forever Raids, Dungeons &amp; Pre-Raid Gear WoW Forever Professions
+WoW Forever Reputation, Riding &amp; Class Quests WoW Forever account safety Is WoW Forever boosting
+safe? Self-play vs piloted WoW Forever prices today Gold : from $5.72 (10 gold), within 2 hours; $0.57
+per gold, Auction House: no account access, US, EU Level 60 Boost Bundle : from $597.55 (Starter: 60
++ mount + Onyxia), within 16 days, Piloted, US, EU Power Leveling : from $473.41 (1–60), within 12 days;
+from $48.12 per level, Piloted / Self-play Remote, US, EU all WoW Forever prices · gold price today (daily
+tracker) WoW Forever - Gold Get Gold 4.9 · 2k+ orders See all options Starting from $5.72 (10 gold) Buy
+now What changed for Priest weapons in WoW Forever? Four changes matter. They come from Blizzard&#39;s
+Priest and Warrior class deep dive , the WoW Forever development notes thread and the November 17 hotfixes
+. Wands lost their spell damage scaling. Blizzard&#39;s beta development notes list this under Items:
+&quot;Wands: Wands no longer gain any additional damage from the user&#39;s spell damage.&quot; (Blizzard,
+WoW Forever Beta development notes) So a wand only does its own damage. The spell damage line printed
+on some wands, such as +6 Shadow spell damage on Gravestone Scepter, still adds to your spells, but it
+is small. Choose a wand for DPS and get your spell damage from the main hand and off-hand. Wands are
+slower to start. The October 15 update notes say wands &quot;now require you to stand still for 0.5 seconds
+before shooting, matching early versions of World of Warcraft.&quot; Stop moving before you start wanding
+a mob that is already low. Wand Specialization is cheap. Blizzard&#39;s Priest deep dive says the Discipline
+talent &quot;now only requires two talent points for the same benefit.&quot; The launch tree in our Priest
+talent calculator shows 13% more wand damage at rank 1 and 25% at rank 2 . In our calculator, Maxroll&#39;s
+Priest path levels as Discipline from 10 to 39 with Wand Specialization as the first two points, then
+respecs to Shadow at 40 and buys it again at 41 and 42. The Icy Veins Holy leveling build also takes
+it first. A Priest uses the wand on almost every mob, so take it early whichever tree you start in. Shadow-only
+damage matters more now. Shadowform in the launch tree increases your Shadow damage by 10%, cuts the
+Mana cost of Shadow spells by 50% and doubles the critical strike damage bonus of Shadow spells. Shadow
+Word: Death is baseline at level 32 and Devouring Plague is available to every Priest at 20. Most of
+your leveling damage is Shadow, so items that say &quot;Shadow spells and effects&quot; are nearly as
+good as general spell damage for a Shadow Priest. They do nothing for Smite or Holy Fire, though. Blizzard
+also warned about using low ranks. The October 1 notes say spells cast at ranks &quot;vastly below your
+current level receive less benefit from your Spell Damage and Spell Healing.&quot; Spell damage gear
+is worth the most when you keep your spell ranks trained. One Shadow change this week does not affect
+leveling. The November 17 hotfix lowered Vampiric Embrace healing to 10% of the Shadow damage the Priest
+deals (was 20%), and doubled the healing the casting Priest gets from it. Blizzard&#39;s note: &quot;This
+change results in no difference for Priest solo play.&quot; What is the best Priest weapon at each level?
+The picks below come from our Shadow Priest leveling gear planner . It ranks spell damage first, following
+the Wowhead and Icy Veins stat priority guides for Forever. Every item below was re-checked on November
+19 against Wowhead&#39;s WoW Forever item tooltips, and all 48 weapons across the three Priest planners
+still matched. Drop rates are Wowhead&#39;s crowd-sourced figures, rounded, and move a little as more
+data comes in. Level Main hand Off-hand Spell damage Where it comes from 5 Apprentice&#39;s Spellstaff
+(Alliance) none +4 Quest: Rare Books, Elwynn Forest 10 Thornroot Club (Alliance) / Makeshift Stormcaller
+(Horde) none +6 / +4 Quests: Ursal the Mauler, Teldrassil / Stormy Potential, Durotar 15 Fang of Magmatus
++ Dwarven Tome (Alliance) / Staff of Orgrimmar (Horde) Dwarven Tome +21 / +18 The Hall of Thanes (Magmatus
+~36%, plus a quest) / quest Hidden Enemies 20 Emberstone Staff (Alliance) / Crescent Staff (Horde) none
++24 / +26 Captain Greenskin, The Deadmines, ~31% / quest Leaders of the Fang, Wailing Caverns 25 Rod
+of the Sleepwalker none +32 Twilight Lord Kelris, Blackfathom Deeps, ~16% 30 Swinetusk Shank Raptor&#39;s
+Gaze +48 Agathelos, Razorfen Kraul, ~36% / Shadetooth, Excavation Site: Wetlands, ~29% 35 Hypnotic Blade
+Orb of the Forgotten Seer +58 Arcanist Doan ~31% / Bloodmage Thalnos ~31%, Scarlet Monastery 40 Soulsplatter
+Mace Mordresh&#39;s Lifeless Skull +64 Quest: Khan Jehn, Desolace / Mordresh Fire Eye, Razorfen Downs,
+~33% 45 Galgann&#39;s Firehammer Mordresh&#39;s Lifeless Skull +70 Galgann Firehammer, Uldaman, ~23%
+50 Blade of Eternal Darkness Mordresh&#39;s Lifeless Skull +78 Princess Theradras, Maraudon, 0.20% 55
+Energetic Rod Spirit of Aquementas +89 Alzzin the Wildshaper, Dire Maul, ~18% / quest It&#39;s Dangerous
+to Go Alone, Un&#39;Goro Crater 60 Blade of the New Moon Book of the Dead +104 Shadow Immol&#39;thar,
+Dire Maul, ~16% / Grand Crusader Dathrohan, Stratholme, 0.75% Three things to notice: The switch from
+staff to dagger plus off-hand happens at 30. Up to 29, a two-hand staff wins. From 30, Swinetusk Shank
+and Raptor&#39;s Gaze together give +48, more than any staff you can get at that level without the Auction
+House. Mordresh&#39;s Lifeless Skull lasts a long time. It gives +16 Shadow spell damage and +5 Spirit
+(requires level 36), and the planner keeps it from 40 until Spirit of Aquementas at 55. One Razorfen
+Downs run with a ~33% drop covers your off-hand for half the game. Don&#39;t farm the 0.20% dagger. Blade
+of Eternal Darkness is the planner&#39;s best-in-slot at 50, but Wowhead lists a 0.20% drop chance. If
+it doesn&#39;t drop, keep Galgann&#39;s Firehammer (+54, with a Fire damage proc) until Energetic Rod.
+You lose only 8 spell damage. At 60, Book of the Dead has a 0.75% drop chance. If you don&#39;t get it,
+keep Spirit of Aquementas. It actually gives more spell damage (+21 against +16 Shadow), but no Stamina,
+Intellect or Spirit. If you plan to run these dungeons, our dungeon loot tables list every boss drop
+in all 17 Forever dungeons. What is the best Priest wand at each level? The chart above compares the
+planner wand at each level with the cheap enchanter wands sold on the Auction House. Level Wand DPS Source
+4 Dowsing Rod (Alliance) 4.17 Quest: A Magical Affront, Zephras Isle 5 Lesser Magic Wand 11.33 Enchanting,
+Bind on Equip 9 Deepblaze (Alliance) / Cinder Wand (Horde) 18.53 / 11.79 Quests: Old Ironforge Incursion
+/ Arugal&#39;s Folly 15 Sizzle Stick (Horde) 17.65 Quest: Deviate Eradication, Wailing Caverns 17 Cookie&#39;s
+Stirring Rod (Alliance) 22.31 Cookie, The Deadmines, ~29% 18 Gravestone Scepter 29.00 Quest: Blackfathom
+Villainy, Blackfathom Deeps 27 Wand of Mana Concentration 31.18 Arcanic Enigma, Alterac Mountains, ~31%
+39 White Obsidian Wand 41.47 Obsidian Sentinel, Uldaman, ~27% 43 Peacekeeper Wand 45.53 Ruuzlu, Zul&#39;Farrak,
+~28% 50 Woestave 51.32 Quest: Blood of Morphaz 53 Lethtendris&#39;s Wand 56.76 Lethtendris, Dire Maul,
+~29% 60 Torch of Light 76.76 Enchanting, Bind on Equip Horde Priests can also take Dancing Flame (31.07
+DPS) from the Thousand Needles quest Final Passage. The planner uses it at 35. Buy a Lesser Magic Wand
+at level 5. Alliance planners start with Dowsing Rod at 4.17 DPS because it&#39;s a free quest reward.
+A Lesser Magic Wand does 11.33 DPS, and in the latest scans as of November 19 it was listed at a median
+of under 2 silver in both US and EU markets, with over 1,300 for sale in each region. Greater Magic Wand
+(level 13, 17.50 DPS) was about 2 silver. Lesser Mystic Wand (level 26, 25.38 DPS, +4 Intellect) was
+about 35 silver in the US and 46 silver in the EU. That one covers you if you haven&#39;t done the Blackfathom
+Deeps quest for Gravestone Scepter. Our enchanting wands shuffle explains why these wands are so cheap.
+Which Priest weapons should you buy instead of farm? Prices below are listing prices from the latest
+AH Ledger scans as of November 19, 2026 (a few markets were last scanned November 18). That&#39;s the
+median of each market&#39;s median asking price, from addon scans, not Blizzard data or completed sales.
+Item Requires Why US median EU median Listed (US / EU) Staff of Jordan 35 +60 spell damage, +20 Intellect,
++10 Spirit, 1.5% hit ~86 gold ~84 gold 72 / 63 Glowing Brightwood Staff 49 +150 healing / +50 damage,
++29 Intellect (healers) ~195 gold ~148 gold 25 / 39 Lesser Mystic Wand 26 25.38 DPS, +4 Intellect ~35
+silver ~46 silver 278 / 319 Lesser Magic Wand 5 11.33 DPS under 2 silver under 2 silver 1,311 / 1,495
+Torch of Light 60 76.76 DPS wand none listed none listed 0 / 0 Most Shadow Priests can skip Staff of
+Jordan. It&#39;s the big purchase in our Mage guide, but it does less for a Priest. At 35 it gives +60
+spell damage, only 2 more than Hypnotic Blade plus Orb of the Forgotten Seer (+58). At 40 the free Soulsplatter
+Mace and Mordresh&#39;s Lifeless Skull pass it (+64 Shadow). What you&#39;d really pay about 86 gold
+for is the +20 Intellect, +10 Spirit and 1.5% hit, which means fewer drinking breaks from 35 to 39. Buy
+it only if you have gold to spare. A Lesser Magic Wand at 5 and a Lesser Mystic Wand at 26 are the purchases
+that pay off for every Priest. Nobody had listed Torch of Light yet. You&#39;ll probably have to hire
+an Enchanter and supply the materials. Prices change daily, so check our WoW Forever gold price today
+tracker before you buy. Healers who want Glowing Brightwood Staff at 49 need about 150 to 200 gold. If
+you&#39;re short, WoW Forever gold covers it in one order. Do Holy and Discipline Priests use different
+weapons? Yes, from level 15. The Holy and Discipline planners rank healing first, so they pick weapons
+whose tooltips split into a big healing number and a small damage number: 20: Staff of Westfall (Alliance,
+Deadmines quest, +48 healing / +16 damage) or Living Root (Horde, Verdan the Everliving, Wailing Caverns,
+~31%). 25: Odo&#39;s Ley Staff (Odo the Blindwatcher, Shadowfang Keep, ~30%, +52 / +17). 30 to 39: Death
+Speaker Scepter (Death Speaker Jargba, Razorfen Kraul, ~34%). It gives +68 healing and also +28 Shadow
+damage. 40 to 49: Hand of Righteousness (High Inquisitor Whitemane, Scarlet Monastery, ~32%, +94 / +31)
+with Orb of Lorica (Alliance) or Prophetic Cane (Horde) from the Scarlet Monastery quests. 50 to 60:
+Glowing Brightwood Staff (Bind on Equip, Anvilrage Medic in Blackrock Depths, +150 / +50, +29 Intellect).
+If you&#39;re questing solo, the damage number is what kills mobs. A Holy Priest leveling alone will
+kill faster in the Shadow picks above and switch to the healing weapons for dungeon groups. Dual specialization
+opens at level 40, so you can keep one set of talents for each. Blizzard also made Holy Precision add
+up to 18% chance to hit with Holy spells, &quot;intended to remove the need for hit chance on healing
+Priests.&quot; WoW Forever - Level 60 Boost Bundle Get Level 60 Boost Bundle 4.9 · 2k+ orders See all
+options Starting from $597.55 (Starter: 60 + mount + Onyxia) Buy now What are the best Priest weapons
+at level 60? Our Shadow planner lists Blade of the New Moon with Book of the Dead and Torch of Light
+at 60: +104 Shadow spell damage from the two weapons. Two level 60 options moved this week: Upper Blackrock
+Spire got harder. The November 17 hotfix fixed &quot;an issue causing enemy health and damage to be significantly
+lower than intended.&quot; Bring a full, prepared group for the caster drops there. The Alterac Valley
+staves. Blizzard corrected Whiteout Staff and Crackling Staff &quot;so that they have the same stats:
+25 Stamina, 25 Intellect, 74 Spell Power from Weapon damage.&quot; That&#39;s below the dagger and off-hand
+pair for Shadow, but it&#39;s general spell power, so it also helps Smite and healing. The same hotfix
+made the Battle for Alterac Valley quests require level 58. The first raids open on December 9 : Barrow
+Deeps (10 players), Hyjal Summit (20) and Onyxia&#39;s Lair (40). See our raid prep checklist for the
+rest of your gear. How do you level a Priest faster in WoW Forever? Take Wand Specialization early, even
+as Shadow. Two points for +25% wand damage, and you&#39;ll use the wand on almost every mob. Buy a Lesser
+Magic Wand at 5. It nearly triples your wand DPS for about 2 silver. Pick wands by DPS alone. Spell damage
+no longer adds to wand hits. Upgrade the main hand and off-hand for spell damage. Shadow-only damage
+is fine for Shadow, but it doesn&#39;t help Smite. Keep your spell ranks trained. Training every rank
+from 1 to 60 now costs between 206 and 207 gold for every class, per Blizzard&#39;s November 3 notes.
+Plan your points in the Shadow Priest talent build and read our talents for every class guide. If you&#39;d
+rather skip the grind, our WoW Forever power leveling service levels any range to 60, played by hand.
+Still choosing a race? WoW Forever racial changes covers every Priest race, including the new Gnome Priest.
+For how Forever grew out of the Classic Plus rumors, see our older will WoW Classic Plus be at BlizzCon
+2026 explainer. FAQ What is the best Priest weapon for leveling in WoW Forever? The setup with the most
+spell damage at your level. Our Shadow planner goes Emberstone Staff or Crescent Staff (20), Rod of the
+Sleepwalker (25), Swinetusk Shank with Raptor&#39;s Gaze (30), Hypnotic Blade with Orb of the Forgotten
+Seer (35), Soulsplatter Mace with Mordresh&#39;s Lifeless Skull (40), Galgann&#39;s Firehammer (45) and
+Energetic Rod with Spirit of Aquementas (55). What is the best Priest wand in WoW Forever? It depends
+on your level: Gravestone Scepter (29.00 DPS) from 18, White Obsidian Wand (41.47) from 39, Peacekeeper
+Wand (45.53) from 43, Woestave (51.32) from 50, Lethtendris&#39;s Wand (56.76) from 53 and Torch of Light
+(76.76) at 60. Do wands scale with spell damage in WoW Forever? No. Blizzard&#39;s beta development notes
+say wands &quot;no longer gain any additional damage from the user&#39;s spell damage.&quot; Pick wands
+by DPS. How many points is Wand Specialization for Priests in WoW Forever? Two. Blizzard&#39;s Priest
+deep dive says it &quot;now only requires two talent points for the same benefit&quot;, and the launch
+tree gives 25% more wand damage at rank 2. Is Staff of Jordan worth it for a Priest? Only if you have
+gold to spare. It requires level 35 and gives +60 spell damage, +20 Intellect, +10 Spirit and 1.5% hit.
+In the latest scans as of November 19 it was listed at a median of about 86 gold in US markets and 84
+gold in EU markets. The free Scarlet Monastery pair gives +58, and at 40 the free Soulsplatter Mace and
+Mordresh&#39;s Lifeless Skull give +64 Shadow. Should a Holy Priest level with healing weapons? Not while
+questing alone. Healing staves such as Odo&#39;s Ley Staff give about a third as much damage as healing.
+Use the Shadow damage picks for solo questing and the healing weapons in dungeon groups. Level your Priest
+faster Short on time on the fresh WoW Forever servers? timesaver.gg runs WoW Forever services by hand
+on US and EU realms. WoW Forever Power Leveling to 60 — any range from 1 to 60, played by hand on the
+quest route WoW Forever Dungeon Boost — runs of the dungeons that drop these daggers, off-hands and wands
+WoW Forever Pre-Raid Gear — get raid-ready before December 9 WoW Forever Gold — cover a Glowing Brightwood
+Staff or your spell training Sources: Blizzard Priest and Warrior class deep dive ; Blizzard WoW: Forever
+hotfixes, November 17, 2026 ; Blizzard WoW Forever development notes, t/2360696 (beta notes, Oct 1, Oct
+15 and Nov 3, 2026 posts); Blizzard raid overview ; Wowhead WoW Forever item tooltips and drop data,
+read Nov 19, 2026; timesaver.gg Priest leveling gear planner and talent calculator data; AH Ledger market
+scans (latest scan per US and EU market, Nov 18 to 19, 2026). Last verified: November 19, 2026. Skip
+the grind in WoW Forever 4.9 on Trustpilot · money-back guarantee · 24/7 support Gold from $5.72 (10
+gold) Get Gold Buy now Level 60 Boost Bundle from $597.55 (Starter: 60 + mount + Onyxia) Get Level 60
+Boost Bundle Buy now Power Leveling from $473.41 (1–60) Get Power Leveling Buy now WoW Forever Gold 4.9
+· from $5.72 (10 gold) Buy now You may also like Sam Okonkwo Senior Games Writer WoW Forever Economy
+Hold: Why You Got It, How Long It Lasts and What to Do Quick answer: A Temporary Economy Hold is Blizzard&#x27;s
+anti-gold-buying lock in WoW Forever. Blizzard&#x27;s support article says it lasts up to 72 hours and
+b... November 23, 2026 Sam Okonkwo Senior Games Writer Best Healer in WoW Forever: All 4 Healers Ranked
+(and Why Nobody Heals) Quick answer: For leveling and 5-player dungeons in WoW Forever right now, our
+pick is Restoration Shaman, then Priest, Restoration Druid and Holy Paladin. Sham... November 22, 2026
+Sam Okonkwo Senior Games Writer WoW Forever Instance Limit: 5 Dungeon Resets Per Hour Now (Nov 20 Hotfix)
+Quick answer: Since the November 20, 2026 hotfix, WoW Forever lets you reset and enter each dungeon at
+most 5 times per hour. Before that the limit was 10. If y... November 21, 2026
