@@ -29,6 +29,10 @@ const has = (f) => args.includes("--" + f);
 const PROBE = has("probe");
 const DRY = has("dry-run") || PROBE;
 const UA = "forever-almanac/1.0 (personal change detector; one request per source per day)";
+/* Some sites answer a residential IP and refuse a datacenter one. Those are
+ * marked fetch: "local" and are checked when you run this yourself, not by CI,
+ * rather than failing the job every morning. */
+const IN_CI = !!(process.env.CI || process.env.GITHUB_ACTIONS);
 const PAUSE_MS = 1000;
 
 const read = (p) => JSON.parse(fs.readFileSync(path.join(ROOT, p), "utf8"));
@@ -84,6 +88,7 @@ async function grab(url) {
   const changed = [];
   const failed = [];
   const manual = [];
+  const local = [];
   const probe = [];
   let checked = 0;
 
@@ -92,6 +97,10 @@ async function grab(url) {
     const s = sources[id];
     if (s.watch === "never") {
       manual.push({ id, site: s.site, url: s.url, why: s.watchWhy || "not fetched" });
+      continue;
+    }
+    if (s.fetch === "local" && IN_CI) {
+      local.push({ id, site: s.site, url: s.url, why: s.fetchWhy || "cannot be fetched from CI" });
       continue;
     }
     await sleep(PAUSE_MS);
@@ -135,7 +144,10 @@ async function grab(url) {
     console.log("source                                   status   bytes");
     for (const p of probe) console.log(`${p.id.padEnd(40)} ${String(p.status).padEnd(7)} ${p.bytes}`);
     for (const f of failed) console.log(`${f.id.padEnd(40)} FAILED  ${f.why}`);
-    console.log(`\n${checked} of ${probe.length} fetched cleanly; ${manual.length} never fetched by policy.`);
+    console.log(
+      `\n${checked} of ${probe.length} fetched cleanly; ` +
+        `${local.length} skipped as unreachable from CI; ${manual.length} never fetched by policy.`
+    );
     return;
   }
 
@@ -172,6 +184,12 @@ async function grab(url) {
     lines.push("");
   }
 
+  if (local.length) {
+    lines.push("### Not reachable from CI, run `node watch.js` locally to cover these");
+    lines.push("");
+    for (const m of local) lines.push(`- [${m.site}](${m.url}) - ${m.why}`);
+    lines.push("");
+  }
   if (manual.length) {
     lines.push("### Not fetched, check by hand");
     lines.push("");

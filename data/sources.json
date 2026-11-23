@@ -10,13 +10,17 @@
     "site": "Zockify, Tailoring",
     "url": "https://www.zockify.com/forever/professions/tailoring/",
     "watch": "text",
-    "checked": "2026-11-22"
+    "checked": "2026-11-22",
+    "fetch": "local",
+    "fetchWhy": "returns 403 to GitHub runner IPs but 200 from a residential one, same user agent, as of 2026-11-23"
   },
   "zockify-tailoring-trainers": {
     "site": "Zockify, Tailoring trainers",
     "url": "https://www.zockify.com/forever/professions/tailoring/trainers/",
     "watch": "text",
-    "checked": "2026-11-22"
+    "checked": "2026-11-22",
+    "fetch": "local",
+    "fetchWhy": "returns 403 to GitHub runner IPs but 200 from a residential one, same user agent, as of 2026-11-23"
   },
   "wow-professions-tailoring": {
     "site": "WoW-Professions, Tailoring 1-300",
@@ -68,19 +72,25 @@
     "site": "Zockify, Enchanting",
     "url": "https://www.zockify.com/forever/professions/enchanting/",
     "watch": "text",
-    "checked": "2026-11-23"
+    "checked": "2026-11-23",
+    "fetch": "local",
+    "fetchWhy": "returns 403 to GitHub runner IPs but 200 from a residential one, same user agent, as of 2026-11-23"
   },
   "zockify-leatherworking": {
     "site": "Zockify, Leatherworking",
     "url": "https://www.zockify.com/forever/professions/leatherworking/",
     "watch": "text",
-    "checked": "2026-11-23"
+    "checked": "2026-11-23",
+    "fetch": "local",
+    "fetchWhy": "returns 403 to GitHub runner IPs but 200 from a residential one, same user agent, as of 2026-11-23"
   },
   "zockify-skinning": {
     "site": "Zockify, Skinning 1-300",
     "url": "https://www.zockify.com/forever/professions/skinning/",
     "watch": "text",
-    "checked": "2026-11-23"
+    "checked": "2026-11-23",
+    "fetch": "local",
+    "fetchWhy": "returns 403 to GitHub runner IPs but 200 from a residential one, same user agent, as of 2026-11-23"
   },
   "wow-professions-enchanting": {
     "site": "WoW-Professions, Enchanting 1-300",
