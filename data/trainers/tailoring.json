@@ -1,0 +1,22 @@
+{
+  "token": "tailoring",
+  "sources": ["zockify-tailoring-trainers", "wow-professions-tailoring-trainers"],
+  "confidence": {
+    "check": ["Which Darnassus tailor teaches Expert. Trianna and Me'lynn stand yards apart and the lists disagree on which of them it is."]
+  },
+  "groups": [
+    {
+      "label": "Tailoring",
+      "trainers": [
+        { "rank": "Darnassus", "who": "Trianna &middot; Me'lynn",
+          "where": "Craftsmen's Terrace &middot; <span class=\"co\">63.6, 21.2</span> and <span class=\"co\">62.6, 22.6</span>. One of them teaches Expert; the lists conflict on which." },
+        { "rank": "Darkshore", "who": "Grondal Moonbreeze",
+          "where": "Auberdine &middot; <span class=\"co\">38.2, 40.5</span> &mdash; Journeyman, handy if you're questing the coast" },
+        { "rank": "Expert, if Darnassus fails you", "who": "Georgio Bolero &middot; Lawrence Schneider",
+          "where": "Stormwind, Mage Quarter. Charles Worth in Dalaran is also listed." },
+        { "rank": "Artisan &middot; level 35", "who": "Timothy Worthington",
+          "where": "Theramore Isle, Dustwallow Marsh &middot; <span class=\"co\">66.2, 51.6</span>. The only Alliance Artisan tailor." }
+      ]
+    }
+  ]
+}

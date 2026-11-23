@@ -1,0 +1,73 @@
+name: build
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+
+      # The almanac has to take a new class or character without a code change.
+      # This is that promise, as a gate.
+      - name: nothing hardcoded outside data/
+        run: |
+          if grep -rniE 'priest|rogue|tailoring|enchanting|leatherworking|skinning|discipline|combat' \
+             build.js validate.js assets/ templates/; then
+            echo "::error::a class, spec or profession is named outside data/ - see the matches above"
+            exit 1
+          fi
+          echo "clean"
+
+      - name: build
+        run: node build.js --base=/forever-almanac/
+
+      - name: validate the built HTML
+        run: node validate.js
+
+      - name: the validator must actually fail on broken input
+        run: |
+          cp docs/professions/tailoring/index.html /tmp/keep.html
+          # open a gap in a route table and confirm the gate notices
+          perl -0pi -e 's/data-min="43" data-max="45"/data-min="50" data-max="45"/' docs/professions/tailoring/index.html
+          if node validate.js; then
+            echo "::error::validate.js passed a route table with a deliberate gap in it"
+            exit 1
+          fi
+          cp /tmp/keep.html docs/professions/tailoring/index.html
+          echo "the gate fires"
+
+      - uses: actions/configure-pages@v5
+        if: github.ref == 'refs/heads/main'
+      - uses: actions/upload-pages-artifact@v3
+        if: github.ref == 'refs/heads/main'
+        with:
+          path: docs
+
+  deploy:
+    needs: build
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - id: deploy
+        uses: actions/deploy-pages@v4

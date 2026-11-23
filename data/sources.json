@@ -1,0 +1,53 @@
+{
+  "wowhead-tailoring": {
+    "site": "Wowhead, Tailoring 1-300",
+    "url": "https://www.wowhead.com/forever/profession-leveling-guides/tailoring",
+    "watch": "hash",
+    "watchWhy": "wowhead.com names about forty AI crawlers in robots.txt and disallows each one, so we keep a hash and never a copy of the text",
+    "checked": "2026-11-22"
+  },
+  "zockify-tailoring": {
+    "site": "Zockify, Tailoring",
+    "url": "https://www.zockify.com/forever/professions/tailoring/",
+    "watch": "text",
+    "checked": "2026-11-22"
+  },
+  "zockify-tailoring-trainers": {
+    "site": "Zockify, Tailoring trainers",
+    "url": "https://www.zockify.com/forever/professions/tailoring/trainers/",
+    "watch": "text",
+    "checked": "2026-11-22"
+  },
+  "wow-professions-tailoring": {
+    "site": "WoW-Professions, Tailoring 1-300",
+    "url": "https://www.wow-professions.com/forever/tailoring-leveling-guide",
+    "watch": "text",
+    "checked": "2026-11-22"
+  },
+  "wow-professions-tailoring-trainers": {
+    "site": "WoW-Professions, Tailoring trainers",
+    "url": "https://www.wow-professions.com/forever/tailoring-trainers",
+    "watch": "text",
+    "checked": "2026-11-22"
+  },
+  "method-tailoring": {
+    "site": "Method, Tailoring 1-300",
+    "url": "https://www.method.gg/wow-forever/tailoring-in-wow-forever-1-300-leveling-guide-and-trainers",
+    "watch": "text",
+    "checked": "2026-11-22",
+    "untested": "says in its own words that beyond 225 was untested on the beta"
+  },
+  "timesaver-tailoring": {
+    "site": "Timesaver, Tailoring",
+    "url": "https://timesaver.gg/tools/wow-forever/professions/tailoring",
+    "watch": "text",
+    "checked": "2026-11-22"
+  },
+  "maxroll-priest": {
+    "site": "Maxroll, Priest leveling",
+    "url": "https://maxroll.gg/wow-forever/class-guides/priest-leveling-guide",
+    "watch": "never",
+    "watchWhy": "Ziff Davis states in robots.txt that automated retrieval is prohibited without written permission, naming RAG and AI databases. Read by hand only.",
+    "checked": "2026-11-21"
+  }
+}

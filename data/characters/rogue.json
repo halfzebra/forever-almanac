@@ -1,0 +1,14 @@
+{
+  "slug": "rogue",
+  "name": "The Rogue",
+  "order": 2,
+  "class": "rogue",
+  "className": "Rogue",
+  "token": "rogue",
+  "race": "Night Elf",
+  "faction": "Alliance",
+  "specs": ["combat"],
+  "professions": ["leatherworking", "skinning"],
+  "classBuffs": [],
+  "lede": "Leatherworking and Skinning, and the camp objects the other two actually want."
+}

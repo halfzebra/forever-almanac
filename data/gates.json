@@ -1,0 +1,85 @@
+{
+  "kind": "gates",
+  "drive": {
+    "by": "gate"
+  },
+  "sources": [
+    "wow-professions-tailoring",
+    "zockify-tailoring"
+  ],
+  "columns": [
+    {
+      "label": "Rank",
+      "field": "rank",
+      "class": "item"
+    },
+    {
+      "label": "Needs skill",
+      "field": "skill",
+      "class": "num"
+    },
+    {
+      "label": "Needs level",
+      "field": "level",
+      "class": "lvl"
+    },
+    {
+      "label": "Trains you to",
+      "field": "caps",
+      "class": "num"
+    },
+    {
+      "label": "Costs",
+      "field": "cost",
+      "class": "num"
+    }
+  ],
+  "note": "Every profession uses the same four ranks. The level half of each gate is what sets the schedule, because the skill half arrives long before it.",
+  "confidence": {
+    "solid": [
+      "The four profession ranks, their skill and level requirements, and their caps. Unchanged from Classic and agreed on by every source."
+    ]
+  },
+  "rows": [
+    {
+      "lvl": 1,
+      "rank": "Apprentice",
+      "skill": "&mdash;",
+      "level": "&mdash;",
+      "caps": "75",
+      "cost": "10c",
+      "skillNum": 0,
+      "capsNum": 75
+    },
+    {
+      "lvl": 10,
+      "rank": "Journeyman",
+      "skill": "50",
+      "level": "10",
+      "caps": "150",
+      "cost": "5s",
+      "skillNum": 50,
+      "capsNum": 150
+    },
+    {
+      "lvl": 20,
+      "rank": "Expert",
+      "skill": "125",
+      "level": "20",
+      "caps": "225",
+      "cost": "50s",
+      "skillNum": 125,
+      "capsNum": 225
+    },
+    {
+      "lvl": 35,
+      "rank": "Artisan",
+      "skill": "200",
+      "level": "35",
+      "caps": "300",
+      "cost": "5g",
+      "skillNum": 200,
+      "capsNum": 300
+    }
+  ]
+}

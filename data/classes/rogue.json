@@ -1,0 +1,6 @@
+{ "slug": "rogue", "name": "Rogue", "token": "rogue",
+  "trees": [
+    { "slug": "assassination", "name": "Assassination" },
+    { "slug": "combat", "name": "Combat" },
+    { "slug": "subtlety", "name": "Subtlety" }
+  ] }

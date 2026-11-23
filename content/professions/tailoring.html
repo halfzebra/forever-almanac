@@ -1,0 +1,85 @@
+<script type="application/json" id="meta">
+{
+  "title": "Tailoring, 1 to 300",
+  "short": "Tailoring",
+  "token": "tailoring",
+  "lede": "Cloth drops from humanoids, so tailoring needs no gathering partner and leaves your second slot free. Below 125 almost everything you make is white junk, which Forever gives three sinks Classic never had.",
+  "sources": ["method-tailoring"],
+  "confidence": {
+    "solid": [
+      "The 1&ndash;225 route. Wowhead, Zockify, WoW-Professions and Method agree on the shape of it."
+    ],
+    "check": [
+      "Which Darnassus tailor teaches Expert. Trianna and Me'lynn stand yards apart and the lists disagree.",
+      "Stormwind tailor coordinates - two sources give different ones.",
+      "Mid-game tailoring: the trainer line versus the Crimson Silk line.",
+      "Whether white items can be disenchanted. No Forever source states the restriction outright."
+    ],
+    "provisional": [
+      "Everything above 225. Method says of its own 225&ndash;300 section that it <q>was untested on the beta and so this is currently based on speculation</q>.",
+      "Every camp buff number, from a beta build dated 9 October."
+    ]
+  }
+}
+</script>
+
+<section>
+  <div class="section-head">
+    <h2>Why it is cheap to level</h2>
+    <p>Forever gives tailors no passive bonus &mdash; no increased cloth drop rate &mdash; so the saving comes entirely from what you do with the output.</p>
+  </div>
+  <div class="loop">
+    <div class="loop-step" data-token="tailoring"><strong>Loot cloth</strong><span>Humanoids drop it. No gathering profession needed, so your second slot stays free.</span></div>
+    <div class="loop-step" data-token="tailoring"><strong>Craft what the route says</strong><span>The item is a means to a skill point, not gear. Below 125 most of it is plain white.</span></div>
+    <div class="loop-step" data-token="tailoring"><strong>Bolt it before you bin it</strong><span>Bolts are worth about four times the Merchant's Favor per piece of cloth that raw cloth is, and they give skill-ups on the way past.</span></div>
+  </div>
+</section>
+
+<section>
+  <div class="section-head">
+    <h2>What to do with the junk you craft</h2>
+    <p>Most of the route below 125 makes plain white items nobody wants. Forever gives that output sinks Classic never had, and one of them should change what you craft.</p>
+  </div>
+  <dl class="picks">
+    <div><dt>bolts</dt><dd><b>Put bolts in a Fabrics crate, never cloth in a Textiles crate.</b> <span>A Journeyman Fabrics crate takes 6 Bolt of Woolen Cloth and pays 20 Merchant's Favor. A Journeyman Textiles crate takes 40 Wool Cloth and pays 10. Those six bolts cost you 18 wool, so bolting it first is worth roughly four times the Favor per piece of cloth, and the bolts give tailoring skill-ups on the way past. Turn crates in to Marcy Baker at Three Corners, western Redridge Mountains, around <span class="mono">9.7, 70.9</span>.</span></dd></div>
+    <div><dt>writs</dt><dd><b>Keep one of each route item.</b> <span>Craftsman's Writs drop from mobs and chests, and each asks for one named crafted item. Two of them, <b>Azure Silk Hood</b> and <b>Lesser Wizard's Robe</b>, are items you already craft at 125&ndash;139; later ones want Small Silk Pack, Black Mageweave Vest and Mageweave Bag. A writ pays 75 reputation at Journeyman, 125 at Expert and 200 at Artisan plus a coin pouch, each distinct writ once a day, and you don't need the profession to hand one in.</span></dd></div>
+    <div><dt>woolen capes</dt><dd><b>Vendor them.</b> <span>No crate and no writ takes a Woolen Cape, and nothing confirms it can be disenchanted. Sell them and move on: the skill point was the product, the cape is a receipt.</span></dd></div>
+  </dl>
+</section>
+
+<section>
+  <div class="section-head">
+    <h2>Trainers worth walking to</h2>
+    <p>Sources disagree on which Darnassus tailor teaches which rank, so check the trainer window rather than trusting any one list. Darnassus is free to reach, so check there first.</p>
+  </div>
+  <x-trainers src="trainers/tailoring"></x-trainers>
+</section>
+
+<section>
+  <div class="section-head">
+    <h2>The route, 1 to 300</h2>
+    <p>Materials are per craft. Patterns come from your trainer unless a vendor is named. Thread and dye come from any tailoring supply vendor. Type a skill level above and the row you are on is highlighted.</p>
+  </div>
+  <x-table src="routes/tailoring" id="troute"></x-table>
+  <div class="note">
+    <strong>Two places to deviate.</strong> Robe of Power at 160 wants eight elementals per two points, which is the opposite of cheap &mdash; if elemental prices are bad on your realm, run Crimson Silk Vest and Crimson Silk Pantaloons through 150&ndash;190 instead. And everything from 234 up comes from a different source than the trainer line, so check what your realm's auction house actually charges for Ironweb Spider Silk before committing to the Cloak and Boots.
+  </div>
+  <div class="note">
+    <strong>Treat 225 upward as a sketch.</strong> Method publishes a 225&ndash;300 route and then says of it: <q>Leveling from 225 to 300 was untested in the WoW Forever Beta. We are unsure what recipes will be available and where you will be able to get them.</q> The route above that line is agreed on by four sources; below it, check the trainer window before you buy materials. <x-cite src="method-tailoring"></x-cite>
+  </div>
+</section>
+
+<section>
+  <div class="section-head">
+    <h2>Where you sit on the rank ladder</h2>
+    <p>The same four ranks as every other profession. The level half of each gate is what sets the schedule, because the skill half arrives long before it.</p>
+  </div>
+  <x-table src="gates" id="gates"></x-table>
+</section>
+
+<section>
+  <div class="section-head">
+    <h2>How much of this to trust</h2>
+  </div>
+  <x-confidence></x-confidence>
+</section>

@@ -1,0 +1,26 @@
+{
+  "title": "The Forever Almanac",
+  "tagline": "Routes, ladders and trainers for WoW: Forever, true as of the date on each page.",
+  "repo": "https://github.com/halfzebra/forever-almanac",
+  "footerNote": "Forever launched 4 Nov 2026. Every page says which of its claims are solid, which to check in game, and which are still guesswork. Nothing here is filled in from vanilla or TBC.",
+  "sections": [
+    {
+      "slug": "classes",
+      "label": "Classes",
+      "title": "Classes",
+      "lede": "Talent ladders a point at a time, what to press at each level band, and every tooltip as the sources print it."
+    },
+    {
+      "slug": "professions",
+      "label": "Professions",
+      "title": "Professions",
+      "lede": "1 to 300 for each one, materials per craft, trainers with coordinates, and the level gates that set the schedule."
+    },
+    {
+      "slug": "mechanics",
+      "label": "Mechanics",
+      "title": "Mechanics",
+      "lede": "The rules that apply to everybody: rank gates, the camping system, and the talent arithmetic that settles arguments."
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "kind": "route",
+  "drive": {
+    "by": "skill",
+    "key": "tailoring"
+  },
+  "sources": [
+    "wowhead-tailoring",
+    "zockify-tailoring",
+    "wow-professions-tailoring",
+    "method-tailoring",
+    "timesaver-tailoring"
+  ],
+  "columns": [
+    {
+      "label": "Skill",
+      "field": "range",
+      "class": "num"
+    },
+    {
+      "label": "Craft",
+      "field": "craft",
+      "class": "item"
+    },
+    {
+      "label": "Each one takes",
+      "field": "each",
+      "class": "mats"
+    },
+    {
+      "label": "Pattern",
+      "field": "pattern",
+      "class": "mats"
+    }
+  ],
+  "note": "Materials are per craft. The sources publish route totals, so these are derived by division - they are what one of the item costs, not what the whole step costs.",
+  "confidence": {
+    "solid": [],
+    "check": [],
+    "provisional": []
+  },
+  "rows": [
+    {
+      "min": 1,
+      "max": 43,
+      "craft": "Bolt of Linen Cloth",
+      "each": "2 Linen Cloth",
+      "pattern": "Known from the start"
+    },
+    {
+      "min": 43,
+      "max": 45,
+      "craft": "Brown Linen Vest",
+      "each": "1 Bolt of Linen, 1 Coarse Thread",
+      "pattern": "Trainer"
+    },
+    {
+      "min": 45,
+      "max": 70,
+      "craft": "Linen Belt",
+      "each": "1 Bolt of Linen, 1 Coarse Thread",
+      "pattern": "Trainer"
+    },
+    {
+      "min": 70,
+      "max": 75,
+      "craft": "Reinforced Linen Cape",
+      "each": "2 Bolt of Linen, 3 Coarse Thread",
+      "pattern": "Trainer"
+    },
+    {
+      "min": 75,
+      "max": 81,
+      "craft": "Bolt of Woolen Cloth",
+      "each": "3 Wool Cloth",
+      "pattern": "Trainer"
+    },
+    {
+      "min": 81,
+      "max": 100,
+      "craft": "Woolen Cape",
+      "each": "1 Bolt of Woolen, 1 Fine Thread",
+      "pattern": "Trainer"
+    },
+    {
+      "min": 100,
+      "max": 110,
+      "craft": "Bolt of Silk Cloth",
+      "each": "4 Silk Cloth",
+      "pattern": "Trainer"
+    },
+    {
+      "min": 110,
+      "max": 125,
+      "craft": "Double-stitched Woolen Shoulders",
+      "each": "3 Bolt of Woolen, 2 Fine Thread",
+      "pattern": "Trainer &middot; gets you to Expert"
+    },
+    {
+      "min": 125,
+      "max": 132,
+      "craft": "Azure Silk Hood",
+      "each": "2 Bolt of Silk, 2 Blue Dye, 1 Fine Thread",
+      "pattern": "Trainer"
+    },
+    {
+      "min": 132,
+      "max": 139,
+      "craft": "Lesser Wizard's Robe",
+      "each": "2 Bolt of Silk, 2 Fine Thread, 2 Spider's Silk",
+      "pattern": "Trainer"
+    },
+    {
+      "min": 139,
+      "max": 140,
+      "craft": "Formal White Shirt",
+      "each": "3 Bolt of Silk, 2 Bleach, 1 Fine Thread",
+      "pattern": "Trainer"
+    },
+    {
+      "min": 140,
+      "max": 149,
+      "craft": "Bolt of Mageweave",
+      "each": "5 Mageweave Cloth",
+      "pattern": "Trainer"
+    },
+    {
+      "min": 149,
+      "max": 160,
+      "craft": "Earthen Vest",
+      "each": "3 Bolt of Silk, 1 Elemental Earth, 2 Fine Thread",
+      "pattern": "Trainer"
+    },
+    {
+      "min": 160,
+      "max": 170,
+      "craft": "Robe of Power",
+      "each": "2 Bolt of Mageweave, 2 each of Elemental Earth / Water / Fire / Air, 2 Silken Thread",
+      "pattern": "Trainer"
+    },
+    {
+      "min": 170,
+      "max": 180,
+      "craft": "Black Mageweave Vest",
+      "each": "2 Bolt of Mageweave, 3 Silken Thread",
+      "pattern": "Trainer"
+    },
+    {
+      "min": 180,
+      "max": 190,
+      "craft": "Orange Mageweave Shirt",
+      "each": "1 Bolt of Mageweave, 1 Orange Dye, 1 Heavy Silken Thread",
+      "pattern": "Trainer"
+    },
+    {
+      "min": 190,
+      "max": 205,
+      "craft": "Black Mageweave Gloves",
+      "each": "2 Bolt of Mageweave, 2 Heavy Silken Thread",
+      "pattern": "Trainer"
+    },
+    {
+      "min": 205,
+      "max": 214,
+      "craft": "Bolt of Runecloth",
+      "each": "5 Runecloth",
+      "pattern": "Trainer"
+    },
+    {
+      "min": 214,
+      "max": 234,
+      "craft": "Runecloth Belt",
+      "each": "3 Bolt of Runecloth, 1 Rune Thread",
+      "pattern": "Trainer"
+    },
+    {
+      "min": 234,
+      "max": 250,
+      "craft": "Runecloth Cloak",
+      "each": "4 Bolt of Runecloth, 1 Ironweb Spider Silk, 1 Rune Thread",
+      "pattern": "Vendor &middot; Darnall"
+    },
+    {
+      "min": 250,
+      "max": 260,
+      "craft": "Runecloth Boots",
+      "each": "4 Bolt of Runecloth, 2 Ironweb Spider Silk, 4 Rugged Leather, 1 Rune Thread",
+      "pattern": "Vendor &middot; Darnall"
+    },
+    {
+      "min": 260,
+      "max": 280,
+      "craft": "Runecloth Cuffs",
+      "each": "5 Bolt of Runecloth, 1 Ironweb Spider Silk, 1 Rune Thread",
+      "pattern": "Vendor &middot; Pexmit"
+    },
+    {
+      "min": 280,
+      "max": 285,
+      "craft": "Wisdom of the Timbermaw",
+      "each": "8 Bolt of Runecloth, 3 Essence of Earth, 3 Living Essence, 2 Ironweb Spider Silk",
+      "pattern": "Vendor &middot; Meilosh"
+    },
+    {
+      "min": 285,
+      "max": 292,
+      "craft": "Venomspew Gloves",
+      "each": "4 Bolt of Runecloth, 1 Small Brilliant Shard, 3 Essence of Air, 6 Rune Thread",
+      "pattern": "Vendor &middot; Mishta"
+    },
+    {
+      "min": 292,
+      "max": 299,
+      "craft": "Venomspew Cord",
+      "each": "6 Bolt of Runecloth, 1 Small Brilliant Shard, 3 Essence of Air, 6 Rune Thread",
+      "pattern": "Vendor &middot; Mishta"
+    },
+    {
+      "min": 299,
+      "max": 300,
+      "craft": "Venomspew Footpads",
+      "each": "5 Bolt of Runecloth, 1 Small Brilliant Shard, 3 Essence of Air, 6 Rune Thread",
+      "pattern": "Vendor &middot; Mishta"
+    }
+  ]
+}

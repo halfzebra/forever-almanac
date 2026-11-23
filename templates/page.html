@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="{{lang}}">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>{{title}}</title>
+<meta name="description" content="{{description}}">
+<meta name="robots" content="noindex">
+<link rel="icon" href="{{base}}assets/icon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,400;0,600;1,400&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="{{base}}assets/site.css">
+<link rel="stylesheet" href="{{base}}assets/tokens.css">
+</head>
+<body{{token}}>
+  <div class="wrap">
+    <header class="masthead">
+      <a class="brand" href="{{base}}">{{brand}}</a>
+      <nav>
+      {{nav}}
+      </nav>
+    </header>
+    {{main}}
+    <footer>
+      {{footer}}
+    </footer>
+  </div>
+  <script src="{{base}}assets/site.js" defer></script>
+</body>
+</html>

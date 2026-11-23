@@ -1,0 +1,26 @@
+{
+  "method-tailoring": [
+    "content/professions/tailoring.html",
+    "data/routes/tailoring.json"
+  ],
+  "timesaver-tailoring": [
+    "data/routes/tailoring.json"
+  ],
+  "wow-professions-tailoring": [
+    "data/gates.json",
+    "data/routes/tailoring.json"
+  ],
+  "wow-professions-tailoring-trainers": [
+    "data/trainers/tailoring.json"
+  ],
+  "wowhead-tailoring": [
+    "data/routes/tailoring.json"
+  ],
+  "zockify-tailoring": [
+    "data/gates.json",
+    "data/routes/tailoring.json"
+  ],
+  "zockify-tailoring-trainers": [
+    "data/trainers/tailoring.json"
+  ]
+}

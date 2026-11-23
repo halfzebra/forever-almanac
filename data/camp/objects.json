@@ -1,0 +1,33 @@
+{
+  "sources": ["zockify-tailoring"],
+  "note": "Each profession grants three camp objects, the first at around 20 skill, the later two upgraded from dungeon blueprints. A basic campfire holds three objects and each player may contribute one.",
+  "objects": [
+    { "name": "Enchanted Lute", "profession": "enchanting", "skill": 20, "tier": 1,
+      "buff": "+163 armour, +7 all stats, +6 all resistances at level 30",
+      "clashesWith": ["mark-of-the-wild"] },
+    { "name": "Faction Banner", "profession": "tailoring", "skill": 20, "tier": 1,
+      "buff": "+14 Spirit at level 30, own faction only",
+      "clashesWith": ["divine-spirit"] },
+    { "name": "First Aid Kit", "profession": "first-aid", "skill": 20, "tier": 1,
+      "buff": "+21 Stamina at level 30",
+      "clashesWith": ["power-word-fortitude"] },
+    { "name": "Camp Tent", "profession": "leatherworking", "skill": 20, "tier": 1,
+      "buff": "rested XP, up to 5% of a level, for everyone sitting nearby",
+      "clashesWith": [] },
+    { "name": "Tanning Rack", "profession": "leatherworking", "skill": 125, "tier": 2,
+      "buff": "not published anywhere; only one source even gives the skill level",
+      "clashesWith": [] },
+    { "name": "Sewing Machine", "profession": "leatherworking", "skill": 300, "tier": 3,
+      "buff": "not published; blueprint drop",
+      "clashesWith": [] },
+    { "name": "Camp Chair", "profession": "skinning", "skill": 20, "tier": 1,
+      "buff": "+2% critical strike on all spells and attacks for everyone nearby",
+      "clashesWith": ["moonkin-aura"] },
+    { "name": "Field Guide", "profession": "skinning", "skill": 140, "tier": 2,
+      "buff": "+2% crit plus Track Beasts for whoever reads it; blueprint drop, no source names the boss",
+      "clashesWith": ["moonkin-aura"] },
+    { "name": "Trapper's Workbench", "profession": "skinning", "skill": 300, "tier": 3,
+      "buff": "+2% crit plus a trap; which traps is still unclear",
+      "clashesWith": ["moonkin-aura"] }
+  ]
+}

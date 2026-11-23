@@ -1,0 +1,6 @@
+{ "slug": "priest", "name": "Priest", "token": "priest",
+  "trees": [
+    { "slug": "discipline", "name": "Discipline" },
+    { "slug": "holy", "name": "Holy" },
+    { "slug": "shadow", "name": "Shadow" }
+  ] }
