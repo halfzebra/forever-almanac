@@ -10,6 +10,5 @@
   "note": "duos with a warrior friend",
   "specs": ["discipline", "shadow"],
   "professions": ["tailoring", "enchanting", "cooking", "fishing", "first-aid"],
-  "classBuffs": ["power-word-fortitude", "divine-spirit"],
   "lede": "Tailoring and Enchanting, with a warrior to hide behind."
 }

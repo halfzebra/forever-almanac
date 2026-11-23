@@ -1,9 +1,8 @@
 # The Forever Almanac
 
 Reference notes for **World of Warcraft: Forever**, Blizzard's Classic+ title (launched
-2026-11-04, level cap 60). Talent ladders, profession routes 1-300, trainer locations and
-the Forever-specific mechanics, organised by topic, with a per-character view on top that
-works out what to do next.
+2026-11-04, level cap 60). Talent ladders, profession routes 1-300 and trainer locations,
+organised by topic, with a per-character view on top that works out what to do next.
 
 Built as a static site. No framework, no dependencies, no build tooling beyond Node itself.
 
@@ -59,12 +58,11 @@ profession - a rule enforced by a grep in CI. Everything comes from `data/`:
 
 ### What a character page derives rather than repeats
 
-Next talent, points placed against points available, next craft and its materials, which
-rank to buy next, and which camp object to place. The last one is the interesting case:
-camp buffs do not stack with the equivalent class buff, and an object only dies once the
-character actually learns the buff that clashes with it. That is computed from
-`data/camp/objects.json` against the character's own `classBuffs`, so a new character gets
-the right answer without anyone writing it down.
+Next talent, points placed against points available, next craft and its materials, and
+which rank to buy next. The last one is the interesting case: a profession's skill cap and
+its level requirement arrive at different times, so whether a character is capped, blocked
+or clear is computed from `data/gates.json` against that character's own level and skill,
+not written down anywhere.
 
 ## The checks
 
@@ -82,7 +80,7 @@ edit that broke a table after the arithmetic was done.
 7. Every CSS class used in the HTML exists in the stylesheets.
 8. Every placeholder `src` resolves and every cited source id exists.
 9. Every page carries a confidence section and at least one citation.
-10. Every character's class, specs, professions and class buffs resolve.
+10. Every character's class, specs and professions resolve.
 
 Checks 2 to 6 are what make the derived per-level talent ladders trustworthy: the sources
 publish ten-level bands, the split into single levels is ours, and these prove the split is

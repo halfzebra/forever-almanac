@@ -325,24 +325,6 @@ function checkData() {
     for (const prof of rec.professions || []) {
       if (!has(`data/professions/${prof}.json`)) fail(rel, `profession "${prof}" has no record in data/professions/`);
     }
-    const buffs = has("data/camp/class-buffs.json") ? read("data/camp/class-buffs.json").buffs || {} : {};
-    for (const b of rec.classBuffs || []) {
-      if (!buffs[b]) fail(rel, `class buff "${b}" is not in data/camp/class-buffs.json`);
-    }
-  }
-
-  /* every camp object names a profession and buffs that exist */
-  if (has("data/camp/objects.json")) {
-    ran();
-    const buffs = has("data/camp/class-buffs.json") ? read("data/camp/class-buffs.json").buffs || {} : {};
-    for (const o of read("data/camp/objects.json").rows || []) {
-      if (!has(`data/professions/${o.profession}.json`)) {
-        fail("data/camp/objects.json", `"${o.name}" names profession "${o.profession}", which has no record`);
-      }
-      for (const b of o.clashesWith || []) {
-        if (!buffs[b]) fail("data/camp/objects.json", `"${o.name}" clashes with "${b}", which is not a known buff`);
-      }
-    }
   }
 }
 

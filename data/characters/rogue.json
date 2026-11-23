@@ -9,6 +9,5 @@
   "faction": "Alliance",
   "specs": ["combat"],
   "professions": ["leatherworking", "skinning"],
-  "classBuffs": [],
-  "lede": "Leatherworking and Skinning, and the camp objects the other two actually want."
+  "lede": "Leatherworking and Skinning, and the gear the other two end up wearing."
 }

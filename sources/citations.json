@@ -114,9 +114,6 @@
     "data/trainers/skinning.json"
   ],
   "zockify-tailoring": [
-    "content/mechanics/camping.html",
-    "content/mechanics/whats-new.html",
-    "data/camp/objects.json",
     "data/gates.json",
     "data/routes/tailoring.json"
   ],

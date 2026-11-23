@@ -305,7 +305,7 @@ function pagesIn(sectionSlug) {
       written.delete(r.slug);
     }
   }
-  /* pages with prose but no record of their own, e.g. the mechanics pages */
+  /* pages with prose but no record of their own, e.g. a section's own index page */
   for (const slug of [...written].sort()) {
     const meta = pageMeta(sectionSlug, slug);
     out.push({ slug, name: (meta && meta.short) || (meta && meta.title) || slug, token: meta && meta.token, gap: false });
@@ -383,7 +383,7 @@ function characterToken(rec) {
 }
 
 function characterPayload(rec) {
-  const out = { slug: rec.slug, name: rec.name, lvl: rec.startLevel || 10, ladders: [], routes: [], gates: [], camp: [] };
+  const out = { slug: rec.slug, name: rec.name, lvl: rec.startLevel || 10, ladders: [], routes: [], gates: [] };
 
   for (const spec of rec.specs || []) {
     const l = data(`ladders/${rec.class}-${spec}`);
@@ -407,23 +407,6 @@ function characterPayload(rec) {
   const gates = data("gates");
   if (gates) out.gates = (gates.rows || []).map((g) => ({ rank: g.rank, skill: g.skillNum, lvl: g.lvl, caps: g.capsNum }));
 
-  const camp = data("camp/objects");
-  const buffs = (data("camp/class-buffs") || {}).buffs || {};
-  if (camp) {
-    const mine = (camp.rows || []).filter((o) => (rec.professions || []).includes(o.profession));
-    out.camp = mine.map((o) => ({
-      name: o.name,
-      profession: o.profession,
-      skill: o.skill,
-      tier: o.tier || 1,
-      buff: o.buff,
-      /* Only the clashes this character can actually cause. A buff kills an
-         object from the level the character learns it, not before. */
-      clashes: (o.clashesWith || [])
-        .filter((b) => (rec.classBuffs || []).includes(b))
-        .map((b) => ({ buff: b, name: (buffs[b] || {}).name || b, learnedAt: (buffs[b] || {}).learnedAt || 1 })),
-    }));
-  }
   return out;
 }
 

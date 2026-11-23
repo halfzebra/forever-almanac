@@ -15,7 +15,7 @@ Levels and skills are typed into the page and live in that browser's `localStora
 not in the repo and not in any database, so **never hardcode a level or a skill number into
 the content.** Anything that depends on where a character currently is must be derived at
 runtime from the data, the way `assets/site.js` already derives the next talent, the next
-craft, the next rank and which camp object to place.
+craft and the next rank.
 
 The two original Claude Artifacts stay published and keep their URLs, frozen at priest v6 and
 rogue v4. They are history now, not the deliverable. Do not edit them.
@@ -34,16 +34,12 @@ Keep that true: everything specific belongs in `data/`.
 
 ## Forever is not vanilla. Never answer from memory.
 
-Mechanics differ from Classic 1.12 and TBC in ways that change the advice. The site's
-[What Forever changed](content/mechanics/whats-new.html) page carries the current list.
-The ones that most often catch people out:
+Mechanics differ from Classic 1.12 and TBC in ways that change the advice. The ones that
+most often catch people out:
 
 - First Aid crafts healing potions now (moved off Alchemy, which gets a worse version).
 - No confirmed Tailoring specializations. Mooncloth and Shadoweave survive only as bag and
   Craftsman's Writ names. Leatherworking does keep Dragonscale / Elemental / Tribal.
-- A Camping system, which `data/camp/` models. The useful half is the no-stacking rule:
-  an object dies only once the character learns the class buff that clashes with it, which
-  is why the verdict is computed per character and never written into the prose.
 - **Talent trees are reworked**, not vanilla or TBC. Names like Efficient Strikes, Coup de
   Grace, Power in Light, Twilight Focus, Dark Inspiration, Boot Knife and Death Mark are new;
   some TBC/Wrath talents (Penance, Divine Aegis, Renewed Hope) were imported; Holy Precision

@@ -236,43 +236,6 @@
       out.push(line("Next rank", txt));
     }
 
-    /* Camp objects: which of this character's own objects is worth a slot.
-       An object dies only once she has the class buff that clashes with it,
-       so the answer changes with her level, not just her professions. */
-    var usable = [];
-    var killed = [];
-    for (var c = 0; c < (payload.camp || []).length; c++) {
-      var obj = payload.camp[c];
-      var have = state.skills[obj.profession];
-      if (have == null || have < obj.skill) continue;
-      var deadBy = null;
-      for (var k = 0; k < (obj.clashes || []).length; k++) {
-        if (lvl >= obj.clashes[k].learnedAt) deadBy = obj.clashes[k];
-      }
-      if (deadBy) killed.push({ obj: obj, by: deadBy });
-      else usable.push(obj);
-    }
-    usable.sort(function (a, b) {
-      return (b.tier || 1) - (a.tier || 1);
-    });
-    if (usable.length) {
-      var place = usable[0];
-      var txt = "<b>" + raw(place.name) + "</b> <span>&middot; " + raw(place.buff || "") + "</span>";
-      if (killed.length) {
-        txt += "<br><em>not " + raw(killed[0].obj.name) + "</em><span>, your own " +
-          raw(killed[0].by.name) + " cancels it</span>";
-      }
-      out.push(line("Camp", txt));
-    } else if (killed.length) {
-      out.push(
-        line(
-          "Camp",
-          "<span>nothing worth placing. " + raw(killed[0].obj.name) + " clashes with your own " +
-            raw(killed[0].by.name) + ".</span>"
-        )
-      );
-    }
-
     host.innerHTML = out.join("");
   }
 

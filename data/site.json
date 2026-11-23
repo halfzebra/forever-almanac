@@ -15,12 +15,6 @@
       "label": "Professions",
       "title": "Professions",
       "lede": "1 to 300 for each one, materials per craft, trainers with coordinates, and the level gates that set the schedule."
-    },
-    {
-      "slug": "mechanics",
-      "label": "Mechanics",
-      "title": "Mechanics",
-      "lede": "The rules that apply to everybody: rank gates, the camping system, and the talent arithmetic that settles arguments."
     }
   ]
 }
