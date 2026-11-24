@@ -410,50 +410,194 @@ function characterPayload(rec) {
   return out;
 }
 
-function renderCharacterCard(rec) {
+/* The level field plus the inlined JSON payload every derivation in site.js
+   reads from. Shared by the home-page wizard and the /me/<slug>/ page -
+   both wrap this in a [data-character] element. */
+function renderCharacterScaffold(rec) {
   const payload = characterPayload(rec);
-  /* An input for every profession she has, not only the ones with a route.
-     The skill is worth tracking either way, and a missing route is a gap the
-     card should state rather than hide. */
-  const fields = (rec.professions || [])
-    .map((prof) => {
-      const p = data(`professions/${prof}`);
-      const name = (p && p.name) || prof;
-      return `      <div class="field"${tokenAttr((p && p.token) || prof)}>
-        <label for="sk-${attr(rec.slug)}-${attr(prof)}">${esc(name)}</label>
-        <input id="sk-${attr(rec.slug)}-${attr(prof)}" data-skill="${attr(prof)}" type="number" inputmode="numeric" min="1" max="300">
-      </div>`;
-    })
-    .join("\n");
-
-  const who = [rec.race, rec.className || rec.class, rec.faction].filter(Boolean).join(" &middot; ");
-  return `  <article class="charcard" data-character="${attr(rec.slug)}"${tokenAttr(characterToken(rec))}>
-    <script type="application/json" class="chardata">${JSON.stringify(payload)}</script>
-    <div class="chead">
-      <h3><a href="${url("me/" + rec.slug + "/")}">${esc(rec.name)}</a></h3>
-      <span class="who2">${who}${rec.note ? " &middot; " + rec.note : ""}</span>
-    </div>
-    <div class="fields">
-      <div class="field">
-        <label for="lvl-${attr(rec.slug)}">Level</label>
-        <input id="lvl-${attr(rec.slug)}" data-level type="number" inputmode="numeric" min="1" max="60">
-      </div>
-${fields}
-    </div>
-    <ul class="next" data-next>
-      <li><span class="k">What now</span><span class="v"><span>Type a level to see it.</span></span></li>
-    </ul>
-    <div class="cardfoot"></div>
-  </article>`;
+  return `<script type="application/json" class="chardata">${JSON.stringify(payload)}</script>
+    <div class="field">
+      <label for="lvl-${attr(rec.slug)}">Level</label>
+      <input id="lvl-${attr(rec.slug)}" data-level type="number" inputmode="numeric" min="1" max="60">
+    </div>`;
 }
 
-function renderCharacters() {
+/* A character's talent plan, profession pick and profession tutorial, as one
+   block of steps. mode is "guided" (the home-page wizard, gated by JS until
+   a level and a class are picked) or "direct" (/me/<slug>/, already unlocked
+   because the URL already names the character) - the markup is identical
+   either way, only the client-side gating differs. */
+function renderCharacterSteps(rec, opts = {}) {
+  const mode = opts.mode || "direct";
+  const slug = rec.slug;
+
+  const talentsFile = path.join(ROOT, "content", "characters", slug + "-talents.html");
+  const talentsProse = exists(talentsFile) ? read(talentsFile) : "";
+
+  const specs = (rec.specs || []).filter((spec) => data(`ladders/${rec.class}-${spec}`));
+  const specPane = (spec, i, withToggle) => {
+    const l = data(`ladders/${rec.class}-${spec}`);
+    const tt = data(`tooltips/${rec.class}-${spec}`);
+    const paneId = `talpane-${attr(slug)}-${attr(spec)}`;
+    return `<div${withToggle ? ` id="${paneId}"${i === 0 ? "" : " hidden"}` : ""}>
+        ${renderTable(`ladders/${rec.class}-${spec}`, { from: `me/${slug}` })}
+        ${
+          tt
+            ? `<details class="ref">
+          <summary>${esc(l.specName || spec)} talents, what each one does</summary>
+          ${renderTable(`tooltips/${rec.class}-${spec}`, { from: `me/${slug}` })}
+        </details>`
+            : ""
+        }
+      </div>`;
+  };
+  let ladderHtml = "";
+  if (specs.length > 1) {
+    const buttons = specs
+      .map((spec, i) => {
+        const l = data(`ladders/${rec.class}-${spec}`);
+        const paneId = `talpane-${attr(slug)}-${attr(spec)}`;
+        return `<button type="button" data-pane="${paneId}"${i === 0 ? ' class="on" aria-pressed="true"' : ' aria-pressed="false"'}>${esc(l.specName || spec)}</button>`;
+      })
+      .join("\n      ");
+    ladderHtml = `<div class="spectoggle" data-group="wizard-talent-${attr(slug)}" role="group" aria-label="Which build to show">
+      ${buttons}
+    </div>
+    <div class="wizard-ladders">
+      ${specs.map((spec, i) => specPane(spec, i, true)).join("\n      ")}
+    </div>`;
+  } else if (specs.length === 1) {
+    ladderHtml = `<div class="wizard-ladders">
+      ${specPane(specs[0], 0, false)}
+    </div>`;
+  }
+
+  const talentsStep = `<div class="step" data-step="talents">
+    <div class="step-head"><span class="stepnum">3</span><h2>${esc(rec.name)}'s talent plan</h2></div>
+    ${talentsProse}
+    ${ladderHtml}
+  </div>`;
+
+  const profs = rec.professions || [];
+  const withRoute = profs.filter(
+    (p) => data(`routes/${p}`) && exists(path.join(ROOT, "content", "professions", p + ".html"))
+  );
+  const withoutRoute = profs.filter((p) => !withRoute.includes(p));
+
+  const profButtons = withRoute
+    .map((prof, i) => {
+      const p = data(`professions/${prof}`);
+      const name = (p && p.name) || prof;
+      const paneId = `profpane-${attr(slug)}-${attr(prof)}`;
+      return `<button type="button" data-pane="${paneId}"${i === 0 ? ' class="on" aria-pressed="true"' : ' aria-pressed="false"'}${tokenAttr((p && p.token) || prof)}>${esc(name)}</button>`;
+    })
+    .join("\n      ");
+  const profPicker =
+    withRoute.length > 1
+      ? `<div class="spectoggle" data-group="wizard-prof-${attr(slug)}" role="group" aria-label="Which profession to show">
+      ${profButtons}
+    </div>`
+      : "";
+  const gapNote = withoutRoute.length
+    ? `<div class="lib-list">
+      ${withoutRoute
+        .map((prof) => {
+          const p = data(`professions/${prof}`);
+          const name = (p && p.name) || prof;
+          const gapNoteText = (p && p.gapNote) || "nothing researched yet";
+          return `<span title="${attr(gapNoteText)}">${esc(name)}</span>`;
+        })
+        .join("\n      ")}
+    </div>`
+    : "";
+
+  const professionStep = `<div class="step" data-step="profession">
+    <div class="step-head"><span class="stepnum">4</span><h2>Which profession right now?</h2></div>
+    ${profPicker}
+    ${gapNote}
+  </div>`;
+
+  const tutorialPanes = withRoute
+    .map((prof, i) => {
+      const p = data(`professions/${prof}`);
+      const name = (p && p.name) || prof;
+      const paneId = `profpane-${attr(slug)}-${attr(prof)}`;
+      const trainersKey = `trainers/${prof}`;
+      const hasTrainers = !!data(trainersKey);
+      return `<div id="${paneId}"${withRoute.length > 1 && i !== 0 ? " hidden" : ""} class="wizard-prof" data-profession="${attr(prof)}">
+    <div class="step" data-step="tutorial">
+      <div class="step-head"><span class="stepnum">5</span><h2>Leveling ${esc(name)}</h2></div>
+      <div class="field"${tokenAttr((p && p.token) || prof)}>
+        <label for="sk-${attr(slug)}-${attr(prof)}">${esc(name)} skill</label>
+        <input id="sk-${attr(slug)}-${attr(prof)}" data-skill="${attr(prof)}" type="number" inputmode="numeric" min="1" max="300">
+      </div>
+      <ol class="tutorial-steps" data-tutorial-host data-tutorial-prof="${attr(prof)}">
+        <li class="tutorial-step"><span>Type a skill level to see your route.</span></li>
+      </ol>
+      ${hasTrainers ? renderTrainers(trainersKey, { from: `me/${slug}` }) : ""}
+      ${renderTable(`routes/${prof}`, { from: `me/${slug}` })}
+      ${renderTable("gates", { from: `me/${slug}` })}
+    </div>
+  </div>`;
+    })
+    .join("\n  ");
+
+  const moreLink =
+    mode === "guided"
+      ? `<p class="wizard-more"><a href="${url("me/" + slug + "/")}">Open ${esc(rec.name)}'s full page</a> - the level-by-level schedule, what's worth crafting, and who it's all for.</p>`
+      : "";
+
+  return `<div class="wizard-char" data-wizard-mode="${attr(mode)}" data-character="${attr(slug)}"${tokenAttr(characterToken(rec))}>
+    ${renderCharacterScaffold(rec)}
+    ${talentsStep}
+    ${professionStep}
+    ${tutorialPanes}
+    <div class="cardfoot"></div>
+    ${moreLink}
+  </div>`;
+}
+
+/* The home-page wizard: a level field, a picker between every character
+   record, and one (initially hidden) block per character holding her steps. */
+function renderWizard() {
   const recs = groupOf("characters")
     .map((c) => c.rec)
     .filter(Boolean)
     .sort((a, b) => (a.order || 99) - (b.order || 99) || String(a.name).localeCompare(String(b.name)));
   if (!recs.length) return `<p class="note"><strong>No characters yet.</strong> Add one to data/characters/.</p>`;
-  return `<div class="chars">\n${recs.map(renderCharacterCard).join("\n")}\n</div>`;
+
+  const options = recs
+    .map((rec) => {
+      const who = [rec.race, rec.className || rec.class].filter(Boolean).join(" &middot; ");
+      const profNames = (rec.professions || [])
+        .map((p) => (data(`professions/${p}`) || {}).name || p)
+        .join(" &amp; ");
+      return `<button type="button" class="picker-opt" data-target="wizchar-${attr(rec.slug)}"${tokenAttr(characterToken(rec))}>
+        <strong>${esc(rec.name)}</strong><span>${who}${profNames ? " &middot; " + profNames : ""}</span>
+      </button>`;
+    })
+    .join("\n    ");
+
+  const blocks = recs.map((rec) => renderCharacterSteps(rec, { mode: "guided" })).join("\n  ");
+
+  return `<div class="wizard" data-wizard-mode="guided">
+  <div class="step" data-step="level">
+    <div class="step-head"><span class="stepnum">1</span><h2>What level are you?</h2></div>
+    <div class="field">
+      <label for="wiz-pending-lvl">Level</label>
+      <input id="wiz-pending-lvl" data-wizard-pending-level type="number" inputmode="numeric" min="1" max="60">
+    </div>
+  </div>
+
+  <div class="step" data-step="class">
+    <div class="step-head"><span class="stepnum">2</span><h2>Which character?</h2></div>
+    <div class="picker" data-group="wizard-class" role="group" aria-label="Pick a character">
+    ${options}
+    </div>
+  </div>
+
+  ${blocks}
+</div>`;
 }
 
 /* --------------------------------------------------------- page assembly */
@@ -524,7 +668,7 @@ function expand(html, ctx) {
     return renderCite(a.src, ctx.file);
   });
 
-  out = out.replace(/<x-characters\s*\/?>(?:<\/x-characters>)?/g, () => renderCharacters());
+  out = out.replace(/<x-wizard\s*\/?>(?:<\/x-wizard>)?/g, () => renderWizard());
   out = out.replace(/<x-library\s*\/?>(?:<\/x-library>)?/g, () => renderLibrary());
   out = out.replace(/<x-index\s+([^>]*?)\/?>(?:<\/x-index>)?/g, (m, raw) => renderIndex(parseAttrs(raw).section));
   out = out.replace(/<x-confidence\s*\/?>(?:<\/x-confidence>)?/g, () => renderConfidence(confSources, ctx.file));
@@ -661,15 +805,7 @@ for (const { slug, rec } of groupOf("characters")) {
     }
   }
 
-  const body = `<section>
-  <div class="section-head">
-    <h2>Where you are</h2>
-    <p>Typed here, kept in this browser. The sync link copies the numbers to your other device.</p>
-  </div>
-  <div class="chars">
-${renderCharacterCard(rec)}
-  </div>
-</section>
+  const body = `${renderCharacterSteps(rec, { mode: "direct" })}
 ${prose}
 <section>
   <div class="section-head">

@@ -278,6 +278,66 @@
     }
   }
 
+  /* ------------------------------------------------- profession tutorial */
+
+  /* The wizard's "what to do right now" list for one profession: a few
+     craft-to-skill steps chained off nextCraft(), then the next-rank line
+     gateFor() already produces for the old summary. Both derivations are
+     untouched; this just walks nextCraft forward instead of calling it once. */
+  function renderTutorialSteps(host, route, gates, lvl, skill) {
+    if (!route || skill == null || !route.rows) {
+      host.innerHTML = '<li class="tutorial-step"><span>Type a skill level to see your route.</span></li>';
+      return;
+    }
+    var labels = ["Right now", "Then", "After that"];
+    var items = [];
+    var s = skill;
+    for (var i = 0; i < labels.length; i++) {
+      var step = nextCraft(route, s);
+      if (!step) break;
+      items.push(
+        '<li class="tutorial-step"><b>' + esc(labels[i]) + ":</b> <b>" + raw(step.craft) + "</b>" +
+          (step.each ? ' <span>&middot; ' + raw(step.each) + "</span>" : "") +
+          " <span>to " + step.max + "</span></li>"
+      );
+      s = step.max;
+    }
+    var gate = gateFor(gates || [], lvl, skill);
+    if (gate) {
+      var txt;
+      if (gate.needLvl) {
+        txt = "<em>" + raw(route.name) + " is capped</em><span> until level " + gate.needLvl +
+          ", when you can buy " + raw(gate.rank) + "</span>";
+      } else if (gate.needSkill) {
+        txt = "<span>" + raw(gate.rank) + " needs " + gate.needSkill + " skill</span>";
+      } else if (gate.blocked) {
+        txt = "<b>" + raw(gate.rank) + "</b> <span>is open, go buy it. You are stuck at " +
+          gate.stuckAt + " until you do, and it lifts you to " + gate.unlocks + ".</span>";
+      } else {
+        txt = "<span>" + gate.room + " from the cap. " + raw(gate.rank) + " is ready when you get there.</span>";
+      }
+      items.push('<li class="tutorial-step">' + txt + "</li>");
+    }
+    if (!items.length) items.push('<li class="tutorial-step"><span>Route finished.</span></li>');
+    host.innerHTML = items.join("");
+  }
+
+  function paintTutorials(card, payload, state) {
+    var hosts = card.querySelectorAll("[data-tutorial-host]");
+    for (var i = 0; i < hosts.length; i++) {
+      var host = hosts[i];
+      var prof = host.getAttribute("data-tutorial-prof");
+      var route = null;
+      for (var r = 0; r < payload.routes.length; r++) {
+        if (payload.routes[r].prof === prof) {
+          route = payload.routes[r];
+          break;
+        }
+      }
+      renderTutorialSteps(host, route, payload.gates, state.lvl, state.skills[prof]);
+    }
+  }
+
   /* ---------------------------------------------------------- sync link */
 
   function encode(slug, state) {
@@ -358,6 +418,7 @@
     }
     renderNext(card, payloads[slug], state);
     markTables(document, state);
+    paintTutorials(card, payloads[slug], state);
   }
 
   cards.forEach(function (card) {
@@ -379,6 +440,7 @@
       setActive(slug);
       renderNext(card, payloads[slug], states[slug]);
       markTables(document, states[slug]);
+      paintTutorials(card, payloads[slug], states[slug]);
     });
 
     paint(slug);
@@ -548,5 +610,97 @@
       });
       show(ids.indexOf(saved) === -1 ? ids[0] : saved);
     })(toggles[g]);
+  }
+
+  /* ---- the home-page wizard: level, then pick a character to unlock her steps.
+     Everything here is a no-op on /me/<slug>/, where data-wizard-mode is
+     "direct" and there is no [data-group="wizard-class"] picker to find. */
+
+  var wizardRoot = document.querySelector('.wizard[data-wizard-mode="guided"]');
+  if (wizardRoot) {
+    var pendingInput = wizardRoot.querySelector("[data-wizard-pending-level]");
+    var classStep = wizardRoot.querySelector('[data-step="class"]');
+    var classButtons = Array.prototype.slice.call(
+      wizardRoot.querySelectorAll('[data-group="wizard-class"] [data-target]')
+    );
+    var charBlocks = Array.prototype.slice.call(wizardRoot.querySelectorAll(".wizard-char"));
+
+    function pickClass(slug, opts) {
+      opts = opts || {};
+      classButtons.forEach(function (b) {
+        var on = b.getAttribute("data-target") === "wizchar-" + slug;
+        b.classList.toggle("on", on);
+        b.setAttribute("aria-pressed", String(on));
+      });
+      charBlocks.forEach(function (b) {
+        b.hidden = b.getAttribute("data-character") !== slug;
+      });
+      try {
+        localStorage.setItem(NS + "pane:wizard-class", slug);
+      } catch (err) {
+        /* nothing to do */
+      }
+      if (!states[slug]) return;
+      setActive(slug);
+      if (opts.skipLevelHandoff) return;
+      var pendingVal = num(pendingInput, 60);
+      if (pendingVal != null) {
+        states[slug].lvl = pendingVal;
+        save(slug, states[slug]);
+        paint(slug);
+      }
+    }
+
+    /* unlocked by default, until JS gates it - a no-JS visitor sees everything */
+    classStep.hidden = true;
+    charBlocks.forEach(function (b) {
+      b.hidden = true;
+    });
+
+    if (pendingInput) {
+      pendingInput.addEventListener("input", function () {
+        var v = num(pendingInput, 60);
+        classStep.hidden = v == null;
+        try {
+          localStorage.setItem(NS + "pane:wizard-level", pendingInput.value);
+        } catch (err) {
+          /* nothing to do */
+        }
+      });
+    }
+
+    classButtons.forEach(function (b) {
+      b.addEventListener("click", function () {
+        var target = b.getAttribute("data-target") || "";
+        var slug = target.replace(/^wizchar-/, "");
+        if (slug) pickClass(slug);
+      });
+    });
+
+    /* resume where a previous visit left off */
+    var savedLevel = null;
+    try {
+      savedLevel = localStorage.getItem(NS + "pane:wizard-level");
+    } catch (err) {
+      savedLevel = null;
+    }
+    if (savedLevel && pendingInput) {
+      pendingInput.value = savedLevel;
+      classStep.hidden = false;
+    }
+
+    var savedClass = null;
+    try {
+      savedClass = localStorage.getItem(NS + "pane:wizard-class");
+    } catch (err) {
+      savedClass = null;
+    }
+    var active = getActive();
+    var resumeSlug = savedClass && states[savedClass] ? savedClass : active && states[active] ? active : null;
+    if (resumeSlug && states[resumeSlug].lvl != null) {
+      if (pendingInput && !pendingInput.value) pendingInput.value = states[resumeSlug].lvl;
+      classStep.hidden = false;
+      pickClass(resumeSlug, { skipLevelHandoff: true });
+    }
   }
 })();

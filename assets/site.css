@@ -328,38 +328,48 @@ ul.loopl li::marker { color: var(--muted); }
 .npc .where .co { font-family: var(--font-mono); }
 .rank { font-size: 0.66rem; letter-spacing: 0.08em; text-transform: uppercase; font-weight: 600; color: var(--muted); }
 
-/* ---------- character cards, the home page ---------- */
+/* ---------- the wizard: level, class, talents, profession, tutorial ---------- */
 
-.chars { display: grid; grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr)); gap: 1rem; }
-.charcard {
+.wizard { display: flex; flex-direction: column; gap: 1.8rem; }
+.step { display: flex; flex-direction: column; gap: 0.9rem; }
+.step-head { display: flex; align-items: baseline; gap: 0.6rem; }
+.stepnum {
+  font-family: var(--font-mono); font-size: 0.78rem; font-weight: 600;
+  color: var(--accent); background: var(--accent-soft);
+  width: 1.5rem; height: 1.5rem; border-radius: 50%;
+  display: inline-flex; align-items: center; justify-content: center; flex: none;
+}
+
+.picker { display: grid; grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr)); gap: 0.6rem; }
+.picker-opt {
   background: var(--surface); border: 1px solid var(--line); border-radius: 10px;
-  border-top: 3px solid var(--accent);
-  padding: 1rem 1.1rem 1.1rem; display: flex; flex-direction: column; gap: 0.8rem; min-width: 0;
+  padding: 0.75rem 0.9rem; text-align: left; cursor: pointer;
+  display: flex; flex-direction: column; gap: 0.2rem; font-family: var(--font-body); color: var(--fg);
 }
-.charcard .chead { display: flex; flex-wrap: wrap; gap: 0.3rem 0.7rem; align-items: baseline; }
-.charcard .cardfoot { display: flex; justify-content: flex-end; }
-.charcard .cardfoot:empty { display: none; }
-.charcard .chead h3 { font-size: 1.25rem; }
-.charcard .chead h3 a { color: inherit; text-decoration: none; }
-.charcard .chead h3 a:hover { text-decoration: underline; }
-.charcard .who2 { font-size: 0.8rem; color: var(--muted); }
-.charcard .fields { display: flex; flex-wrap: wrap; gap: 0.6rem 1rem; }
-.charcard .fields .field input { width: 4.4rem; }
-ul.next { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 0.35rem; }
-ul.next li {
-  display: grid; grid-template-columns: 6.2rem 1fr; gap: 0 0.8rem;
-  font-size: 0.88rem; padding-top: 0.35rem; border-top: 1px solid var(--line-soft);
+.picker-opt strong { font-size: 1rem; }
+.picker-opt span { font-size: 0.8rem; color: var(--muted); }
+.picker-opt:hover { box-shadow: inset 0 0 0 1px var(--line); }
+.picker-opt.on { border-color: transparent; box-shadow: inset 0 0 0 2px var(--accent); }
+.picker-opt.on strong { color: var(--accent); }
+
+.wizard-char {
+  display: flex; flex-direction: column; gap: 1.6rem;
+  border-top: 3px solid var(--accent); padding-top: 1.2rem;
 }
-ul.next li:first-child { border-top: 0; padding-top: 0; }
-ul.next .k {
-  font-size: 0.68rem; letter-spacing: 0.08em; text-transform: uppercase;
-  color: var(--muted); font-weight: 600; padding-top: 0.18rem;
+.wizard-char .cardfoot { display: flex; justify-content: flex-end; }
+.wizard-char .cardfoot:empty { display: none; }
+.wizard-ladders { display: flex; flex-direction: column; gap: 0.7rem; }
+.wizard-prof { display: flex; flex-direction: column; gap: 0.9rem; }
+.wizard-more { font-size: 0.86rem; color: var(--muted); }
+
+.tutorial-steps { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 0.4rem; }
+.tutorial-step {
+  background: var(--surface); border: 1px solid var(--line); border-left: 3px solid var(--accent);
+  border-radius: 8px; padding: 0.55rem 0.8rem; font-size: 0.88rem;
 }
-ul.next .v { min-width: 0; }
-ul.next .v b { font-weight: 600; }
-ul.next .v span { color: var(--muted); }
-ul.next .v em { font-style: normal; color: var(--gate); font-weight: 600; }
-ul.next li.gap .v { color: var(--muted); font-size: 0.84rem; }
+.tutorial-step b { font-weight: 600; }
+.tutorial-step span { color: var(--muted); }
+.tutorial-step em { font-style: normal; color: var(--gate); font-weight: 600; }
 
 /* ---------- the library ---------- */
 
