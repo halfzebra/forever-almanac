@@ -27,7 +27,7 @@
         skills: d.skills && typeof d.skills === "object" ? d.skills : {},
         done: d.done && typeof d.done === "object" ? d.done : {},
       };
-    } catch (err) {
+    } catch {
       return blank;
     }
   }
@@ -35,7 +35,7 @@
   function save(slug, state) {
     try {
       localStorage.setItem(NS + slug, JSON.stringify(state));
-    } catch (err) {
+    } catch {
       /* private window, or storage full - the page still works */
     }
   }
@@ -43,7 +43,7 @@
   function getActive() {
     try {
       return localStorage.getItem(ACTIVE);
-    } catch (err) {
+    } catch {
       return null;
     }
   }
@@ -51,7 +51,7 @@
   function setActive(slug) {
     try {
       localStorage.setItem(ACTIVE, slug);
-    } catch (err) {
+    } catch {
       /* nothing to do */
     }
   }
@@ -221,7 +221,7 @@
       var gp = payload.routes[g];
       var gate = gateFor(payload.gates || [], lvl, state.skills[gp.prof]);
       if (!gate) continue;
-      var txt;
+      var gtxt;
       if (gate.needLvl) {
         txt = "<em>" + raw(gp.name) + " is capped</em><span> until level " + gate.needLvl +
           ", when you can buy " + raw(gate.rank) + "</span>";
@@ -233,7 +233,7 @@
       } else {
         txt = "<span>" + gate.room + " from the cap. " + raw(gate.rank) + " is ready when you get there.</span>";
       }
-      out.push(line("Next rank", txt));
+      out.push(line("Next rank", gtxt));
     }
 
     host.innerHTML = out.join("");
@@ -386,7 +386,7 @@
     var holder = card.querySelector("script.chardata");
     try {
       payloads[slug] = JSON.parse(holder.textContent);
-    } catch (err) {
+    } catch {
       return;
     }
     states[slug] = load(slug);
@@ -400,7 +400,7 @@
     setActive(incoming.slug);
     try {
       history.replaceState(null, "", location.pathname);
-    } catch (err) {
+    } catch {
       /* nothing to do */
     }
   }
@@ -495,7 +495,7 @@
         var k = localStorage.key(i);
         if (k && k.indexOf(NS) === 0 && k !== ACTIVE) slugs.push(k.slice(NS.length));
       }
-    } catch (err) {
+    } catch {
       return;
     }
     if (!slugs.length) return;
@@ -590,7 +590,7 @@
         });
         try {
           localStorage.setItem(NS + "pane:" + name, which);
-        } catch (err) {
+        } catch {
           /* nothing to do */
         }
       }
@@ -602,7 +602,7 @@
       var saved = null;
       try {
         saved = localStorage.getItem(NS + "pane:" + name);
-      } catch (err) {
+      } catch {
         saved = null;
       }
       var ids = buttons.map(function (b) {
@@ -637,7 +637,7 @@
       });
       try {
         localStorage.setItem(NS + "pane:wizard-class", slug);
-      } catch (err) {
+      } catch {
         /* nothing to do */
       }
       if (!states[slug]) return;
@@ -663,7 +663,7 @@
         classStep.hidden = v == null;
         try {
           localStorage.setItem(NS + "pane:wizard-level", pendingInput.value);
-        } catch (err) {
+        } catch {
           /* nothing to do */
         }
       });
@@ -681,7 +681,7 @@
     var savedLevel = null;
     try {
       savedLevel = localStorage.getItem(NS + "pane:wizard-level");
-    } catch (err) {
+    } catch {
       savedLevel = null;
     }
     if (savedLevel && pendingInput) {
@@ -692,7 +692,7 @@
     var savedClass = null;
     try {
       savedClass = localStorage.getItem(NS + "pane:wizard-class");
-    } catch (err) {
+    } catch {
       savedClass = null;
     }
     var active = getActive();

@@ -78,13 +78,13 @@ function lastTouched(relFile) {
       stdio: ["ignore", "pipe", "ignore"],
     }).trim();
     if (out) date = out;
-  } catch (err) {
+  } catch {
     /* not a repo yet, or never committed - fall through */
   }
   if (!date) {
     try {
       date = fs.statSync(path.join(ROOT, relFile)).mtime.toISOString().slice(0, 10);
-    } catch (err) {
+    } catch {
       date = null;
     }
   }
@@ -353,7 +353,6 @@ function renderLibrary() {
 }
 
 function renderIndex(sectionSlug) {
-  const s = site.sections.find((x) => x.slug === sectionSlug);
   const items = pagesIn(sectionSlug)
     .map((p) => {
       const meta = p.gap ? null : pageMeta(sectionSlug, p.slug);
@@ -685,7 +684,7 @@ function parseAttrs(raw) {
   return out;
 }
 
-function page({ file, section, slug, meta, bodyHtml, cited, depth }) {
+function page({ file, section, slug, meta, bodyHtml, cited }) {
   const sec = site.sections.find((s) => s.slug === section);
   const hero = `<header class="hero">
       ${sec || meta.eyebrow ? `<p class="eyebrow">${esc(meta.eyebrow || (sec && sec.label))}</p>` : ""}
@@ -712,7 +711,7 @@ function page({ file, section, slug, meta, bodyHtml, cited, depth }) {
       case "main":
         return main;
       case "footer":
-        return footer(section, slug);
+        return footer();
       case "token":
         return meta.token ? ` data-token="${attr(meta.token)}"` : "";
       default:
@@ -724,7 +723,7 @@ function page({ file, section, slug, meta, bodyHtml, cited, depth }) {
 
 const stripTags = (s) => String(s == null ? "" : s).replace(/<[^>]*>/g, "");
 
-function footer(section, slug) {
+function footer() {
   const links = site.sections
     .map((s) => `<a href="${url(s.slug + "/")}">${esc(s.label)}</a>`)
     .join("\n        ");
