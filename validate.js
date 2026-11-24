@@ -102,7 +102,7 @@ function tablesOf(html) {
     for (const a of m[1].matchAll(/([a-zA-Z-]+)\s*=\s*(?:"([^"]*)"|'([^']*)')/g)) {
       attrs[a[1]] = a[2] !== undefined ? a[2] : a[3];
     }
-    const body = (m[2].match(/<tbody>([\s\S]*?)<\/tbody>/) || [, m[2]])[1];
+    const body = (m[2].match(/<tbody>([\s\S]*?)<\/tbody>/) || [null, m[2]])[1];
     const rows = [];
     for (const r of body.matchAll(/<tr\b([^>]*)>([\s\S]*?)<\/tr>/g)) {
       const rattrs = {};
@@ -234,7 +234,7 @@ function checkLadders(file, html) {
       let want;
       try {
         want = JSON.parse(spreadRaw);
-      } catch (err) {
+      } catch {
         fail(file, `ladder #${id}: data-published-spread is not valid JSON`);
         want = null;
       }
