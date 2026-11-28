@@ -9,124 +9,138 @@ are estimates. Once a recipe turns yellow you won't get a skill point from every
 need a few more or a few less. 1-150 Material 105x Ruined Leather Scraps 247x Light Leather 10x Light
 Hide 152x Medium Leather 20x Medium Hide 25x Heavy Hide 105x Salt (vendor) 124x Coarse Thread (vendor)
 72x Fine Thread (vendor) 20x Gray Dye (vendor) 150-225 Material 292x Heavy Leather 10x Iron Buckle 390x
-Thick Leather 50x Fine Thread (vendor) 198x Silken Thread (vendor) 225-265 Material 224x Thick Leather
-288x Rugged Leather 36x Black Dye (vendor) 36x Rune Thread (vendor) 265-300 This step has a few alternatives,
-so there is no list for it. You will need 410 to 686 Rugged Leather and 50 to 490 Runecloth for it, depending
-on which recipe you pick. I recommend buying these when you get there. Patterns to Buy You can buy each
-pattern when you get to its step. If you want to buy them all at once, these are the patterns in this
-guide: Patterns Cost Sold by Pattern: Barbaric Leggings (145) - (Binds when picked up) Only if you don't
-have Heavy Hides 6 50 Thousand Needles: Jandia Ashenvale: Lardan Pattern: Wicked Leather Gauntlets (235)
-- (Binds when picked up) 1 20 Tirisfal Glades: Werg Thickblade Western Plaguelands: Leonard Porter Pattern:
-Runic Leather Headband (265) - (Binds when picked up) 2 20 Eastern Plaguelands: Jase Farlane Leatherworking
-Trainer Locations Apprentice Leatherworking has no level requirement in Forever, so you can learn it
-on a fresh character. Every capital city has a trainer. You can also ask a guard, then it will be marked
-with a red flag on your map. Not every zone has a trainer, the table shows the closest one. Horde Alliance
-Zone Trainer Orgrimmar Kamari Undercity Dan Golthas Thunder Bluff Mak Durotar There is no Leatherworking
-trainer in Durotar, go to Kamari in the Drag in Orgrimmar Mulgore Chaw Stronghide in Bloodhoof Village
-Tirisfal Glades Shelene Rhobart at the road junction southeast of Brill Zephras Isle Emerii Tallgust
-in Valanaar, Indari Sunseam in Shen'dar Village Zone Trainer Stormwind City Randal Worth Ironforge Gretta
-Finespindle Darnassus Darianna Elwynn Forest Adele Fielder in the small house by Crystal Lake, northeast
-of Goldshire Dun Morogh There is no Leatherworking trainer in Dun Morogh, go to Gretta Finespindle at
-the Great Forge in Ironforge Teldrassil Nadyia Maneweaver in the small house near the road to Darnassus
-Zephras Isle Emerii Tallgust in Valanaar, Indari Sunseam in Shen'dar Village You can find every Leatherworking
-trainer for Horde and Alliance on my WoW Forever Leatherworking Trainers page. Apprentice Leatherworking
-(1-60) Vendor Materials You can buy the threads, dyes, and salt from the Leatherworking Supply vendor
-near your trainer. There is none next to the trainers in Elwynn Forest and Tirisfal Glades. You can buy
-the Salt and Coarse Thread a short walk away, in Goldshire from Tharynn Bouden or in Brill from Abigail
-Shiel . 1-30 35x Light Leather - 105 Ruined Leather Scraps 30-40 10x Cured Light Hide - 10 Light Hide,
-10 Salt Keep the hides, you will need all 10 for the Embossed Leather Pants at 70. Salt is sold by vendors
-(see Vendor Materials above). There is not much difference in price between hides and leather here, so
-you can just use what you have. The hides usually end up a bit cheaper when you buy everything. Alternative
-recipe If you farm your own leather and don't have 10 Light Hides, make these instead: 14x Light Armor
-Kit - 14 Light Leather 40-60 20x Embossed Leather Gloves - 60 Light Leather, 40 Coarse Thread Journeyman
-Leatherworking (60-130) The trainer you started with only teaches recipes up to 50, so visit one of these
-trainers. They also teach Journeyman Leatherworking, which you need to train past 75. It requires Leatherworking
-50 and level 10 : Horde trainers: Orgrimmar: Karolek Undercity: Arthur Moore Thunder Bluff: Tarn Alliance
-trainers: Stormwind City: Simon Tanner Ironforge: Fimble Finespindle Darnassus: Faldron 60-70 10x Embossed
-Leather Gloves - 30 Light Leather, 20 Coarse Thread 70-80 10x Embossed Leather Pants - 10 Cured Light
-Hide, 60 Light Leather, 20 Coarse Thread Learn Journeyman Leatherworking before you make these. They
-take you to 80, but you won't get any skill points above 75 until you learn it, so don't go AFK while
-crafting. I recommend these over the gloves because a vendor pays more for them, so they end up cheaper.
-Alternative recipe If you don't have the hides, make these instead: 14x Embossed Leather Gloves - 42
-Light Leather, 28 Coarse Thread 80-95 20x Cured Medium Hide - 20 Medium Hide, 20 Salt Keep all 20 Cured
-Medium Hides for the Dark Leather Belts at 105. The hides are really worth it here. Without them you
-will need around 260 Medium Leather and 110 Light Leather more until 125. Alternative recipe If you can't
-get Medium Hides or they are expensive, you can make these instead: 19x Fine Leather Belt - 114 Light
-Leather, 38 Coarse Thread 95-105 22x Fine Leather Belt - 132 Light Leather, 44 Coarse Thread Keep 20
-of the belts for the Dark Leather Belts at 105. 105-125 20x Dark Leather Belt - 20 Fine Leather Belt,
-20 Cured Medium Hide, 40 Fine Thread, 20 Gray Dye Alternative recipes If you don't have the hides, make
-Dark Leather Pants until 120 and Hillman's Leather Gloves until 125 instead: 16x Dark Leather Pants -
-192 Medium Leather, 16 Gray Dye, 16 Fine Thread 5x Hillman's Leather Gloves - 70 Medium Leather, 20 Fine
-Thread 125-130 8x Heavy Leather - 40 Medium Leather Expert Leatherworking (130-205) Your Journeyman trainer
-still teaches the recipes until 150. From 150 you need the Expert trainers. They also teach Expert Leatherworking,
-which you need to train past 150. It requires Leatherworking 125 and level 20 , and costs 50 silver.
-Expert Trainers Una in Thunder Bluff (Horde) Telonis in Darnassus (Alliance) 130-143 25x Cured Heavy
-Hide - 25 Heavy Hide, 75 Salt Keep the Cured Heavy Hides, you will need 15 for the Barbaric Shoulders
-at 150 and 10 for the Guardian Gloves at 165. You can save a lot of leather with the hides, around 180
-Medium Leather and 130 Heavy Leather until 175. Alternative recipe If Heavy Hides are hard to get or
-cost more than that leather, skip them and make Hillman's Leather Gloves from 130 to 150 instead: 21x
-Hillman's Leather Gloves - 294 Medium Leather, 84 Fine Thread 143-150 8x Hillman's Leather Gloves - 112
-Medium Leather, 32 Fine Thread 150-165 15x Barbaric Shoulders - 120 Heavy Leather, 15 Cured Heavy Hide,
-30 Fine Thread The Journeyman trainers don't teach this recipe , you can learn it from the two trainers
-above. To train past 150, don't forget to learn Expert Leatherworking from them too. Alternative recipe
-If you don't have the hides, buy the Pattern: Barbaric Leggings from Jandia in Freewind Post (Horde)
-or Lardan in Astranaar (Alliance) and make these instead. Buy the Moss Agate on the Auction House. 15x
-Barbaric Leggings - 150 Heavy Leather, 15 Moss Agate, 30 Fine Thread 165-175 10x Guardian Gloves - 40
-Heavy Leather, 10 Cured Heavy Hide, 10 Silken Thread Alternative recipe If you don't have the hides,
-start the Barbaric Harness at 165 instead: 10x Barbaric Harness - 140 Heavy Leather, 20 Fine Thread,
-10 Iron Buckle 175-185 10x Barbaric Harness - 140 Heavy Leather, 20 Fine Thread, 10 Iron Buckle Blacksmiths
-make the Iron Buckles, buy them on the Auction House. Alternative recipe If there are no Iron Buckles
-on your Auction House, make these instead: 10x Thick Armor Kit - 50 Thick Leather, 10 Silken Thread 185-205
-22x Nightscape Headband - 110 Thick Leather, 44 Silken Thread Leatherworking Specializations Once you
-reach Leatherworking 225 and level 40 , you can choose one of the three Leatherworking specializations:
-Dragonscale, Elemental, or Tribal. Each specialization gives access to a specific set of patterns. Dragonscale
-- Mail-type gear Elemental - elemental resistance and Leather-type agility gear Tribal - Leather-type
-intellect &amp; agility gear and the Devilsaur Armor set For information on how to become a Dragonscale,
-Elemental, or Tribal Leatherworker, please see my separate guides: Dragonscale Elemental Tribal Artisan
-Leatherworking (205-300) The trainers you learned Expert Leatherworking from don't teach the recipes
-below, so you need the Artisan trainers. They also teach Artisan Leatherworking, which you need to train
-past 225. It requires Leatherworking 200 and level 35 . Artisan Trainers Hahrana Ironhide in Camp Mojache,
-Feralas (Horde) Drakk Stonehand in Aerie Peak, The Hinterlands (Alliance) 205-235 36x Nightscape Pants
-- 504 Thick Leather, 144 Silken Thread The Expert trainers in Thunder Bluff and Darnassus don't teach
-this recipe , you can only learn it from the two trainers above. Learn Artisan Leatherworking before
-you make these. They take you to 235, but you won't get any skill points above 225 until you learn it,
-so don't go AFK while crafting. I recommend these over the Nightscape Boots because they sell for more
-to a vendor, so they end up cheaper. 235-265 36x Wicked Leather Gauntlets - 288 Rugged Leather, 36 Black
-Dye, 36 Rune Thread The pattern is sold by Werg Thickblade in Tirisfal Glades (Horde) and Leonard Porter
-in Western Plaguelands (Alliance). Blue Suede Shoes If you have Pattern: Blue Suede Shoes , make these
-instead of the gauntlets: 36x Blue Suede Shoes - 288 Rugged Leather, 36 Blue Dye, 36 Rune Thread They
-use the same leather but sell for more to a vendor, so they save you about 13 gold on this step. The
-pattern is worth buying if it costs less than that. Wicked Leather Headband If you have Pattern: Wicked
-Leather Headband , make these instead: Skill Make Materials Total 235-255 20x Wicked Leather Gauntlets
-160 Rugged Leather, 20 Black Dye 280 Rugged Leather 30 Black Dye 30 Rune Thread 255-265 10x Wicked Leather
-Headband 120 Rugged Leather, 10 Black Dye The headbands are worth more than the gauntlets to a vendor,
-and they disenchant into Illusion Dust. If you have both patterns, make the shoes instead of the gauntlets.
-Charged Scorpid Bracers These use Heavy Scorpid Scales and Elemental Air instead of most of the leather,
-so check what the scales cost on your ruleset first. The smaller rulesets often don't have enough of
-them. If you have Pattern: Charged Scorpid Bracers , make these instead: Skill Make Materials Total 235-255
-20x Wicked Leather Gauntlets 160 Rugged Leather, 20 Black Dye 180 Rugged Leather 40 Heavy Scorpid Scale
-20 Elemental Air 20 Black Dye 30 Rune Thread 255-265 10x Charged Scorpid Bracers 20 Rugged Leather, 40
-Heavy Scorpid Scale, 20 Elemental Air 265-300 49x Runic Leather Headband - 686 Rugged Leather, 490 Runecloth,
-49 Rune Thread These are yellow from 285 and green from 295, so if you don't reach 300, make a few more.
-The pattern is sold by Jase Farlane at Light's Hope Chapel in Eastern Plaguelands. A few other patterns
-make this step cheaper. Some of them are rare on the Auction House, and on some rulesets you won't find
-them at all. I listed the best ones below. Compare their totals with the Runic Leather Headbands above
-to see if the saving is worth it for you. Wicked Leather Headband If you have Pattern: Wicked Leather
-Headband , or you can buy it for less than 100 Runecloth, make these instead: Skill Make Materials Total
-265-275 10x Wicked Leather Headband 120 Rugged Leather, 10 Black Dye 666 Rugged Leather 390 Runecloth
-10 Black Dye 49 Rune Thread 275-300 39x Runic Leather Headband 546 Rugged Leather, 390 Runecloth Tooled
-Leather Bracers If you have Pattern: Tooled Leather Bracers , make these instead: Skill Make Materials
-Total 265-270 5x Runic Leather Headband 70 Rugged Leather, 50 Runecloth 430 Rugged Leather 50 Runecloth
-36 Orange Dye 41 Rune Thread 270-300 36x Tooled Leather Bracers 360 Rugged Leather, 36 Orange Dye Blue
-Suede Bracers If you have Pattern: Blue Suede Bracers , make these instead: Skill Make Materials Total
-265-275 10x Runic Leather Headband 140 Rugged Leather, 100 Runecloth 410 Rugged Leather 100 Runecloth
-27 Blue Dye 37 Rune Thread 275-300 27x Blue Suede Bracers 270 Rugged Leather, 27 Blue Dye Wicked Leather
-Belt If you have Pattern: Wicked Leather Belt but none of the bracer patterns above, make these instead:
-Skill Make Materials Total 265-295 36x Runic Leather Headband 504 Rugged Leather, 360 Runecloth 602 Rugged
-Leather 360 Runecloth 14 Black Dye 50 Rune Thread 295-300 7x Wicked Leather Belt 98 Rugged Leather, 14
-Black Dye Blue Suede Hat The Blue Suede Hat needs a Sewing Machine, and someone with Leatherworking 300
-has to place it for you. You can't place a Sewing Machine yourself before 300, even if you buy one. I'm
-not sure if this is an oversight by Blizzard, so they might change it. If you can use one and have Pattern:
-Blue Suede Hat , you can make these from 280: 20x Blue Suede Hat - 320 Rugged Leather, 80 Blue Dye, 20
-Rune Thread. Congratulations on reaching 300! Spotted a mistake or have an idea for this guide? Let me
-know! Send feedback
+Thick Leather 50x Fine Thread (vendor) 134x Silken Thread (vendor) 225-265 Material 224x Thick Leather
+64x Silken Thread (vendor) 288x Rugged Leather 36x Black Dye (vendor) 36x Rune Thread (vendor) 265-300
+This step has a few alternatives, so there is no list for it. You will need 410 to 686 Rugged Leather
+and 50 to 490 Runecloth for it, depending on which recipe you pick. I recommend buying these when you
+get there. Patterns to Buy You can buy each pattern when you get to its step. If you want to buy them
+all at once, these are the patterns in this guide: Patterns Cost Sold by Pattern: Barbaric Leggings (145)
+- (Binds when picked up) Only if you don't have Heavy Hides 6 50 Thousand Needles: Jandia Ashenvale:
+Lardan Pattern: Wicked Leather Gauntlets (235) - (Binds when picked up) 1 20 Tirisfal Glades: Werg Thickblade
+Western Plaguelands: Leonard Porter Pattern: Runic Leather Headband (265) - (Binds when picked up) 2
+20 Eastern Plaguelands: Jase Farlane Leatherworking Trainer Locations Apprentice Leatherworking has no
+level requirement in Forever, so you can learn it on a fresh character. Every capital city has a trainer.
+You can also ask a guard, then it will be marked with a red flag on your map. Not every zone has a trainer,
+the table shows the closest one. Horde Alliance Zone Trainer Orgrimmar Kamari Undercity Dan Golthas Thunder
+Bluff Mak Durotar There is no Leatherworking trainer in Durotar, go to Kamari in the Drag in Orgrimmar
+Mulgore Chaw Stronghide in Bloodhoof Village Tirisfal Glades Shelene Rhobart at the road junction southeast
+of Brill Zephras Isle Emerii Tallgust in Valanaar, Indari Sunseam in Shen'dar Village Zone Trainer Stormwind
+City Randal Worth Ironforge Gretta Finespindle Darnassus Darianna Elwynn Forest Adele Fielder in the
+small house by Crystal Lake, northeast of Goldshire Dun Morogh There is no Leatherworking trainer in
+Dun Morogh, go to Gretta Finespindle at the Great Forge in Ironforge Teldrassil Nadyia Maneweaver in
+the small house near the road to Darnassus Zephras Isle Emerii Tallgust in Valanaar, Indari Sunseam in
+Shen'dar Village You can find every Leatherworking trainer for Horde and Alliance on my WoW Forever Leatherworking
+Trainers page. Apprentice Leatherworking (1-70) Vendor Materials You can buy the threads, dyes, and salt
+from the Leatherworking Supply vendor near your trainer. There is none next to the trainers in Elwynn
+Forest and Tirisfal Glades. You can buy the Salt and Coarse Thread a short walk away, in Goldshire from
+Tharynn Bouden or in Brill from Abigail Shiel . 1-30 35x Light Leather - 105 Ruined Leather Scraps 30-40
+10x Cured Light Hide - 10 Light Hide, 10 Salt Keep the hides, you will need all 10 for the Embossed Leather
+Pants at 70. Salt is sold by vendors (see Vendor Materials above). There is not much difference in price
+between hides and leather here, so you can just use what you have. The hides usually end up a bit cheaper
+when you buy everything. Alternative recipe If you farm your own leather and don't have 10 Light Hides,
+make these instead: 14x Light Armor Kit - 14 Light Leather 40-70 30x Embossed Leather Gloves - 90 Light
+Leather, 60 Coarse Thread Journeyman Leatherworking (70-150) The trainer you started with only teaches
+recipes up to 50, so visit one of these trainers. They also teach Journeyman Leatherworking, which you
+need to train past 75. You can learn it from level 10, and it costs 5 silver. Horde trainers: Orgrimmar:
+Karolek Undercity: Arthur Moore Thunder Bluff: Tarn Zephras Isle: Emerii Tallgust Alliance trainers:
+Stormwind City: Simon Tanner Ironforge: Fimble Finespindle Darnassus: Faldron Zephras Isle: Emerii Tallgust
+70-80 10x Embossed Leather Pants - 10 Cured Light Hide, 60 Light Leather, 20 Coarse Thread Learn Journeyman
+Leatherworking from the trainers above before you make these. They take you to 80, but you won't get
+any skill points above 75 until you learn it, so don't go AFK while crafting. I recommend these over
+the gloves because a vendor pays more for them, so they end up cheaper. Alternative recipe If you don't
+have the hides, make these instead: 14x Embossed Leather Gloves - 42 Light Leather, 28 Coarse Thread
+80-95 20x Cured Medium Hide - 20 Medium Hide, 20 Salt Keep all 20 Cured Medium Hides for the Dark Leather
+Belts at 105. The hides are really worth it here. Without them you will need around 260 Medium Leather
+and 110 Light Leather more until 125. Alternative recipe If you can't get Medium Hides or they are expensive,
+you can make these instead: 19x Fine Leather Belt - 114 Light Leather, 38 Coarse Thread 95-105 22x Fine
+Leather Belt - 132 Light Leather, 44 Coarse Thread Keep 20 of the belts for the Dark Leather Belts at
+105. 105-125 20x Dark Leather Belt - 20 Fine Leather Belt, 20 Cured Medium Hide, 40 Fine Thread, 20 Gray
+Dye Alternative recipes If you don't have the hides, make Dark Leather Pants until 120 and Hillman's
+Leather Gloves until 125 instead: 16x Dark Leather Pants - 192 Medium Leather, 16 Gray Dye, 16 Fine Thread
+5x Hillman's Leather Gloves - 70 Medium Leather, 20 Fine Thread 125-130 8x Heavy Leather - 40 Medium
+Leather Keep these, you will need them later. 130-143 25x Cured Heavy Hide - 25 Heavy Hide, 75 Salt Keep
+the Cured Heavy Hides, you will need 15 for the Barbaric Shoulders at 150 and 10 for the Guardian Gloves
+at 165. You can save a lot of leather with the hides, around 180 Medium Leather and 130 Heavy Leather
+until 175. Alternative recipe If Heavy Hides are hard to get or cost more than that leather, skip them
+and make Hillman's Leather Gloves from 130 to 150 instead: 21x Hillman's Leather Gloves - 294 Medium
+Leather, 84 Fine Thread 143-150 8x Hillman's Leather Gloves - 112 Medium Leather, 32 Fine Thread You
+could also level with Mystic Heavy Armor Kits or Forceful Heavy Armor Kits from here to 155. They cost
+more to make than the gloves and you can't sell them to a vendor, so they are only worth it if they sell
+on the Auction House. Try making a few first, and if they sell, keep leveling with them. Pattern: Mystic
+Heavy Armor Kit and Pattern: Forceful Heavy Armor Kit are sold by Mahu in Thunder Bluff and Saenorion
+in Darnassus. Expert Leatherworking (150-205) Expert Trainers The trainers you learned Journeyman Leatherworking
+from don't teach the recipes below , so you need the Expert trainers. They also teach Expert Leatherworking,
+which you need to train past 150. You can learn it from level 20, and it costs 50 silver. Una in Thunder
+Bluff Telonis in Darnassus 150-165 15x Barbaric Shoulders - 120 Heavy Leather, 15 Cured Heavy Hide, 30
+Fine Thread Alternative recipe If you don't have the hides, buy the Pattern: Barbaric Leggings from Jandia
+in Freewind Post or Lardan in Astranaar and make these instead. Buy the Moss Agate on the Auction House.
+15x Barbaric Leggings - 150 Heavy Leather, 15 Moss Agate, 30 Fine Thread 165-175 10x Guardian Gloves
+- 40 Heavy Leather, 10 Cured Heavy Hide, 10 Silken Thread They stay orange until 185, so if you have
+more Cured Heavy Hides, keep making them until 185 and skip the Barbaric Harness. Alternative recipe
+If you don't have the hides, start the Barbaric Harness at 165 instead: 10x Barbaric Harness - 140 Heavy
+Leather, 20 Fine Thread, 10 Iron Buckle 175-185 10x Barbaric Harness - 140 Heavy Leather, 20 Fine Thread,
+10 Iron Buckle Blacksmiths make the Iron Buckles, buy them on the Auction House. Alternative recipe If
+there are no Iron Buckles on your Auction House, make these instead: 10x Thick Armor Kit - 50 Thick Leather,
+10 Silken Thread They stay orange until 195, but I recommend the Nightscape Headbands from 185, because
+a vendor pays more for them, so they end up cheaper. 185-205 22x Nightscape Headband - 110 Thick Leather,
+44 Silken Thread Leatherworking Specializations Once you reach Leatherworking 225 and level 40 , you
+can choose one of the three Leatherworking specializations: Dragonscale, Elemental, or Tribal. Each specialization
+gives access to a specific set of patterns. Dragonscale - Mail-type gear Elemental - elemental resistance
+and Leather-type agility gear Tribal - Leather-type intellect &amp; agility gear and the Devilsaur Armor
+set For information on how to become a Dragonscale, Elemental, or Tribal Leatherworker, please see my
+separate guides: Dragonscale Elemental Tribal Artisan Leatherworking (205-300) Artisan Trainers The trainers
+you learned Expert Leatherworking from don't teach the recipes below, so you need the Artisan trainers.
+They also teach Artisan Leatherworking, which you need to train past 225. You can learn it from level
+35, and it costs 5 gold. Hahrana Ironhide in Camp Mojache, Feralas Drakk Stonehand in Aerie Peak, The
+Hinterlands You will also need two patterns for this part, Pattern: Wicked Leather Gauntlets at 235 and
+Pattern: Runic Leather Headband at 265. You can buy both before you reach those steps, the vendors are
+in the Patterns to Buy table. 205-235 36x Nightscape Pants - 504 Thick Leather, 144 Silken Thread The
+Expert trainers in Thunder Bluff and Darnassus don't teach this recipe , you can only learn it from the
+two trainers above. Learn Artisan Leatherworking before you make these. They take you to 235, but you
+won't get any skill points above 225 until you learn it, so don't go AFK while crafting. I recommend
+these over the Nightscape Boots because they sell for more to a vendor, so they end up cheaper. 235-265
+36x Wicked Leather Gauntlets - 288 Rugged Leather, 36 Black Dye, 36 Rune Thread The pattern is sold by
+Werg Thickblade in Tirisfal Glades and Leonard Porter in Western Plaguelands. Blue Suede Shoes If you
+have Pattern: Blue Suede Shoes , make these instead of the gauntlets: 36x Blue Suede Shoes - 288 Rugged
+Leather, 36 Blue Dye, 36 Rune Thread They use the same leather but sell for more to a vendor, so they
+save you about 13 gold on this step. The pattern is worth buying if it costs less than that. Wicked Leather
+Headband If you have Pattern: Wicked Leather Headband , make these instead: Skill Make Materials Total
+235-255 20x Wicked Leather Gauntlets 160 Rugged Leather, 20 Black Dye, 20 Rune Thread 280 Rugged Leather
+30 Black Dye 30 Rune Thread 255-265 10x Wicked Leather Headband 120 Rugged Leather, 10 Black Dye, 10
+Rune Thread The headbands are worth more than the gauntlets to a vendor, and they disenchant into Illusion
+Dust. If you have both patterns, make the shoes instead of the gauntlets. Charged Scorpid Bracers These
+use Heavy Scorpid Scales and Elemental Air instead of most of the leather, so check what the scales cost
+on your ruleset first. The smaller rulesets often don't have enough of them. If you have Pattern: Charged
+Scorpid Bracers , make these instead: Skill Make Materials Total 235-255 20x Wicked Leather Gauntlets
+160 Rugged Leather, 20 Black Dye, 20 Rune Thread 180 Rugged Leather 40 Heavy Scorpid Scale 20 Elemental
+Air 20 Black Dye 30 Rune Thread 255-265 10x Charged Scorpid Bracers 20 Rugged Leather, 40 Heavy Scorpid
+Scale, 20 Elemental Air, 10 Rune Thread 265-300 49x Runic Leather Headband - 686 Rugged Leather, 490
+Runecloth, 49 Rune Thread These are yellow from 285 and green from 295, so if you don't reach 300, make
+a few more. The pattern is sold by Jase Farlane at Light's Hope Chapel in Eastern Plaguelands. A few
+other patterns make this step cheaper. Some of them are rare on the Auction House, and on some rulesets
+you won't find them at all. I listed the best ones below. Compare their totals with the Runic Leather
+Headbands above to see if the saving is worth it for you. Wicked Leather Headband If you have Pattern:
+Wicked Leather Headband , or you can buy it for less than 100 Runecloth, make these instead: Skill Make
+Materials Total 265-275 10x Wicked Leather Headband 120 Rugged Leather, 10 Black Dye, 10 Rune Thread
+666 Rugged Leather 390 Runecloth 10 Black Dye 49 Rune Thread 275-300 39x Runic Leather Headband 546 Rugged
+Leather, 390 Runecloth, 39 Rune Thread Tooled Leather Bracers If you have Pattern: Tooled Leather Bracers
+, make these instead: Skill Make Materials Total 265-270 5x Runic Leather Headband 70 Rugged Leather,
+50 Runecloth, 5 Rune Thread 430 Rugged Leather 50 Runecloth 36 Orange Dye 41 Rune Thread 270-300 36x
+Tooled Leather Bracers 360 Rugged Leather, 36 Orange Dye, 36 Rune Thread Blue Suede Bracers If you have
+Pattern: Blue Suede Bracers , make these instead: Skill Make Materials Total 265-275 10x Runic Leather
+Headband 140 Rugged Leather, 100 Runecloth, 10 Rune Thread 410 Rugged Leather 100 Runecloth 27 Blue Dye
+37 Rune Thread 275-300 27x Blue Suede Bracers 270 Rugged Leather, 27 Blue Dye, 27 Rune Thread Blue Suede
+Shoulders If you have Pattern: Blue Suede Shoulders , make these instead: Skill Make Materials Total
+265-290 31x Blue Suede Shoulders 310 Rugged Leather, 62 Blue Dye, 31 Rune Thread 688 Rugged Leather 270
+Runecloth 62 Blue Dye 58 Rune Thread 290-300 27x Runic Leather Headband 378 Rugged Leather, 270 Runecloth,
+27 Rune Thread Wicked Leather Belt If you have Pattern: Wicked Leather Belt but none of the bracer patterns
+above, make these instead: Skill Make Materials Total 265-295 36x Runic Leather Headband 504 Rugged Leather,
+360 Runecloth, 36 Rune Thread 602 Rugged Leather 360 Runecloth 14 Black Dye 50 Rune Thread 295-300 7x
+Wicked Leather Belt 98 Rugged Leather, 14 Black Dye, 14 Rune Thread Blue Suede Hat The Blue Suede Hat
+needs a Sewing Machine, and someone with Leatherworking 300 has to place it for you. You can't place
+a Sewing Machine yourself before 300, even if you buy one. I'm not sure if this is an oversight by Blizzard,
+so they might change it. If you can use one and have Pattern: Blue Suede Hat , make these instead: Skill
+Make Materials Total 265-280 15x Runic Leather Headband 210 Rugged Leather, 150 Runecloth, 15 Rune Thread
+530 Rugged Leather 150 Runecloth 80 Blue Dye 35 Rune Thread 280-300 20x Blue Suede Hat 320 Rugged Leather,
+80 Blue Dye, 20 Rune Thread Congratulations on reaching 300! Spotted a mistake or have an idea for this
+guide? Let me know! Send feedback

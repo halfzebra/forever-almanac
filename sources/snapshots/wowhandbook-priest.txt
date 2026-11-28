@@ -1,80 +1,84 @@
-Advertisement How to Level a Priest in WoW Forever Shadow is the smoothest way to level a Priest. Early
-on you fight with damage over time and a wand, and Spirit Tap refills your Mana after each kill. Mind
-Flay arrives at 24 and Shadowform at 42 halves the cost of every Shadow spell. The last points go to
-Discipline for a stronger shield and Meditation, so the plan never needs a respec. Priest Leveling Milestones
-Lv 4 Shadow Word: Pain, your main damage spell. Lv 6 Power Word: Shield. Lv 8 Renew and Fade. Lv 10 Mind
-Blast, a set of new Priest spells, and your first talent point. Lv 14 Psychic Scream, your escape. Lv
-20 Devouring Plague, Flash Heal, and Holy Fire. Lv 24 Mind Flay, the Shadow filler. Lv 27 Vampiric Embrace.
-Lv 32 Shadow Word: Death. Lv 42 Shadowform: Shadow spells cost half as much and deal 10% more damage.
-Priest Shadow Leveling Build Wand Specialization, Spirit Tap, and a longer Shadow Word: Pain carry the
-early levels, Mind Flay and Shadow Weaving build the middle, and Shadowform at 42 halves the Mana cost
-of every Shadow spell. The last 20 points go to Discipline and Holy for instant-spell damage, a stronger
-shield, Meditation, and pushback protection. How the Shadow Leveling Plan Works Discipline 17 2/2 5/5
-3/5 3/3 3/3 1/1 Holy 3 3/3 Shadow Magic 31 5/5 5/5 1/5 2/2 2/2 1/1 2/2 1/1 3/3 1/1 2/2 5/5 1/1 The finished
-Shadow Leveling build at 60 (17 / 3 / 31). Open it in the talent calculator → A leveling Priest does
-not need long casts. Low-level Priest damage comes from the wand and damage over time, and the first
-three talents all work without casting: Wand Specialization adds 25% wand damage, Spirit Tap doubles
-your Spirit for 15 seconds after each kill so you regenerate between fights, and Improved Shadow Word:
-Pain adds 6 seconds to your main damage spell. Through the twenties and thirties the Shadow tree adds
-Mind Flay, Vampiric Embrace, Shadow Weaving, and Silence, and Devouring Contagion makes Devouring Plague
-jump to nearby enemies when its target dies. Shadowform at 42 is the turning point: Shadow spells cost
-half as much Mana, deal 10% more damage, critical strike for much more, and you take 15% less Physical
-damage. The plan never respecs. After 42, the points go to Discipline for Twin Disciplines, Mental Strength,
-Improved Power Word: Shield, Meditation, and Soul Warding, and three points to Holy for Twilight Focus
-so monsters hitting you do not push your casts back. Shadow Leveling: Point Order by Level Level Spend
-the point on Tree points Show in the calculator Levels 10–18 Three points that decide this stretch Wand
-Specialization 2/2 at 10–11 for 25% wand damage, Spirit Tap 5/5 at 12–16 to double your Spirit after
-kills, and Improved Shadow Word: Pain 2/2 at 17–18 for 6 more seconds of your main damage spell. 10–11
-Wand Specialization 2/2 · Discipline 2 / 0 / 0 Open 12–16 Spirit Tap 5/5 · Shadow Magic 2 / 0 / 5 Open
-17–18 Improved Shadow Word: Pain 2/2 · Shadow Magic 2 / 0 / 7 Open Levels 19–30 Mind Flay and Shadow
-Weaving Shadow Focus 3/5 at 19–21 and Shadow Reach 2/2 at 22–23. Mind Flay at 24, Improved Mind Flay
-2/2 at 25–26, Vampiric Embrace at 27, and Shadow Weaving 3/3 at 28–30 so your Shadow spells stack up
-to 10% more damage on the target. 19–21 Shadow Focus 3/5 · Shadow Magic 2 / 0 / 10 Open 22–23 Shadow
-Reach 2/2 · Shadow Magic 2 / 0 / 12 Open 24 Mind Flay 1/1 · Shadow Magic 2 / 0 / 13 Open 25–26 Improved
-Mind Flay 2/2 · Shadow Magic 2 / 0 / 15 Open 27 Vampiric Embrace 1/1 · Shadow Magic 2 / 0 / 16 Open 28–30
-Shadow Weaving 3/3 · Shadow Magic 2 / 0 / 19 Open Levels 31–41 Silence, Contagion, and Darkness Shadow
-Focus 4/5 at 31, Silence at 32 for casters, Devouring Contagion 2/2 at 33–34, Shadow Focus 5/5 at 35,
-Improved Mind Blast 1/5 at 36, and Darkness 5/5 at 37–41 for 10% more Shadow damage. 31 Shadow Focus
-4/5 · Shadow Magic 2 / 0 / 20 Open 32 Silence 1/1 · Shadow Magic 2 / 0 / 21 Open 33–34 Devouring Contagion
-2/2 · Shadow Magic 2 / 0 / 23 Open 35 Shadow Focus 5/5 · Shadow Magic 2 / 0 / 24 Open 36 Improved Mind
-Blast 1/5 · Shadow Magic 2 / 0 / 25 Open 37–41 Darkness 5/5 · Shadow Magic 2 / 0 / 30 Open Level 42 Shadowform
-Shadowform: Shadow spells cost 50% less Mana and deal 10% more damage, Shadow critical strikes deal far
-more, and you take 15% less Physical damage. From here Mind Blast and Mind Flay take over from the wand.
-42 Shadowform 1/1 · Shadow Magic 2 / 0 / 31 Open Levels 43–60 Discipline and Holy for sustain Twin Disciplines
+Advertisement How to Level a Priest in WoW Forever Shadow is the smoothest path to 60 on a Priest. Early
+on, damage over time and a good wand do the heavy lifting while Spirit Tap refills your Mana after every
+kill. Mind Flay steps in at 24, and Shadowform at 42 cuts every Shadow spell&#39;s Mana cost in half.
+The closing points go into Discipline for a tougher shield and Meditation, so you never have to respec.
+Priest Leveling Milestones Lv 4 Shadow Word: Pain — your main damage spell. Lv 6 Power Word: Shield.
+Lv 8 Renew and Fade. Lv 10 Mind Blast, a set of new Priest spells, and your first talent point. Lv 14
+Psychic Scream, your escape button. Lv 20 Devouring Plague, Flash Heal, and Holy Fire. Lv 24 Mind Flay,
+your Shadow filler. Lv 27 Vampiric Embrace. Lv 32 Shadow Word: Death. Lv 42 Shadowform: Shadow spells
+cost half as much and deal 10% more damage. Priest Shadow Leveling Build Wand Specialization, Spirit
+Tap, and a longer Shadow Word: Pain carry your early levels, Mind Flay and Shadow Weaving drive the midgame,
+and Shadowform at 42 cuts the Mana cost of every Shadow spell in half. Your final 20 points go into Discipline
+and Holy for stronger instant spells, a tougher shield, Meditation, and pushback protection. How the
+Shadow Leveling Plan Works Discipline 17 2/2 5/5 3/5 3/3 3/3 1/1 Holy 3 3/3 Shadow Magic 31 5/5 5/5 1/5
+2/2 2/2 1/1 2/2 1/1 3/3 1/1 2/2 5/5 1/1 The finished Shadow Leveling build at 60 (17 / 3 / 31). Open
+it in the talent calculator → A leveling Priest has no reason to stand around hard-casting long spells.
+Early Priest damage runs on your wand and damage over time, and your first three talents all pay off
+without a single cast bar: Wand Specialization boosts wand damage by 25%, Spirit Tap doubles your Spirit
+for 15 seconds after every kill to fuel regeneration between pulls, and Improved Shadow Word: Pain adds
+6 seconds to your workhorse spell. Across your twenties and thirties, the Shadow tree layers on Mind
+Flay, Vampiric Embrace, Shadow Weaving, and Silence, while Devouring Contagion lets Devouring Plague
+jump to nearby enemies whenever its target dies. Shadowform at 42 changes everything: Shadow spells cost
+half as much Mana, deal 10% more damage, hit far harder on critical strikes, and you take 15% less Physical
+damage. You never need to respec. After 42, your points flow into Discipline for Twin Disciplines, Mental
+Strength, Improved Power Word: Shield, Meditation, and Soul Warding, rounded out by three points in Holy
+for Twilight Focus so monsters hitting you do not push your casts back. Shadow Leveling: Point Order
+by Level Level Spend the point on Tree points Show in the calculator Levels 10–18 The three talents that
+define early leveling Start with Wand Specialization 2/2 at 10–11 for 25% more wand damage, Spirit Tap
+5/5 at 12–16 to double your Spirit after every kill, and Improved Shadow Word: Pain 2/2 at 17–18 for
+6 extra seconds on your main damage spell. 10–11 Wand Specialization 2/2 · Discipline 2 / 0 / 0 Open
+12–16 Spirit Tap 5/5 · Shadow Magic 2 / 0 / 5 Open 17–18 Improved Shadow Word: Pain 2/2 · Shadow Magic
+2 / 0 / 7 Open Levels 19–30 Mind Flay and Shadow Weaving Pick up Shadow Focus 3/5 at 19–21 and Shadow
+Reach 2/2 at 22–23, then unlock Mind Flay at 24 and Improved Mind Flay 2/2 at 25–26. Add Vampiric Embrace
+at 27, and cap the stretch with Shadow Weaving 3/3 at 28–30 so your Shadow spells stack up to 10% extra
+damage on the target. 19–21 Shadow Focus 3/5 · Shadow Magic 2 / 0 / 10 Open 22–23 Shadow Reach 2/2 ·
+Shadow Magic 2 / 0 / 12 Open 24 Mind Flay 1/1 · Shadow Magic 2 / 0 / 13 Open 25–26 Improved Mind Flay
+2/2 · Shadow Magic 2 / 0 / 15 Open 27 Vampiric Embrace 1/1 · Shadow Magic 2 / 0 / 16 Open 28–30 Shadow
+Weaving 3/3 · Shadow Magic 2 / 0 / 19 Open Levels 31–41 Silence, Contagion, and Darkness Push Shadow
+Focus to 4/5 at 31, grab Silence at 32 to shut down casters, take Devouring Contagion 2/2 at 33–34, finish
+Shadow Focus 5/5 at 35, drop a point into Improved Mind Blast 1/5 at 36, and max Darkness 5/5 from 37–41
+for 10% more Shadow damage. 31 Shadow Focus 4/5 · Shadow Magic 2 / 0 / 20 Open 32 Silence 1/1 · Shadow
+Magic 2 / 0 / 21 Open 33–34 Devouring Contagion 2/2 · Shadow Magic 2 / 0 / 23 Open 35 Shadow Focus 5/5
+· Shadow Magic 2 / 0 / 24 Open 36 Improved Mind Blast 1/5 · Shadow Magic 2 / 0 / 25 Open 37–41 Darkness
+5/5 · Shadow Magic 2 / 0 / 30 Open Level 42 Shadowform Unlock Shadowform: Shadow spells cost 50% less
+Mana and deal 10% more damage, Shadow critical strikes hit far harder, and you take 15% less Physical
+damage. From this level on, Mind Blast and Mind Flay take over from your wand. 42 Shadowform 1/1 · Shadow
+Magic 2 / 0 / 31 Open Levels 43–60 Discipline and Holy for sustain Round out the build with Twin Disciplines
 5/5 at 43–47, Mental Strength 3/5 at 48–50, Improved Power Word: Shield 3/3 at 51–53, Meditation 3/3
 at 54–56, Twilight Focus 3/3 in Holy at 57–59, and Soul Warding at 60. 43–47 Twin Disciplines 5/5 · Discipline
 7 / 0 / 31 Open 48–50 Mental Strength 3/5 · Discipline 10 / 0 / 31 Open 51–53 Improved Power Word: Shield
 3/3 · Discipline 13 / 0 / 31 Open 54–56 Meditation 3/3 · Discipline 16 / 0 / 31 Open 57–59 Twilight Focus
 3/3 · Holy 16 / 3 / 31 Open 60 Soul Warding 1/1 · Discipline 17 / 3 / 31 Open Shadow Leveling: Rotation
-and How to Play Levels 1–24: three things Before a pull, use spare Mana on Power Word: Shield and Renew.
-Open with Shadow Word: Pain on as many monsters as you can safely handle. Then wand them down: casting
-Smite at this stage is a waste, while the wand costs no Mana and does not interrupt your regeneration.
-From 25: several targets are faster Put Shadow Word: Pain on two or three monsters and Devouring Plague
-and Vampiric Embrace on the toughest one. Every kill triggers Spirit Tap and refills your Mana, so fighting
-several monsters is faster than fighting one at a time. If you are surrounded, use Psychic Scream before
-you try to heal. Avoid the long heal When your health drops to half, shield, Renew, and keep fighting.
-A long heal breaks your Mana regeneration, and from 42 it also drops you out of Shadowform. Priest Talents,
-Spells, and Gear by Level Each range shows the talent points of the recommended plan, the spells to train,
-and the best gear for your faction. Switch faction in the site header to see the other side&#39;s gear.
-Talents 1/2 Wand Specialization Lv 10 Open the level 10 build in the calculator → Spells to Train 1 Power
-Word: Fortitude 1 Lesser Heal 1 Smite 4 Shadow Word: Pain 6 Power Word: Shield 8 Renew 8 Fade 10 Confounding
-Flash 10 Starshards 10 Desperate Prayer 10 Divine Grace 10 Resurrection 10 Hex of Weakness 10 Mind Blast
-10 Touch of Weakness Plus 4 higher ranks of spells you already know. Priest spellbook by level → Talents
-1/2 Wand Specialization Lv 10 Open the level 10 build in the calculator → Spells to Train 1 Power Word:
-Fortitude 1 Lesser Heal 1 Smite 4 Shadow Word: Pain 6 Power Word: Shield 8 Renew 8 Fade 10 Confounding
-Flash 10 Starshards 10 Desperate Prayer 10 Divine Grace 10 Resurrection 10 Hex of Weakness 10 Mind Blast
-10 Touch of Weakness Plus 4 higher ranks of spells you already know. Priest spellbook by level → Talents
-2/2 Wand Specialization Lv 11 5/5 Spirit Tap Lv 12–16 2/2 Improved Shadow Word: Pain Lv 17–18 2/5 Shadow
-Focus Lv 19–20 Open the level 20 build in the calculator → Spells to Train 12 Inner Fire 14 Cure Disease
-14 Psychic Scream 16 Heal 18 Dispel Magic 20 Contingency Plan 20 Elune&#39;s Grace 20 Feedback 20 Shackle
-Undead 20 Chastise 20 Fear Ward 20 Flash Heal 20 Holy Fire 20 Dark Sacrifice 20 Devouring Plague 20 Mind
-Soothe 20 Shadowguard Plus 15 higher ranks of spells you already know. Priest spellbook by level → Best
-Gear Weapon Ranged Head Neck Shoulder Back Chest Wrist Hands Waist Legs Feet Ring Ring Full Priest gear
-sheet for level 20 → Talents 2/2 Wand Specialization Lv 11 5/5 Spirit Tap Lv 12–16 2/2 Improved Shadow
-Word: Pain Lv 17–18 2/5 Shadow Focus Lv 19–20 Open the level 20 build in the calculator → Spells to Train
-12 Inner Fire 14 Cure Disease 14 Psychic Scream 16 Heal 18 Dispel Magic 20 Contingency Plan 20 Elune&#39;s
-Grace 20 Feedback 20 Shackle Undead 20 Chastise 20 Fear Ward 20 Flash Heal 20 Holy Fire 20 Dark Sacrifice
-20 Devouring Plague 20 Mind Soothe 20 Shadowguard Plus 15 higher ranks of spells you already know. Priest
+and How to Play Levels 1–24: three simple habits Before a pull, spend spare Mana on Power Word: Shield
+and Renew. Open by putting Shadow Word: Pain on as many mobs as you can safely handle, then wand them
+down. Hard-casting Smite here is wasted Mana, whereas your wand is free and never interrupts your regeneration.
+From 25: multiple targets are faster Spread Shadow Word: Pain across two or three targets, and drop Devouring
+Plague plus Vampiric Embrace on the toughest one. Every kill triggers Spirit Tap and tops your Mana back
+up, making multi-target pulls faster than fighting one mob at a time. If things crowd in on you, hit
+Psychic Scream before trying to heal. Skip the long heal When your health dips to half, refresh your
+shield, toss Renew, and keep going. Stopping for a long heal breaks your Mana regeneration—and once you
+hit 42, it knocks you right out of Shadowform too. Priest Talents, Spells, and Gear by Level Each range
+shows the talent points of the recommended plan, the spells to train, and the best gear for your faction.
+Switch faction in the site header to see the other side&#39;s gear. Talents 1/2 Wand Specialization Lv
+10 Open the level 10 build in the calculator → Spells to Train 1 Power Word: Fortitude 1 Lesser Heal
+1 Smite 4 Shadow Word: Pain 6 Power Word: Shield 8 Renew 8 Fade 10 Confounding Flash 10 Starshards 10
+Desperate Prayer 10 Divine Grace 10 Resurrection 10 Hex of Weakness 10 Mind Blast 10 Touch of Weakness
+Plus 4 higher ranks of spells you already know. Priest spellbook by level → Talents 1/2 Wand Specialization
+Lv 10 Open the level 10 build in the calculator → Spells to Train 1 Power Word: Fortitude 1 Lesser Heal
+1 Smite 4 Shadow Word: Pain 6 Power Word: Shield 8 Renew 8 Fade 10 Confounding Flash 10 Starshards 10
+Desperate Prayer 10 Divine Grace 10 Resurrection 10 Hex of Weakness 10 Mind Blast 10 Touch of Weakness
+Plus 4 higher ranks of spells you already know. Priest spellbook by level → Talents 2/2 Wand Specialization
+Lv 11 5/5 Spirit Tap Lv 12–16 2/2 Improved Shadow Word: Pain Lv 17–18 2/5 Shadow Focus Lv 19–20 Open
+the level 20 build in the calculator → Spells to Train 12 Inner Fire 14 Cure Disease 14 Psychic Scream
+16 Heal 18 Dispel Magic 20 Contingency Plan 20 Elune&#39;s Grace 20 Feedback 20 Shackle Undead 20 Chastise
+20 Fear Ward 20 Flash Heal 20 Holy Fire 20 Dark Sacrifice 20 Devouring Plague 20 Mind Soothe 20 Shadowguard
+Plus 15 higher ranks of spells you already know. Priest spellbook by level → Best Gear Weapon Ranged
+Head Neck Shoulder Back Chest Wrist Hands Waist Legs Feet Ring Ring Full Priest gear sheet for level
+20 → Talents 2/2 Wand Specialization Lv 11 5/5 Spirit Tap Lv 12–16 2/2 Improved Shadow Word: Pain Lv
+17–18 2/5 Shadow Focus Lv 19–20 Open the level 20 build in the calculator → Spells to Train 12 Inner
+Fire 14 Cure Disease 14 Psychic Scream 16 Heal 18 Dispel Magic 20 Contingency Plan 20 Elune&#39;s Grace
+20 Feedback 20 Shackle Undead 20 Chastise 20 Fear Ward 20 Flash Heal 20 Holy Fire 20 Dark Sacrifice 20
+Devouring Plague 20 Mind Soothe 20 Shadowguard Plus 15 higher ranks of spells you already know. Priest
 spellbook by level → Best Gear Weapon Ranged Head Neck Shoulder Back Chest Wrist Hands Waist Legs Feet
 Ring Ring Full Priest gear sheet for level 20 → Talents 3/5 Shadow Focus Lv 21 2/2 Shadow Reach Lv 22–23
 1/1 Mind Flay Lv 24 2/2 Improved Mind Flay Lv 25–26 1/1 Vampiric Embrace Lv 27 3/3 Shadow Weaving Lv
@@ -114,18 +118,19 @@ Priest gear sheet for level 60 → Talents 3/3 Improved Power Word: Shield Lv 51
 to Train 56 Prayer of Shadow Protection 60 Prayer of Spirit Plus 42 higher ranks of spells you already
 know. Priest spellbook by level → Best Gear Weapon Off Hand Ranged Head Neck Shoulder Back Chest Wrist
 Hands Waist Legs Feet Ring Ring Trinket Trinket Full Priest gear sheet for level 60 → Priest Leveling
-Gear and Stats Wand first Until Shadowform your wand is a large part of your damage, so upgrade it whenever
-you can. After 42, spell damage matters more. Stats Spirit and Intellect while leveling: Spirit Tap doubles
-your Spirit after kills, and Meditation keeps half your regeneration going while casting. Spell damage
-and Stamina next. Armor Priests wear cloth the whole way; Stamina on cloth keeps you alive when a pull
-goes wrong. Priest Leveling Questions What is the best Priest leveling spec in WoW Forever? Shadow with
-a wand. The plan on this page ends at 31 Shadow, 17 Discipline, and 3 Holy, reaches Shadowform at 42,
-and never needs a respec. When does a Priest get Shadowform? Shadowform is the last Shadow talent, so
-the earliest you can take it is level 42. When does a Priest get Mind Flay? Mind Flay is a Shadow talent;
-this plan takes it at level 24. Should a Priest level with a wand? Yes. Wand Specialization makes your
-wand hit 25% harder, it costs no Mana, and it does not interrupt your Mana regeneration. It is your main
-damage until Shadowform. Can a Shadow Priest heal dungeons while leveling? In normal leveling dungeons,
-yes, with Flash Heal and Renew. You have to leave Shadowform to heal from 42, so a dedicated healer is
-better served by a Discipline or Holy build. How do I stop running out of Mana as Shadow? Let Spirit
-Tap trigger: kill monsters with your wand, and fight several at once so each kill refills your Mana.
-From 42, Shadowform halves the cost of every Shadow spell.
+Gear and Stats Wand first Until Shadowform kicks in, your wand makes up a large chunk of your damage
+— upgrade it every chance you get. Once you hit 42, spell damage matters more. Stats Prioritize Spirit
+and Intellect while leveling: Spirit Tap doubles your Spirit on kills, and Meditation keeps half your
+regeneration rolling while you cast. Spell damage and Stamina come next. Armor Priests wear cloth all
+the way to 60, so Stamina on your cloth pieces is what keeps you upright when a pull goes sideways. Priest
+Leveling Questions What is the best Priest leveling spec in WoW Forever? Shadow paired with a wand. This
+build finishes at 31 Shadow, 17 Discipline, and 3 Holy, hits Shadowform at 42, and never needs a respec.
+When does a Priest get Shadowform? Shadowform caps the Shadow tree, so level 42 is the earliest you can
+unlock it. When does a Priest get Mind Flay? Mind Flay is a Shadow talent, and this build grabs it at
+level 24. Should a Priest level with a wand? Yes. Wand Specialization boosts wand damage by 25%, wanding
+spends zero Mana, and it never interrupts your Mana regeneration. It stays your main damage tool right
+up to Shadowform. Can a Shadow Priest heal dungeons while leveling? In normal leveling dungeons, yes
+— Flash Heal and Renew get the job done. From 42 onward you have to leave Shadowform to heal, so a dedicated
+healer is better off in Discipline or Holy. How do I stop running out of Mana as Shadow? Play around
+Spirit Tap: finish monsters with your wand, and fight several at once so each kill tops your Mana back
+up. From 42, Shadowform slashes every Shadow spell&#39;s cost in half.
