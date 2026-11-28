@@ -10,7 +10,7 @@ to level 20, then 10% off through this link. Free to level 20, then 10% off here
 This Priest leveling guide is about talents: where each point goes from level 10, read from the builds
 people plan here; quests and zones are not part of it. 43.1% of the Priest leveling orders planned here
 between 18 Sep and 4 Nov 2026 lead in Discipline , 42.5% in Shadow and 14.3% in Holy; at level 60, a
-separate count, 43% of Priest builds with 41 or more points lead in Shadow, so many Priests level one
+separate count, 44% of Priest builds with 41 or more points lead in Shadow, so many Priests level one
 way and respec. Each order below is what most builds hold by the end of each level bracket; the share
 says how many of the builds that got there agree. Every order opens in the Priest calculator , and the
 most popular Priest builds page shows where they end up at 60. Counted on 5 Nov 2026 from the leveling
@@ -29,7 +29,7 @@ Agility ×3, Renewed Hope ×5, Penance, Divine Aegis ×3, Power Infusion, Holy S
 Fury ×5, Improved Renew ×3, Inspiration ×3, Improved Healing ×3, Holy Nova. Open this Discipline order
 in the calculator or its first 21 points at level 30 . What the first points do: At 5/5, Twin Disciplines
 : Increases the damage and healing of your instant cast spells by 5%. At 5/5, Mental Strength : Increases
-your total Intellect by 10%. (talent text, beta client) Every level bracket in detail how many builds
+your total Intellect by 10%. (talent text, game client) Every level bracket in detail how many builds
 agree, and what else they take Levels 10 to 19, from the first talent point at level 10 4,399 of the
 37,279 Discipline builds that reach level 19 hold these points, 11.8%. Lv 10 to 14 Twin Disciplines 5/5
 Discipline Lv 15 to 19 Mental Strength 5/5 Discipline Across all 37,279 of those builds the talents taken
@@ -68,7 +68,7 @@ Inner Fire ×2. Open this Shadow order in the calculator or its first 21 points 
 first points do: At 5/5, Blackout : Gives your Shadow damage spells a 10% chance to stun the target for
 3 sec. At 2/2, Improved Shadow Word: Pain : Increases the duration of your Shadow Word: Pain spell by
 6 sec. At 2/2, Shadow Reach : Increases the range of your offensive Shadow spells by 20%. At 1/5, Shadow
-Focus : Improves your chance to hit with Shadow spells by 1%. (talent text, beta client) Every level
+Focus : Improves your chance to hit with Shadow spells by 1%. (talent text, game client) Every level
 bracket in detail how many builds agree, and what else they take Levels 10 to 19, from the first talent
 point at level 10 6,486 of the 53,146 Shadow builds that reach level 19 hold these points, 12.2%. Lv
 10 to 14 Blackout 5/5 Shadow Lv 15 to 16 Improved Shadow Word: Pain 2/2 Shadow Lv 17 to 18 Shadow Reach
@@ -102,7 +102,7 @@ no agreed order Too few builds agree here. Open this Holy order in the calculato
 Healing ×3, Litany of Light. Open this Holy order in the calculator or its first 21 points at level 30
 . What the first points do: At 5/5, Holy Specialization : Increases the critical effect chance of your
 Holy spells by 5%. At 5/5, Divine Fury : Reduces the casting time of your Smite, Holy Fire, Heal, and
-Greater Heal spells by 0.5 sec. (talent text, beta client) Every level bracket in detail how many builds
+Greater Heal spells by 0.5 sec. (talent text, game client) Every level bracket in detail how many builds
 agree, and what else they take Levels 10 to 19, from the first talent point at level 10 4,205 of the
 17,674 Holy builds that reach level 19 hold these points, 23.8%. Lv 10 to 14 Holy Specialization 5/5
 Holy Lv 15 to 19 Divine Fury 5/5 Holy Across all 17,674 of those builds the talents taken most in these
@@ -118,7 +118,7 @@ Spirit of Redemption (78%), Spiritual Healing (78%) and Litany of Light (67%). L
 order Fewer than 25 of the builds that follow the order above reach these levels the same way, so the
 order stops here rather than guess. Of the 213 that reach them, most put points in Prayer of Mending
 (97%), Twin Disciplines (93%), Litany of Light (81%) and Mental Strength (62%). Spells a Priest trains
-on the way to 60 The level each Priest spell is first trained at, from the beta client's spellbook and
+on the way to 60 The level each Priest spell is first trained at, from the game client's spellbook and
 its spell text (build 70755). Lv 1 Lesser Heal, Power Word: Fortitude and Smite Lv 4 Shadow Word: Pain
 Lv 6 Power Word: Shield Lv 8 Fade and Renew Lv 10 Confounding Flash, Desperate Prayer, Divine Grace,
 Hex of Weakness, Mind Blast, Resurrection, Starshards and Touch of Weakness Lv 12 Inner Fire Lv 14 Cure
@@ -129,14 +129,14 @@ Lv 22 Mind Vision Lv 24 Mana Burn Lv 25 Vampiric Embrace (from its talent) Lv 30
 Control, Penance (from its talent) , Prayer of Healing, Shadow Protection and Silence (from its talent)
 Lv 32 Abolish Disease and Shadow Word: Death Lv 34 Levitate Lv 40 Greater Heal, Power Infusion (from
 its talent) , Prayer of Mending (from its talent) and Shadowform (from its talent) Lv 48 Prayer of Fortitude
-Lv 56 Prayer of Shadow Protection Lv 60 Prayer of Spirit Beta client spellbook, build 70755. A spell
+Lv 56 Prayer of Shadow Protection Lv 60 Prayer of Spirit Game client spellbook, build 70755. A spell
 marked with its talent comes with it, at the level its row opens. Every rank's level is in every Priest
-spell by level . Changed on the beta for this order What the builds and hotfixes changed in the talents
-these orders place and in the spells above, from the build tracker, newest first. Renewed Hope : now
-Your heals from Flash Heal, Lesser Heal, Heal, Greater Heal, and Penance gain 2% increased critical strike
-chance when cast on targets with Weakened Soul, and reduce the remaining duration of Weakened Soul on
-their target by 1 sec. Was: Your heals from Flash Heal, Binding Heal, Lesser Heal, Heal, Greater Heal,
-and Penance gain 2% increased critical strike chance when cast on targets with Weakened Soul, and reduce
+spell by level . Build changes for this order What the builds and hotfixes changed in the talents these
+orders place and in the spells above, from the build tracker, newest first. Renewed Hope : now Your heals
+from Flash Heal, Lesser Heal, Heal, Greater Heal, and Penance gain 2% increased critical strike chance
+when cast on targets with Weakened Soul, and reduce the remaining duration of Weakened Soul on their
+target by 1 sec. Was: Your heals from Flash Heal, Binding Heal, Lesser Heal, Heal, Greater Heal, and
+Penance gain 2% increased critical strike chance when cast on targets with Weakened Soul, and reduce
 the remaining duration of Weakened Soul on their target by 1 sec. (build 70685 hotfixes, 30 Oct 2026)
 Shadow Word: Death (a spell, not a talent): now A word of dark binding that inflicts 293 to 311 Shadow
 damage to the target. If your target is not killed by Shadow Word: Death, you take backlash damage equal
@@ -202,7 +202,7 @@ damage over 3 sec and slowing their movement speed by 50%. Was: Assault the targ
 energy, causing 104 Shadow damage over 3 sec and slowing their movement speed by 50%. (build 69876, 16
 Sep 2026) Every build's changes are on the build tracker . Questions Which spec do Priests level as in
 WoW Forever? 43.1% of the 137,799 Priest leveling orders planned here between 18 Sep and 4 Nov 2026 lead
-in Discipline, 42.5% in Shadow and 14.3% in Holy; at level 60, a separate count, 43% of Priest builds
+in Discipline, 42.5% in Shadow and 14.3% in Holy; at level 60, a separate count, 44% of Priest builds
 with 41 or more points lead in Shadow, so many Priests level one way and respec. What are the first Priest
 talents to take? The leading Discipline order puts its first points, levels 10 to 19, in Twin Disciplines
 and Mental Strength, more than any other ten points: 11.8% of the 37,279 Discipline builds that reach

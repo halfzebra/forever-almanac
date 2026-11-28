@@ -1,6 +1,7 @@
-Talents Forever › Leveling builds › Rogue leveling WoW Forever Rogue leveling guide The order Rogues
-place their talent points in, level by level, from 53,905 Rogue builds with ten or more ordered points,
-planned on this site between 18 Sep and 4 Nov 2026. Counted by this site's own counter, no identities.
+Talents Forever › Leveling builds › Rogue leveling Watch it instead: the Rogue course 29 short clips
+from 1 to 60, with your talents, spells and kit at every level WoW Forever Rogue leveling guide The order
+Rogues place their talent points in, level by level, from 53,905 Rogue builds with ten or more ordered
+points, planned on this site between 18 Sep and 4 Nov 2026. Counted by this site's own counter, no identities.
 43% of Rogue leveling builds lead in Subtlety , then Combat and Assassination. Subtlety 43% Combat 33.9%
 Assassination 23.1% 53,905 Rogue builds with an order, 18 Sep and 4 Nov 2026 Lv 10 the first talent point
 Lv 39 the Subtlety order agrees to here Open the Subtlety order in the calculator &rsaquo; The Rogue
@@ -26,7 +27,7 @@ order in the calculator or its first 21 points at level 30 . What the first poin
 : Increases the damage dealt by your Backstab, Garrote, Ambush, and Mutilate abilities by 20%. At 3/3,
 Improved Ambush : Increases the critical strike chance of your Ambush ability by 45%. At 2/2, Dirty Deeds
 : Reduces the Energy cost of your Cheap Shot and Garrote abilities by 20, and your Garrote ability no
-longer requires you to be behind your target. (talent text, beta client) Every level bracket in detail
+longer requires you to be behind your target. (talent text, game client) Every level bracket in detail
 how many builds agree, and what else they take Levels 10 to 19, from the first talent point at level
 10 1,627 of the 17,474 Subtlety builds that reach level 19 hold these points, 9.3%. Lv 10 to 14 Opportunity
 5/5 Subtlety Lv 15 to 17 Improved Ambush 3/3 Subtlety Lv 18 to 19 Dirty Deeds 2/2 Subtlety Across all
@@ -55,7 +56,7 @@ and Slash ×2, Flash of Steel ×5. Open this Combat order in the calculator or i
 30 . What the first points do: At 2/2, Efficient Strikes : Reduces the Energy cost of your Sinister Strike
 and Hemorrhage abilities by 5. At 3/3, Coup de Grace : Increases the damage done by your Eviscerate ability
 by 20%, and the damage and storage rate of your Death Mark ability by 20%. At 3/3, Deflection : Increases
-your Parry chance by 6%. At 2/3, Precision : Improves your chance to hit by 2%. (talent text, beta client)
+your Parry chance by 6%. At 2/3, Precision : Improves your chance to hit by 2%. (talent text, game client)
 Every level bracket in detail how many builds agree, and what else they take Levels 10 to 19, from the
 first talent point at level 10 3,472 of the 18,038 Combat builds that reach level 19 hold these points,
 19.2%. Lv 10 to 11 Efficient Strikes 2/2 Combat Lv 12 to 14 Coup de Grace 3/3 Combat Lv 15 to 17 Deflection
@@ -83,7 +84,7 @@ The order runs to level 39: Malice ×5, Ruthlessness ×3, Improved Slice and Dic
 order in the calculator or its first 21 points at level 30 . What the first points do: At 5/5, Malice
 : Increases your critical strike chance with all attacks and Poisons by 5%. At 3/3, Ruthlessness : Gives
 your finishing moves a 60% chance to add a Combo Point to your target. At 2/3, Improved Slice and Dice
-: Increases the duration of your Slice and Dice ability by 30%. (talent text, beta client) Every level
+: Increases the duration of your Slice and Dice ability by 30%. (talent text, game client) Every level
 bracket in detail how many builds agree, and what else they take Levels 10 to 19, from the first talent
 point at level 10 3,020 of the 11,809 Assassination builds that reach level 19 hold these points, 25.6%.
 Lv 10 to 14 Malice 5/5 Assassination Lv 15 to 17 Ruthlessness 3/3 Assassination Lv 18 to 19 Improved
@@ -100,7 +101,7 @@ levels are Venom (82%), Relentless Strikes (75%), Seal Fate (71%) and Cold Blood
 49 no agreed order Fewer than 25 of the builds that follow the order above reach these levels the same
 way, so the order stops here rather than guess. Of the 296 that reach them, most put points in Mutilate
 (97%), Coup de Grace (65%), Improved Poisons (49%) and Opportunity (47%). Spells a Rogue trains on the
-way to 60 The level each Rogue spell is first trained at, from the beta client's spellbook and its spell
+way to 60 The level each Rogue spell is first trained at, from the game client's spellbook and its spell
 text (build 70755). Lv 1 Eviscerate, Sinister Strike and Stealth Lv 4 Backstab and Pick Pocket Lv 6 Gouge
 Lv 8 Evasion Lv 10 Sap, Slice and Dice and Sprint Lv 12 Kick Lv 14 Expose Armor and Garrote Lv 16 Feint
 Lv 18 Ambush and Poised Lv 20 Crippling Poison, Instant Poison, Premeditation (from its talent) , Riposte
@@ -108,9 +109,9 @@ Lv 18 Ambush and Poised Lv 20 Crippling Poison, Instant Poison, Premeditation (f
 Lv 25 Cold Blood and Ghostly Strike (each from its talent) Lv 26 Cheap Shot Lv 30 Blade Flurry (from
 its talent) , Deadly Poison, Disarm Trap, Hemorrhage (from its talent) , Kidney Shot and Preparation
 (from its talent) Lv 32 Wound Poison Lv 34 Blind and Blinding Powder Lv 40 Adrenaline Rush (from its
-talent) , Death Mark (from its talent) , Mutilate (from its talent) and Safe Fall Beta client spellbook,
+talent) , Death Mark (from its talent) , Mutilate (from its talent) and Safe Fall Game client spellbook,
 build 70755. A spell marked with its talent comes with it, at the level its row opens. Every rank's level
-is in every Rogue spell by level . Changed on the beta for this order What the builds and hotfixes changed
+is in every Rogue spell by level . Build changes for this order What the builds and hotfixes changed
 in the talents these orders place and in the spells above, from the build tracker, newest first. Lethality
 : now Increases the critical strike damage bonus of your Sinister Strike, Gouge, Backstab, Mutilate,
 Ghostly Strike, and Hemorrhage abilities by 10%. Was: Grants 10% increased Critical Strike damage to
